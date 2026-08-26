@@ -1,0 +1,56 @@
+name: myScheme Sync
+
+on:
+  schedule:
+    # Runs once a day at 03:15 UTC (~08:45 IST). Adjust as needed —
+    # https://crontab.guru is useful for building the expression.
+    - cron: "15 3 * * *"
+  workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
+
+permissions:
+  contents: write   # required so this workflow can commit data/report changes back
+
+concurrency:
+  group: myscheme-sync
+  cancel-in-progress: false   # never cancel a run mid-write; let it finish or fail cleanly
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 45
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: "pip"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run sync
+        env:
+          # Set these in: repo Settings -> Secrets and variables -> Actions -> New repository secret
+          # MYSCHEME_API_KEY is required. TELEGRAM_* are optional (failure alerts only).
+          MYSCHEME_API_KEY: ${{ secrets.MYSCHEME_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+        run: python scripts/sync_myscheme.py
+
+      - name: Commit and push data + report changes
+        if: always()   # commit the report even if the sync step above failed/errored
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ reports/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit."
+          else
+            git commit -m "chore: myScheme sync $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git push
+          fi

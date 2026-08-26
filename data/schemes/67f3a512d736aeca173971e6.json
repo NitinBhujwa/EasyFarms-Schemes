@@ -1,0 +1,198 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing the cow through Direct Benefit Transfer (DBT) within one to two months."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary.\n  - Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing the cow through Direct Benefit Transfer (DBT) within one to two months.\n  - Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme, a milch cow up to the fourth stage of pregnancy is provided. Of the total cost of ₹40,000/-, 90% (₹36,000/-) is borne by the state government, while 10% (₹4,000/-) is to be contributed by the beneficiary.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "acb9f6ad5341320ccbe12cfeb000501f300c451b227400e28e7f4663405bd636",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Gau Palan Yojana&amp;quot; was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote cow rearing among eligible Scheduled Caste and Scheduled Tribe beneficiaries, enhancing their livelihood and income generation by providing financial support for cow rearing units.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must belong to the General, Scheduled Caste, or Scheduled Tribe category.\n1. The applicant must be included in the SECC (Socio-Economic and Caste Census) category.\n1. The applicant should have an interest in cow rearing.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:00.404046+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:00.404046+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 236)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67f3a559d736aeca17397270",
+      "en": {
+        "documentsRequired_md": "\n\n   1. Aadhaar Card\n   1. Bank Account details\n   1. Caste Certificate\n   1. Other supporting documents as required\n\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Other supporting documents as required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67f3a512d736aeca173971e6"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67f3a512d736aeca173971e6",
+  "scheme_name": "Gau Palan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "GPYUK",
+  "slug": "gpyuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Cow",
+    "Cow Rearing",
+    "Scheduled Caste",
+    "Scheduled Tribes",
+    "Self-employment",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

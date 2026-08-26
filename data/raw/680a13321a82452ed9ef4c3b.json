@@ -1,0 +1,418 @@
+{
+  "detail": {
+    "data": {
+      "_id": "680a13321a82452ed9ef4c3b",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the online application and submit it to the Gram Sevak/BTM/ATM/Project Director-Aatma with the necessary documents listed in the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here."
+                          }
+                        ],
+                        "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the Gram Sevak/BTM/ATM/Project Director-Aatma with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Scheme to Provide Assistance in Cow Maintenance Expenses to Farmers Practicing Completely Natural Farming Based on Indigenous Cows",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SMPACMETF",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Cattle Development",
+            "Natural Farming"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be practicing natural farming on at least 1 acre (40 guntha) of land."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must own a native (indigenous) cow with an identification tag."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note:"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Priority will be given to farmers practicing natural agriculture and master trainers who have received training in natural agriculture from certified trainers."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Assistance to one beneficiary per account (as per sample number 8-A)."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a farmer.\n   1. The applicant must be practicing natural farming on at least 1 acre (40 guntha) of land.\n   1. The applicant must own a native (indigenous) cow with an identification tag.\n\n&gt; **Note:**\n\n\n  - Priority will be given to farmers practicing natural agriculture and master trainers who have received training in natural agriculture from certified trainers.\n  - Assistance to one beneficiary per account (as per sample number 8-A).\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "₹900/- per month (₹10,800/- annually) assistance for maintaining one indigenous cow."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note: "
+                },
+                {
+                  "text": "The benefit is available only once."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "benefits_md": "\n- ₹900/- per month (₹10,800/- annually) assistance for maintaining one indigenous cow.\n\n> **Note:** The benefit is available only once.\n\n",
+          "briefDescription": "This scheme provides financial assistance for the maintenance of one indigenous cow to farmers who practice completely natural farming methods using native cows.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Scheme to Provide Assistance in Cow Maintenance Expenses to Farmers Practicing Completely Natural Farming Based on Indigenous Cows” launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat,  aims to encourage and support farmers who engage in natural farming practices that rely on indigenous cows. By covering part of the maintenance expenses for one native cow, the government promotes eco-friendly agriculture, reduces the cost of cultivation, and ensures better soil health."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Scheme to Provide Assistance in Cow Maintenance Expenses to Farmers Practicing Completely Natural Farming Based on Indigenous Cows” launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat,  aims to encourage and support farmers who engage in natural farming practices that rely on indigenous cows. By covering part of the maintenance expenses for one native cow, the government promotes eco-friendly agriculture, reduces the cost of cultivation, and ensures better soil health.\n",
+          "exclusions": null,
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=uRnt6JieFCReZ/jLks+cWQ==&domain=FDGZs8CO90JJ+6gbcYhjXw=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "smpacmetf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "680a13fc1a82452ed9ef4dce",
+      "en": {
+        "documentsRequired_md": "\n1. Proof of natural farming on 1 acre (40 guntha) land.\n1. Aadhar Card of the applicant.\n1. Bank account details.\n1. Proof of ownership of an indigenous cow with an identification tag.\n1. Training certificate (if the applicant is a trained master farmer).\n1. Certificate of existence of the cow.\n1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of natural farming on 1 acre (40 guntha) land."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card of the applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of ownership of an indigenous cow with an identification tag."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training certificate (if the applicant is a trained master farmer)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate of existence of the cow."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "680a13321a82452ed9ef4c3b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:02:47.226360+00:00",
+  "scheme_id": "680a13321a82452ed9ef4c3b"
+}

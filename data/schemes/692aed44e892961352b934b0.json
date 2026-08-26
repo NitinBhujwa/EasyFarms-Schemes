@@ -1,0 +1,964 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "User Manual:",
+              "underline": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://pipdic.in/uploads/PIPDIC_docs/user_manual.pdf"
+                }
+              ],
+              "link": "https://pipdic.in/uploads/PIPDIC_docs/user_manual.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "How to Apply:",
+              "underline": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://pipdic.in/how_to_apply"
+                }
+              ],
+              "link": "https://pipdic.in/how_to_apply",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Applicant Login:",
+              "underline": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://pipdic.in/customer_login"
+                }
+              ],
+              "link": "https://pipdic.in/customer_login",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Link:",
+              "underline": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://pipdic.in/forms"
+                }
+              ],
+              "link": "https://pipdic.in/forms",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Form:",
+              "underline": true
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://pipdic.in/grievance_form"
+                }
+              ],
+              "link": "https://pipdic.in/grievance_form",
+              "type": "link"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "link": "https://pipdic.in/grievance_form",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Registration Process",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Registration and Profile Creation"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "PIPDIC website."
+                }
+              ],
+              "link": "https://pipdic.in/,",
+              "type": "link"
+            },
+            {
+              "text": " Click \"Login\". Click the “New customer” link under the “Login” menu, enter a username, email-id, password, and captcha, and then click the \"Register\" button."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Email Verification and Login"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Use the registered email-id to log in. An OTP is sent to the registered email address."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant is then required to enter the OTP and click \"Login\" to access to the customer dashboard."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Profile Update"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Upon successful login, the customer needs to update their profile by accessing the \"Edit Profile\" option (top right corner of the dashboard)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant must provide all required details. Click \"Submit\"."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Application Process (Loan Application)",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Accessing the Loan Application Form"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "To initiate the loan application process, the applicant must navigate from the customer dashboard by clicking on the \"Applications\" tab."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Reviewing Checklist and Accepting Terms"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "A pop-up window displaying a checklist of General Terms and Conditions, interest rate structure, investigation fees, and collateral security norms will appear for review."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Carefully read this checklist, confirm that all necessary documents have been gathered as requested, and click the “I Agree” button to proceed to the application form."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Filling the Loan Application Form"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "text": "Fill the multi-step application form, providing appropriate details in all mandatory fields across the required steps."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Declaration and Submission"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "text": "The applicant must carefully read and agree to the comprehensive declaration provided within the application form (covering confirmation of true information, absence of unauthorized borrowing arrangements, and consent to verification) before finally ticking the \"I agree to terms\" checkbox and clicking the final \"Submit\" button for the main application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Promoter Bio-Data and Document Upload"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "text": "The system will redirect the applicant to enter the Biodata of the Promoter, Partner, or Director, which is typically a multi-step process. The necessary KYC and supporting documents must be uploaded by clicking the \"Choose File\" button next to each field."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Application Fees Payment"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Once the entire application and bio-data submission is complete, pay the applicable application fee."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "If selecting online payment, the system automatically redirects the applicant to the payment summary page, where they verify their details and make the payment."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Receiving and Saving Payment Receipt"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Upon successful payment, the user is redirected back to PIPDIC website, where a receipt for the application fee paid is generated."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant can print this receipt or save it to their computer as a PDF for future reference."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Application Status Tracking and Support",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "text": "The customer can monitor the status of their submitted application (which will initially show a status like 'UNDER REVIEW') by clicking the \"View My application\" link on the dashboard and selecting the relevant loan application in the drop-down menu."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Application Fees",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "For loans up to ₹25,00,000/-, the application fee is ₹100/-."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "For loans above ₹25,00,000/-, the application fee is ₹200/-."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Grievance Redressal / Help & Support",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The applicant can contact the Managing Director, Pondicherry Industrial Promotion Development and Investment Corporation Limited at No.60, Romain Rolland Street, Puducherry 605001."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The office phone number is 0413-2334361."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The email address for contact is info@pipdic.com."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The General Manager (Administration) can be contacted via mobile at 9894653835."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**User Manual:** [https://pipdic.in/uploads/PIPDIC_docs/user_manual.pdf](https://pipdic.in/uploads/PIPDIC_docs/user_manual.pdf)\n**How to Apply:** [https://pipdic.in/how_to_apply](https://pipdic.in/how_to_apply)\n**Applicant Login:** [https://pipdic.in/customer_login](https://pipdic.in/customer_login)\n**Application Link:** [https://pipdic.in/forms](https://pipdic.in/forms)\n**Grievance Form:** [https://pipdic.in/grievance_form](https://pipdic.in/grievance_form)\n##### ***Registration Process***\n##### **Step 1:****** ***Registration and Profile Creation***\nVisit the [PIPDIC website.](https://pipdic.in/,) Click &quot;Login&quot;. Click the “New customer” link under the “Login” menu, enter a username, email-id, password, and captcha, and then click the &quot;Register&quot; button.\n##### **Step 2:****** ***Email Verification and Login***\n\n- Use the registered email-id to log in. An OTP is sent to the registered email address.\n- The applicant is then required to enter the OTP and click &quot;Login&quot; to access to the customer dashboard.\n\n##### **Step 3:****** ***Profile Update***\n\n- Upon successful login, the customer needs to update their profile by accessing the &quot;Edit Profile&quot; option (top right corner of the dashboard).\n- The applicant must provide all required details. Click &quot;Submit&quot;.\n\n<br>\n\n##### ***Application Process (Loan Application)***\n##### **Step 1:****** ***Accessing the Loan Application Form***\n\n- To initiate the loan application process, the applicant must navigate from the customer dashboard by clicking on the &quot;Applications&quot; tab.\n\n##### **Step 2:****** ***Reviewing Checklist and Accepting Terms***\n\n- A pop-up window displaying a checklist of General Terms and Conditions, interest rate structure, investigation fees, and collateral security norms will appear for review.\n- Carefully read this checklist, confirm that all necessary documents have been gathered as requested, and click the “I Agree” button to proceed to the application form.\n\n##### **Step 3:****** ***Filling the Loan Application Form***\nFill the multi-step application form, providing appropriate details in all mandatory fields across the required steps.\n##### **Step 4:****** ***Declaration and Submission***\nThe applicant must carefully read and agree to the comprehensive declaration provided within the application form (covering confirmation of true information, absence of unauthorized borrowing arrangements, and consent to verification) before finally ticking the &quot;I agree to terms&quot; checkbox and clicking the final &quot;Submit&quot; button for the main application form.\n##### **Step 5:****** ***Promoter Bio-Data and Document Upload***\nThe system will redirect the applicant to enter the Biodata of the Promoter, Partner, or Director, which is typically a multi-step process. The necessary KYC and supporting documents must be uploaded by clicking the &quot;Choose File&quot; button next to each field.\n##### **Step 6:****** ***Application Fees Payment***\n\n- Once the entire application and bio-data submission is complete, pay the applicable application fee.\n\n\n- If selecting online payment, the system automatically redirects the applicant to the payment summary page, where they verify their details and make the payment.\n\n##### **Step 7:****** ***Receiving and Saving Payment Receipt***\n\n- Upon successful payment, the user is redirected back to PIPDIC website, where a receipt for the application fee paid is generated.\n- The applicant can print this receipt or save it to their computer as a PDF for future reference.\n\n<br>\n\n##### ***Application Status Tracking and Support***\nThe customer can monitor the status of their submitted application (which will initially show a status like &#39;UNDER REVIEW&#39;) by clicking the &quot;View My application&quot; link on the dashboard and selecting the relevant loan application in the drop-down menu.\n##### ***Application Fees***\n\n- For loans up to ₹25,00,000/-, the application fee is ₹100/-.\n- For loans above ₹25,00,000/-, the application fee is ₹200/-.\n\n##### ***Grievance Redressal / Help &amp; Support***\n\n- The applicant can contact the Managing Director, Pondicherry Industrial Promotion Development and Investment Corporation Limited at No.60, Romain Rolland Street, Puducherry 605001.\n- The office phone number is 0413-2334361.\n- The email address for contact is info@pipdic.com.\n- The General Manager (Administration) can be contacted via mobile at 9894653835.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Investment subsidy of ₹80,000/- is provided.\n- The subsidy is provided by the Ministry of New and Renewable Energy Sources, Government of India.\n- This investment subsidy is specifically provided only for Companies or Societies.\n\n##### ***Conditions***\n\n- _The applicant must provide a Promoter’s Contribution of 10% on the cost of the vehicle._\n- _The collateral security required in the form of immovable property, if situated in the Union Territory of Puducherry, shall be valued at not less than the amount of the term loan sanctioned._\n- _If the immovable property used as collateral security is situated outside the Union Territory of Puducherry, its value must be not less than 150% of the loan amount in the case of land with a building, or not less than 200% of the loan amount if the property offered is only land._\n- _If the unit is promoted by Women / Scheduled Caste / Scheduled Tribe / Differently abled persons, the value of the property to be offered as collateral security is reduced and fixed at 50% of the loan amount._\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    },
+    {
+      "label": "Transport & Infrastructure",
+      "value": "628ce924d6d1a3bde4685354"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "99c8b450ae01c69f73b8acbdfcd5a617414284d6312857a85d889bcb7e782d80",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Financial Assistance for Purchase of Battery Operated Vehicles” was launched by the Pondicherry Industrial Promotion Development and Investment Corporation Limited (PIPDIC), Department of Industries &amp; Commerce, Puducherry. The scheme aims to provide financial assistance to eligible residents of Puducherry for the purchase of Battery Operated vehicles. The scheme provides financial support, including an investment subsidy of ₹80,000/- provided by the Ministry of New and Renewable Energy, Govt. of India, specifically for Companies or Societies. The applications for this scheme are accepted online through the PIPDIC portal.\n<br>\n\n",
+  "eligibility": "The applicant must be a resident of Puducherry. \n<br>\n\n",
+  "exclusions": "<br>\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T14:06:55.037030+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:06:55.037030+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Industries and Commerce Department, Puducherry",
+    "value": 34000021
+  },
+  "references": [
+    {
+      "title": "Scheme Information",
+      "url": "https://pipdic.in/pipdic_schemes"
+    },
+    {
+      "title": "PIPDIC Brochure",
+      "url": "https://pipdic.in/uploads/PIPDIC_docs/pipdic_broucher.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://pipdic.in/contactus"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "692af15d588bfd9e8359e8ad",
+      "en": {
+        "documentsRequired_md": "##### ***Documents Required at the Time of Filing Loan Application***\n\n- Copy of the Proceedings Obtained from the Transport Department.\n- Copy of the Ration Card.\n- Copy of the Aadhar Card.\n- Copy of the Birth Certificate.\n- Copy of the Nativity / Residence Certificate.\n- Copy of the Community Certificate (In Case of Scheduled Caste / Scheduled Tribe).\n- Copy of the Permanent Account Number (PAN) Card.\n- Copy of the Bank Pass Book.\n- Copy of the Driving Licence.\n- Copy of the Partnership Deed (In the Case of Partnership Concern).\n- Original Quotation for Vehicle / Chassis / Body Building Works.\n- Copy of the Registration Certificate (RC) Book (For Existing Vehicle).\n- Consent Letter to Offer Collateral Security to the Extent Required by Pondicherry Industrial Promotion Development and Investment Corporation Limited / Copy of Documents for the Collateral Security Property.\n- Investigation Fee Payment Receipt: The fee is generally 0.50% of the term loan applied plus applicable service tax for loans up to ₹25,00,000/-, or 0.75% for loans above ₹₹25,00,000/-. A 50% concession on the investigation fee is granted for Women / Scheduled Caste / Scheduled Tribe / Differently Abled Entrepreneurs.\n\n##### ***Documents Required During Processing Time or After Sanction of Loan***\n\n- Original Title Deed, Antecedent Title Deeds, Encumbrance Certificate for 30 Years, Valuation Certificate Obtained from Approved Panel Valuer of Pondicherry Industrial Promotion Development and Investment Corporation Limited, Field Measurement Book Copy, Patta Copy and Legal Opinion Report for Collateral Security Property.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "Documents Required at the Time of Filing Loan Application",
+                "underline": true
+              }
+            ],
+            "type": "heading_five"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Proceedings Obtained from the Transport Department."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Ration Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Aadhar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Birth Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Nativity / Residence Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Community Certificate (In Case of Scheduled Caste / Scheduled Tribe)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Permanent Account Number (PAN) Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Bank Pass Book."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Driving Licence."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Partnership Deed (In the Case of Partnership Concern)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original Quotation for Vehicle / Chassis / Body Building Works."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Registration Certificate (RC) Book (For Existing Vehicle)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consent Letter to Offer Collateral Security to the Extent Required by Pondicherry Industrial Promotion Development and Investment Corporation Limited / Copy of Documents for the Collateral Security Property."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Investigation Fee Payment Receipt: The fee is generally 0.50% of the term loan applied plus applicable service tax for loans up to ₹25,00,000/-, or 0.75% for loans above ₹₹25,00,000/-. A 50% concession on the investigation fee is granted for Women / Scheduled Caste / Scheduled Tribe / Differently Abled Entrepreneurs."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "Documents Required During Processing Time or After Sanction of Loan",
+                "underline": true
+              }
+            ],
+            "type": "heading_five"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Original Title Deed, Antecedent Title Deeds, Encumbrance Certificate for 30 Years, Valuation Certificate Obtained from Approved Panel Valuer of Pondicherry Industrial Promotion Development and Investment Corporation Limited, Field Measurement Book Copy, Patta Copy and Legal Opinion Report for Collateral Security Property."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "692aed44e892961352b934b0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "692aed44e892961352b934b0",
+  "scheme_name": "Financial Assistance for Purchase of Battery Operated Vehicles",
+  "scheme_open_date": null,
+  "scheme_short_title": "FAPBOV",
+  "slug": "fapbov",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Banking and money",
+      "value": "Banking and money"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    },
+    {
+      "label": "Public transport and private vehicles",
+      "value": "Public transport and private vehicles"
+    },
+    {
+      "label": "Roads and road transport",
+      "value": "Roads and road transport"
+    },
+    {
+      "label": "Climate change",
+      "value": "Climate change"
+    },
+    {
+      "label": "Pollution and waste management",
+      "value": "Pollution and waste management"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Investment",
+    "Vehicle",
+    "Battery",
+    "Subsidy",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

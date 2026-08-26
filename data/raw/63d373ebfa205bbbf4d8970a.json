@@ -1,0 +1,642 @@
+{
+  "detail": {
+    "data": {
+      "_id": "63d373ebfa205bbbf4d8970a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Visit "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://agrimachinery.nic.in/Index/Index "
+                          }
+                        ],
+                        "link": "https://agrimachinery.nic.in/Index/Index",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Select the appropriate option from the Registration"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "link": "https://agrimachinery.nic.in/Index/Index",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "link": "https://agrimachinery.nic.in/Index/Index",
+                        "type": "link"
+                      },
+                      {
+                        "text": " dropdown option. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Fill out the form with the required information and register. "
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "url": "https://agrimachinery.nic.in/Index/Index"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "implementingAgency": "Farm Machinery Training And Testing Institute, State Identified Institutions, ICAR Institutions",
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department of Agriculture Research and Education",
+            "value": 513
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Agriculture and Farmers Welfare",
+            "value": 498
+          },
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Infra",
+          "schemeName": "Sub-mission On Agriculture Mechanization",
+          "schemeOpenDate": "2015-01-01",
+          "schemeShortTitle": "SMAM",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": null,
+          "tags": [
+            "Sub-Mission",
+            "Agriculture",
+            "Mechanization",
+            "SMAM"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "All landholding farmers' families, Self Help Groups (SHGs), User Groups, Cooperative Societies, Farmer Producer Organizations (FPOs) and Entrepreneurs"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer must be a native of India."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Women farmers can also take advantage of this scheme. They will be given priority in this scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The benefit of this scheme will be given by the central government to those farmers who are financially weak."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The benefit of this scheme will be given to those farmers who have not taken the benefit of subsidy from any other central scheme earlier."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- All landholding farmers&#39; families, Self Help Groups (SHGs), User Groups, Cooperative Societies, Farmer Producer Organizations (FPOs) and Entrepreneurs\n- The farmer must be a native of India.\n- Women farmers can also take advantage of this scheme. They will be given priority in this scheme.\n- The benefit of this scheme will be given by the central government to those farmers who are financially weak.\n- The benefit of this scheme will be given to those farmers who have not taken the benefit of subsidy from any other central scheme earlier.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "label": "Cash",
+            "value": "Cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "The stated objectives of the SMAM scheme are as follows."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The main objective of this scheme is to provide agricultural machinery to poor and economically weak farmers and this subsidy is given by the government."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Enhancing the reach of farm mechanization to small & marginal farmers and to the regions where farm power availability is low."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Promoting ‘Custom Hiring Centres’ to mitigate the adverse economies of scale caused due to small landholding and the high cost of individual ownership."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Generating awareness among stakeholders through demonstration and capacity-building activities."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Developing hubs for hi-tech & high-value farm equipment."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Ensuring performance testing and certification at designated testing centres."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Under the SMAM scheme of the central government, farmers are provided with the benefit of subsidies ranging from 50 to 80 percent for buying agricultural machinery. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Under the scheme, priority is given to women farmers."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Farmers can take advantage of subsidies on agricultural machinery so that they will be able to get agricultural machinery at a low cost."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Through this scheme, farmers can easily purchase agricultural equipment."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "With the help of agricultural equipment, farmers will be able to do all the farming work in less time."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "There will be an increase in the yield with less cost of equipment, which will increase the income of the farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "briefDescription": "The Sub-Mission on Agricultural Mechanization was launched in 2014-15 by the Ministry of Agriculture and Farmers’ Welfare. ",
+          "detailedDescription": [
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "text": "Agricultural machines take an important role to increase productivity with timely and precise fieldwork. To promote the usage of farm mechanization and increase the ratio of farm power to cultivable unit area up to 2.5 kW/ha, the scheme will be implemented in all the Indian states "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "text": "The SMAM scheme has both centrally sponsored and central sector scheme components. In the centrally sponsored scheme components, the Government of India funds 60% of the cost and the states’ share is 40% in all states except north-eastern and Himalayan states where the ratio is 90:10 wherein GOI funds 90%. In UTs, the central share is 100%."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mission Strategy"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "text": "To achieve the above objectives, the Mission will adopt the following strategies:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Conduct performance testing for various farm machineries and equipment at the four Farm Machinery Training and Testing Institutes (FMTTIs), designated State Agricultural Universities (SAUs) and ICAR institutions."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Promote farm mechanization among stakeholders by way of on-field and off-field training and demonstrations."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Provide financial assistance to farmers for procurement of farm machinery and implements."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Establish custom hiring centres of the location and crop-specific farm machinery and implements."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Provide financial assistance to small and marginal farmers for hiring machinery and implements in low-mechanized regions."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "align": "justify",
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mission Components"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Promotion and Strengthening of Agricultural Mechanization through Training, Testing and Demonstration."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Demonstration, Training and Distribution of Post-Harvest Technology and Management (PHTM)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Financial Assistance for Procurement of Agriculture Machinery and Equipment."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Establish Farm Machinery Banks for Custom Hiring."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Establish Hi-Tech, High Productive Equipment Hub for Custom Hiring."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Promotion of Farm Mechanization in Selected Villages."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Financial Assistance for Promotion of Mechanized Operations/hectare Carried out Through Custom Hiring Centres."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "align": "justify",
+                  "children": [
+                    {
+                      "text": "Promotion of Farm Machinery and Equipment in the North-Eastern Region."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "detailedDescription_md": "Agricultural machines take an important role to increase productivity with timely and precise fieldwork. To promote the usage of farm mechanization and increase the ratio of farm power to cultivable unit area up to 2.5 kW/ha, the scheme will be implemented in all the Indian states \nThe SMAM scheme has both centrally sponsored and central sector scheme components. In the centrally sponsored scheme components, the Government of India funds 60% of the cost and the states’ share is 40% in all states except north-eastern and Himalayan states where the ratio is 90:10 wherein GOI funds 90%. In UTs, the central share is 100%.\n<br>\n\n**Mission Strategy**\nTo achieve the above objectives, the Mission will adopt the following strategies:\n\n1. Conduct performance testing for various farm machineries and equipment at the four Farm Machinery Training and Testing Institutes (FMTTIs), designated State Agricultural Universities (SAUs) and ICAR institutions.\n1. Promote farm mechanization among stakeholders by way of on-field and off-field training and demonstrations.\n1. Provide financial assistance to farmers for procurement of farm machinery and implements.\n1. Establish custom hiring centres of the location and crop-specific farm machinery and implements.\n1. Provide financial assistance to small and marginal farmers for hiring machinery and implements in low-mechanized regions.\n\n<br>\n\n**Mission Components**\n\n1. Promotion and Strengthening of Agricultural Mechanization through Training, Testing and Demonstration.\n1. Demonstration, Training and Distribution of Post-Harvest Technology and Management (PHTM).\n1. Financial Assistance for Procurement of Agriculture Machinery and Equipment.\n1. Establish Farm Machinery Banks for Custom Hiring.\n1. Establish Hi-Tech, High Productive Equipment Hub for Custom Hiring.\n1. Promotion of Farm Mechanization in Selected Villages.\n1. Financial Assistance for Promotion of Mechanized Operations/hectare Carried out Through Custom Hiring Centres.\n1. Promotion of Farm Machinery and Equipment in the North-Eastern Region.\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agrimachinery.nic.in/Files/Guidelines/SMAMGiudeline2020-21.pdf"
+            },
+            {
+              "title": "Official Site",
+              "url": "https://agrimachinery.nic.in/"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "smam"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "63d374a738b91b48f700a98c",
+      "en": {
+        "documents_required": [
+          {
+            "align": "justify",
+            "children": [
+              {
+                "bold": true,
+                "text": "For farmers"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Aadhar card - To identify the beneficiary."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Passport size photo of Farmer."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Record of Right(RoR) of land to upload while adding land details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Copy of first page of the bank pass book on which the details of the beneficiary are given."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Copy of any ID Proof(Aadhar Card / Driving Lisence / VoterID Card / PAN Card / Passport)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Copy of Caste Category Certificate in case of SC / ST / OBC."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "align": "justify",
+                "children": [
+                  {
+                    "text": "Do not fill the wrong information. On filing false information the benefits may be denied."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "align": "justify",
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "align": "justify",
+            "children": [
+              {
+                "bold": true,
+                "text": "Note"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "align": "justify",
+            "children": [
+              {
+                "text": "Farmer while registering in DBT portal has to select correct District, Sub-District, Block, and Village from the drop down list. The name of farmer should be as per Aadhaar card. The farmer category (SC/ST/General), farmer type (Small/Marginal/Large) and Gender (Male/Female) should be correctly furnished otherwise the application will be debarred at the time of physical verification. This is the responsibility of farmer to furnish the correct details for availing subsidy. "
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "63d373ebfa205bbbf4d8970a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:43.962571+00:00",
+  "scheme_id": "63d373ebfa205bbbf4d8970a"
+}

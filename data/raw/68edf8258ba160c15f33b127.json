@@ -1,0 +1,313 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68edf8258ba160c15f33b127",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " The interested applicant should visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Zonal Agriculture Officer"
+                      }
+                    ],
+                    "link": "https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0",
+                    "type": "link"
+                  },
+                  {
+                    "text": " and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit the [Zonal Agriculture Officer](https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 30000002
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Development of Manures & Fertilizers: Assistance for Construction/Installation of Vermi-Compost Units",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "COPY OF DMF-ACIVCU",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Soil health",
+              "value": "Soil health"
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "state": {
+            "label": "Goa",
+            "value": 30
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Crop",
+            "Soil",
+            "Plant"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n- Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.\n- Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Construction/Installation of Vermi-compost unit would be provided 75% subsidy limited to Rs.1,950/- per cu.mt for Vermi-compost units for all categories of farmers. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Standard cost for Vermi-compost unit would be Rs. 2600/- per cubic meter which includes 90% cost on construction/installation including mason cost and 10% will be the cost of earthworms, etc. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The unit can have one or more pits with or without internal chambers and has to be above ground level, of bricks, laterite stones, cement blocks, shahabadi/kadappa or RCC cement rings, having a cement floor with proper water outlet, with clean internal side walls and a proper ant proofing and should be protected from sun, rain and from attack of birds, lizards and rodents feeding on earthworms. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The portable Vermi-composting unit of HDPE material i.e.Vermi-bed or Vermi composting bins of 100 litre and above laid on prepared hard surface free from sharp objects, and protected as above, maximum of 3 units would also be considered for subsidy @ 90% subsidy on the standard cost fixed and maximum amount of Rs 7,500/- per farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- Construction/Installation of Vermi-compost unit would be provided 75% subsidy limited to Rs.1,950/- per cu.mt for Vermi-compost units for all categories of farmers. \n- The Standard cost for Vermi-compost unit would be Rs. 2600/- per cubic meter which includes 90% cost on construction/installation including mason cost and 10% will be the cost of earthworms, etc. \n- The unit can have one or more pits with or without internal chambers and has to be above ground level, of bricks, laterite stones, cement blocks, shahabadi/kadappa or RCC cement rings, having a cement floor with proper water outlet, with clean internal side walls and a proper ant proofing and should be protected from sun, rain and from attack of birds, lizards and rodents feeding on earthworms. \n- The portable Vermi-composting unit of HDPE material i.e.Vermi-bed or Vermi composting bins of 100 litre and above laid on prepared hard surface free from sharp objects, and protected as above, maximum of 3 units would also be considered for subsidy @ 90% subsidy on the standard cost fixed and maximum amount of Rs 7,500/- per farmer.\n\n<br>\n\n",
+          "briefDescription": "The \"Vermi-compost Units\" component of the scheme aims to convert available on-field and farm waste material into chemical-free farm resources as farm input for organic farming through vermicomposting processes. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS).",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Vermi-compost Units\" component of the scheme aims to convert available on-field and farm waste material into chemical-free farm resources as farm input for organic farming through vermicomposting processes. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Development of Manures &amp; Fertilizers&quot; was launched by the Department of Agriculture, Government of Goa. The &quot;Vermi-compost Units&quot; component of the scheme aims to convert available on-field and farm waste material into chemical-free farm resources as farm input for organic farming through vermicomposting processes. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://goaprintingpress.gov.in/downloads/2526/2526-22-SI-OG.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "copy-of-dmf-acivcu"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68edf950ed2c57f57c3e320f",
+      "en": {
+        "documentsRequired_md": "\n- Krishi Card Abstract\n- Soil Health Card\n- Cash Invoice\n- Design and Estimates of Approved Models Prior to Construction/Installation\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Krishi Card Abstract"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Soil Health Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cash Invoice"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Design and Estimates of Approved Models Prior to Construction/Installation"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68edf8258ba160c15f33b127"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:51.767038+00:00",
+  "scheme_id": "68edf8258ba160c15f33b127"
+}

@@ -1,0 +1,393 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The application form can be obtained from the officers/personnel working in the Horticulture Mobile team centres, or it can also be downloaded from the department's website "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "https://shm.uk.gov.in"
+                        }
+                      ],
+                      "link": "https://shm.uk.gov.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": ". The application/proposal must be accompanied by documents covering the 29 points outlined in the checklist, including: application in the prescribed format, DPR, promoter's permanent residence certificate, organization's biodata, unit area address, bank/institution appraising the project proposal, proof of appraisal by the bank/financial institution, NOC from the Fire Department, land records in the organization's name, land conversion certificate, company/institution's boilerage, raw material procurement, details of the unit's products, contracts with farmers, site plan, FSSAI certification, employment generation certificate, details of civil works certified by a civil engineer, quotations from suppliers of plant machinery and equipment certified by a chartered mechanical engineer, supplier quotations for machinery purchases, marketing strategy for production, process flow chart, details of unit implementation, ₹100/- affidavit, funding, project cost, and eligibility."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "In case of difficulty completing the application/proposal, personnel at the Horticulture Mobile team Centres will assist the applicant. The completed application must be submitted to the office. Before applying for the project, the entrepreneur or institution must submit the loan appraisal to the bank."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The relevant proposals are then forwarded directly to the Mission Directorate by the Horticulture Mobile team Centre personnel. Once the Directorate approves the proposals, the entrepreneur receives an acceptance letter and is informed by telephone. During this period, the entrepreneur is required to get the loan approved, with departmental officers providing necessary assistance. After loan approval, the information must be submitted to the department."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The food processing unit is established with the technical assistance and supervision of departmental officers. Upon completion, a joint inspection is conducted by the departmental team, and after satisfactory verification, the appropriate subsidy is disbursed into the entrepreneur's bank account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The application form can be obtained from the officers/personnel working in the Horticulture Mobile team centres, or it can also be downloaded from the department&amp;#39;s website [https://shm.uk.gov.in](https://shm.uk.gov.in/). The application/proposal must be accompanied by documents covering the 29 points outlined in the checklist, including: application in the prescribed format, DPR, promoter&amp;#39;s permanent residence certificate, organization&amp;#39;s biodata, unit area address, bank/institution appraising the project proposal, proof of appraisal by the bank/financial institution, NOC from the Fire Department, land records in the organization&amp;#39;s name, land conversion certificate, company/institution&amp;#39;s boilerage, raw material procurement, details of the unit&amp;#39;s products, contracts with farmers, site plan, FSSAI certification, employment generation certificate, details of civil works certified by a civil engineer, quotations from suppliers of plant machinery and equipment certified by a chartered mechanical engineer, supplier quotations for machinery purchases, marketing strategy for production, process flow chart, details of unit implementation, ₹100/- affidavit, funding, project cost, and eligibility.  - In case of difficulty completing the application/proposal, personnel at the Horticulture Mobile team Centres will assist the applicant. The completed application must be submitted to the office. Before applying for the project, the entrepreneur or institution must submit the loan appraisal to the bank.\n  - The relevant proposals are then forwarded directly to the Mission Directorate by the Horticulture Mobile team Centre personnel. Once the Directorate approves the proposals, the entrepreneur receives an acceptance letter and is informed by telephone. During this period, the entrepreneur is required to get the loan approved, with departmental officers providing necessary assistance. After loan approval, the information must be submitted to the department.\n  - The food processing unit is established with the technical assistance and supervision of departmental officers. Upon completion, a joint inspection is conducted by the departmental team, and after satisfactory verification, the appropriate subsidy is disbursed into the entrepreneur&amp;#39;s bank account.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme, for setting up new food processing units, 50% of the project cost, up to a maximum of ₹400.00 lakh (₹4 crore), is provided as government assistance/subsidy.\nThe department is in the process of uploading previously approved proposals on its website, similar to the MSME model, to make it easier for interested companies, firms, or promoters to prepare their proposals.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "636c459ab7c290d89f04fa24bb2ba8fd1a3f6836f79287f21a90cd568391aa1a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Food Processing and Value Addition Management” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote the establishment of food processing units in Uttarakhand, enhance value addition in agricultural and horticultural products, support entrepreneurs with financial assistance, and strengthen the state’s food processing ecosystem.\n<br>\n\n",
+  "eligibility": "\n   1. Companies, firms, and promoters interested in setting up food processing units in Uttarakhand are eligible to receive assistance under this scheme.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:09:38.503147+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:38.503147+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 50000100
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 218)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6919ba1a2afa7f7941fad31d",
+      "en": {
+        "documentsRequired_md": "\n1. Detailed Project Report (DPR)\n1. Promoter&#39;s permanent residence certificate\n1. Organization&#39;s biodata\n1. Unit location/address\n1. Bank/institution appraising the project proposal\n1. Proof of appraisal by the bank/financial institution\n1. NOC from the Fire Department\n1. Land records in the organization&#39;s name\n1. Land conversion certificate\n1. Company/institution boilerage details\n1. Raw material procurement details\n1. Details of the unit&#39;s products\n1. Contracts with farmers\n1. Site plan\n1. FSSAI certification\n1. Employment generation certificate\n1. Details of civil works certified by a civil engineer\n1. Quotations from suppliers of plant machinery and equipment certified by a chartered mechanical engineer\n1. Supplier quotations for machinery purchases\n1. Marketing strategy for production\n1. Process flow chart\n1. Details of unit implementation\n1. ₹100 affidavit\n1. Funding details\n1. Project cost\n1. Eligibility documents\n1. Any other documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Detailed Project Report (DPR)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Promoter's permanent residence certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Organization's biodata"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Unit location/address"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank/institution appraising the project proposal"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of appraisal by the bank/financial institution"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "NOC from the Fire Department"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land records in the organization's name"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land conversion certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Company/institution boilerage details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Raw material procurement details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of the unit's products"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Contracts with farmers"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Site plan"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FSSAI certification"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Employment generation certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of civil works certified by a civil engineer"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Quotations from suppliers of plant machinery and equipment certified by a chartered mechanical engineer"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Supplier quotations for machinery purchases"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Marketing strategy for production"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Process flow chart"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of unit implementation"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "₹100 affidavit"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Funding details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project cost"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Eligibility documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6919b20b2afa7f7941fabe9c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6919b20b2afa7f7941fabe9c",
+  "scheme_name": "Food Processing and Value Addition Management",
+  "scheme_open_date": null,
+  "scheme_short_title": "FPVAM",
+  "slug": "fpvam",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Food Processing Unit",
+    "Value Addition",
+    "Subsidy",
+    "Entrepreneur"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    },
+    {
+      "label": "Industries",
+      "value": "industries"
+    }
+  ]
+}

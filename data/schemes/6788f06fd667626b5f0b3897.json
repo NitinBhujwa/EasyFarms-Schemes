@@ -1,0 +1,211 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the JHASCOFISH office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the JHASCOFISH office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the JHASCOFISH office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the JHASCOFISH office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the JHASCOFISH office.\n**Step 4:** Request a receipt or acknowledgment from the JHASCOFISH office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Financial Aid:** ₹48,00,000/- allocated as grants to assist cooperative societies.- **Administrative Support:** Funds for machinery, equipment, seminars, publicity, and office expenses.- **Infrastructure Development:** ₹5,00,000/- for maintenance and renovation of facilities.- **Marketing Support:** Assists in providing fair prices for fish and improving marketing strategies.- **Fishermen Welfare:** Welfare programs designed to enhance the socio-economic status of fishermen.- **New Vehicle Purchase:** ₹6,00,000/- for purchasing new vehicles for operational use.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "1f8d702f374fac9b7f3c9caeaff865c267a9ca97f8ac588f9296c7a1865910c5",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Formation Scheme of JHASCOFISH” by the Department of Animal Husbandry and Fisheries, Government of Jharkhand, aims to support fishermen cooperatives and enhance fish production in the state. Under this scheme, financial aid, technical support, and welfare measures are provided to fishermen cooperatives to strengthen their operations and improve their socio-economic status.\n",
+  "eligibility": "\n1. The applicant must be a resident of Jharkhand.\n1. The applicant should be a member of a registered fishermen cooperative society.\n1. The cooperative society must be affiliated with JHASCOFISH.\n1. The society should actively participate in fish production or related activities.\n1. Societies with pending legal cases or misuse of prior funds are not eligible.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:51.918305+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:51.918305+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture, Animal Husbandry & Co-operative",
+    "value": 2000027
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D001DO003SD00311092019123318351"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6788f07fd667626b5f0b38b7",
+      "en": {
+        "documentsRequired_md": "\n1. Proof of Registration of Cooperative Society\n1. Membership List of the Cooperative Society\n1. Recent Audit Reports of the Society\n1. Bank Account Details of the Cooperative Society\n1. Identity Proof of the Applicant\n1. Project Proposal Document (if applicable)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Registration of Cooperative Society"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Membership List of the Cooperative Society"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Recent Audit Reports of the Society"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details of the Cooperative Society"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof of the Applicant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal Document (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6788f06fd667626b5f0b3897"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6788f06fd667626b5f0b3897",
+  "scheme_name": "Formation Scheme of JHASCOFISH",
+  "scheme_open_date": null,
+  "scheme_short_title": "FSJHASCOFISH",
+  "slug": "fsjhascofish",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Jharkhand",
+    "value": 20
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Fish Production",
+    "Fishermen"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

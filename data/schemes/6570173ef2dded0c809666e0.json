@@ -1,0 +1,270 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should request the prescribed format of the application form from the department."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+            },
+            {
+              "bold": true,
+              "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+            },
+            {
+              "children": [
+                {
+                  "text": "BDO Office/ Sub-Offices"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": " of the Department of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Redressal"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+            },
+            {
+              "children": [
+                {
+                  "text": "Grievance Redressal Officer"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "text": ". The grievance can also be lodged on the link "
+            },
+            {
+              "bold": true,
+              "text": "dir-fish.goa@nic.in"
+            },
+            {
+              "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should request the prescribed format of the application form from the department.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Financial Assistance for Construction or Renovation of the Unit**\n\n50% subsidy of the cost, limited to ₹5,00,000 per unit.\n> **Financial Assistance for Purchase of Equipment**\n\n50% subsidy of the cost, limited to ₹2,00,000 per unit.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "f87e7b92750ebe2ec0e7da66545088febd480fa636a58e982298376669464294",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "“Financial Assistance to Take up Value Addition to Seafood” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, individuals who have been residents of Goa for the last 15 years, and are interested in setting up a unit for value-added fisheries products are provided financial assistance as a subsidy of 50% of the cost for the Construction or Renovation of the Unit or for the Purchase of Equipment. The applications are accepted only in offline mode. \n",
+  "eligibility": "\n- The applicant should be an individual interested in setting up a unit for value-added fisheries products. \n- The applicant should be a resident of Goa for the last 15 years.\n\n> **Reservation/ Relaxation/ Preference/ Priority**\n\nPreference will be given to self-help groups, women entrepreneurs, and youth (who have completed fishermen training courses/short-term training programs conducted by the Directorate of Fisheries).\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:41.566225+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:41.566225+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 30000017
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6570175b53ed274f6a926820",
+      "en": {
+        "documentsRequired_md": "\n- Detailed Project Report\n- Proof of Availability of Land/Ownership Documents\n- Proof of Identity\n- Residence Certificate for 15 Years\n- For Self-Help Group - Group Registration Documents\n- Mandate Form\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Detailed Project Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Availability of Land/Ownership Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Identity"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Certificate for 15 Years"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "For Self-Help Group - Group Registration Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mandate Form"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6570173ef2dded0c809666e0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6570173ef2dded0c809666e0",
+  "scheme_name": "Financial Assistance to Take up Value Addition to Seafood",
+  "scheme_open_date": null,
+  "scheme_short_title": "FATUVAS",
+  "slug": "fatuvas",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Financial Assistance",
+    "Fisheries",
+    "Construction",
+    "Equipment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

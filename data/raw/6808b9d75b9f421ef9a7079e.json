@@ -1,0 +1,468 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6808b9d75b9f421ef9a7079e",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the N"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "odal Officer"
+                          }
+                        ],
+                        "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                        "type": "link"
+                      },
+                      {
+                        "text": " of the concerned district with the necessary documents listed in the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here."
+                          }
+                        ],
+                        "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the N[odal Officer](https://gauseva.gujarat.gov.in/Home/Address) of the concerned district with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Scheme for Upgradation of Gaushala/ Panjrapole",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SFUGP",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Cattle Development"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Gaushalas and panjrapole registered under the Public Charity Act."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A Gaushala should have more than 50 cows of local origin. While Panjarapol must have more than 100 livestock."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "At least 3 (three) acres of land on which the institution has to purchase/develop the development work, must be in the institution's own name or on a lease of 99 years. There is no maximum land limit."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Gaushalas and panjrapole registered under the Public Charity Act.\n   1. A Gaushala should have more than 50 cows of local origin. While Panjarapol must have more than 100 livestock.\n   1. At least 3 (three) acres of land on which the institution has to purchase/develop the development work, must be in the institution&amp;#39;s own name or on a lease of 99 years. There is no maximum land limit.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Years) for Reclaiming Constituent Benefits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1. Water Fogger; 2. Mechanized Reaper Machine or Reaper Machine; 3. Chaff cutter 4. Drip irrigation; 5. 500 liters bulk milk cooling machine with generator; 6. Mini Tractor or Big Tractor/Hydraulic Trailer or Trailer; 7. Solar Gau Arc Machine/ Gau Arc Machine; 8. Milking machine"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Assistance upto 75% of the total expenditure incurred by the article up to a maximum of ₹4,00,000/- to be paid."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "1 Year\t"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Constituent Benefits**1. Water Fogger; 2. Mechanized Reaper Machine or Reaper Machine; 3. Chaff cutter 4. Drip irrigation; 5. 500 liters bulk milk cooling machine with generator; 6. Mini Tractor or Big Tractor/Hydraulic Trailer or Trailer; 7. Solar Gau Arc Machine/ Gau Arc Machine; 8. Milking machineAssistance upto 75% of the total expenditure incurred by the article up to a maximum of ₹4,00,000/- to be paid.1 Year\t<br>\n\n",
+          "briefDescription": "The \"Scheme for Upgradation of Gaushala/ Panjrapole\"  aims to promote indigenous cow breeds and make cow rearing economically viable.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The  \"Scheme for Upgradation of Gaushala/ Panjrapole\" launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat, is designed to preserve and promote indigenous breeds of cows in Gujarat, such as Gir and Kankrej, which hold spiritual, scientific, and health value. "
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Objective:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The world famous Gir and Kankarej cows of Gujarat state and other indigenous breeds have great importance in terms of spiritual, scientific and health. To preserve these is the main aim by increase the breeding of cows by encouraging gaushalas and panjarapol institutions that ideally keep cows. The scheme also aims to increase the consumption of Panchagavya products of Gir and Kankrej cows and make rearing of cows economically viable."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The  &amp;quot;Scheme for Upgradation of Gaushala/ Panjrapole&amp;quot; launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat, is designed to preserve and promote indigenous breeds of cows in Gujarat, such as Gir and Kankrej, which hold spiritual, scientific, and health value. \n&lt;br&gt;\n\nObjective:\nThe world famous Gir and Kankarej cows of Gujarat state and other indigenous breeds have great importance in terms of spiritual, scientific and health. To preserve these is the main aim by increase the breeding of cows by encouraging gaushalas and panjarapol institutions that ideally keep cows. The scheme also aims to increase the consumption of Panchagavya products of Gir and Kankrej cows and make rearing of cows economically viable.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=0BuOPAw3hjOJ9afMQ8Nm9A==&domain=A36Rf7FTT/556gX2TyXKFw=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sfugp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6808b9f892da06bdddb8b3ad",
+      "en": {
+        "documentsRequired_md": "\n- Copy of 7/12, 8-A, and 6-rights of own land.\n- Copy of lease agreement (if land is leased).\n- Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of 7/12, 8-A, and 6-rights of own land."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of lease agreement (if land is leased)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6808b9d75b9f421ef9a7079e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:16.246558+00:00",
+  "scheme_id": "6808b9d75b9f421ef9a7079e"
+}

@@ -1,0 +1,405 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68b578bc362154c31e1be7cd",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1: "
+                      },
+                      {
+                        "text": "The interested applicant should download the prescribed format of the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "application form"
+                          }
+                        ],
+                        "link": "https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Submit the duly filled and signed application form along with the supporting documents to the below mentioned address."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Gujarat Energy Development Agency"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "4th floor, Block No. 11 & 12"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Udyog Bhavan"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Sector -11"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Gandhinagar-382 017, Gujarat, India"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Phone : +91-079-23257251, 23257253"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Fax : +91-079-23257255, 23247097"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Email : info-geda-gnr@gujarat.gov.in"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For Common Inquiries : director@geda.org.in"
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should download the prescribed format of the [application form](https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf).\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the below mentioned address.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n&gt; **Gujarat Energy Development Agency**\n\n&gt; **4th floor, Block No. 11 &amp;amp; 12**\n\n&gt; **Udyog Bhavan**\n\n&gt; **Sector -11**\n\n&gt; **Gandhinagar-382 017, Gujarat, India**\n\n&gt; **Phone : +91-079-23257251, 23257253**\n\n&gt; **Fax : +91-079-23257255, 23247097**\n\n&gt; **Email : info-geda-gnr@gujarat.gov.in**\n\n&gt; **For Common Inquiries : director@geda.org.in**\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Climate Change Department",
+            "value": 2444470
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Subsidy for Battery Operated 2-Wheelers",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SFBOTW",
+          "schemeSubCategory": [
+            {
+              "label": "Environmental management and protection",
+              "value": "Environmental management and protection"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Student",
+            "Electric Scooter Subsidy",
+            "Electric Vehicle",
+            "Renewable Energy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a student."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be studying in Class 9th to 12th in the state or be a college student."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must purchase a battery-operated two-wheeler only from GEDA-authorized manufacturers through registered dealers."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a student.\n   1. The applicant must be studying in Class 9th to 12th in the state or be a college student.\n   1. The applicant must purchase a battery-operated two-wheeler only from GEDA-authorized manufacturers through registered dealers.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Subsidy Assistance: "
+                    },
+                    {
+                      "text": "Each eligible student receives a subsidy of ₹12,000/- for the purchase of a battery-operated two-wheeler."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Subsidy Assistance:** Each eligible student receives a subsidy of ₹12,000/- for the purchase of a battery-operated two-wheeler.\n<br>\n\n",
+          "briefDescription": "This scheme is introduced by the Climate Change Department, Gujarat, aims to promote renewable energy and clean transportation by providing a subsidy to students for the purchase of battery-operated two-wheelers from authorized manufacturers.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Subsidy for Battery Operated 2-Wheelers\" by the Climate Change Department, Gujarat, aims to encourage the use of clean energy vehicles among the youth by offering financial support to students from Class 9th to 12th, as well as college students, for purchasing battery-operated two-wheelers of their choice from GEDA-authorized manufacturers through their dealers. The scheme is designed to reduce pollution, promote renewable energy adoption, and create awareness about sustainable transport among the younger generation."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Subsidy for Battery Operated 2-Wheelers&amp;quot; by the Climate Change Department, Gujarat, aims to encourage the use of clean energy vehicles among the youth by offering financial support to students from Class 9th to 12th, as well as college students, for purchasing battery-operated two-wheelers of their choice from GEDA-authorized manufacturers through their dealers. The scheme is designed to reduce pollution, promote renewable energy adoption, and create awareness about sustainable transport among the younger generation.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 622)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            },
+            {
+              "title": "Model Wise Price List",
+              "url": "https://geda.gujarat.gov.in/Gallery/Media_Gallery/22W_Price_List.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sfbotw"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68b579c3362154c31e1bed4c",
+      "en": {
+        "documentsRequired_md": "\n1. Application form with complete details in duplicate (One copy to be kept by the dealer for record).\n1. Bonafide Certificate (Original/Colored Scan Copy) for academic year 2024-25 with details of standard/year of study, photograph, outward no. &amp; date.\n1. Self-Certified copy of the Student’s Aadhaar Card.\n\n> **Note:** Applications with Incomplete details/documents will be rejected outright.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application form with complete details in duplicate (One copy to be kept by the dealer for record)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bonafide Certificate (Original/Colored Scan Copy) for academic year 2024-25 with details of standard/year of study, photograph, outward no. & date."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self-Certified copy of the Student’s Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Note:"
+              },
+              {
+                "text": " Applications with Incomplete details/documents will be rejected outright."
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68b578bc362154c31e1be7cd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:30.016429+00:00",
+  "scheme_id": "68b578bc362154c31e1be7cd"
+}

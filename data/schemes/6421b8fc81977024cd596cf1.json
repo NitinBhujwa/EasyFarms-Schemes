@@ -1,0 +1,242 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Visit the official "
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "website"
+                        }
+                      ],
+                      "link": "https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna",
+                      "type": "link"
+                    },
+                    {
+                      "text": " of the Department of Animal Husbandry."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "On reading the detailed guidelines, if the eligibility criteria meets, the applicant may scroll down the page and click on the checkbox \"I am agree with the terms & Conditions\" and then click \"Apply Now\" button."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "On clicking, online "
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "application form"
+                        }
+                      ],
+                      "link": "https://hpahdbt.hp.gov.in/Home/registrationformbakripalan",
+                      "type": "link"
+                    },
+                    {
+                      "text": " will open."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant fills the complete form by uploading the required documents and click submit."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "\n   1. Visit the official [**website**](https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna) of the Department of Animal Husbandry.   1. On reading the detailed guidelines, if the eligibility criteria meets, the applicant may scroll down the page and click on the checkbox &amp;quot;I am agree with the terms &amp;amp; Conditions&amp;quot; and then click &amp;quot;Apply Now&amp;quot; button.\n   1. On clicking, online [**application form**](https://hpahdbt.hp.gov.in/Home/registrationformbakripalan) will open.   1. The applicant fills the complete form by uploading the required documents and click submit.\n\n",
+      "url": "https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n1. **Financial Assistance:** Farmers receive goat units on a 60% subsidy, significantly reducing the initial investment required for goat farming.1. **Improved Livelihoods:** The scheme helps improve the livelihoods of small farmers by providing a steady source of income through goat farming.1. **Increased Meat Production:** By distributing high-quality goat breeds, the scheme boosts meat production in the state, contributing to the local economy.1. **Sustainable Farming Practices:** The scheme promotes sustainable farming practices, ensuring long-term economic benefits for farmers.1. **Empowerment of Marginalized Communities:** By targeting economically weaker sections, the scheme empowers marginalized communities, promoting social and economic inclusion.\n<br>\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Skills & Employment",
+      "value": "628ce85cd6d1a3bde4685304"
+    }
+  ],
+  "content_hash": "53eb6ed2c126f0f78b42194d42a67b147398636a988902267024b3b2fdf84179",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Department of Animal Husbandry, Government of Himachal Pradesh has introduced a scheme named &amp;quot;**Krishak Bakri Palan Yojna**&amp;quot; with the aim to increase income generation opportunities for economically weaker segments of the society as well as to increase meat production. Goat farming is a traditional occupation of economically weaker segments of the society (small and marginal farmers, mainly nomads and landless laborer&amp;#39;s) in Himachal Pradesh. This species is considered to be major source of economic sustenance for these categories of people. Adaptability of goats to wide range of agro climatic conditions has rendered it suitable for poor farmers. Under this scheme it has been proposed to distribute units of 11 goats (10 females +1male), 5 goats (4 females +1 male) and 3 goats (2 females +1 male) of Beetal/Sirohi/Jamanapari/White Himalayan breeds on 60% subsidy.\n**Objectives of this scheme:**\n\n   1. **Increase Income Generation:** The scheme aims to enhance income generation opportunities for economically weaker sections through goat farming.   1. **Boost Meat Production:** By providing high-quality goat breeds, the scheme aims to increase meat production in the state.   1. **Support Economically Disadvantaged Families:** The scheme offers a 60% subsidy on goat units, making it easier for financially weaker families to start goat farming.   1. **Promote Rural Development:** Encouraging goat farming contributes to the overall development of rural areas in Himachal Pradesh.   1. **Ensure Sustainable Livelihoods:** The scheme provides a sustainable livelihood to small farmers and landless laborers, reducing their economic vulnerability.\n",
+  "eligibility": "\n   1. Farmers belonging to all categories like general/SC/ST/BPL/Women and Landless persons of Himachal Pradesh are eligible. \n   1. Training/awareness in skills of goat husbandry is mandatory for all applicants. Concerned Senior Veterinary Officer will provide training to interested persons/applicants.\n   1. Training/awareness in skills of goat husbandry is mandatory for all applicants. Concerned Senior Veterinary Officer will provide training to interested persons/applicants.\n\n**The preference will be given to:**\n\n   1. Unemployed SC, ST, Women and General category persons. At least 30 percent beneficiaries should be women.\n   1. Families where no member is in Government job.\n   1. Persons with annual income not exceeding 2 lakh per annum.\n   1. Persons/farmers who have built their own goat sheds or built under MGNREGA.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:53:07.515912+00:00",
+  "implementing_agency": "Department Of Animal Husbandry",
+  "last_synced_at": "2026-08-26T13:53:07.515912+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry Department, Himachal Pradesh",
+    "value": 21111113
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hpahdbt.hp.gov.in/Home/krishk_bakri_pala_yojna"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6421b93ddb63e235af50fa43",
+      "en": {
+        "documentsRequired_md": "The copy of following documents may be required at the time of filling of online application form:\n\n   1. Bank Passbook\n   1. Income Certificate \n   1. Unemployment Certificate \n   1. BPL Certificate \n   1. Training Certificate\n   1. Cast Certificate (if SC, ST)) \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "The copy of following documents may be required at the time of filling of online application form:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Passbook"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Income Certificate "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Unemployment Certificate "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "BPL Certificate "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Training Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Cast Certificate (if SC, ST)) "
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "6421b8fc81977024cd596cf1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6421b8fc81977024cd596cf1",
+  "scheme_name": "Krishak Bakri Palan Yojna",
+  "scheme_open_date": null,
+  "scheme_short_title": "KBPYY",
+  "slug": "kbpyy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Himachal Pradesh",
+    "value": 2
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Training and Skill Up-gradation",
+      "value": "Training and Skill Up-gradation"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Goat Farming Scheme",
+    "Animal Husbandry",
+    "Financial Assistance",
+    "Rural Development"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

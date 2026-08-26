@@ -1,0 +1,300 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6916c505502328dd70ca1871",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The selection of farmers is carried out after physical verification by the Surveyor Assistant of the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli posted in the concerned development block of each district. To obtain seeds or saplings, interested farmers must register their names in the list of selected farmers by submitting the Khasra of their land along with a photocopy of their Aadhaar card."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The selection of farmers is carried out after physical verification by the Surveyor Assistant of the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli posted in the concerned development block of each district. To obtain seeds or saplings, interested farmers must register their names in the list of selected farmers by submitting the Khasra of their land along with a photocopy of their Aadhaar card.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Herbal Research And Development Institute, Mandal-Gopeshwar Chamoli, Uttarakhand",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Distribution of Materials to Promote Herbal Cultivation in Uttarakhand - Herbal Research and Development Institute, Uttarakhand",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DMPHCUKHRDI",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Herbal Research",
+            "Herbal",
+            "Distribution Of Seeds",
+            "Distribution Of Saplings",
+            "Medicinal Plant",
+            "Farmer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Uttarakhand."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer and must have legally measured land in their name."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be interested in the cultivation of herbs."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a farmer and must have legally measured land in their name.\n   1. The applicant must be interested in the cultivation of herbs.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "To encourage the cultivation of herbs, a 50% government subsidy will be provided on herbal plantation materials, inputs, and related items."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "By distributing seeds/saplings of medicinal plants such as Atis, Kutki, Kuth, Jatamansi, Chirayta, Van Kakri, Pyrethrum, Taggar, Manjith, Coleus, Sarpagandha, Shatavar, Silybum, Pippali, Mandukparni/Brahmi, Amymesus, Stevia, and Tilpushpi up to 3 nali, and seeds or saplings of medicinal and aromatic plants such as Feran, Black Cumin, Large Cardamom, Rosemary, Geranium, Lemongrass, Chamomile, Bay Leaf, and Amymesus up to 5 nali free of cost, farmers are encouraged to cultivate medicinal and aromatic plants and are motivated towards self-employment."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To extend the subsidy facilities provided by the State and Central Governments to farmers, ensure the availability of technical information, provide training facilities, offer the benefits of processing systems, and prepare documentation and a database of cultivation activities."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - To encourage the cultivation of herbs, a 50% government subsidy will be provided on herbal plantation materials, inputs, and related items.\n  - By distributing seeds/saplings of medicinal plants such as Atis, Kutki, Kuth, Jatamansi, Chirayta, Van Kakri, Pyrethrum, Taggar, Manjith, Coleus, Sarpagandha, Shatavar, Silybum, Pippali, Mandukparni/Brahmi, Amymesus, Stevia, and Tilpushpi up to 3 nali, and seeds or saplings of medicinal and aromatic plants such as Feran, Black Cumin, Large Cardamom, Rosemary, Geranium, Lemongrass, Chamomile, Bay Leaf, and Amymesus up to 5 nali free of cost, farmers are encouraged to cultivate medicinal and aromatic plants and are motivated towards self-employment.\n  - To extend the subsidy facilities provided by the State and Central Governments to farmers, ensure the availability of technical information, provide training facilities, offer the benefits of processing systems, and prepare documentation and a database of cultivation activities.\n\n<br>\n\n",
+          "briefDescription": "Under this scheme, there is a special provision for the free distribution of seeds or saplings of medicinal plants up to 3 nali and seeds or saplings of aromatic plants up to 5 nali to farmers belonging to border districts, Scheduled Castes/Tribes, and Below Poverty Line (BPL) categories. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Distribution of Materials to Promote Herbal Cultivation in Uttarakhand” scheme is implemented by the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli under the Department of Horticulture, Government of Uttarakhand. Under this scheme, there is a special provision for the free distribution of seeds or saplings of medicinal plants up to 3 nali and seeds or saplings of aromatic plants up to 5 nali to farmers belonging to border districts, Scheduled Castes/Tribes, and Below Poverty Line (BPL) categories. "
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "(Note: At present, all willing farmers are being benefited under this scheme.)"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Distribution of Materials to Promote Herbal Cultivation in Uttarakhand” scheme is implemented by the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli under the Department of Horticulture, Government of Uttarakhand. Under this scheme, there is a special provision for the free distribution of seeds or saplings of medicinal plants up to 3 nali and seeds or saplings of aromatic plants up to 5 nali to farmers belonging to border districts, Scheduled Castes/Tribes, and Below Poverty Line (BPL) categories. \n**(Note: At present, all willing farmers are being benefited under this scheme.)**\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 223)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "copy-of-cfpc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6916d48359eafedb62cf3a51",
+      "en": {
+        "documentsRequired_md": "\n\n   1. Aadhaar Card of the applicant\n   1. Land record documents/Khasra details of the land under cultivation\n   1. Other supporting documents as required\n\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card of the applicant"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land record documents/Khasra details of the land under cultivation"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Other supporting documents as required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6916c505502328dd70ca1871"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:51.176983+00:00",
+  "scheme_id": "6916c505502328dd70ca1871"
+}

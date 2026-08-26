@@ -1,0 +1,163 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Approach the Gram Sevak in your village for access to the Agricultural Fair/Exhibition/Farmer Camp under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Approach the Gram Sevak in your village for access to the Agricultural Fair/Exhibition/Farmer Camp under the scheme.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "The assistance is provided with a limit of ₹1,00,000/- can be spent for holding Agricultural Fair/Exhibition at the Taluka level. Farmer Shibir for 100 farmers, ₹15000/- can be spent within the limit.\n<br>\n\n> **Remarks:** Literature, tea, refreshments, meals, traveling expenses, exhibition stall fee, mandap, banner, photographs, sound system, electricity, furniture rent, Vs. Can be spent on things.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "095bf1995bfb6d1fbb0860d432f995445049af2dce8492533ee0d092e5a1a1ef",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Agricultural Fair/Exhibition/Farmer Camp&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to provide subsidized agricultural inputs to enhance productivity and livelihood of tribal farmers. Farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas can achieve higher production of agricultural crops and improve their livelihood by using plant protection equipment, tarpaulins, field demonstrations, micronutrients, agriculture fairs, water carrying pipelines, castor cake/neem cake/LFOM/green manure, pump sets, 100% water-soluble fertilizer, plant protection pesticides, etc. These tools and practices, when used according to scientific recommendations, can significantly increase crop production and, consequently, improve their livelihood.\n<br>\n\n",
+  "eligibility": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:23.905362+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:23.905362+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=v4lc2tu73R/9lWYKO76SRg==&domain=KQBjMeZAUYtrIgvpebJ01g=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68a41fb37334f3da6efa85e6",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate\n1. Aadhar Card\n1. Bank Pass Book/Cancelled Cheque\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a41f7a9a6440be2a4df02e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68a41f7a9a6440be2a4df02e",
+  "scheme_name": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Agricultural Fair/Exhibition/Farmer Camp Gujarat ",
+  "scheme_open_date": null,
+  "scheme_short_title": "DSPVHFAFEFCGUJ",
+  "slug": "dspvhfafefcguj",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Adivasi Farmers",
+    "Crop Production",
+    "Farmer Camp",
+    "Seeds",
+    "Fertilizer",
+    "Exhibition",
+    "Agricultural Fair"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

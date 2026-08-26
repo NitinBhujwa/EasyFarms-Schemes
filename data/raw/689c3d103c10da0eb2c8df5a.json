@@ -1,0 +1,304 @@
+{
+  "detail": {
+    "data": {
+      "_id": "689c3d103c10da0eb2c8df5a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "Approach the Gram Sevak in your village for access to the Distribution of Minor and Micro Elements under the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "Approach the Gram Sevak in your village for access to the Distribution of Minor and Micro Elements under the scheme.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Distribution of Seeds of more productions verities / Hybrids verities Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Distribution of Minor and Micro Elements - Gujarat",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DISTRIBUTIONSEEDSGUJ",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Adivasi Farmers",
+            "Crop Production",
+            "Livelihood",
+            "Seeds",
+            "Fertilizer",
+            "Subsidies"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should belong to a Scheduled Tribe."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The scheme excludes farmers from Dang district."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Distribution of minor and micro elements: The applicant receives a subsidy of 75% of the purchase price or ₹750/- per hectare, whichever is less, for minor and micro elements of a Government-approved grade under FCO 1985."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The assistance is limited to a maximum of two hectares per account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": "Remark: As per conditions No. 5, 16, 17, 19 and 22 of "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Appendix-1"
+                    }
+                  ],
+                  "link": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ". (Refer Scheme No. 35)"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Frequency: Every year."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n1. Distribution of minor and micro elements: The applicant receives a subsidy of 75% of the purchase price or ₹750/- per hectare, whichever is less, for minor and micro elements of a Government-approved grade under FCO 1985.\n1. The assistance is limited to a maximum of two hectares per account.\n\n> Remark: As per conditions No. 5, 16, 17, 19 and 22 of [Appendix-1](https://mariyojana.gujarat.gov.in/Schemeatoz.aspx). (Refer Scheme No. 35)\n\n> Frequency: Every year.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to enhance productivity for Adivasi farmers through the provision of subsidised seeds, fertilisers, and supporting agricultural inputs. Through this scheme, such inputs are provided to Scheduled Tribe farmers to boost crop yields and livelihoods.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme \"Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)\" with a component \"Distribution of Minor and Micro Elements\" is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims the farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas can achieve higher production of agricultural crops and improve their livelihood by distribution of minor and micro elements."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Distribution of Minor and Micro Elements&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims the farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas can achieve higher production of agricultural crops and improve their livelihood by distribution of minor and micro elements.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/v4lc2tu73R%E2%9C%A49lWYKO76SRg%E2%99%AC%E2%99%AC?utm_source=chatgpt.com"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "distributionseedsguj"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "689c3d923c10da0eb2c8e355",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 land record\n1. Aadhar card\n1. Bank passbook / cancelled cheque\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 land record"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook / cancelled cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "689c3d103c10da0eb2c8df5a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:10.513664+00:00",
+  "scheme_id": "689c3d103c10da0eb2c8df5a"
+}

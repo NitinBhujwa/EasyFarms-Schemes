@@ -1,0 +1,733 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65f81eefe4760d555114194c",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-1:"
+                  },
+                  {
+                    "text": " Applicant have to visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "official portal"
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-2: "
+                  },
+                  {
+                    "text": "Click on the option “"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Register"
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "type": "link"
+                  },
+                  {
+                    "text": "”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3:"
+                  },
+                  {
+                    "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "  Citizen"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-4: "
+                  },
+                  {
+                    "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "text": "Select your name, the name of the head of the family and all the other members and "
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                                  }
+                                ],
+                                "type": "list_item"
+                              }
+                            ],
+                            "type": "ul_list"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "text": "Enter the password."
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "A new link appear on screen, now click on the new SSO link."
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "SSO id will appear on the screen, now create the password."
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "Enter Mobile number, click on registration."
+                                  }
+                                ],
+                                "type": "list_item"
+                              }
+                            ],
+                            "type": "ul_list"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-5"
+                  },
+                  {
+                    "text": ": Submit."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "APPLY"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-1:"
+                  },
+                  {
+                    "text": " Applicant have to visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "official portal"
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-2:"
+                  },
+                  {
+                    "text": " After login, "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "dashboard "
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/dashboard",
+                    "type": "link"
+                  },
+                  {
+                    "text": "will open."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3: "
+                  },
+                  {
+                    "text": "Click on “ RAJ-KISAN ” option. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-4:"
+                  },
+                  {
+                    "text": " In \"Farmer\", click on \"Application Entry Request\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-5: "
+                  },
+                  {
+                    "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-6:"
+                  },
+                  {
+                    "text": " Select the person name and scheme name. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-7:"
+                  },
+                  {
+                    "text": " Complete the Aadhaar Authentication and click on Get details. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-8:"
+                  },
+                  {
+                    "text": " Provide the required details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Pensioner Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Bank Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Disability Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Verification Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Upload Documents."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-9:"
+                  },
+                  {
+                    "text": " Submit."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "The farmer will have to submit the affidavit, tri-party agreement form and farmer's share amount in the office by 30 days from the issue of administrative approval or the last working day of the financial year (31st March), whichever is earlier."
+                  }
+                ],
+                "type": "block_quote"
+              }
+            ],
+            "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **APPLY**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n<br>\n\n> **The farmer will have to submit the affidavit, tri-party agreement form and farmer&#39;s share amount in the office by 30 days from the issue of administrative approval or the last working day of the financial year (31st March), whichever is earlier.**\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 8000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Green House",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "GH",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Rajasthan",
+            "value": 8
+          },
+          "tags": [
+            "Farmer",
+            "Horticultural",
+            "Crops"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a native of Rajasthan."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a Farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must have agricultural land ownership and irrigation sources."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a native of Rajasthan.\n1. The applicant should be a Farmer.\n1. The applicant must have agricultural land ownership and irrigation sources.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "For areas up to a maximum of 4,000 square meters, farmers will receive subsidies grant based on approved rates or department-specified unit costs, whichever is lower."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "General-category farmers : 50% grant."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Small, marginal, scheduled caste, and scheduled tribe farmers : 70% grant."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The farmers of Scheduled Tribe areas and all the state's small and marginal category farmers : 25% additional grant."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "benefits_md": "\n- For areas up to a maximum of 4,000 square meters, farmers will receive subsidies grant based on approved rates or department-specified unit costs, whichever is lower.\n\n\n\n   1. General-category farmers : 50% grant.\n   1. Small, marginal, scheduled caste, and scheduled tribe farmers : 70% grant.\n   1. The farmers of Scheduled Tribe areas and all the state&#39;s small and marginal category farmers : 25% additional grant.\n\n\n",
+          "briefDescription": "Under the Green House Scheme Farmers can get the benefit of subsidy on green house and earn more income by cultivating horticultural crops like vegetables, flowers, fruits etc. by controlling the ago-climatic factors, temperature, humidity and sunlight.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The Green House Scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on greenhouses and earn more income by cultivating horticultural crops like vegetables, flowers, fruits, etc. by controlling the ago-climatic factors, temperature, humidity, and sunlight."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "A greenhouse is a hut-like structure made of glass or polythene. Plants are grown inside it by controlling the environment. Where certain types of crops cannot be grown in the open due to extreme cold, these crops can be easily grown by using greenhouses. In case production of crops is not possible due to excessive heat, crops can be grown in greenhouses. In this way, it becomes easier for farmers to grow crops in any season through greenhouses. Greenhouses are mostly used for the cultivation of fruits, flowers, and vegetables. Through this, good production can be achieved especially in vegetable farming."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Other important points"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The construction of the greenhouse can be started only after the administrative approval/work order is issued by the Horticulture Department."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After construction, verification will be done by the committee formed."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Payment of grant amount directly into the bank account of the farmer or to the producer firm based on written consent of the farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "detailedDescription_md": "The Green House Scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on greenhouses and earn more income by cultivating horticultural crops like vegetables, flowers, fruits, etc. by controlling the ago-climatic factors, temperature, humidity, and sunlight.\nA greenhouse is a hut-like structure made of glass or polythene. Plants are grown inside it by controlling the environment. Where certain types of crops cannot be grown in the open due to extreme cold, these crops can be easily grown by using greenhouses. In case production of crops is not possible due to excessive heat, crops can be grown in greenhouses. In this way, it becomes easier for farmers to grow crops in any season through greenhouses. Greenhouses are mostly used for the cultivation of fruits, flowers, and vegetables. Through this, good production can be achieved especially in vegetable farming.\n<br>\n\n> **Other important points**\n\n\n1. The construction of the greenhouse can be started only after the administrative approval/work order is issued by the Horticulture Department.\n1. After construction, verification will be done by the committee formed.\n1. Payment of grant amount directly into the bank account of the farmer or to the producer firm based on written consent of the farmer.\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+              "title": "Registration",
+              "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+              "title": "Login",
+              "url": "https://sso.rajasthan.gov.in/signin"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "gh"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65f82aaf0e25df91fd35ef9c",
+      "en": {
+        "documentsRequired_md": "\n1. Jamabandi copy (not older than 6 months)\n1. Aadhaar card / Janadhar card.\n1. Soil and water test report.\n1. Quotation from the approved firm.\n1. Proof of irrigation source grants to small, marginal.\n1. Scheduled caste and scheduled tribe farmers&#39; certificates.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Jamabandi copy (not older than 6 months)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card / Janadhar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Soil and water test report."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Quotation from the approved firm."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of irrigation source grants to small, marginal."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Scheduled caste and scheduled tribe farmers' certificates."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65f81eefe4760d555114194c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:23.199205+00:00",
+  "scheme_id": "65f81eefe4760d555114194c"
+}

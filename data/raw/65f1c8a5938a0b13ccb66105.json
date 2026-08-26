@@ -1,0 +1,349 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65f1c8a5938a0b13ccb66105",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Mode of Selection of Beneficiary(s):",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Whom to Contact:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Agriculture Development Officer of respective CD Block/Agriculture circle"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Sub-Divisional Agricultural Officer of the concerned sub-divisions"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "District Agricultural Officer of the concerned districts"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ol_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\n\n  - The bonafide farmers shall be selected on a first come first serve basis.\n\n&gt; **Whom to Contact:**\n\n\n   1. Agriculture Development Officer of respective CD Block/Agriculture circle\n   1. Sub-Divisional Agricultural Officer of the concerned sub-divisions\n   1. District Agricultural Officer of the concerned districts\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Integrated Farming in Micro Watershed Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "IFMWS",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Watershed",
+            "Training",
+            "Technology Support",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a permanent resident of Meghalaya."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should possess their own land or leased land of at least 0.025 hectares or more."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n1. The applicant should possess their own land or leased land of at least 0.025 hectares or more.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Type of Assistance and Entitlement:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Training, Awareness program, Extension, Technology support, and Subsidy on inputs."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "> **Type of Assistance and Entitlement:**\n\n\n- Training, Awareness program, Extension, Technology support, and Subsidy on inputs.\n\n",
+          "briefDescription": "The objective of the scheme is to promote integrated farming activities for improved livelihood in a complementary manner.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Integrated Farming in Micro Watershed” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to promote integrated farming activities for improved livelihood in a complementary manner."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note: "
+                    },
+                    {
+                      "italic": true,
+                      "text": "This availability of the above state plan scheme in any particular year is subject to the availability of funds and necessary sanction by the State Government. The continuation of any scheme in a particular year is also subject to the discretion of the State Government. Farmers are therefore advised to check the availability of any scheme with the respective District Agriculture Officers.",
+                      "underline": true
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Integrated Farming in Micro Watershed” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to promote integrated farming activities for improved livelihood in a complementary manner.\n**Note:** _This availability of the above state plan scheme in any particular year is subject to the availability of funds and necessary sanction by the State Government. The continuation of any scheme in a particular year is also subject to the discretion of the State Government. Farmers are therefore advised to check the availability of any scheme with the respective District Agriculture Officers._\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/Home.aspx"
+            },
+            {
+              "title": "Guidelines",
+              "url": "http://megsrcw.nic.in/sites/default/files/field/II%20schemes%20progs%20services%20under%20line%20deptts.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ifmws"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65f1c900da55878ebe23e0b3",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65f1c8a5938a0b13ccb66105"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:09.456455+00:00",
+  "scheme_id": "65f1c8a5938a0b13ccb66105"
+}

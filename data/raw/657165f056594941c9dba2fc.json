@@ -1,0 +1,399 @@
+{
+  "detail": {
+    "data": {
+      "_id": "657165f056594941c9dba2fc",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should request the prescribed format of the application form from the department by paying ₹50/-."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "BDO Office/ Sub-Offices"
+                      }
+                    ],
+                    "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                    "type": "link"
+                  },
+                  {
+                    "bold": true,
+                    "text": " of the Department of Fisheries."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Grievance Redressal"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Grievance Redressal Officer"
+                      }
+                    ],
+                    "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". The grievance can also be lodged on the link "
+                  },
+                  {
+                    "bold": true,
+                    "text": "dir-fish.goa@nic.in"
+                  },
+                  {
+                    "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should request the prescribed format of the application form from the department by paying ₹50/-.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Fisheries Department",
+            "value": 30000017
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Individual",
+          "schemeName": "Financial Assistance to Purchase Outboard Motor of 2HP to 5 HP for Fitting to the Fishing Canoe",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "FATPOMO2T5FFTTFC",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Goa",
+            "value": 30
+          },
+          "tags": [
+            "Fishermen",
+            "Fish",
+            "Financial Assistance",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a traditional fisherman by birth or profession."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Goa."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant's Fishing Canoe should be registered with the Department of Captain of Ports, Government of Goa."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The applicant should be a traditional fisherman by birth or profession.\n- The applicant should be a resident of Goa.\n- The applicant&#39;s Fishing Canoe should be registered with the Department of Captain of Ports, Government of Goa.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "For General Category"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "50% subsidy, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "For SC/ST/Woman Category"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "60% subsidy, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "NOTE 1: "
+                },
+                {
+                  "text": "The financial assistance is provided for only 01 Outboard Motor for fitting to the fishing canoe of below 26 feet."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "NOTE 2: "
+                },
+                {
+                  "text": "The beneficiary can avail of the scheme every 5 years."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "> **For General Category**\n\n50% subsidy, limited to ₹30,000 on a unit cost of ₹60,000 (excluding GST).\n> **For SC/ST/Woman Category**\n\n60% subsidy, limited to ₹36,000 on a unit cost of ₹60,000 (excluding GST).\n**NOTE 1:** The financial assistance is provided for only 01 Outboard Motor for fitting to the fishing canoe of below 26 feet.\n**NOTE 2:** The beneficiary can avail of the scheme every 5 years.\n",
+          "briefDescription": "“Financial Assistance to Purchase Outboard Motor of 2HP to 5 HP for Fitting to the Fishing Canoe” is a scheme by the Department of Fisheries, Government of Goa. This Scheme has been introduced to grant financial assistance in the form of a subsidy on the purchase of an outboard motor of 2HP to 5HP.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "“Financial Assistance to Purchase Outboard Motor of 2HP to 5 HP for Fitting to the Fishing Canoe” is a scheme by the Department of Fisheries, Government of Goa. This Scheme has been introduced to grant financial assistance in the form of a subsidy on the purchase of an outboard motor of 2HP to 5 HP for the operation of the fishing canoe below 26 feet. The applications are accepted only in offline mode."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "“Financial Assistance to Purchase Outboard Motor of 2HP to 5 HP for Fitting to the Fishing Canoe” is a scheme by the Department of Fisheries, Government of Goa. This Scheme has been introduced to grant financial assistance in the form of a subsidy on the purchase of an outboard motor of 2HP to 5 HP for the operation of the fishing canoe below 26 feet. The applications are accepted only in offline mode.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "fatpomo2t5ffttfc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "657167f9fb2e1ccc6545c0df",
+      "en": {
+        "documentsRequired_md": "\n- Vessel Registration Certificate (VRC) issued by the Captain of Ports or the Directorate of Fisheries, Government of Goa, duly incorporating the details of the Outboard Motor purchased.\n- River Gill Net Registration Certificate (RGNC) and License Certificate (LC) issued by the Department of Fisheries.\n- Undertaking as per proforma.\n- Copy of Aadhaar Card.\n- Scheduled Tribe/Scheduled Caste Certificate (ST/SC Certificate) (if applicable).\n- Mandate Form along with Bank Passbook.\n- Caste Certificate/Professional Certificate.\n- Original Invoice from the Authorized Dealer towards the purchase of the Outboard Motor of 2HP to 5HP.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Vessel Registration Certificate (VRC) issued by the Captain of Ports or the Directorate of Fisheries, Government of Goa, duly incorporating the details of the Outboard Motor purchased."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "River Gill Net Registration Certificate (RGNC) and License Certificate (LC) issued by the Department of Fisheries."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Undertaking as per proforma."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Scheduled Tribe/Scheduled Caste Certificate (ST/SC Certificate) (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mandate Form along with Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate/Professional Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original Invoice from the Authorized Dealer towards the purchase of the Outboard Motor of 2HP to 5HP."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "657165f056594941c9dba2fc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:53:20.299159+00:00",
+  "scheme_id": "657165f056594941c9dba2fc"
+}

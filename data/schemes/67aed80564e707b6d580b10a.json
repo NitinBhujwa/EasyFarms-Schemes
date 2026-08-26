@@ -1,0 +1,204 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The eligible beneficiary should fill out the prescribed application form, including mandatory details like bank account information, and submit it to the Gram Panchayat for recommendation."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " The recommended application should be sent to the Janpad Panchayat for approval and then forwarded to the District Panchayat (Agriculture Standing Committee) for final approval."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": "  After approval, the District Officer should direct the selected beneficiary to purchase the breeding male pig from a government pig rearing center or locally."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "The purchase should be physically verified by the Sarpanch, Urban Councillor, local Veterinary Assistant Surgeon, and Assistant Veterinary Field Officer. The verified bill and Panchayat fee receipt (if applicable) should be submitted to the District Officer."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:"
+            },
+            {
+              "text": " Upon successful verification, the District Officer should transfer the prescribed grant amount to the beneficiary’s bank account and notify the beneficiary."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The eligible beneficiary should fill out the prescribed application form, including mandatory details like bank account information, and submit it to the Gram Panchayat for recommendation.\n**Step 2:** The recommended application should be sent to the Janpad Panchayat for approval and then forwarded to the District Panchayat (Agriculture Standing Committee) for final approval.\n**Step 3:**  After approval, the District Officer should direct the selected beneficiary to purchase the breeding male pig from a government pig rearing center or locally.\n**Step 4:** The purchase should be physically verified by the Sarpanch, Urban Councillor, local Veterinary Assistant Surgeon, and Assistant Veterinary Field Officer. The verified bill and Panchayat fee receipt (if applicable) should be submitted to the District Officer.\n**Step 5:** Upon successful verification, the District Officer should transfer the prescribed grant amount to the beneficiary’s bank account and notify the beneficiary.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "90% of the unit cost (purchase price) or a maximum subsidy of ₹3,500/-, whichever is lower (for Scheduled Caste (SC) and Scheduled Tribe (ST)  category).\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d86b59c3f18b0add9d3554ccdd196675ca03bbb74e6a4c2880b2fa5d5e609eea",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Male Pig Distribution Scheme&quot;, implemented by the Animal Husbandry Department, Government of Chhattisgarh, provides financial assistance to beneficiaries from the Scheduled Caste (SC) and Scheduled Tribe (ST) categories for purchasing one male pig of an improved breed (Middle White Yorkshire).\nThe beneficiary can purchase one breeding male pig of Middle White Yorkshire breed, aged 6 months to 1 year, from a government pig rearing project or locally.\n",
+  "eligibility": "\n1. The applicant should belong to the Scheduled Caste / Scheduled Tribe category.\n1. The applicant should be a resident of Chhattisgarh.\n1. The beneficiary should purchase a male pig of the improved breed (Middle White Yorkshire).\n1. The pig should be between the 6th months the 1st year of age.\n1. The purchase should be made from a Government-rearing project or a local authorized source.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:11:48.527160+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:11:48.527160+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandary Department",
+    "value": 2200002
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriportal.cg.nic.in/ahd/state_schemes/3_anudan_par_nar_sukar_vitran.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67aed85f64e707b6d580b186",
+      "en": {
+        "documentsRequired_md": "\n- ID proof\n- Bank Account Details.\n- Caste Certificate\n- Any Other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "ID proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other documents (if required)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67aed80564e707b6d580b10a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": null,
+  "scheme_id": "67aed80564e707b6d580b10a",
+  "scheme_name": "Male Pig Distribution Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "MPDS",
+  "slug": "mpds",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Chhattisgarh",
+    "value": 22
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal",
+    "Scheduled Castes",
+    "Scheduled Tribes",
+    "Male Pig"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

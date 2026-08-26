@@ -1,0 +1,249 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01: "
+                },
+                {
+                  "text": "The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Bonafide farmers on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "1. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Horticulture Officer"
+                    }
+                  ],
+                  "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2. Horticulture Development Officer."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nBonafide farmers on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\nSupply of Bio-pesticides/Bio-agents and equipment at 50% subsidy.\n> **Type of Assistance:**\n\n1. Free distribution of Bio-pesticides/Bio-agents.\n2. 50% subsidy sale on Plant protection equipment.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "57faa221afb6a5494dccaab2e54d0c7a4a4a1c1244e55873fe62b7c3e1724c8a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Plant Protection Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to control pests and diseases including weeds and rodents of horticultural crops by the distribution of bio-pesticides/Bio-agents and equipment at 50% subsidy.\n",
+  "eligibility": "\n   1. The applicant/farmer should be a resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 (hectares) or more.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:52.963379+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:04:52.963379+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=99"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65c4e64bed4030e118d23f15",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65c4e636cd96dc5e074bd4ea"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65c4e636cd96dc5e074bd4ea",
+  "scheme_name": "Plant Protection Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "PPS",
+  "slug": "pps",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Plant Protection",
+    "Bio-pesticides",
+    "Bio-agents",
+    "Subsidy",
+    "Farmer",
+    "Agriculture",
+    "Horticulture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

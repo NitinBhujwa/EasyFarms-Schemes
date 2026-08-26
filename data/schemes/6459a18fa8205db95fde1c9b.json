@@ -1,0 +1,281 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Apply on http://tenders.nddb.coop/sitepages/tenders.aspx "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Screening of EOL by NDDB."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Identified applicant to submit DPR, EMD and tie up for 50% loan."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Screening of DPR, Field verification and presentation by applicant."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Final selection of applicant and recommendation to bank/financial institution for the loan."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Proposal with sanctioned bank loan approved by DAHD."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Release of 50% subsidy after the release of 1st tranche of the loan."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "25% subsidy after all infra is in place along with induction of animals."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "25% of subsidy after 10% of calves are born."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "ol_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": "http://tenders.nddb.coop/sitepages/tenders.aspx "
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c06ac6d67f25764ec1c615990a6943b6faaf100232ead6771e05bd55b85da0e4",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "It is proposed to make available a 50% capital subsidy (limited to Rs. 2.00 Crore) to the interested entrepreneur for the construction of cattle sheds, equipment, procurement of elite bull mothers etc. The entrepreneur will establish a breed multiplication farm (BMF) and produce elite heifers using sexed semen or IVF technology. \nDisease-free heifers (free from at least TB, JD &amp;amp; Brucella) produced at the BMF will be sold to interested farmers and HGM bulls born at BMF will be procured by semen stations for semen production, subject to qualifying Minimum Standards for production of frozen semen. BMF will also act as the training centre to conduct training for farmers and entrepreneurs.\nThere is no system available in the country for producing disease-free elite animals of indigenous breeds of cattle and buffalo or exotic breeds of cattle. Therefore it is proposed to establish breed multiplication farms through an entrepreneurship model to make available disease-free high-yielding heifers/pregnant heifers /cows preferably of indigenous breeds of cattle/buffaloes in the country. \n&lt;br&gt;\n\n",
+  "eligibility": "\n   1. The applicant shall be an entrepreneur-aggregator /private individual, SHGs/FPOs/FCOs/ JLGs and Section 8 companies who have their registered offices in India.\n   1. Entrepreneur/applicant shall have appropriate experience in breeding or rearing dairy animals\n   1. The entrepreneur/applicant will be responsible for arranging land of suitable size and location. At least having ownership/lease deed of 5 acres of land.\n   1. The entrepreneur/applicant will make its own arrangement for the procurement of feed and fodder as per the requirement of the farm\n   1. The entrepreneur will establish a breed multiplication farm of at least 200 milch cows/buffalo and use the latest breeding technology to continuously upgrade the stock.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:03.856292+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:03.856292+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry and Veterinary Department",
+    "value": 1511112
+  },
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://ahvety.mizoram.gov.in/uploads/attachments/2e2033ccb4f81a68125d2531528b92a7/breed-multiplication-farm-entrepreneurship-scheme-english.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6459a1e8db1f8be7d3b4a362",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Certificate of Incorporation and Partnership Deed, if any."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "For individuals, a copy of their Aadhar card along with a Bank statement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of their activity: Certificate of experience in breeding and rearing of dairy animals from the local Govt. Veterinarian."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "copy of ownership document/lease deed."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Commitment letter from the supplier of feed and fodder."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Affidavit (Annexure-III)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Note: Download forms from "
+              },
+              {
+                "children": [
+                  {
+                    "text": "here"
+                  }
+                ],
+                "link": "https://www.nddb.coop/information/establishment-of-breed-multiplication-farms",
+                "type": "link"
+              },
+              {
+                "text": "."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6459a18fa8205db95fde1c9b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6459a18fa8205db95fde1c9b",
+  "scheme_name": "Breed Multiplication Farm Entrepreneurship",
+  "scheme_open_date": "2014-01-01",
+  "scheme_short_title": "BMFE",
+  "slug": "bmfe",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Mizoram",
+    "value": 15
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Breed Multiplication Farms",
+    "Heifers Of Cattle And Buffaloes",
+    "Forconstruction Of Cattle",
+    "Farmers Scientist Interaction",
+    "Cattle And Buffalo Breeding"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

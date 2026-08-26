@@ -1,0 +1,298 @@
+{
+  "detail": {
+    "data": {
+      "_id": "681ddfab689952af09866042",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:"
+                  },
+                  {
+                    "text": " Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "Fill in the application form with accurate details. Attach the required documents."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Submit the form to the District Office of the Deputy Director of Horticulture."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture.\n**Step 2:** Fill in the application form with accurate details. Attach the required documents.\n**Step 3:** Submit the form to the District Office of the Deputy Director of Horticulture.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Trainning Scheme for Horticulture Skill Development to Landless farm labour at Centre of Excelence of Department",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TSHSDFL",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Horticulture Training",
+            "Skill Development",
+            "Farmer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be any of the following:"
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "All Farmers."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Farm Labourer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Horticulturists."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Landless Agricultural Labourers."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant should be any of the following:\n\n\n   1. All Farmers.\n   1. Farm Labourer.\n   1. Horticulturists.\n   1. Landless Agricultural Labourers.\n\n\n  - The applicant must be a resident of Gujarat.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Stipend:"
+                    },
+                    {
+                      "text": " ₹250/- per trainee."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Other Facilities: "
+                    },
+                    {
+                      "text": "Dining facility, training literature kit, experiential education tour, trainee kit, etc."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "\n- **Stipend:** ₹250/- per trainee.- **Other Facilities:** Dining facility, training literature kit, experiential education tour, trainee kit, etc.\n",
+          "briefDescription": "The \"Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department\" aims to provide skill development training in horticulture to landless farm labourers through the Centres of Excellence.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, is designed to uplift landless agricultural workers by equipping them with essential horticulture skills through training. Conducted across Gujarat, the training spans a minimum of three days to a maximum of five days and includes modules like experiential learning tours, training kits, stipend, expert-led sessions, and more."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, is designed to uplift landless agricultural workers by equipping them with essential horticulture skills through training. Conducted across Gujarat, the training spans a minimum of three days to a maximum of five days and includes modules like experiential learning tours, training kits, stipend, expert-led sessions, and more.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 562)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            },
+            {
+              "title": "User Manual (Applicant Registration)",
+              "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tshsdfl"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "681ddfe2a2ed4f89b964929d",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Bank Pass Book/Cancelled Cheque.\n1. Ration Card.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "681ddfab689952af09866042"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:04:04.787456+00:00",
+  "scheme_id": "681ddfab689952af09866042"
+}

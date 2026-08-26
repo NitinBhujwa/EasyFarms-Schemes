@@ -1,0 +1,172 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Fill in the application form on plain paper as per the instructions."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Attach all required documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Submit the completed application to the District Registrar for processing."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Fill in the application form on plain paper as per the instructions.\n**Step 2:** Attach all required documents.\n**Step 3:** Submit the completed application to the District Registrar for processing.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Financial Assistance:** ₹1,00,000/- (One Lakh Rupees) per eligible market committee.\n<br>\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "3bed66734e944928b1094974fa9616195c5a02dfd08640a85a62c8c0876e320e",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&quot;A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees&quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support market committees to set up e-market facilities, enhancing transparency and efficiency in agricultural marketing across the state.\n",
+  "eligibility": "\n   1. Co-operative Market Committees shall be eligible under this scheme.\n   1. The committee must operate within Gujarat.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:40.300665+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:40.300665+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "680b69ae2446bbe083d1c7ba",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of cooperative market committee registration.\n   1. Details of the proposed e-market facility setup.\n   1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of cooperative market committee registration."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Details of the proposed e-market facility setup."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "680b6978197a2fd77e4bb473"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "680b6978197a2fd77e4bb473",
+  "scheme_name": "A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees",
+  "scheme_open_date": null,
+  "scheme_short_title": "SPABEM",
+  "slug": "spabem",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "E-Market"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

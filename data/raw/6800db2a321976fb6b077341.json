@@ -1,0 +1,454 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6800db2a321976fb6b077341",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "GGVB’s nodal officer"
+                          }
+                        ],
+                        "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                        "type": "link"
+                      },
+                      {
+                        "text": " of the concerned district with the necessary documents listed in the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here."
+                          }
+                        ],
+                        "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the [GGVB’s nodal officer](https://gauseva.gujarat.gov.in/Home/Address) of the concerned district with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Scheme for Rearing Purebreed Gir/ Kankarage Male Cow Calves with Excellent Genetic Quality",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SFRPGKGQ",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Cattle Breeding",
+            "Cattle Development"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Gaushalas must be registered under the Charity Act."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The institutions should have all the facilities for rearing calves."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note:"
+                    },
+                    {
+                      "text": " The institutions where calves are reared will be selected by the Gauseva and Gaucher Vikas Board."
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Gaushalas must be registered under the Charity Act.\n   1. The institutions should have all the facilities for rearing calves.\n\n&gt; **Note:** The institutions where calves are reared will be selected by the Gauseva and Gaucher Vikas Board.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Years) for Reclaiming Constituent Benefits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Scheme for rearing purebreed Gir / Kankarage male cow calves with excellent genetic quality"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The institution will be assisted upto 50% of the total cost with a maximum of ₹10,000/- for the maintenance of per calf in the first year and a maximum of ₹15,000/- per year for the maintenance of per calf in the second and third years."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "3 year"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Constituent Benefits**Scheme for rearing purebreed Gir / Kankarage male cow calves with excellent genetic qualityThe institution will be assisted upto 50% of the total cost with a maximum of ₹10,000/- for the maintenance of per calf in the first year and a maximum of ₹15,000/- per year for the maintenance of per calf in the second and third years.3 year<br>\n\n",
+          "briefDescription": "The scheme provides financial assistance to registered Gaushalas for rearing purebred Gir or Kankrej male cow calves with high genetic quality to promote pure breeding in indigenous cattle.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Scheme for Rearing Purebreed Gir/ Kankarage Male Cow Calves with Excellent Genetic Quality” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to encourage the rearing of Gir and Kankrej male cow calves of superior genetic quality. The primary objective is to ensure the availability of high-quality breeding bulls for pure breeding of indigenous cows across Gujarat."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Scheme for Rearing Purebreed Gir/ Kankarage Male Cow Calves with Excellent Genetic Quality” was launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat to encourage the rearing of Gir and Kankrej male cow calves of superior genetic quality. The primary objective is to ensure the availability of high-quality breeding bulls for pure breeding of indigenous cows across Gujarat.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=0O/rKA8v29ofg1pWLLd3eA==&domain=A36Rf7FTT/556gX2TyXKFw=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sfrpgkgq"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6800db6d321976fb6b077395",
+      "en": {
+        "documentsRequired_md": "\n   1. Registration certificate of Gaushala (under Public Charity).\n   1. Proof of infrastructure/facilities for calf rearing.\n   1. Bank account details of the institution.\n   1. Land ownership or lease proof (if applicable).\n   1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Registration certificate of Gaushala (under Public Charity)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of infrastructure/facilities for calf rearing."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details of the institution."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land ownership or lease proof (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "6800db2a321976fb6b077341"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:09:55.181813+00:00",
+  "scheme_id": "6800db2a321976fb6b077341"
+}

@@ -1,0 +1,315 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Visit the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "official website"
+                    }
+                  ],
+                  "link": "https://agri.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": " of the Gujarat government's agriculture department."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Navigate to the Mukhya Mantri Kisan Sahay Yojana page."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Download the application form for the scheme."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fill in the application form with accurate details."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Attach the required documents such as proof of land ownership, crop loss certificate, and bank loan documents."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Submit the application form along with the supporting documents to the nearest agricultural office or bank branch."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "url": "https://agri.gujarat.gov.in/"
+    },
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Farmers need to visit their nearest E Gram Centre to apply for financial assistance under Mukhyamantri Kisan Sahay Yojana in case of crop loss due to natural calamity."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The assistant present at the centre will fill out the application form for farmers free of cost."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Aadhar Card and Proof of Land Records are mandatorily needed to fill out the application form."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Once the Application Form is finally submitted, the assistant will provide a printout of the application form to the farmer."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The application Form along with all the documents will be forwarded to District Agriculture Officer for verification."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "District Agriculture Officer will do physical verification of the agricultural field and access the crop loss of the farmer."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Then DAO submits its report to the Department of Agriculture for final approval."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "After final approval from the department, the amount of financial assistance will be transferred to the given bank account of the farmer."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "e75edde90156e7445770fc68831553e6ba70bf327a1a0e9d681cb328a30fde93",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "**Details**\nMukhya Mantri Kisan Sahay Yojana is implemented by the Revenue Department of the Government of Gujarat in collaboration with the Agriculture and Co-operation Department. The Revenue Department is responsible for the implementation of the scheme, including the verification of crop damage and the disbursal of compensation to eligible farmers. The Agriculture and Co-operation Department provides technical assistance and support for the implementation of the scheme to ensure that farmers receive timely and adequate relief in case of crop damage due to natural calamities.\n&lt;br&gt;\n\n**Key Points**\n\n   1. The main objective behind launching this scheme is to provide financial assistance to farmers of Gujarat in case of crop loss.\n   1. Financial Assistance will only be provided to farmers if Crop Loss is due to natural calamities.\n   1. No premium will have to pay by the farmers to get themselves registered under Mukhyamantri Kisan Sahay Yojana.\n   1. Financial Assistance will only be paid up to a maximum of 4 Hectares of Agricultural Land.\n   1. Eligible Farmers can apply by visiting their nearest E Gram Centre to avail the benefit of financial assistance in case of crop loss.\n\n&lt;br&gt;\n\n",
+  "eligibility": "**Eligibility** \n\n1. The applicant must be a farmer residing in Gujarat state.\n1. The applicant must have availed of a loan for agricultural purposes from a cooperative institution or a bank.\n1. The applicant must have suffered crop loss due to natural calamities such as drought, flood, or earthquake.\n1. The applicant must possess the land for agricultural purposes in his/her name or have the right to cultivate such land.\n1. The land should be surveyed by the Revenue Department of Gujarat and should have a record of rights.\n1. The crop loss should be certified by the Revenue Department of Gujarat.\n1. The applicant should have insured the crop under the Pradhan Mantri Fasal Bima Yojana or any other crop insurance scheme recognized by the Government of Gujarat.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:35.648670+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:35.648670+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://agri.gujarat.gov.in/MMKSY.htm"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "644a4616323b598814229285",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "List of the required documents"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of land ownership."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Crop loss certificate issued by a government authority."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank loan documents related to farming activities."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card or other government-issued identification."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passbook of the bank account where the financial assistance will be disbursed."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as specified in the application form."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "644a45df323b598814229279"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "644a45df323b598814229279",
+  "scheme_name": "Mukhyamantri Kisan Sahay Yojana",
+  "scheme_open_date": "2019-09-06",
+  "scheme_short_title": "MKSY",
+  "slug": "mksy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Kisan Sahay",
+    "Drought",
+    "Flood",
+    "Earthquake",
+    "Natural Calamities",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

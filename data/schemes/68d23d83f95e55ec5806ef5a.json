@@ -1,0 +1,613 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Village Selection and Committee Formation"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Check eligibility on web portal https://pmagy.gov.in for villages with more than 40% Scheduled Caste population and total population ≥ 500. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Constitute Village Level Convergence Committee headed by Sarpanch including all Scheduled Caste Gram Panchayat members, Anganwadi Workers, ASHA workers, and line officials. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Complete village registration on the centralized Management Information System portal with committee composition and demographic details."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Need Assessment and Data Collection"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Conduct comprehensive household-wise survey for all 50 socio-economic developmental monitorable indicators across 10 domains through Village Level Convergence Committee."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Input collected data in Format I for village level data, Format II for infrastructural needs, and Format III-A for family and individual needs."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Complete Format III-B as consolidation capturing all family and individual needs at village level with gap analysis."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Village Development Plan Preparation and Approval"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Prepare comprehensive Village Development Plan through auto-generation on portal based on inputs in all required formats. Present complete plan including infrastructure development, convergence planning, and Gap-filling requirements to Gram Sabha for formal approval. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Obtain Gram Sabha resolution approving the Village Development Plan and upload approved plan with resolution on online portal."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "District Level Appraisal and Fund Release"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Submit Gram Sabha approved Village Development Plan to District Level Project Appraisal cum Convergence Committee for technical appraisal and final approval. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Receive first installment of ₹80,000/- for administrative expenses upon village selection to initiate capacity building and awareness activities. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Obtain release of complete Gap-filling fund of ₹20,00,000/- after District Level Committee approval preferably in single installment."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Implementation and Progress Monitoring"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Execute approved infrastructure works using Gap-filling funds within 2 years while ensuring convergence with other Central and State schemes. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Update monthly progress on infrastructure and individual needs fulfillment through Formats IV and V with real-time scoring in Format VI. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Conduct annual social audit by Gram Sabha and submit progress reports, utilization certificates, and photographic evidence through online portal."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:****** ***Village Selection and Committee Formation***\n\n- Check eligibility on web portal https://pmagy.gov.in for villages with more than 40% Scheduled Caste population and total population ≥ 500. \n- Constitute Village Level Convergence Committee headed by Sarpanch including all Scheduled Caste Gram Panchayat members, Anganwadi Workers, ASHA workers, and line officials. \n- Complete village registration on the centralized Management Information System portal with committee composition and demographic details.\n\n**Step 2:****** ***Need Assessment and Data Collection***\n\n- Conduct comprehensive household-wise survey for all 50 socio-economic developmental monitorable indicators across 10 domains through Village Level Convergence Committee.\n- Input collected data in Format I for village level data, Format II for infrastructural needs, and Format III-A for family and individual needs.\n- Complete Format III-B as consolidation capturing all family and individual needs at village level with gap analysis.\n\n**Step 3:****** ***Village Development Plan Preparation and Approval***\n\n- Prepare comprehensive Village Development Plan through auto-generation on portal based on inputs in all required formats. Present complete plan including infrastructure development, convergence planning, and Gap-filling requirements to Gram Sabha for formal approval. \n- Obtain Gram Sabha resolution approving the Village Development Plan and upload approved plan with resolution on online portal.\n\n**Step 4:****** ***District Level Appraisal and Fund Release***\n\n- Submit Gram Sabha approved Village Development Plan to District Level Project Appraisal cum Convergence Committee for technical appraisal and final approval. \n- Receive first installment of ₹80,000/- for administrative expenses upon village selection to initiate capacity building and awareness activities. \n- Obtain release of complete Gap-filling fund of ₹20,00,000/- after District Level Committee approval preferably in single installment.\n\n**Step 5:****** ***Implementation and Progress Monitoring***\n\n- Execute approved infrastructure works using Gap-filling funds within 2 years while ensuring convergence with other Central and State schemes. \n- Update monthly progress on infrastructure and individual needs fulfillment through Formats IV and V with real-time scoring in Format VI. \n- Conduct annual social audit by Gram Sabha and submit progress reports, utilization certificates, and photographic evidence through online portal.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n- **Gap-filling Fund:** ₹20,00,000/- per newly selected village for carrying out infrastructure developmental requirements which cannot be carried out through convergence with other schemes.- **Administrative Expenses**: ₹1,00,000/- per village for technical resource support, training and capacity building, awareness generation, publicity, and Management Information System development and maintenance.- **Additional Round Funding:** ₹9,50,000/- per village for Gap-filling component and ₹50,000/- for administrative expenses after completion of 5 years for continuous development.- **Convergence Support:** Access to 3 to 4 times of Gap-filling funds from existing Central and State Schemes or matching grants from State Governments.- **Infrastructure Development:** Development of adequate infrastructure necessary for socio-economic development including drinking water, sanitation, education, health, rural roads, housing, electricity facilities.- **Capacity Building:** Training and orientation programs for Village Level Convergence Committee members and other functionaries.\n##### ***Disbursement***\n\n- Direct transfer to State Governments and Union Territory Administrations, then to District Administrations.\n- Released in two installments - First installment (₹80,000/- or ₹40,000/- as applicable) immediately on selection of villages; Second installment (₹20,00,000/- or ₹9,50,000/- as applicable) after Village Development Plan finalization.\n- Administrative expenses released at beginning of financial year; Gap-filling funds released after Village Development Plan approval.\n- Gap-filling funds to be utilized within 2 years from date of release; convergent implementation continues for additional 3 years.\n\n##### ***Conditions***\n\n- _Villages must maintain Open Defecation Free status and achieve score of 70 or above on monitorable indicators for declaration as Adarsh Gram._\n- _Village Level Convergence Committee must conduct Need Assessment, data collection, gap analysis and prepare Village Development Plan in online mode._\n- _Village Development Plan must be approved by Gram Sabha and District Level Convergence Committee._\n- _State Governments and Union Territory Administrations must ensure convergence of at least 3 to 4 times of Gap-filling funds from other schemes._\n- _Monthly progress reporting on fulfilling infrastructure and individual needs through prescribed formats._\n- _Social audit by Gram Sabha at least once a year for transparency and better utilization._\n- _Real-time updating of progress in centralized Management Information System portal._\n- _Submission of utilization certificates in prescribed formats as per General Financial Rules 2017._\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    },
+    {
+      "label": "Transport & Infrastructure",
+      "value": "628ce924d6d1a3bde4685354"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "9c9c5c624fe87021f57c304866d3ed59356524062c0256aef49959eaf705be63",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM-AJAY)&quot; was launched by the Ministry of Social Justice and Empowerment, Department of Social Justice and Empowerment, Government of India. The component &quot;Development of Scheduled Caste dominated villages into Adarsh Gram&quot; aims to achieve integrated development of selected villages primarily through implementation of existing Central and State Government schemes in a convergent manner, ensuring access to quality services and infrastructure development in villages having Scheduled Caste population more than 40% and total population ≥ 500. The scheme provides Gap-filling funding of ₹20,00,000/- per village for infrastructure development and administrative expenses of ₹1,00,000/- per village for capacity building, awareness generation, need assessment, and Village Development Plan preparation. The scheme focuses on saturating 50 socio-economic developmental monitorable indicators across 10 domains including drinking water and sanitation, education, health and nutrition, social security, rural roads and housing, electricity and clean fuel, agricultural practices, financial inclusion, digitization, and livelihood and skill development.\n<br>\n\n",
+  "eligibility": "\n- The village must have more than 40% Scheduled Caste population as per the latest available Census data.\n\n\n- The village must have total population ≥ 500 as per the latest available Census data.\n- The village must be willing to participate in convergence implementation with other Central and State Government schemes.\n- The village must constitute Village Level Convergence Committee headed by Sarpanch or Pradhan of the village.\n- The village must complete Need Assessment exercise for all 50 monitorable indicators across 10 developmental domains.\n- The village must prepare comprehensive Village Development Plan through online portal https://pmagy.gov.in.\n- The village must obtain approval of Village Development Plan from Gram Sabha.\n- The village must get Village Development Plan approved by District Level Project Appraisal cum Convergence Committee.\n- The village should commit to utilize Gap-filling funds within 2 years from date of release.\n- The village should agree to continue convergent implementation for additional 3 years after fund utilization period.\n\n***Selection Process***\nVillages will be selected in descending order of their Scheduled Caste population percentage.\n***Priority***\nVillages having less than or equal to 40% Scheduled Caste population but overall high number of persons belonging to Scheduled Castes shall be taken up after covering eligible villages with more than 40% Scheduled Caste population.\n<br>\n\n",
+  "exclusions": "\n- Villages not meeting minimum Scheduled Caste population criteria of 40% or total population criteria of 500 are not eligible.\n- Villages unwilling to participate in convergence implementation are excluded.\n- Villages unable to constitute Village Level Convergence Committee are not eligible.\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:00.885978+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:00.885978+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Social Justice & Empowerment",
+    "value": 11112
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://socialjustice.gov.in/writereaddata/UploadFile/36851753087331.pdf"
+    },
+    {
+      "title": "PM-AJAY Website",
+      "url": "https://pmajay.dosje.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68d23dddf95e55ec5806f244",
+      "en": {
+        "documentsRequired_md": "> ***During Application***\n\n\n- Latest Census Data Proof Showing Scheduled Caste Population Percentage and Total Population.\n- Village Demographic Profile with Household-wise Survey Data.\n- Baseline Data for All 50 Monitorable Indicators across 10 Developmental Domains.\n- Village Boundary Map and Geographic Information.\n- List of All Scheduled Caste Members in Gram Panchayat.\n- Resolution for Constitution of Village Level Convergence Committee.\n- Need Assessment Report in Format I, II, III-A and III-B as per Portal Requirements.\n\n> ***During Village Development Plan Approval***\n\n\n- Comprehensive Village Development Plan Generated through Online Portal.\n- Gram Sabha Resolution Approving Village Development Plan.\n- Gap Analysis Report for All Monitorable Indicators.\n- Convergence Plan with Other Central and State Government Schemes.\n- Action Plan for Infrastructure and Individual Needs (Format IV and V).\n- Baseline Status Report of All 50 Monitorable Indicators (Format VI).\n\n> ***During Fund Release***\n\n\n- District Level Project Appraisal cum Convergence Committee Approval Certificate.\n- Bank Account Details of Implementing Agency.\n- Utilization Certificate of Previous Installments (if Applicable).\n- Progress Report on Need Assessment and Village Development Plan Preparation Activities.\n\n> ***During Progress Monitoring***\n\n\n- Monthly Progress Reports on Infrastructure and Individual Needs Fulfillment.\n- Updated Status of All 50 Monitorable Indicators.\n- Photographic Evidence of Completed Works.\n- Social Audit Reports Conducted by Gram Sabha.\n- Convergence Implementation Progress Reports.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "During Application",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Latest Census Data Proof Showing Scheduled Caste Population Percentage and Total Population."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Village Demographic Profile with Household-wise Survey Data."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Baseline Data for All 50 Monitorable Indicators across 10 Developmental Domains."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Village Boundary Map and Geographic Information."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "List of All Scheduled Caste Members in Gram Panchayat."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolution for Constitution of Village Level Convergence Committee."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Need Assessment Report in Format I, II, III-A and III-B as per Portal Requirements."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "During Village Development Plan Approval",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Comprehensive Village Development Plan Generated through Online Portal."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Gram Sabha Resolution Approving Village Development Plan."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Gap Analysis Report for All Monitorable Indicators."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Convergence Plan with Other Central and State Government Schemes."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Action Plan for Infrastructure and Individual Needs (Format IV and V)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Baseline Status Report of All 50 Monitorable Indicators (Format VI)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "During Fund Release",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "District Level Project Appraisal cum Convergence Committee Approval Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details of Implementing Agency."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Utilization Certificate of Previous Installments (if Applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Progress Report on Need Assessment and Village Development Plan Preparation Activities."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "During Progress Monitoring",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Monthly Progress Reports on Infrastructure and Individual Needs Fulfillment."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Updated Status of All 50 Monitorable Indicators."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photographic Evidence of Completed Works."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Social Audit Reports Conducted by Gram Sabha."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Convergence Implementation Progress Reports."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68d23d83f95e55ec5806ef5a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "68d23d83f95e55ec5806ef5a",
+  "scheme_name": "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM-AJAY) - Adarsh Gram",
+  "scheme_open_date": null,
+  "scheme_short_title": "PMAJAY-AG",
+  "slug": "pmajay-ag",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Infrastructure",
+      "value": "Infrastructure"
+    },
+    {
+      "label": "Rural services",
+      "value": "Rural services"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Roads and road transport",
+      "value": "Roads and road transport"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Village",
+    "Scheduled Caste",
+    "Infrastructure",
+    "Education",
+    "Employment",
+    "Healthcare",
+    "Sanitation",
+    "Livelihood",
+    "Empowerment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Village",
+      "value": "village"
+    }
+  ]
+}

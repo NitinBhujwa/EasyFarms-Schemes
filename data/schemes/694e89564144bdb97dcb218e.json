@@ -1,0 +1,187 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The applicant should contact the office of Fisheries Department, UT Administration of Dadra & Nagar Haveli and Daman & Diu to avail the benefits under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The applicant should contact the office of Fisheries Department, UT Administration of Dadra &amp; Nagar Haveli and Daman &amp; Diu to avail the benefits under the scheme.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\n\n  - Unskilled daily wages rate as notified time to time by the U. T. Administration to the families of the Fishermen those are held 1s time captive/detained by Pakistani Marine Security Agency (PMSA), having valid ID Cards and resident of U.T. of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu.\n\n\n  - **T.A./D.A. to the fishermen during the repatriations from Pakistani Jail:-**\n\n\n   1. Travelling Allowance (T.A.) is admissible at 2nd class Sleeper of Railways Fair.\n   1. Daily Allowance (D.A.) of ₹250/- per day per person is admissible during repatriation.\n\n\n  - One time financial Assistance in the form of back ended subsidy to the registered boat owner of the U.T. of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu to re-construct/ replace their fishing vessels by new fishing vessels @ 25% maximum up to ₹ 10.00 lakh, with waiting period of five years.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "1d92256bb81e4759e6265670518bfadb2a6ad219485b07d011528560ff731a1e",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Financial Assistance to Boat owner / Fishermen Captured by Pakistan Marine Security Agency (PMSA)” has been implemented by the Department of Fisheries, UT Administration of Dadra &amp;amp; Nagar Haveli and Daman &amp;amp; Diu. The scheme aims to help the families of the fishermen affected due to captured by Pakistani Marine Security Agency. Ameliorate the hardship due to apprehension/detention of the fishing vessel, by providing one time back ended financial assistance to the registered and licensed fishing vessel owners operating from the Union Territory to re-construct/replace their fishing boat/engine etc.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of the Union Territory of Dadra &amp; Nagar Haveli and Daman &amp; Diu.\n1. The applicant must be a boat owner or fisherman captured by the Pakistan Marine Security Agency (PMSA), or a family member thereof.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:01:22.488639+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:22.488639+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 38000074
+  },
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://fddgov.in/site/facility"
+    },
+    {
+      "title": "Notification",
+      "url": "https://daman.nic.in/websites/fisheries_department_daman_and_diu/documents/2017/283-16-10-2017.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "694e89921d8404ae8087af37",
+      "en": {
+        "documentsRequired_md": "\n   1. Identity proof\n   1. Passport size photograph\n   1. Residence proof\n   1. Bank account details\n   1. Ration Card\n   1. Any other documents (As per requirement)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity proof"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Passport size photograph"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Residence proof"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Ration Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (As per requirement)"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "694e89564144bdb97dcb218e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "694e89564144bdb97dcb218e",
+  "scheme_name": "Financial Assistance to Boat owner / Fishermen Captured by Pakistan Marine Security Agency (PMSA)-DNH&DD",
+  "scheme_open_date": null,
+  "scheme_short_title": "FABOFPAK",
+  "slug": "fabofpak",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Dadra & Nagar Haveli and Daman & Diu",
+    "value": 38
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Fisherman",
+    "Boat Owner",
+    "PMSA",
+    "Subsidy",
+    "Fishing Vessels"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

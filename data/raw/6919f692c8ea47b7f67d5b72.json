@@ -1,0 +1,309 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6919f692c8ea47b7f67d5b72",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Applications for the establishment of orchards with the latest apple varieties must be submitted to the officers or staff at the Horticulture Mobile team Centres. The application should include land-related documents such as Khasra and Khatauni, along with the applicant’s Aadhaar card, PAN card, Udhyan card, bank account details, and mobile number. Currently, the application process is conducted offline."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "If a beneficiary faces difficulty in filling out the application, personnel at the respective Horticulture Mobile team Centre will provide assistance. Once submitted, the application is forwarded by the Centre to the district level, which then sends it to the Directorate. Upon approval of the beneficiary’s proposal by the Directorate, a government order is issued authorizing the district to grant approval or work orders accordingly."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "After acceptance, the district officer sends the beneficiary an approval letter and notifies them via phone. The establishment of the orchards is then carried out in the presence of departmental officials, followed by an on-site inspection. After verification, the subsidy is disbursed directly into the beneficiary’s bank account."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Beneficiaries will be selected on a first-come, first-served basis."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - Applications for the establishment of orchards with the latest apple varieties must be submitted to the officers or staff at the Horticulture Mobile team Centres. The application should include land-related documents such as Khasra and Khatauni, along with the applicant’s Aadhaar card, PAN card, Udhyan card, bank account details, and mobile number. Currently, the application process is conducted offline.\n  - If a beneficiary faces difficulty in filling out the application, personnel at the respective Horticulture Mobile team Centre will provide assistance. Once submitted, the application is forwarded by the Centre to the district level, which then sends it to the Directorate. Upon approval of the beneficiary’s proposal by the Directorate, a government order is issued authorizing the district to grant approval or work orders accordingly.\n  - After acceptance, the district officer sends the beneficiary an approval letter and notifies them via phone. The establishment of the orchards is then carried out in the presence of departmental officials, followed by an on-site inspection. After verification, the subsidy is disbursed directly into the beneficiary’s bank account.\n  - Beneficiaries will be selected on a first-come, first-served basis.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Very Dense Apple Plantation Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "VDAPS",
+          "schemeSubCategory": [],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Apple Plantation",
+            "Subsidy",
+            "Apple"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Uttarakhand."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "For setting up very dense/seedling apple plantations, the minimum area of 2 Nali (0.04 ha) and the maximum area of 100 Nali (2 ha) will be eligible per beneficiary or group."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. For setting up very dense/seedling apple plantations, the minimum area of 2 Nali (0.04 ha) and the maximum area of 100 Nali (2 ha) will be eligible per beneficiary or group.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, farmers will be provided with a 60% subsidy for establishing orchards of the latest apple varieties. The subsidy is structured as follows: 900 saplings per acre (₹12.36 lakh) for M-9, 540 saplings per acre (₹7.86 lakh) for MM-111, and 440 saplings per acre (₹3.34 lakh) for seedlings."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The subsidy will be calculated on a pro-rata basis according to the number of very dense apple orchards and saplings actually established by the applicant."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme, farmers will be provided with a 60% subsidy for establishing orchards of the latest apple varieties. The subsidy is structured as follows: 900 saplings per acre (₹12.36 lakh) for M-9, 540 saplings per acre (₹7.86 lakh) for MM-111, and 440 saplings per acre (₹3.34 lakh) for seedlings.\nThe subsidy will be calculated on a pro-rata basis according to the number of very dense apple orchards and saplings actually established by the applicant.\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote intensive apple cultivation among farmers by establishing modern orchards with high-yielding varieties and providing financial assistance through a 60% subsidy on saplings, thereby enhancing productivity and increasing farmers’ income.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Very Dense Apple Plantation Scheme” is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote intensive apple cultivation among farmers by establishing modern orchards with high-yielding varieties and providing financial assistance through a 60% subsidy on saplings, thereby enhancing productivity and increasing farmers’ income."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Very Dense Apple Plantation Scheme” is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote intensive apple cultivation among farmers by establishing modern orchards with high-yielding varieties and providing financial assistance through a 60% subsidy on saplings, thereby enhancing productivity and increasing farmers’ income.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 221)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "vdaps"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6919fbc1c8ea47b7f67d6bfc",
+      "en": {
+        "documentsRequired_md": "\n1. Land-related documents such as Khasra and Khatauni\n1. Aadhaar card\n1. PAN card\n1. Udhyan card\n1. Bank account details\n1. Mobile number\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land-related documents such as Khasra and Khatauni"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Udhyan card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6919f692c8ea47b7f67d5b72"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:11.131566+00:00",
+  "scheme_id": "6919f692c8ea47b7f67d5b72"
+}

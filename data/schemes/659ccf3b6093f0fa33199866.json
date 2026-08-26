@@ -1,0 +1,315 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit the office of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "concerned authority"
+                }
+              ],
+              "link": "https://fisheries.py.gov.in/sub-offices",
+              "type": "link"
+            },
+            {
+              "text": " i.e. the Department of Fisheries and Fishermen Welfare/Sub-Offices of outlying regions in all four regions."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should request the hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://fisheries.py.gov.in/sites/default/files/aquarium20subsidy20notification.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "*The affected family (legal heir) should apply immediately within 30 days from the date of the event for consideration in case of the death of the fishermen."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit the office of the [concerned authority](https://fisheries.py.gov.in/sub-offices) i.e. the Department of Fisheries and Fishermen Welfare/Sub-Offices of outlying regions in all four regions.\n**Step 1:** The interested applicant should request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/aquarium20subsidy20notification.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n****The affected family (legal heir) should apply immediately within 30 days from the date of the event for consideration in case of the death of the fishermen.***\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "₹ 1,00,000 as immediate death relief assistance for the family (legal heir) of the deceased fisherman, received within 15 days to 3 months from the date of receipt of the application from the affected family.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "bafa385aa8dd673d335e8ba42600e37df43ec658d6cfbb5205a246ec5700057b",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Immediate Death Relief Assistance&quot; is a Sub-Component under the scheme &quot;Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme&quot;. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective of extending financial assistance to the fishermen&#39;s families to compensate for the loss due to the sudden demise of the breadwinner and to support them financially to run their family. \n",
+  "eligibility": "\n- The applicant should be the family (legal heir) of the deceased fisherman.\n- The deceased fisherman should have been a resident of the Union territory of Puducherry.\n- The deceased fisherman must have lost his/her life while fishing. \n- The deceased fisherman must have been in the age group of 18-60 years.\n- The deceased fisherman must not have been a beneficiary of the old age pension scheme. \n- The deceased fisherman should have enrolled as a member of the Fishermen/Fisherwomen Co-operative Society. \n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:03.704309+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:03.704309+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Fishermen Welfare Department, Puducherry",
+    "value": 34000015
+  },
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://fisheries.py.gov.in/sites/default/files/immediate20relief20notification.pdf"
+    },
+    {
+      "title": "State Plan Schemes",
+      "url": "https://fisheries.py.gov.in/sites/default/files/fisheries-state-plan-schemes.pdf"
+    },
+    {
+      "title": "List Of Sub-Offices",
+      "url": "https://fisheries.py.gov.in/sub-offices"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.py.gov.in/contact-us"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "659ccf4ea733b1d7327ab7d7",
+      "en": {
+        "documentsRequired_md": "\n- Photograph of the Family (Legal Heir) of the Deceased.\n- Residential Certificate of the Deceased Fishermen.\n- Proof of Age of the Deceased Fishermen.\n- Declaration That the Deceased Fisherman Was Not a Beneficiary of the Old Age Pension Scheme. \n- Membership Certificate from the President/Administrator of Fishermen/Fisherwoman Co-operative Society. \n- ‘No Claim’ Certificate in Respect of Financial Assistance Extended by the Revenue Department (to Be Obtained From the Department of Revenue and Disaster Management) for Consideration.\n- Electoral Identity Card (Attested Copy)\n- Ration Card (Attested Copy)\n- Panchayathar’s Letter of Village Concerned\n- Name, Relationship, and Address of the Legal Heir (Affidavit in ₹ 5 Stamp Paper, Affixing as the Legal Heir Duly Signed in Before a Notary Public).\n- Death Certificate in Case of Deceased Fishermen.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Photograph of the Family (Legal Heir) of the Deceased."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residential Certificate of the Deceased Fishermen."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Age of the Deceased Fishermen."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration That the Deceased Fisherman Was Not a Beneficiary of the Old Age Pension Scheme. "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Membership Certificate from the President/Administrator of Fishermen/Fisherwoman Co-operative Society. "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "‘No Claim’ Certificate in Respect of Financial Assistance Extended by the Revenue Department (to Be Obtained From the Department of Revenue and Disaster Management) for Consideration."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Electoral Identity Card (Attested Copy)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card (Attested Copy)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Panchayathar’s Letter of Village Concerned"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Name, Relationship, and Address of the Legal Heir (Affidavit in ₹ 5 Stamp Paper, Affixing as the Legal Heir Duly Signed in Before a Notary Public)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Death Certificate in Case of Deceased Fishermen."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "659ccf3b6093f0fa33199866"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "659ccf3b6093f0fa33199866",
+  "scheme_name": "\"Immediate Death Relief Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\"",
+  "scheme_open_date": null,
+  "scheme_short_title": "WRFLSNCS-IDRA",
+  "slug": "wrflsncs-idra",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Crisis/Disaster/Accident",
+      "value": "Crisis/Disaster/Accident"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Death",
+    "Fisherman",
+    "Relief",
+    "Financial Assistance",
+    "Family"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

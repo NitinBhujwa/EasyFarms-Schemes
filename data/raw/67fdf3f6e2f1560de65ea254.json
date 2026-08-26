@@ -1,0 +1,449 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67fdf3f6e2f1560de65ea254",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the confirmed application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note:"
+                      },
+                      {
+                        "text": " Required Documents can also be submitted in hard copies to the office mentioned in the application form within 7 days."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n&gt; **Note:** Required Documents can also be submitted in hard copies to the office mentioned in the application form within 7 days.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Assistance of Concentrate Feed for Pregnant Animals (Scheduled Tribe Category)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ACFPAST",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Animal Husbandry",
+            "Pregnant Cattle",
+            "Milk Production"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a livestock owner."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must belong to the Scheduled Tribe Category."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The animal/ cattle should be in the last trimester of pregnancy."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a livestock owner.\n1. The applicant must belong to the Scheduled Tribe Category.\n1. The animal/ cattle should be in the last trimester of pregnancy.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Remarks"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Years) for Reclaiming Benefits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Concentrate Feed"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": " 250 kg BIS type II Concentrate feed per beneficiary"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "100% assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Every year"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            }
+          ],
+          "benefits_md": "**Name of Component****Standard of assistance****Remarks****Minimum Time Limit (in Years) for Reclaiming Benefits**Concentrate Feed 250 kg BIS type II Concentrate feed per beneficiary100% assistanceEvery year",
+          "briefDescription": "This scheme provides free BIS type II concentrate feed to pregnant cattle owned by Scheduled Tribe Category livestock owners in Gujarat to ensure their good health, boost immunity, prevent metabolic diseases, and enhance milk production.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Assistance of Concentrate Feed for Pregnant Animals (Scheduled Caste Category)\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support Scheduled Tribe livestock owners during the last trimester of cattle pregnancy—a critical period for both the animal and the calf. Through this scheme, 150 kg of BIS Type II concentrate feed is provided free of cost to eligible beneficiaries to enhance milk yield, extend the milking period, and prevent health complications."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Assistance of Concentrate Feed for Pregnant Animals (Scheduled Caste Category)&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support Scheduled Tribe livestock owners during the last trimester of cattle pregnancy—a critical period for both the animal and the calf. Through this scheme, 150 kg of BIS Type II concentrate feed is provided free of cost to eligible beneficiaries to enhance milk yield, extend the milking period, and prevent health complications.\n",
+          "exclusions": null,
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=JuJqalrUUVNZk/IIpDoWvA==&domain=12ewfiAgGqKRe600IL5Z/w=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "acfpast"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67fdf4038e880c684922aa53",
+      "en": {
+        "documentsRequired_md": "\n1. Barcoded ration card.\n1. Government approved photo ID (Aadhaar, Voter ID, etc.).\n1. Certificate of natural breeding or artificial insemination of the animal.\n1. Animal pregnancy diagnosis certificate.\n1. Disability certificate from a competent authority (only if the applicant is disabled).\n1. Caste Certificate.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Barcoded ration card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Government approved photo ID (Aadhaar, Voter ID, etc.)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate of natural breeding or artificial insemination of the animal."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Animal pregnancy diagnosis certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability certificate from a competent authority (only if the applicant is disabled)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67fdf3f6e2f1560de65ea254"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:05.711928+00:00",
+  "scheme_id": "67fdf3f6e2f1560de65ea254"
+}

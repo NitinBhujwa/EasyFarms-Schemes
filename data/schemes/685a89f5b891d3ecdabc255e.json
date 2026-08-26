@@ -1,0 +1,630 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process on Antyodaya-SARAL Portal:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Visit the Official Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal."
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Login to Apply for the Scheme:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Visit the Official Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal."
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Track Your Service Online:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Track Application/Appeal: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Click here"
+                        }
+                      ],
+                      "link": "https://status.saralharyana.nic.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Track Ticket: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Click here"
+                        }
+                      ],
+                      "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                      "type": "link"
+                    },
+                    {
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Track Your Service Through SMS:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Registered Mobile Number:"
+                    },
+                    {
+                      "text": " Type SARAL and send to 9954699899 to track your application."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Other Mobile Number: "
+                    },
+                    {
+                      "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Helpline: "
+                    },
+                    {
+                      "text": "0172-3968400"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Email: "
+                    },
+                    {
+                      "text": "saral.haryana@gov.in"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note: ",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Govt. Charges:"
+                    },
+                    {
+                      "text": " No Fee"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Service Charges:  "
+                    },
+                    {
+                      "text": " ₹10/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Atal Seva Kendra Service Charges:"
+                    },
+                    {
+                      "text": "  ₹10/-"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&lt;br&gt;\n\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&lt;br&gt;\n\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&lt;br&gt;\n\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&lt;br&gt;\n\n&gt; **Contact Us:**\n\n\n  - **Helpline:** 0172-3968400  - **Email:** saral.haryana@gov.in\n&lt;br&gt;\n\n&gt; **Note:** \n\n\n  - **Govt. Charges:** No Fee  - **Service Charges:**   ₹10/-  - **Atal Seva Kendra Service Charges:**  ₹10/-\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Subsidy :** ₹10,000/- per 100 LPD (Maximum ₹30,000/-) for FPC system and ₹3,000/- per 100 LPD (Maximum ₹9,000/-) is being provided.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c85b6c7c256cc61b0b1732ec59a16b2795e06196bb9f6426740f03b554825a02",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Solar Water Heating System (Domestic Sector)&amp;quot; implemented by the Renewable Energy Department, Government of Haryana, aims to promote renewable energy usage and reduce dependence on conventional heating methods by providing financial subsidies to encourage the installation of solar water heating systems in the domestic sector. It also seeks to reduce electricity and fuel bills and promote environmentally sustainable solutions for households.\n",
+  "eligibility": "\n   1. Any resident family of Haryana.\n   1. Government employees of Haryana residing in Chandigarh.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:53.572838+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:53.572838+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Renewable Energy Department",
+    "value": 666697
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=7Dp055F6MhNzBJWgZnQ20A=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "685a8a4855fcecc791ec15cd",
+      "en": {
+        "documentsRequired_md": "\n- Identity/Citizenship Proof (Any one of the following):\n\n  - Aadhaar Card.\n\n- Resident Proof/Address Proof/Ownership Proof (Any one of the following):\n\n  - Aadhaar Card.\n  - Ration Card.\n\n- Applicant Photograph.\n- PAN Card.\n- Invoice.\n- System photograph.\n- BIS certificate / Test Report.\n- Commissioning Report.\n- Cancelled cheque.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity/Citizenship Proof (Any one of the following):"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Aadhaar Card."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ul_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "align_justify"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Resident Proof/Address Proof/Ownership Proof (Any one of the following):"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "text": "Aadhaar Card."
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Ration Card."
+                              }
+                            ],
+                            "type": "list_item"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "align_justify"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicant Photograph."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "PAN Card."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Invoice."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "System photograph."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "BIS certificate / Test Report."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Commissioning Report."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Cancelled cheque."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "685a89f5b891d3ecdabc255e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "685a89f5b891d3ecdabc255e",
+  "scheme_name": "Solar Water Heating System (Domestic Sector)",
+  "scheme_open_date": null,
+  "scheme_short_title": "SWHSDS",
+  "slug": "swhsds",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Renewable Energy",
+    "Solar Water Heater",
+    "Solar Energy",
+    "Green Energy Initiative"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

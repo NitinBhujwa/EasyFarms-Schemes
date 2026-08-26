@@ -1,0 +1,527 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67d26bcd777a17dd53e0bcb4",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1:"
+                          },
+                          {
+                            "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://ikhedut.gujarat.gov.in/"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2:"
+                          },
+                          {
+                            "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3:"
+                          },
+                          {
+                            "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 4:"
+                          },
+                          {
+                            "text": " Click on \"Apply New\" button and submit a new application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 5:"
+                          },
+                          {
+                            "text": " Click on the \"Update Application\" button to add corrections to the application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 6: "
+                          },
+                          {
+                            "text": "Once the application is done, confirm it."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 7:"
+                          },
+                          {
+                            "text": " Take a print out of the confirmed application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 8:"
+                          },
+                          {
+                            "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": " "
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "bold": true,
+                                "text": "Note: "
+                              },
+                              {
+                                "text": "Application will be accepted on the principle of first come, first serve bases within the target limits."
+                              }
+                            ],
+                            "type": "list_item"
+                          }
+                        ],
+                        "type": "ul_list"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Contact Us:"
+                          },
+                          {
+                            "text": " "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "block_quote"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n\n  - **Note:** Application will be accepted on the principle of first come, first serve bases within the target limits.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kisan Parivahan Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "KPYG",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Heavy Farm Equipment",
+            "Goods Vehicles"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must belong to the Gujarat state."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must purchase a medium-sized goods vehicle (600kg to 1500kg capacity) from an "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "authorized dealer"
+                        }
+                      ],
+                      "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_DealerDetails.aspx",
+                      "type": "link"
+                    },
+                    {
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The applicant must be a farmer.\n- The applicant must belong to the Gujarat state.\n- The applicant must purchase a medium-sized goods vehicle (600kg to 1500kg capacity) from an [authorized dealer](https://ikhedut.gujarat.gov.in/Public/frm_Public_DealerDetails.aspx).\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of the Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance (For Small, Marginal, Women, SC/ST Farmers)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance (For General/Other Farmers)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Medium-sized goods vehicles (capacity of 600kg to 1500 kg)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "35% of the total vehicle cost or ₹75,000/-, whichever is lower"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "25% of the total vehicle cost or ₹50,000/-, whichever is lower"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note: "
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Minimum Time Limit for Reclaiming  Benefits:"
+                    },
+                    {
+                      "text": " 5 Years"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Name of the Component****Standard of Assistance (For Small, Marginal, Women, SC/ST Farmers)****Standard of Assistance (For General/Other Farmers)**Medium-sized goods vehicles (capacity of 600kg to 1500 kg)35% of the total vehicle cost or ₹75,000/-, whichever is lower25% of the total vehicle cost or ₹50,000/-, whichever is lower> **Note:** \n\n\n- **Minimum Time Limit for Reclaiming  Benefits:** 5 Years\n<br>\n\n",
+          "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to provide financial assistance to farmers for purchasing medium-sized goods vehicles to facilitate the transportation of agricultural produce.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Kisan Parivahan Yojana\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by providing financial aid for purchasing goods vehicles with a capacity of 600kg to 1500kg. This helps in easy and cost-effective transportation of harvested crops."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Kisan Parivahan Yojana&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by providing financial aid for purchasing goods vehicles with a capacity of 600kg to 1500kg. This helps in easy and cost-effective transportation of harvested crops.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/0O%E2%9C%A4rKA8v29ofg1pWLLd3eA%E2%99%AC%E2%99%AC"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "kpyg"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67d26c0cb36d179ff804a02b",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Land ownership documents.\n1. Caste certificate (if applicable).\n1. Bank passbook.\n1. Quotation/proforma invoice from an authorized dealer.\n1. Domicile certificate.\n1. Recent passport-size photograph.\n1. Any other document if required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Quotation/proforma invoice from an authorized dealer."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Domicile certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Recent passport-size photograph."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document if required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67d26bcd777a17dd53e0bcb4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:04.880016+00:00",
+  "scheme_id": "67d26bcd777a17dd53e0bcb4"
+}

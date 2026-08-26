@@ -1,0 +1,335 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Visit the o"
+            },
+            {
+              "children": [
+                {
+                  "text": "fficial website"
+                }
+              ],
+              "link": "https://awards.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " and click on the"
+            },
+            {
+              "children": [
+                {
+                  "text": " Registration button."
+                }
+              ],
+              "link": "https://awards.gov.in/Registration/SignUp",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Select your category: Individual or Organization."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Fill in the required details:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Individual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Organization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Click Submit to complete registration."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Apply:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "Log in"
+                }
+              ],
+              "link": "https://awards.gov.in/Login",
+              "type": "link"
+            },
+            {
+              "text": " to the portal using your registered credentials."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Select the scheme from the list of awards and click "
+            },
+            {
+              "children": [
+                {
+                  "text": "\"Nominate / Apply Now\"."
+                }
+              ],
+              "link": "https://awards.gov.in/Home/AwardLibrary",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Fill in all mandatory fields in the online application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Click Submit to complete your application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration:**\n**Step 1:** Visit the o[fficial website](https://awards.gov.in/) and click on the[ Registration button.](https://awards.gov.in/Registration/SignUp)\n**Step 2:** Select your category: Individual or Organization.\n**Step 3:** Fill in the required details:\nIndividual: Name, Date of Birth, Nominator Type, Mobile, Email, Aadhaar Number.\nOrganization: Type, Authorized Person Name, Date of Birth, Organization Description, Designation, Mobile, Email, Aadhaar Number.\n**Step 4:** Click Submit to complete registration.\n**Apply:**\n**Step 1:** [Log in](https://awards.gov.in/Login) to the portal using your registered credentials.\n**Step 2:** Select the scheme from the list of awards and click [&quot;Nominate / Apply Now&quot;.](https://awards.gov.in/Home/AwardLibrary)\n**Step 3:** Fill in all mandatory fields in the online application form.\n**Step 4:** Click Submit to complete your application.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "> **The awardees are presented with certificate and a plaque.**\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "7a965b2c0477576cfbfbfb6a01351688d1e2966452cfae2cd055638c2223ba89",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The National Mineral Awards Scheme was instituted in the year 1966 by the Ministry of Mines, Government of India. The scope of the awards has been expanded and the name changed to National Geoscience Awards (NGA) from 2009.\nThe objective of the scheme is to honour individuals and teams for extraordinary achievements and outstanding contributions in the field of mineral discovery &amp; exploration, fundamental / applied geosciences, mining and allied areas. \n**Broad Disciplines:-**\n1) Mineal Discovery &amp; Exploration \n2) Mining Technology, Mineral Beneficiation &amp; Sustainable Mineral Development \n3) Basic Geosciences\n4) Applied Geosciences\n**No. of Awardees**\n1) National Geoscience Award for Lifetime Achievement - 1 \n2) National Geoscience Award - 10 (Individual/ Team) \n3) National Young Geoscientist Award - 1\n**There are three categories of awards under the National Geoscience Awards:**\n(i) National Geoscience Award for Lifetime Achievement\n(ii) National Geoscience Award and\n(iii) National Young Geoscientist Award\n<br>\n\n",
+  "eligibility": "\n1. The applicant should be an Indian citizen and a professionally qualified geoscientist, engineer, technologist, or academician with significant contributions in relevant fields.\n1. The applicant’s work should primarily be carried out in India within the last ten years, except for the Lifetime Achievement Award.\n1. A team nomination can include a maximum of four members, with limited team awards available.\n1. The applicant for the Young Geoscientist Award should be below 35 years of age as of 31st December of the preceding year.\n1. The applicant can receive an award only once in a particular field but may apply in other fields.\n1. Recipients of the Lifetime Achievement Award are not eligible to apply for any other awards.\n1. A certificate from the head of institution or department confirming the nominee’s work is desirable but not mandatory.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:22.072924+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:22.072924+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mines.gov.in/admin/download/69147a7c06e181762949756.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://awards.gov.in/Home/AwardLibrary"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "69c242ee31e57cf3f03e95d4",
+      "en": {
+        "documentsRequired_md": "\n1. Filled application/nomination form\n1. Proof of Indian citizenship (ID proof)\n1. Educational and professional qualification certificates\n1. Details of work/achievements in geoscience field\n1. Supporting documents or recommendation certificate (if available)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Filled application/nomination form"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Indian citizenship (ID proof)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Educational and professional qualification certificates"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of work/achievements in geoscience field"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Supporting documents or recommendation certificate (if available)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69c2425a53937261838ec002"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "69c2425a53937261838ec002",
+  "scheme_name": "National Geoscience Awards",
+  "scheme_open_date": null,
+  "scheme_short_title": "NGA",
+  "slug": "nga",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Geoscience",
+    "Awards",
+    "Mineral Discovery",
+    "Mining Technology"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

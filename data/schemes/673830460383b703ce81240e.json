@@ -1,0 +1,206 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-1:"
+                },
+                {
+                  "text": " The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-2:"
+                },
+                {
+                  "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-3: "
+                },
+                {
+                  "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-4: "
+                },
+                {
+                  "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step-1:** The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank.\n**Step-2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step-3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step-4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Access to Loan:** Loan amount between ₹49,000/-to ₹79,000/- per acre.  - **Interest Rate:** 11% to 12.75% (subject to change).\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "2daa272f31c627c8409754e580e5de4587cc3c425fc5070b05a6b8eb98541e2c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Primary Cooperative Agriculture and Rural Development Bank: For Sericulture In Irrigated Area&amp;quot; scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to support farmers involved in sericulture within irrigated areas by offering loans ranging from ₹49,000/- to ₹79,000/- per acre. The interest rate varies between 11% to 12.75% (subject to change). \n",
+  "eligibility": "\n   1. The beneficiary should be a resident of Tamil Nadu.\n   1. The beneficiary should be a farmer.\n   1. The beneficiary should be engaged in sericulture activities within irrigated areas.\n   1. The beneficiary should be interested in availing loan for sericulture activities.\n   1. The beneficiary should have the intention to use the loan specifically for sericulture activities.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:26.950359+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:26.950359+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Co-operation, Food and Consumer Protection Department",
+    "value": 3333335
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme_details.php?id=OTM3"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67383065e0235bb34a3e10a8",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof (Aadhaar, PAN card, etc.).\n1. Address proof.\n1. Proof of involvement in Sericulture activities (if required).\n1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof (Aadhaar, PAN card, etc.)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of involvement in Sericulture activities (if required)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents (if required)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "673830460383b703ce81240e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "673830460383b703ce81240e",
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Sericulture In Irrigated Area",
+  "scheme_open_date": null,
+  "scheme_short_title": "PCARDSIA",
+  "slug": "pcardsia",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Sericulture",
+    "Loan",
+    "Farmer",
+    "Agriculture And Rural Development Bank",
+    "Irrigated Area"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

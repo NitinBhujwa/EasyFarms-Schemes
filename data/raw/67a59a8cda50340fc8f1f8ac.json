@@ -1,0 +1,571 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67a59a8cda50340fc8f1f8ac",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration of Application:",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Applications will be registered at the development block-level institution (Veterinary Hospital / Artificial Insemination Centre / Main Village Block)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The prescribed register will record Date, Financial Year, Institution Name, and Registration Date."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Submission of Application:",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Applications must be submitted in the prescribed form at the nearest veterinary institution, such as a veterinary dispensary, artificial insemination sub-centre, main village unit, veterinary hospital, or artificial insemination centre within the development block."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Verification and Forwarding:",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "After registration at the block level, applications will be sent to the departmental district office for verification."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank-linked applications will be verified and forwarded to banks, with details maintained in official records."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "process_md": "**Registration of Application:**\n\n- Applications will be registered at the development block-level institution (Veterinary Hospital / Artificial Insemination Centre / Main Village Block).\n- The prescribed register will record Date, Financial Year, Institution Name, and Registration Date.\n\n**Submission of Application:**\n\n- Applications must be submitted in the prescribed form at the nearest veterinary institution, such as a veterinary dispensary, artificial insemination sub-centre, main village unit, veterinary hospital, or artificial insemination centre within the development block.\n\n**Verification and Forwarding:**\n\n- After registration at the block level, applications will be sent to the departmental district office for verification.\n- Bank-linked applications will be verified and forwarded to banks, with details maintained in official records.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandary Department",
+            "value": 2200002
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeName": "Rajya Dairy Udhyamita Vikas Yojna",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "RDUVY",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Chhattisgarh",
+            "value": 22
+          },
+          "tags": [
+            "Agriculture",
+            "Animal",
+            "Dairy",
+            "Financial Assistance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Chhattisgarh for at least five years."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be purchase a maximum of two milch animals under the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be entitled to 50% subsidy (up to ₹70,000/-) for general category and 66.6% subsidy (up to ₹93,200/-) for SC/ST category."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be responsible for any additional costs beyond the scheme’s provisions, with no subsidy provided for the excess amount."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should ensure that the purchased animal is in milk production, not older than five years, and capable of producing at least 10 liters of milk per day at the time of purchase."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have the animal insured for a minimum period of three years (total five years recommended) at the time of unit setup."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a landless, small or marginal farmer, BPL family member, milk co-operative society member, village resident on a milk collection route, Garva Yojana beneficiary, women SHG member, or an existing dairy farmer, as they will receive priority."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be the only eligible beneficiary from a joint family."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should not own at least two high-breed dairy animals at the time of applying for the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a resident of Chhattisgarh for at least five years.\n1. The applicant should be purchase a maximum of two milch animals under the scheme.\n1. The applicant should be entitled to 50% subsidy (up to ₹70,000/-) for general category and 66.6% subsidy (up to ₹93,200/-) for SC/ST category.\n1. The applicant should be responsible for any additional costs beyond the scheme’s provisions, with no subsidy provided for the excess amount.\n1. The applicant should ensure that the purchased animal is in milk production, not older than five years, and capable of producing at least 10 liters of milk per day at the time of purchase.\n1. The applicant should have the animal insured for a minimum period of three years (total five years recommended) at the time of unit setup.\n1. The applicant should be a landless, small or marginal farmer, BPL family member, milk co-operative society member, village resident on a milk collection route, Garva Yojana beneficiary, women SHG member, or an existing dairy farmer, as they will receive priority.\n1. The applicant should be the only eligible beneficiary from a joint family.\n1. The applicant should not own at least two high-breed dairy animals at the time of applying for the scheme.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Dairy Unit Grant Details",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "1. Financial Assistance for Dairy Units"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Eligible Animals:"
+                    },
+                    {
+                      "text": " Indian dairy breeds (Sahiwal, Red Sindhi, Gir, Tharparkar, etc.), advanced crossbreed cows, and high-breed buffaloes."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Maximum Limit: "
+                    },
+                    {
+                      "text": "Financial support for up to two milch animals."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Total Finance Cost:"
+                    },
+                    {
+                      "text": " ₹1,40,000/- (₹70,000/- per animal, including three years of insurance)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "2. Subsidy Details"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "For General Category Beneficiaries:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "50% subsidy on the actual cost, up to ₹70,000/- per unit."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "For SC/ST Beneficiaries: 66.6% subsidy, up to ₹93,200/- per unit."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note:",
+                  "underline": true
+                },
+                {
+                  "text": " Unit cost per animal is based on the Government of India’s guidelines (Letter No. F 1-1/2009-DP, dated 02 May 2018)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Dairy Unit Grant Details**\n**1. Financial Assistance for Dairy Units**\n\n- **Eligible Animals:** Indian dairy breeds (Sahiwal, Red Sindhi, Gir, Tharparkar, etc.), advanced crossbreed cows, and high-breed buffaloes.- **Maximum Limit:** Financial support for up to two milch animals.- **Total Finance Cost:** ₹1,40,000/- (₹70,000/- per animal, including three years of insurance).\n**2. Subsidy Details**\n**For General Category Beneficiaries:**\n\n- 50% subsidy on the actual cost, up to ₹70,000/- per unit.\n- For SC/ST Beneficiaries: 66.6% subsidy, up to ₹93,200/- per unit.\n\n**Note:** Unit cost per animal is based on the Government of India’s guidelines (Letter No. F 1-1/2009-DP, dated 02 May 2018).\n",
+          "briefDescription": "The \"Rajya Dairy Udhyamita Vikas Yojna\", under the Animal Husbandry Department of Chhattisgarh, aims to promote dairy entrepreneurship among youth. With the increasing demand for milk and dairy products, the scheme supports high-breed cow/buffalo rearing as a profitable business.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "the scheme \"Male Pig Distribution Scheme\" is an Animal Husbandry scheme by the Animal Husbandry Department, Government of Chhattisgarh, aims to promote dairy entrepreneurship among youth. With the increasing demand for milk and dairy products, the scheme supports high-breed cow/buffalo rearing as a profitable business."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Objectives:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Encourage self-employment in the dairy sector."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Boost dairy farming as an additional income source."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Increase milk production and improve nutrition."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Support the expansion of existing dairy units."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "the scheme &quot;Male Pig Distribution Scheme&quot; is an Animal Husbandry scheme by the Animal Husbandry Department, Government of Chhattisgarh, aims to promote dairy entrepreneurship among youth. With the increasing demand for milk and dairy products, the scheme supports high-breed cow/buffalo rearing as a profitable business.\n<br>\n\n**Objectives:**\nEncourage self-employment in the dairy sector.\nBoost dairy farming as an additional income source.\nIncrease milk production and improve nutrition.\nSupport the expansion of existing dairy units.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agriportal.cg.nic.in/ahd/state_schemes/1_Rajya_Dairy_Udhyamita_Vikas_Yojna.pdf"
+            },
+            {
+              "title": "Amendment",
+              "url": "https://agriportal.cg.nic.in/PortEn/Default.aspx"
+            },
+            {
+              "title": "Application Form",
+              "url": "https://agriportal.cg.nic.in/ahd/PDF_common/BeneficiaryForm/RDUVY_2019_Application_Form_204.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "rduvy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67a59ba3da50340fc8f1fa74",
+      "en": {
+        "documentsRequired_md": "\n1. Identity Card\n1. Chhattisgarh Domicile Certificate\n1. Caste Certificate\n1. Address Verification Document\n1. Details of the unit establishment location\n1. Project Report\n1. Proof of funds in case of self-financing\n1. Insurance Documents \n1. Bank Account Details\n1. Vaccination Certificate for the purchased livestock.\n1. Address &amp; Identity Proof of the applicant.\n1. Existing dairy farmers must provide photographs of dairy animals and dairy units.\n1. Contract Form signed by the beneficiary &amp; two witnesses (commitment to operate the unit for at least 5 years).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Chhattisgarh Domicile Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Verification Document"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of the unit establishment location"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of funds in case of self-financing"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Insurance Documents "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Vaccination Certificate for the purchased livestock."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address & Identity Proof of the applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Existing dairy farmers must provide photographs of dairy animals and dairy units."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Contract Form signed by the beneficiary & two witnesses (commitment to operate the unit for at least 5 years)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67a59a8cda50340fc8f1f8ac"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:39.978481+00:00",
+  "scheme_id": "67a59a8cda50340fc8f1f8ac"
+}

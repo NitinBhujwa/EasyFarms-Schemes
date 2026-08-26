@@ -1,0 +1,436 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65ccb0b0cd96dc5e0752fab3",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 01: "
+                  },
+                  {
+                    "text": " Farmer Registration"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 02:"
+                  },
+                  {
+                    "text": "  Select user type and complete Aadhar authentication."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 03: "
+                  },
+                  {
+                    "text": " Profile completion (Mobile number, Address details, Land & land holding information)"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 04: "
+                  },
+                  {
+                    "text": " Apply for Individual Farm Pond (a) select scheme Chief Minister Sustainable Agriculture Irrigation Scheme (b) Select farm pond type (with inlet outlet or without inlet outlet) (c) Select farm pond size.  "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "https://mahadbt.maharashtra.gov.in/"
+                      }
+                    ],
+                    "link": "https://mahadbt.maharashtra.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "link": "https://mahadbt.maharashtra.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "",
+                        "underline": true
+                      }
+                    ],
+                    "link": "https://mahadbt.maharashtra.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 01:**  Farmer Registration\n<br>\n\n**Step 02:**  Select user type and complete Aadhar authentication.\n<br>\n\n**Step 03:**  Profile completion (Mobile number, Address details, Land &amp; land holding information)\n<br>\n\n**Step 04:**  Apply for Individual Farm Pond (a) select scheme Chief Minister Sustainable Agriculture Irrigation Scheme (b) Select farm pond type (with inlet outlet or without inlet outlet) (c) Select farm pond size.  \n<br>\n\n[**https://mahadbt.maharashtra.gov.in/**](https://mahadbt.maharashtra.gov.in/)\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 27111111
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeName": "Chief Minister Sustainable Agriculture Irrigation Scheme - Magel Tyala Shettale (Individual Farm Pond) ",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "CHIEF MINISTER SUSTAINABLE AGRICULTURE IRRIGATION SCHEME",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "state": {
+            "label": "Maharashtra",
+            "value": 27
+          },
+          "tags": [
+            "MahaDBT",
+            "Individual Farm Pond",
+            "Magel Tyala Shettale",
+            "Chatrapati Shivaji Maharaj Krishi Yojana"
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "1) Farmer should hold at least (Minimum) 0.20 ha. land and Kokan region, while it is 0.40 ha. limit for rest of Maharashtra."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "2) The applicant farmers land will have to be technically suitable for digging farm pond. So that the runoff rainwater can be stored in the farm pond through natural flow and recharge will be possible. In case of farm ponds without inlet and outlet there should be a natural source from where extra runoff during rainy season can be lifted and stored in farm pond."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "3) Before applying for farm pond, the applicant farmers should not have availed the subsidy for farm pond, community tank or bodi in paddy bunding or any Government Scheme."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "1) Farmer should hold at least (Minimum) 0.20 ha. land and Kokan region, while it is 0.40 ha. limit for rest of Maharashtra.\n2) The applicant farmers land will have to be technically suitable for digging farm pond. So that the runoff rainwater can be stored in the farm pond through natural flow and recharge will be possible. In case of farm ponds without inlet and outlet there should be a natural source from where extra runoff during rainy season can be lifted and stored in farm pond.\n3) Before applying for farm pond, the applicant farmers should not have availed the subsidy for farm pond, community tank or bodi in paddy bunding or any Government Scheme.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "1) Financial Assistance is given to farmers."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2)The subsidy payable to an individual farmer minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "1) Financial Assistance is given to farmers.\n2)The subsidy payable to an individual farmer minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond.\n",
+          "briefDescription": "Under this scheme subsidy payable to individual farmer is minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Chief Minister Sustainable Agriculture Irrigation Scheme-Magel Tyala Shettale (Individual Farm Pond) has been launched by Ministry of Agriculture, Animal Husbandry, Dairy Development & Fishries Department, Maharashtra State in the year 2022-23 (vide G.R. Dated 29 th June, 2022)"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme subsidy payable to individual farmer is minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Out of total area, 82 percent area of agriculture land in the state is rainfed and is dependent on rainfall. Water stress due to uneven distribution of rains and periodic interruptions in rains leads to large reduction in crop production. Sometimes crops are also destroyed. Farm ponds, in such situation plays an important role in providing protective irrigation and reduces crop losses substantially. Considering this matter, Chief Minister Sustainable Agriculture Irrigation Scheme-Individual Farm Pond has been sanctioned by the Maharashtra State Govt. vide G.R. Dated 29th June,2022."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The scheme is implemented in all districts of the state. Under this scheme the subsidy payable to individual farmer is minimum Rs 14433/- and maximum Rs 75000/- depending on the size of the farm pond. Farmers should hold at least 0.20 ha land in Kokan region, while it is 0.40 ha limit for rest of the Maharashtra. Online applications are invited from farmers under Maha-DBT portal. The scheme is implemented by selecting the beneficiaries online through Maha-DBT portal."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After completion of the farm pond, the subsidy payable under the scheme is credited through the PFMS system to theAadhaar number linked bank account of the farmer. The farm ponds are of two types one being with inlet outlet and the other without inlet and outlet type."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The implementation of the component \"Magel TyalaShettale\" under Chief Minister Sustainable Agriculture Irrigation Scheme was approved videGovernment Circular dated April 25,2023. "
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The name “Chhatrapati Shivaji Maharaj Krishi Yojana\" was given vide GR. dated 18th October 2023."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "Chief Minister Sustainable Agriculture Irrigation Scheme-Magel Tyala Shettale (Individual Farm Pond) has been launched by Ministry of Agriculture, Animal Husbandry, Dairy Development &amp;amp; Fishries Department, Maharashtra State in the year 2022-23 (vide G.R. Dated 29 th June, 2022)\nUnder this scheme subsidy payable to individual farmer is minimum Rs.14433/- and maximum Rs.75000/- depending on the size of the farm pond.\n&lt;br&gt;\n\nOut of total area, 82 percent area of agriculture land in the state is rainfed and is dependent on rainfall. Water stress due to uneven distribution of rains and periodic interruptions in rains leads to large reduction in crop production. Sometimes crops are also destroyed. Farm ponds, in such situation plays an important role in providing protective irrigation and reduces crop losses substantially. Considering this matter, Chief Minister Sustainable Agriculture Irrigation Scheme-Individual Farm Pond has been sanctioned by the Maharashtra State Govt. vide G.R. Dated 29th June,2022.\nThe scheme is implemented in all districts of the state. Under this scheme the subsidy payable to individual farmer is minimum Rs 14433/- and maximum Rs 75000/- depending on the size of the farm pond. Farmers should hold at least 0.20 ha land in Kokan region, while it is 0.40 ha limit for rest of the Maharashtra. Online applications are invited from farmers under Maha-DBT portal. The scheme is implemented by selecting the beneficiaries online through Maha-DBT portal.\nAfter completion of the farm pond, the subsidy payable under the scheme is credited through the PFMS system to theAadhaar number linked bank account of the farmer. The farm ponds are of two types one being with inlet outlet and the other without inlet and outlet type.\nThe implementation of the component &amp;quot;Magel TyalaShettale&amp;quot; under Chief Minister Sustainable Agriculture Irrigation Scheme was approved videGovernment Circular dated April 25,2023. \nThe name “Chhatrapati Shivaji Maharaj Krishi Yojana&amp;quot; was given vide GR. dated 18th October 2023.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": "Farmers who have availed the subsidy for farm pond, community tank or bodi in paddy bunding under any Government Scheme previously is not eligible for subsidy again."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "Farmers who have availed the subsidy for farm pond, community tank or bodi in paddy bunding under any Government Scheme previously is not eligible for subsidy again.\n",
+          "references": [
+            {
+              "title": "Chief Minister Sustainable Agriculture Irrigation Scheme GR",
+              "url": "https://gr.maharashtra.gov.in/Site/Upload/Government%20Resolutions/English/202206291827382601.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "chief-minister-sustainable-agriculture-irrigation-scheme"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "684fc76ddf7f9910b3b967da",
+      "en": {
+        "documentsRequired_md": "\n- **Aadhaar Card:** To confirm identity and eligibility for DBT- **Residential Proof:** Voter ID, Ration Card, or other valid documents confirming Maharashtra residency- **Proof of Land Ownership:** 7/12 extract or land ownership certificate must be provided- **Additional Land Records:** 8A extract to support ownership and land details- **Bank Account Details:** Copy of the first page of bank passbook to verify account details- **Passport Size Photograph:** Recent photo to be attached with the application form\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Aadhaar Card:"
+                      },
+                      {
+                        "text": " To confirm identity and eligibility for DBT"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Residential Proof:"
+                      },
+                      {
+                        "text": " Voter ID, Ration Card, or other valid documents confirming Maharashtra residency"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Proof of Land Ownership:"
+                      },
+                      {
+                        "text": " 7/12 extract or land ownership certificate must be provided"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Additional Land Records:"
+                      },
+                      {
+                        "text": " 8A extract to support ownership and land details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Bank Account Details:"
+                      },
+                      {
+                        "text": " Copy of the first page of bank passbook to verify account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Passport Size Photograph:"
+                      },
+                      {
+                        "text": " Recent photo to be attached with the application form"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65ccb0b0cd96dc5e0752fab3"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:49.339222+00:00",
+  "scheme_id": "65ccb0b0cd96dc5e0752fab3"
+}

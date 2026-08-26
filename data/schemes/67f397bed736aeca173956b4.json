@@ -1,0 +1,202 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing sheep through Direct Benefit Transfer (DBT) within one to two months."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_left"
+                    }
+                  ],
+                  "type": "align_justify"
+                }
+              ],
+              "type": "align_left"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - Interested beneficiaries must submit their proposal in an open meeting of the Gram Sabha. Once the proposal is approved, the beneficiary shall submit it to the Veterinary Officer, Livestock Extension Officer, or Gram Panchayat Development Officer of the respective area, or the Gram Panchayat may submit it on behalf of the beneficiary.\n  - Based on the recommendation of the village-level selection committee, the final selection is made by the development block-level committee and forwarded to the Animal Husbandry Department. After selection, the beneficiary will receive funds for purchasing sheep through Direct Benefit Transfer (DBT) within one to two months.\n  - Applicants must submit Aadhaar card, bank account details, and caste certificate along with their proposal.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - Self-employment in sheep rearing is facilitated by providing beneficiaries with a sheep rearing unit comprising 10 female sheep and 1 male sheep for a period of 10 to 14 months. \n  - The total cost of the unit is ₹70,000/-, of which 90% (₹63,000/-) is funded by the State Government, and the remaining 10% (₹7,000/-) is contributed by the beneficiary.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "24b832bee4dde0d2c3fdc442cd26babb6ec444e4e2ab0793af14fdae36e16e30",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Bhed Palan Yojana&amp;quot; was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote sheep rearing as a source of self-employment and livelihood generation for eligible beneficiaries, particularly from SECC categories, by providing financial support for rearing a sheep unit.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must belong to the Scheduled Caste or Scheduled Tribe category.\n1. The applicant must be included in the SECC (Socio-Economic and Caste Census) category.\n1. The applicant should have an interest in sheep rearing.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:18.393287+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:18.393287+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 236)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67f39810b4c840dea665cf0b",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Bank Account Details\n1. Caste Certificate\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67f397bed736aeca173956b4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67f397bed736aeca173956b4",
+  "scheme_name": "Bhed Palan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "BPY",
+  "slug": "bpy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Sheep Rearing",
+    "Sheep",
+    "Scheduled Caste",
+    "Scheduled Tribe",
+    "Self-employment",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,349 @@
+{
+  "detail": {
+    "data": {
+      "_id": "654cd48a5838968fc388a61b",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: Beneficiary Identification and Application"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Extension Officer identifies the beneficiary/applicant and obtains the application for procurement & supply of the baby pulper in the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " (in duplicate). This process includes submitting land records and 25% of the unit cost."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: Procurement Details"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If baby pulpers are procured and supplied by the State Government/Other Agencies, the Extension Officer collects beneficiary details along with 25% of the unit cost of the pulper."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: Beneficiary List Compilation"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Extension Officer compiles a list of identified beneficiaries and submits it to the concerned Deputy Director (Extn.), who consolidates the regional requirements and forwards them to the Joint Director (Extn.), Guwahati."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: Tendering Process"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The Joint Director (Extension), Guwahati completes the tendering process, adhering to all official formalities."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5: Financial Sanction and Order Placement"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "After the tendering process, the Joint Director (Extension), Guwahati obtains financial sanction from the Competent Authority and places the order with the accepted manufacturer. The condition is set for the manufacturer to supply the pulpers to the growers by October."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 6: Machinery Inspection and Payment"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Extension Officers conduct inspections of the machinery at the growers' fields. They then submit the physical verification report to the concerned Deputy Director (Extn.)/Joint Director (Extn.), Guwahati, to effect the suppliers' payment."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Step 1: Beneficiary Identification and Application**\n\nThe Extension Officer identifies the beneficiary/applicant and obtains the application for procurement &amp; supply of the baby pulper in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) (in duplicate). This process includes submitting land records and 25% of the unit cost.\n> **Step 2: Procurement Details**\n\nIf baby pulpers are procured and supplied by the State Government/Other Agencies, the Extension Officer collects beneficiary details along with 25% of the unit cost of the pulper.\n> **Step 3: Beneficiary List Compilation**\n\nThe Extension Officer compiles a list of identified beneficiaries and submits it to the concerned Deputy Director (Extn.), who consolidates the regional requirements and forwards them to the Joint Director (Extn.), Guwahati.\n> **Step 4: Tendering Process**\n\nThe Joint Director (Extension), Guwahati completes the tendering process, adhering to all official formalities.\n> **Step 5: Financial Sanction and Order Placement**\n\nAfter the tendering process, the Joint Director (Extension), Guwahati obtains financial sanction from the Competent Authority and places the order with the accepted manufacturer. The condition is set for the manufacturer to supply the pulpers to the growers by October.\n> **Step 6: Machinery Inspection and Payment**\n\nExtension Officers conduct inspections of the machinery at the growers&#39; fields. They then submit the physical verification report to the concerned Deputy Director (Extn.)/Joint Director (Extn.), Guwahati, to effect the suppliers&#39; payment.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Commerce",
+            "value": 1588
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Commerce And Industry",
+            "value": 1565
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Supply of Baby Pulpers",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "CDPNER:QUC:SBP",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": {
+            "label": "Central Sector Scheme",
+            "value": "central-sector-scheme"
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Subsidy",
+            "DBT"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a tribal grower."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant is eligible for only one unit."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a tribal grower.\n1. The applicant is eligible for only one unit.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Unit Cost: "
+                },
+                {
+                  "text": "Actual cost of the unit or ₹16,000 per unit, whichever is less."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Scale of Subsidy: "
+                },
+                {
+                  "text": "75% of the Unit Cost."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Unit Cost:** Actual cost of the unit or ₹16,000 per unit, whichever is less.\n**Scale of Subsidy:** 75% of the Unit Cost.\n",
+          "briefDescription": "The scheme \"Supply of Baby Pulpers\" aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Supply of Baby Pulpers\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Coffee Development Programme in North Eastern Region: Quality Upgradation / Certification: Supply of Baby Pulpers&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate the improvement of the quality of coffee produced by growers by encouraging them to establish infrastructure for quality enhancement and obtain certification for their coffees, enabling them to earn better returns. This involves three main activities: supply of pulpers, construction of cement drying yards, and eco-certification of coffee holdings.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": "Those who have availed of benefits during the XII plan are not eligible."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "Those who have availed of benefits during the XII plan are not eligible.\n",
+          "references": [
+            {
+              "title": "Guidelines, Application And Declaration Form",
+              "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+            },
+            {
+              "title": "Grower's Registration (UMANG)",
+              "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://coffeeboard.gov.in/contact-us.html"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "cdpnerqucsbp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "654cd49e4407b323640904cb",
+      "en": {
+        "documentsRequired_md": "\n- Proof of Grower&#39;s Registration.\n- Land records/possession certificate duly certified by the Village Authority/State Government Authority/Competent Authority.\n\n**NOTE:** The land records should be in the name of the beneficiary.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Grower's Registration."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land records/possession certificate duly certified by the Village Authority/State Government Authority/Competent Authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "NOTE: "
+              },
+              {
+                "text": "The land records should be in the name of the beneficiary."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "654cd48a5838968fc388a61b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:07:24.923781+00:00",
+  "scheme_id": "654cd48a5838968fc388a61b"
+}

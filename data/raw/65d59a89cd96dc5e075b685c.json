@@ -1,0 +1,329 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65d59a89cd96dc5e075b685c",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Horticulture."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Mode of Selection of Beneficiary(s):",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The bonafide farmers having sufficient available cultivable land on a first come first served basis."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Whom to Contact:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "District Agriculture Officers of the concerned districts."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Sub-Divisional Agricultural Officers of the concerned sub-divisions."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "District Training Officers, Tura/Shillong."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ol_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Horticulture.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers having sufficient available cultivable land on a first come first served basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-Divisional Agricultural Officers of the concerned sub-divisions.\n   1. District Training Officers, Tura/Shillong.\n   1. Agricultural Development Officers of the concerned Community and Rural Development Blocks.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Organic Manure Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "OMS",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Organic Manure",
+            "Farmer",
+            "Agriculture",
+            "Training"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Meghalaya."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Type of assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Training and awareness campaign in the production of organic composts."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "> **Type of assistance:**\n\n\n- Training and awareness campaign in the production of organic composts.\n\n",
+          "briefDescription": "The objective of the scheme is to provide hands on training at the village level on production of organic compost inputs such as compost for plant health management for sustainable agriculture.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Organic Manure Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide hands-on training at the village level on the production of organic compost inputs such as compost for plant health management for sustainable agriculture."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Organic Manure Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide hands-on training at the village level on the production of organic compost inputs such as compost for plant health management for sustainable agriculture.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=75"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "oms"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65d59d2f938a0b13cc8b9078",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Documents proof of having sufficient available cultivable land\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of having sufficient available cultivable land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65d59a89cd96dc5e075b685c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:53:37.315362+00:00",
+  "scheme_id": "65d59a89cd96dc5e075b685c"
+}

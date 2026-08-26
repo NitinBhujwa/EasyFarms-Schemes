@@ -1,0 +1,275 @@
+{
+  "detail": {
+    "data": {
+      "_id": "666aa0faebb262eb5dbfe77c",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The eligible applicant may contact the nearest veterinary hospital in his/her village."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant can submit their application form to the Deputy Director/Sub-Divisional office of his/her district."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "process_md": "\n- The eligible applicant may contact the nearest veterinary hospital in his/her village.\n- The applicant can submit their application form to the Deputy Director/Sub-Divisional office of his/her district.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry & Dairying Department",
+            "value": 666663
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SEBPUMMAPUY",
+          "schemeSubCategory": null,
+          "schemeType": null,
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "MMAPUY",
+            "Backyard Poultry",
+            "Chicks",
+            "Feeders",
+            "Water Drinkers",
+            "Hatchery",
+            "Unemployed"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "1.\tThe applicant should be a resident of Haryana."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "2.\tThe applicant should be unemployed."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "3.\tThe applicant should be between 18 to 60 years old."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "4.\tThere are no mandatory educational qualifications or training requirements."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "1.\tThe applicant should be a resident of Haryana.\n2.\tThe applicant should be unemployed.\n3.\tThe applicant should be between 18 to 60 years old.\n4.\tThere are no mandatory educational qualifications or training requirements.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n  - 50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.\n\n",
+          "briefDescription": "Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.  ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana. Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep. Any unemployed resident of Haryana aged between 18 and 60 years is eligible to avail of the benefits under this scheme."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana. Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep. Any unemployed resident of Haryana aged between 18 and 60 years is eligible to avail of the benefits under this scheme.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Any group/firm/organization would not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "\n  - Any group/firm/organization would not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented.\n\n",
+          "references": [
+            {
+              "title": "Scheme Details (Page No. 19)",
+              "url": "https://parivarutthan.haryana.gov.in/assets/uploads/Schemes%20booklet%20(%20updated%20%2004.05.2023).pdf"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=ZfWa6itdLCW6DRMCArEPXg%3d%3d"
+            },
+            {
+              "title": "Notification (Page No. 4)",
+              "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/BPU%20Scheme.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sebpummapuy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "666aa12721d7c2ac0d875ee3",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof i.e. Aadhaar Card\n1. Passport size photograph\n1. Proof of residence\n1. Parivaar Pahchan Patra (PPP ID)\n1. Any other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of residence"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Parivaar Pahchan Patra (PPP ID)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "666aa0faebb262eb5dbfe77c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:02:24.158098+00:00",
+  "scheme_id": "666aa0faebb262eb5dbfe77c"
+}

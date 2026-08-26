@@ -1,0 +1,232 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68edf49a8ba160c15f339848",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "There is no application process. Farmers are required to make their produce available for sale at purchase centers established at the farmer group/LC/LCF level or at the PACS level."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "There is no application process. Farmers are required to make their produce available for sale at purchase centers established at the farmer group/LC/LCF level or at the PACS level.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "State Millet Mission",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SMM",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Millet",
+            "Farmer",
+            "Mandua",
+            "Jhangora",
+            "Food Security"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "All farmers from the mountain districts of Uttarakhand are eligible."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. All farmers from the mountain districts of Uttarakhand are eligible.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Under the mission, in the first phase, 16,820 metric tonnes of Mandua and Jhangora are being purchased from farmers’ fields at the minimum support price through cooperative groups by the Cooperative Department."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Under the National Food Security Act, the Government of India will distribute 1 kilogram per month through the Public Distribution System (ration card) via the Food and Supplies Department in four districts: Udham Singh Nagar, Haridwar, Nainital, and Dehradun. Farmers’ groups, LCs/LCFs, or PACS at established procurement centers are free to offer Mandua for sale. To encourage participation, an incentive of ₹150/- per quintal is provided."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Once the PACS accepts the millet crops from the groups, payment will be made through RTGS/NEFT within a maximum of 72 hours."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - Under the mission, in the first phase, 16,820 metric tonnes of Mandua and Jhangora are being purchased from farmers’ fields at the minimum support price through cooperative groups by the Cooperative Department.\n  - Under the National Food Security Act, the Government of India will distribute 1 kilogram per month through the Public Distribution System (ration card) via the Food and Supplies Department in four districts: Udham Singh Nagar, Haridwar, Nainital, and Dehradun. Farmers’ groups, LCs/LCFs, or PACS at established procurement centers are free to offer Mandua for sale. To encourage participation, an incentive of ₹150/- per quintal is provided.\n  - Once the PACS accepts the millet crops from the groups, payment will be made through RTGS/NEFT within a maximum of 72 hours.\n\n<br>\n\n",
+          "briefDescription": "The mission aims to promote millet cultivation, ensure fair prices for farmers, and strengthen food security in the state. It seeks to support farmers, particularly in mountain districts, by procuring millet crops such as Mandua and Jhangora at the minimum support price through cooperative groups.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “State Millet Mission” launched by the Department of Agriculture, Government of Uttarakhand, aims to promote millet cultivation, ensure fair prices for farmers, and strengthen food security in the state. The mission seeks to support farmers, particularly in mountain districts, by procuring millet crops like Mandua and Jhangora at the minimum support price through cooperative groups."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “State Millet Mission” launched by the Department of Agriculture, Government of Uttarakhand, aims to promote millet cultivation, ensure fair prices for farmers, and strengthen food security in the state. The mission seeks to support farmers, particularly in mountain districts, by procuring millet crops like Mandua and Jhangora at the minimum support price through cooperative groups.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 163)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "smm"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68edf4f98ba160c15f339ae7",
+      "en": {
+        "documentsRequired_md": "No documents are required.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "No documents are required."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68edf49a8ba160c15f339848"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:57.540093+00:00",
+  "scheme_id": "68edf49a8ba160c15f339848"
+}

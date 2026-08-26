@@ -1,0 +1,255 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To avail the benefits of this scheme, eligible beneficiaries or groups must submit an application to the office of the Assistant Director of Fisheries or the District Fisheries Incharge at the district level. The application must include an Aadhaar card, land records, permanent residence certificate, bank account details, mobile number, and, in the case of group applications, the relevant registration certificate or land availability certificate."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "(In the future, the application process will be made available online through the "
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "italic": true,
+                      "text": "Apuni Sarkar portal"
+                    }
+                  ],
+                  "link": "https://eservices.uk.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": ".)"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "After submission of the application, a survey is conducted by fisheries inspectors or field personnel, and a proposal is prepared in collaboration with the beneficiary. Once the proposal is finalized, the concerned district officer grants approval. Pond construction work is then carried out under the supervision and technical guidance of field personnel."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "If a beneficiary does not have the required 50% of funds, they may obtain a loan from the nearest cooperative or commercial bank. In the case of a loan, the bank approves the proposal prepared by the department and releases the funds after completing the necessary formalities. Upon completion of the construction, the subsidy is transferred to the beneficiary’s account via DBT based on the completion certificate. In the case of a loan, the subsidy is transferred to the beneficiary through the bank."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Technical assistance from the department is available at any time. If required, beneficiaries are also provided with free training. For fish marketing, beneficiaries are free to sell their produce directly in the market or through UttaraFish, a fishery enterprise established by the department."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - To avail the benefits of this scheme, eligible beneficiaries or groups must submit an application to the office of the Assistant Director of Fisheries or the District Fisheries Incharge at the district level. The application must include an Aadhaar card, land records, permanent residence certificate, bank account details, mobile number, and, in the case of group applications, the relevant registration certificate or land availability certificate.\n\n***(In the future, the application process will be made available online through the*** [***Apuni Sarkar portal***](https://eservices.uk.gov.in/)***.)***\n\n  - After submission of the application, a survey is conducted by fisheries inspectors or field personnel, and a proposal is prepared in collaboration with the beneficiary. Once the proposal is finalized, the concerned district officer grants approval. Pond construction work is then carried out under the supervision and technical guidance of field personnel.\n  - If a beneficiary does not have the required 50% of funds, they may obtain a loan from the nearest cooperative or commercial bank. In the case of a loan, the bank approves the proposal prepared by the department and releases the funds after completing the necessary formalities. Upon completion of the construction, the subsidy is transferred to the beneficiary’s account via DBT based on the completion certificate. In the case of a loan, the subsidy is transferred to the beneficiary through the bank.\n  - Technical assistance from the department is available at any time. If required, beneficiaries are also provided with free training. For fish marketing, beneficiaries are free to sell their produce directly in the market or through UttaraFish, a fishery enterprise established by the department.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "Under this scheme:\n\n  - Pond clusters (a minimum of 10 ponds must be built at one location) are created to better utilize water resources in mountainous areas, individuals of all castes are eligible to receive a 50% grant for pond construction and the first year’s investment, including fish hatchery and feed. A single individual can construct up to 10 ponds, or a group of individuals may construct them collectively.\n  - Free technical assistance is provided for rearing fish species with high growth rates.\n  - Individual beneficiaries are eligible for a grant for pond construction up to 500 cubic meters, with a maximum grant amount of ₹2.5 lakh.\n  - For a society, group, federation, or mangal dal, a maximum grant of ₹5 lakh is provided for pond construction up to 1000 cubic meters.\n  - Beneficiaries are required to contribute the remaining 50% of the cost from their own resources or through a bank loan.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8995ef250caf8bc0c419a072d7ef7a9d366cc40ccf24cfeb9e6ab03549043966",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Scheme for Construction of Ideal Fish Pond in Hilly Areas” was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to encourage individuals and groups to construct fish ponds by providing financial assistance and to promote sustainable fish farming while enhancing livelihood opportunities in the hilly regions of the state.\n<br>\n\n",
+  "eligibility": "\n   1. All caste categories, both women and men from the hilly areas of Uttarakhand who are interested in or engaged in fish production, are eligible under this scheme.\n   1. The beneficiary must have land or leased land and an available water supply source within the state.\n   1. The applicant must be a permanent resident of Uttarakhand.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:11:30.221506+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:11:30.221506+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Fisheries",
+    "value": 50000011
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 246)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68455d7250c110b1567da912",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Khasra-Khatauni of Land (Land Ownership Document)\n1. Permanent Residence Certificate\n1. Bank Account Details\n1. Mobile Number\n1. Photo of construction Site\n1. Relevant registration certificate or land availability certificate (in case of group application)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Khasra-Khatauni of Land (Land Ownership Document)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Permanent Residence Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photo of construction Site"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Relevant registration certificate or land availability certificate (in case of group application)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68455d4eed4abe56e745f9c8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "68455d4eed4abe56e745f9c8",
+  "scheme_name": "Scheme for Construction of Ideal Fish Pond in Hilly Areas",
+  "scheme_open_date": null,
+  "scheme_short_title": "SCIFPHA",
+  "slug": "ifpcsiha",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Pond Cluster",
+    "Pond Construction",
+    "Fish Farming",
+    "Pond",
+    "Hilly Areas",
+    "Fish Pond"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

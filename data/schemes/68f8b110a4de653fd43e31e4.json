@@ -1,0 +1,152 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The benefit will be automatically provided to eligible consumers."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n- The benefit will be automatically provided to eligible consumers.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Electricity Supply at Concessional Rate: Farmers having metered permanent agricultural pumps up to 10 horsepower are provided electricity at a flat rate of ₹750/- per horsepower per year.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Utility & Sanitation",
+      "value": "628ce97ad6d1a3bde468537d"
+    }
+  ],
+  "content_hash": "e76e03358723bd103d809b5f3471254d7e5d8380eebdaceef2e37f220a5f7e6e",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Atal Kisan Jyoti Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to provide concessional electricity to farmers through a flat rate power supply of ₹750/- per horsepower per year to metered agricultural pump consumers up to 10 horsepower.\n<br>\n\n",
+  "eligibility": "\n  - The applicant must be a farmer.\n  - The applicant must be a permanent agricultural pump consumer.\n  - The applicant must have a metered connection.\n  - The applicant’s pump capacity should be up to 10 horsepower.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:36.257126+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:36.257126+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Energy Department",
+    "value": 2300010
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=598"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f8b275cd0b48b25fbe26ab",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof.\n- Any other document as required by the authority.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required by the authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f8b110a4de653fd43e31e4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f8b110a4de653fd43e31e4",
+  "scheme_name": "Atal Kisan Jyoti Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "AKJY",
+  "slug": "akjy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Electricity",
+      "value": "Electricity"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Agricultural Pump"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

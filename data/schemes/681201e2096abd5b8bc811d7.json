@@ -1,0 +1,280 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-1:"
+                },
+                {
+                  "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-2:"
+                },
+                {
+                  "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-3:"
+                },
+                {
+                  "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-4:"
+                },
+                {
+                  "text": " Click on \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-5:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-6: "
+                },
+                {
+                  "text": "Once the application is done, confirm it."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-7:"
+                },
+                {
+                  "text": " Take a print out of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-8:"
+                },
+                {
+                  "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:"
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Click here"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step-1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step-2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step-3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step-4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step-5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step-6:** Once the application is done, confirm it.\n**Step-7:** Take a print out of the confirmed application.\n**Step-8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - Financial assistance up to 75% of the cost or ₹11,250/- per hectare, whichever is lower.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4ae880f6902bb6db5b09f0a0ddd0608aaf745be78b2997c5c6790f6b12c35d5f",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Assistance for Cultivation of Medicinal/ Aromatic Crops&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage the cultivation of medicinal and aromatic plants to promote alternative agriculture and improve farmers&amp;#39; income.\n",
+  "eligibility": "\n   1. The applicant must be a farmer.\n   1. The applicant must be a resident of Gujarat.\n   1. Applicant must possess cultivable land ranging from 0.20 hectares to 4 hectares.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:03.568374+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:03.568374+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "681201f3096abd5b8bc811f1",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate.\n1. Aadhaar Card.\n1. Bank Pass Book/Cancelled Cheque.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "681201e2096abd5b8bc811d7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "681201e2096abd5b8bc811d7",
+  "scheme_name": "Assistance for Cultivation of Medicinal/ Aromatic Crops",
+  "scheme_open_date": null,
+  "scheme_short_title": "AFCMAC",
+  "slug": "afcmac",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Medicinal Crops",
+    "Aromatic Crops"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

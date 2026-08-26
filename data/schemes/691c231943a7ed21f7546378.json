@@ -1,0 +1,162 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The interested farmer must submit the application form along with all relevant documents to the Block/Sub-Division Office of the department in the district. After the survey, if found suitable, the farmer will deposit 20% of the cost as their contribution for the solar pump set in the concerned office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "After receiving the farmer’s contribution, a work order is issued to the firms empanelled/selected by the department for the installation of the solar pump set. Following the site survey, the solar pump is installed."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "&lt;br&gt;\n\nThe interested farmer must submit the application form along with all relevant documents to the Block/Sub-Division Office of the department in the district. After the survey, if found suitable, the farmer will deposit 20% of the cost as their contribution for the solar pump set in the concerned office.\nAfter receiving the farmer’s contribution, a work order is issued to the firms empanelled/selected by the department for the installation of the solar pump set. Following the site survey, the solar pump is installed.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under the scheme, farmers receive an 80% subsidy on the cost of a solar pump set from the Government of India and the State Government, while the remaining 20% of the cost is borne by the farmer. \nThe scheme allows individual farmers to convert their diesel pump sets into solar pump sets of up to 7.5 HP capacity, which helps reduce expenditure on diesel and lowers production costs, thereby increasing farmers’ income.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "027b177a6ef1c6bdbde4c67221ed9e9eb9f41b7fddfa59ed8ca291ed21abcffa",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan Yojana (PM-KUSUM)” is implemented by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to promote clean and affordable irrigation by replacing diesel pump sets with solar-powered pump sets, reducing farmers’ irrigation costs, enhancing energy security, and increasing farmers’ income through sustainable and efficient use of solar energy. The scheme follows a funding pattern of 50% Central share, 30% State share, and 20% farmer share.\n<br>\n\n",
+  "eligibility": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must be a farmer engaged in agricultural activities.\n   1. As per the guidelines of MNRE, Government of India:\n\n\n  - The farmer must agree to contribute 20% of the cost of the solar pump set as the farmer’s share.\n  - The farmer must have his own borewell.\n  - The farmer should currently be using a diesel pump set for irrigation.\n  - A farmer who wishes to install a USPC along with the solar pump set must agree to make 100% payment for the said work.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:54.320116+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:54.320116+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Minor Irrigation Department",
+    "value": 50000029
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 246)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://minorirrigation.uk.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "691c34fb919c65fcc6984d17",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the department’s guidelines prescribed for this scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required as per the department’s guidelines prescribed for this scheme."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691c231943a7ed21f7546378"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "691c231943a7ed21f7546378",
+  "scheme_name": "Pradhan Mantri Kisan Urja Suraksha Evam Utthaan Mahabhiyan Yojana (PM-KUSUM) - Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "PM-KUSUMUK",
+  "slug": "pm-kusumuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Irrigation",
+    "Solar Pumpset",
+    "Agriculture",
+    "Diesel Pumpset"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

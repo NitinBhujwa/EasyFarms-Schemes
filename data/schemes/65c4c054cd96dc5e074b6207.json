@@ -1,0 +1,236 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Step 01: The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Step 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Step 03: Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Mode of Selection of Beneficiary(s):",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Bonafide farmers on a first come first serve basis."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Whom to Contact:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "1. "
+            },
+            {
+              "children": [
+                {
+                  "text": "District Horticulture Officer"
+                }
+              ],
+              "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "2. Horticulture Development Officer"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Application Process:**\n\nStep 01: The eligible bonafide farmer can apply/write an application on plain paper.\nStep 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required).\nStep 03: Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n> **Mode of Selection of Beneficiary(s):**\n\nBonafide farmers on a first come first serve basis.\n> **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\n\n  - Quality planting materials for sale at 50% subsidy and free of cost to the farmers under convergent mode with MGNREGA.\n\n&gt; **Type of Assistance and Entitlement (If any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1To promote fruit cultivation by making available to farmers good quality planting materials including horticultural tools and implements.(i) 50% subsidy sale to the farmers. (ii) Free sampling of planting materials for convergent mode with MGNREGA.2Citrus rejuvenation programme for the senile orchard by providing planting materials for gap filling and organic-based plant protection measures.100% assistance.3Creeper fruit plants like- Kiwi, Grapes, etc. permanent trellies system are provided but planting and erection are to be done by farmers.75% subsidy assistance is limited to 500 sqm per beneficiary.",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "947e049a71b92170af1660b9cecd80a50652f7ed1504ddc7505d3bf788d0bc42",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme ‘Fruit Development Scheme’ was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to make available to the farmers good quality planting materials in convergence mode and sale at subsidized rates.\n",
+  "eligibility": "\n   1. The applicant/farmer should be a resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of at least 0.2 (hectares) or more.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:56:05.106249+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T13:56:05.106249+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=96"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65c4c0d7cd96dc5e074b6357",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65c4c054cd96dc5e074b6207"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65c4c054cd96dc5e074b6207",
+  "scheme_name": "Fruit Development Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "FDS",
+  "slug": "fds",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Fruit Production",
+    "Planting Material",
+    "Subsidy",
+    "Horticultural"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

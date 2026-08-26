@@ -1,0 +1,430 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6842cdad39dee21fa395f412",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "To avail the benefits of the scheme (for pond feed, medicines, and other inputs), the applicant must submit an application to the Assistant Director of Fisheries or the District Fisheries In-charge Office at the district level."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The application should be submitted along with the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, mobile number, and pond details."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "In the future, the application process will be made available online through the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "italic": true,
+                            "text": "Apuni Sarkar Portal"
+                          }
+                        ],
+                        "link": "https://eservices.uk.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "After submission, fisheries inspectors/field personnel will conduct a field survey and prepare a proposal in consultation with the beneficiary. Once the proposal is prepared, it will be approved by the concerned district officer. The fish farmer will then purchase seeds, feed, and medicines from the market and submit the bills to the field personnel. After verification of the bills, the field personnel will forward the details to the district officer, who will arrange for disbursement of 50% of the total cost as subsidy directly into the fish farmer’s bank account."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - To avail the benefits of the scheme (for pond feed, medicines, and other inputs), the applicant must submit an application to the Assistant Director of Fisheries or the District Fisheries In-charge Office at the district level.\n  - The application should be submitted along with the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, mobile number, and pond details.\n\n***In the future, the application process will be made available online through the*** [***Apuni Sarkar Portal***](https://eservices.uk.gov.in/)***.***\n\n  - After submission, fisheries inspectors/field personnel will conduct a field survey and prepare a proposal in consultation with the beneficiary. Once the proposal is prepared, it will be approved by the concerned district officer. The fish farmer will then purchase seeds, feed, and medicines from the market and submit the bills to the field personnel. After verification of the bills, the field personnel will forward the details to the district officer, who will arrange for disbursement of 50% of the total cost as subsidy directly into the fish farmer’s bank account.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Fisheries",
+            "value": 50000011
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "State Fisheries Input Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SFIS",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Fisheries",
+            "Subsidy",
+            "Fish Farming",
+            "Fish Farmer",
+            "Fishermen"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a permanent resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be currently engaged in fish farming."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a permanent resident of Uttarakhand.\n1. The applicant must be currently engaged in fish farming.\n1. The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Fish farmers who are already engaged in fish farming are provided a 50% subsidy on the total cost of essential fishery inputs such as fish feed, medicines, etc."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "A subsidy of 1 quintal of fish feed is provided for a 100 square meter pond, and 6 quintals of fish feed for ponds ranging from 500 to 2000 square meters."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A grant of 7 quintals of fish feed is provided for RAS/Biofloc systems."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A subsidy of 10 quintals of fish feed is provided for trout farming."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A 50% subsidy is provided on the total market rate cost of essential input materials for fisheries such as hand nets, hapas, nets, and minikits."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A 50% subsidy is admissible for one hand net/hapa/net and one minikit per fish farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Fish farmers who are already engaged in fish farming are provided a 50% subsidy on the total cost of essential fishery inputs such as fish feed, medicines, etc.\n\n  - A subsidy of 1 quintal of fish feed is provided for a 100 square meter pond, and 6 quintals of fish feed for ponds ranging from 500 to 2000 square meters.\n  - A grant of 7 quintals of fish feed is provided for RAS/Biofloc systems.\n  - A subsidy of 10 quintals of fish feed is provided for trout farming.\n  - A 50% subsidy is provided on the total market rate cost of essential input materials for fisheries such as hand nets, hapas, nets, and minikits.\n  - A 50% subsidy is admissible for one hand net/hapa/net and one minikit per fish farmer.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to aims to enhance the productivity and income of fish farmers by providing financial support in the form of subsidies on essential fishery inputs such as hand nets, hapa, nets, mini kits, etc.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"State Fisheries Input Scheme\" was launched by the Department of Fisheries, Government of Uttarakhand. The scheme aims to aims to enhance the productivity and income of fish farmers by providing financial support in the form of subsidies on essential fishery inputs such as hand nets, hapa, nets, mini kits, etc."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;State Fisheries Input Scheme&amp;quot; was launched by the Department of Fisheries, Government of Uttarakhand. The scheme aims to aims to enhance the productivity and income of fish farmers by providing financial support in the form of subsidies on essential fishery inputs such as hand nets, hapa, nets, mini kits, etc.\n&lt;br&gt;\n\n&lt;br&gt;\n\n&lt;br&gt;\n\n&lt;br&gt;\n\n<br>\n\n",
+          "exclusions": null,
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 248)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sfis"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6842ce3839dee21fa395f4f1",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Land Records (proof of pond ownership or lease)/ Copy of Khasra / Khatoni\n1. Permanent Residence Certificate\n1. Caste Certificate (If applicable)\n1. Bank Account Details (copy of passbook)\n1. Mobile Number\n1. Details of Pond Related Documents (size, location, and ownership status)\n1. Original Bills/Invoices of procured items (Feed, Medicines, Hand nets, etc.)\n1. Any other documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Records (proof of pond ownership or lease)/ Copy of Khasra / Khatoni"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Permanent Residence Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (If applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details (copy of passbook)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of Pond Related Documents (size, location, and ownership status)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original Bills/Invoices of procured items (Feed, Medicines, Hand nets, etc.)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6842cdad39dee21fa395f412"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:09.096682+00:00",
+  "scheme_id": "6842cdad39dee21fa395f412"
+}

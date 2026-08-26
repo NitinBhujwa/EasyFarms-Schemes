@@ -1,0 +1,146 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The porer member who supplies milk to the societies must submit an application for fodder, addressed to the Secretary of the society. Based on the requirement verified by the concerned society Secretary, the demand is forwarded to the District Milk Union, and the animal nutrition feed is provided to the member through the milk cooperative society itself."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The porer member who supplies milk to the societies must submit an application for fodder, addressed to the Secretary of the society. Based on the requirement verified by the concerned society Secretary, the demand is forwarded to the District Milk Union, and the animal nutrition feed is provided to the member through the milk cooperative society itself.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - Under this scheme, members of milk cooperative societies in hilly and plain rural areas are provided with quality mineral mixtures and probiotics at current rates, receive a 75% subsidy on silage including an upfront subsidy of ₹2.00 per kg.\n  - Compact feed blocks are available at a 50% subsidy, costing the beneficiary ₹8.00 per kg.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "e27b6377144a3cf3fe79154c0e7804d08368648280082bc990eb47b019dc5404",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Silage evam Dudharu Pashu Poshan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to improve the nutrition of dairy animals and enhance milk production by providing subsidized silage and feed to members of milk cooperative societies.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a member of a milk-producing cooperative society supplying milk to the society.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:45.457879+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:45.457879+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Dairy Development Department",
+    "value": 50000068
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 241)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68cbece689d250875d3772bf",
+      "en": {
+        "documentsRequired_md": "Documents required as per the directions of the concerned milk cooperative society.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents required as per the directions of the concerned milk cooperative society."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cbecd789d250875d377258"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68cbecd789d250875d377258",
+  "scheme_name": "Silage evam Dudharu Pashu Poshan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "SDPPY",
+  "slug": "sedpy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Silage",
+    "Milk",
+    "Cooperative Society",
+    "Milch Animals",
+    "Dairy",
+    "Animal Nutrition"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

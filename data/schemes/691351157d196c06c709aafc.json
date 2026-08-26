@@ -1,0 +1,174 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "If a farmer is willing to sell the aromatic oils/products of the 25 identified species at the prescribed minimum support price (details of prices are available on the website), they must first contact CAP, Selaqui. The farmer will then bring the produced oil at their own expense, along with photocopies of the crop registration form, bank statement, and other relevant documents. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The CAP office tests the quality of the oil in its laboratory, and only after passing the quality test are the essential oils/products accepted for purchase. The purchase amount is then transferred directly to the farmer's bank account. If the quality of the oil does not meet the prescribed standards, it will not be purchased."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - If a farmer is willing to sell the aromatic oils/products of the 25 identified species at the prescribed minimum support price (details of prices are available on the website), they must first contact CAP, Selaqui. The farmer will then bring the produced oil at their own expense, along with photocopies of the crop registration form, bank statement, and other relevant documents. \n  - The CAP office tests the quality of the oil in its laboratory, and only after passing the quality test are the essential oils/products accepted for purchase. The purchase amount is then transferred directly to the farmer&amp;#39;s bank account. If the quality of the oil does not meet the prescribed standards, it will not be purchased.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n  - Farmers can sell 25 varieties of aromatic oils/products at the prescribed price to the Centre for Aromatic Plants (CAP).\n  - Farmers are ensured a fair price and a guaranteed market for the aromatic oils they produce.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "e7ec7607b819739a80f5ebd984417851da8cb52684b2a7037906616ec52d07f5",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Minimum Support Price for Aromatic Oils/Products” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to provide registered farmers engaged in aromatic cultivation with a fair price and a guaranteed market for their produce.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The farmer must be engaged in the cultivation of aromatic plants.\n   1. The farmer must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:00:55.477716+00:00",
+  "implementing_agency": "Centre For Aromatic Plants, Selaqui, Dehradun",
+  "last_synced_at": "2026-08-26T14:00:55.477716+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 50000100
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 233)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "691354719df1e73436b4e083",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof\n1. Photocopy of the crop registration form\n1. Bank statement\n1. Other relevant documents (if any)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photocopy of the crop registration form"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank statement"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other relevant documents (if any)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691351157d196c06c709aafc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "691351157d196c06c709aafc",
+  "scheme_name": "Minimum Support Price for Aromatic Oils/Products - Centre for Aromatic Plants",
+  "scheme_open_date": null,
+  "scheme_short_title": "MSPAOPCAP",
+  "slug": "mspaopcap",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Aromatic Cultivation",
+    "Farmer",
+    "Aromatic Plants",
+    "Minimum Support Price",
+    "Aromatic Oil"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

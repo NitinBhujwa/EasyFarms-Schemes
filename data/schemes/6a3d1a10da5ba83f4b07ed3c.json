@@ -1,0 +1,571 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "Visit the official website of the \""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya SARAL"
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/login.do?",
+                  "type": "link"
+                },
+                {
+                  "text": "\" Portal."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " In the \"SIGN IN HERE\" section, click \"New user? Register here\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "The registration form will open in a new window of the browser. Fill in all the mandatory fields of the form. Create a strong password. The password should be at least '9' characters with at least one special character(!@#$%^&*), one numeric, one small case and one upper case letter (i.e. ADmin@357). Fill in the captcha code and click \"Submit\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "An OTP will be sent to the email ID and the Mobile Number provided in the registration form. The OTP received will be for single use only and will be valid for 15 minutes from the time of request. The verification link received over email will be valid for 48 hours from the time of request. On successfully validating the Email ID and Mobile Number via OTP, the following message will be displayed to the user: \"You have successfully registered on https://saralharyana.gov.in/. Please login to the application using your email ID and password\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Visit the official website of the \""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya SARAL"
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/login.do?",
+                  "type": "link"
+                },
+                {
+                  "text": "\" Portal. In the \"SIGN IN HERE\" section, log in using your Login ID and Password."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 6: "
+                },
+                {
+                  "text": "On the next screen, in the left pane, click on ‘Apply for Service’, then click \"View All Available Services\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 7: "
+                },
+                {
+                  "text": "You will be shown a list of schemes/services. Click on the scheme you intend to apply for. You will be taken to its online application form."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 8:"
+                },
+                {
+                  "text": " In the application form, fill in all the mandatory details, click on ‘Self-Declaration’. Enter the verification code/Captcha and click on the ‘Submit’ button."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 9: "
+                },
+                {
+                  "text": "Preview all the filled details and click on ‘Attach Annexure’. Upload all the mandatory documents and click on ‘Save Annexure’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 10: "
+                },
+                {
+                  "text": "After verifying all the details, click on the ‘Submit’ button. Take a printout of the generated ‘Acknowledgement Receipt’ for future reference."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Track Your Application/ Appeal",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Through Portal"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "Visit the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "SARAL Portal"
+                    }
+                  ],
+                  "link": "https://status.saralharyana.nic.in/",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Click \"Tracking Feature\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Select the department and service from the dropdown menu."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "Enter your Appeal/ Application Reference ID (provided to you when you applied for the service) and click on \"CHECK STATUS\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Through SMS"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "From your registered mobile number, send the following SMS to 7738299899:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "SARAL<space>Application ID"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "SARAL Helpline",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "0172-3968400 (7:00 AM to 8:00 PM; Monday to Saturday, excluding Govt Holidays)"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "saral.haryana@gov.in"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "User Manual for Application"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://saralharyana.gov.in/resources/homePage/6/pdf/Using%20Saral.pdf"
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/resources/homePage/6/pdf/Using%20Saral.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "NOTE:"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The applicant should be registered on the Meri Fasal Mera Byora (MFMB) Portal."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant should submit the application through the SARAL Portal within the prescribed period."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant should possess a valid Parivar Pehchan Patra (PPP)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant should have a valid bank account for receiving subsidy."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant should possess a valid Permanent Account Number (PAN)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant should possess a valid Aadhaar Number."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the official website of the &amp;quot;[Antyodaya SARAL](https://saralharyana.gov.in/login.do?)&amp;quot; Portal.\n**Step 2:** In the &amp;quot;SIGN IN HERE&amp;quot; section, click &amp;quot;New user? Register here&amp;quot;.\n**Step 3:** The registration form will open in a new window of the browser. Fill in all the mandatory fields of the form. Create a strong password. The password should be at least &amp;#39;9&amp;#39; characters with at least one special character(!@#$%^&amp;amp;*), one numeric, one small case and one upper case letter (i.e. ADmin@357). Fill in the captcha code and click &amp;quot;Submit&amp;quot;.\n**Step 4:** An OTP will be sent to the email ID and the Mobile Number provided in the registration form. The OTP received will be for single use only and will be valid for 15 minutes from the time of request. The verification link received over email will be valid for 48 hours from the time of request. On successfully validating the Email ID and Mobile Number via OTP, the following message will be displayed to the user: &amp;quot;You have successfully registered on https://saralharyana.gov.in/. Please login to the application using your email ID and password&amp;quot;.\n**Step 5:** Visit the official website of the &amp;quot;[Antyodaya SARAL](https://saralharyana.gov.in/login.do?)&amp;quot; Portal. In the &amp;quot;SIGN IN HERE&amp;quot; section, log in using your Login ID and Password.\n**Step 6:** On the next screen, in the left pane, click on ‘Apply for Service’, then click &amp;quot;View All Available Services&amp;quot;.\n**Step 7:** You will be shown a list of schemes/services. Click on the scheme you intend to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory details, click on ‘Self-Declaration’. Enter the verification code/Captcha and click on the ‘Submit’ button.\n**Step 9:** Preview all the filled details and click on ‘Attach Annexure’. Upload all the mandatory documents and click on ‘Save Annexure’.\n**Step 10:** After verifying all the details, click on the ‘Submit’ button. Take a printout of the generated ‘Acknowledgement Receipt’ for future reference.\n&gt; **Track Your Application/ Appeal**\n\n**Through Portal**\n**Step 1:** Visit the [SARAL Portal](https://status.saralharyana.nic.in/).\n**Step 2:** Click &amp;quot;Tracking Feature&amp;quot;.\n**Step 3:** Select the department and service from the dropdown menu.\n**Step 4:** Enter your Appeal/ Application Reference ID (provided to you when you applied for the service) and click on &amp;quot;CHECK STATUS&amp;quot;.\n**Through SMS**\nFrom your registered mobile number, send the following SMS to 7738299899:\nSARAL&amp;lt;space&amp;gt;Application ID\n&gt; **SARAL Helpline**\n\n0172-3968400 (7:00 AM to 8:00 PM; Monday to Saturday, excluding Govt Holidays)\nsaral.haryana@gov.in\n&gt; **User Manual for Application**\n\n[https://saralharyana.gov.in/resources/homePage/6/pdf/Using%20Saral.pdf](https://saralharyana.gov.in/resources/homePage/6/pdf/Using%20Saral.pdf)\n**NOTE:**\n\n- The applicant should be registered on the Meri Fasal Mera Byora (MFMB) Portal.\n- The applicant should submit the application through the SARAL Portal within the prescribed period.\n- The applicant should possess a valid Parivar Pehchan Patra (PPP).\n- The applicant should have a valid bank account for receiving subsidy.\n- The applicant should possess a valid Permanent Account Number (PAN).\n- The applicant should possess a valid Aadhaar Number.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Subsidy for Purchase of Tractor**\n\n- Financial assistance in the form of subsidy is provided for the purchase of a tractor.\n- The tractor must have a minimum power of 35 Horsepower (HP).\n- The farmer may purchase a tractor of any make from the list of empanelled manufacturers.\n- The subsidy amount is released after purchase, verification, and approval by the competent authority.\n\n**Conditions Related to Benefits**\n\n- The selected farmer must purchase the tractor within 15 days of selection.\n- The tractor must be physically verified by the committee constituted by the District Level Executive Committee.\n- The beneficiary cannot sell or transfer the tractor for 5 years from the date of purchase.\n- If the tractor is sold before the completion of 5 years, the beneficiary must refund the subsidy amount along with applicable interest.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "528e5df97200d53665d5284edf0bf513f3f9e4f25fab880c0679bda821df88c2",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Implementation of Scheme for Providing Implements/Machinery on Subsidy to the Farmers of Scheduled Caste Category (SB-89)&quot; has been launched by the Agriculture and Farmers Welfare Department, Government of Haryana. The scheme aims to promote agricultural mechanization among Scheduled Caste farmers, increase their income, generate employment opportunities, and make them eligible for other mechanization schemes where tractor ownership is mandatory.\n> **Scheme Implementation:**\n\nThe scheme is implemented by the Department of Agriculture and Farmers Welfare, Haryana, through the District Level Executive Committee (DLEC), Deputy Directors of Agriculture, and Assistant Agriculture Engineers. \n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a farmer.\n1. The applicant should belong to the Scheduled Caste category.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:53.867412+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:53.867412+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 666662
+  },
+  "references": [
+    {
+      "title": "Scheme Guidelines",
+      "url": "https://agriharyana.gov.in/data/Schemes/TargetsSC_scheme89.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://agriharyana.gov.in/Default"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6a3d1ae5da5ba83f4b07f0f0",
+      "en": {
+        "documentsRequired_md": "\n- Scheduled Caste Certificate Issued By Competent Authority\n- Parivar Pehchan Patra\n- Aadhaar Card\n- Permanent Account Number Card\n- Bank Account Details &amp; Passbook Copy\n- Undertaking For Retention of Tractor For 5 Years\n- Meri Fasal Mera Byora Registration Details\n- Tractor Purchase Bill (After Selection &amp; Purchase)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Scheduled Caste Certificate Issued By Competent Authority"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Parivar Pehchan Patra"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Permanent Account Number Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details & Passbook Copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Undertaking For Retention of Tractor For 5 Years"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Meri Fasal Mera Byora Registration Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Tractor Purchase Bill (After Selection & Purchase)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6a3d1a10da5ba83f4b07ed3c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6a3d1a10da5ba83f4b07ed3c",
+  "scheme_name": "Implementation of Scheme for Providing Implements/Machinery on Subsidy to the Farmers of Scheduled Caste Category (SB-89)",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISPIMSFSC",
+  "slug": "ispimsfsc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Farmer",
+    "Scheduled Caste",
+    "Tractor",
+    "Machinery"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68a8491d24f13e9a8cebc8eb",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Registration Process:"
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1: "
+                          },
+                          {
+                            "text": "The applicant may visit and apply online at the "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "I-Khedut"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": " Portal."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2:"
+                          },
+                          {
+                            "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3:"
+                          },
+                          {
+                            "text": " Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 4:"
+                          },
+                          {
+                            "text": " Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Login Process:"
+                          },
+                          {
+                            "text": " "
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1:"
+                          },
+                          {
+                            "text": " The applicant may visit and apply online at the "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "I-Khedut"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/site/",
+                            "type": "link"
+                          },
+                          {
+                            "text": " Portal."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2:"
+                          },
+                          {
+                            "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3:"
+                          },
+                          {
+                            "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 4:"
+                          },
+                          {
+                            "text": " Click on the \"Apply New\" button and submit a new application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 5:"
+                          },
+                          {
+                            "text": " Click on the \"Update Application\" button to add corrections to the application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 6:"
+                          },
+                          {
+                            "text": " Once the application is done, confirm it."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 7:"
+                          },
+                          {
+                            "text": " Take a printout of the confirmed application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Contact Us:"
+                          },
+                          {
+                            "text": " "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "block_quote"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "&amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side, then click on &amp;amp;quot;Beneficiary Registration&amp;amp;quot; and select any one from the &amp;amp;#39;Farmer&amp;amp;#39; or &amp;amp;#39;Institutional&amp;amp;#39; or &amp;amp;#39;Except For the Farmer&amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;#39;what type of account holder you are?&amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;#39;Save and Next&amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;#39;Send OTP&amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;#39;Submit&amp;amp;#39;.\n&amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "AGR-4 Scheduled Castes Sub-Plan for Distribution of Seeds and Fertilizers Input Kits at Subsidised Rates to Scheduled Caste Cultivators",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SCSPDSFIK",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Distribution Of Seeds",
+            "Fertilizers"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must belong to the Scheduled Caste category."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_left"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant must be a farmer. \n  - The applicant must be a resident of Gujarat.\n  - The applicant must belong to the Scheduled Caste category.\n\n<br>\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Subsidized Rates:"
+                        },
+                        {
+                          "text": " SC farmers receive essential agricultural inputs like seeds and fertilizers at significantly reduced costs."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Access to Quality Inputs: "
+                        },
+                        {
+                          "text": "The scheme ensures farmers have access to high-quality minor and micro-elements, castor cake, neem cake, liquid fermented organic manure, or green manure seeds."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Reduced Cultivation Costs:"
+                        },
+                        {
+                          "text": " By providing subsidized inputs, the scheme lowers the overall cost of cultivation, helping to improve the economic viability of farming for SC cultivators."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - **Subsidized Rates:** SC farmers receive essential agricultural inputs like seeds and fertilizers at significantly reduced costs.  - **Access to Quality Inputs:** The scheme ensures farmers have access to high-quality minor and micro-elements, castor cake, neem cake, liquid fermented organic manure, or green manure seeds.  - **Reduced Cultivation Costs:** By providing subsidized inputs, the scheme lowers the overall cost of cultivation, helping to improve the economic viability of farming for SC cultivators.\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide subsidised seeds, fertilizers, and organic inputs to Scheduled Caste farmers to improve agricultural productivity.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"AGR-4 Scheduled Castes Sub-Plan for Distribution of Seeds and Fertilizers Input Kits at Subsidised Rates to Scheduled Caste Cultivators\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to support Scheduled Caste cultivators by providing agricultural input kits at subsidised rates for enhancing soil fertility and improving crop yield. The main objective of the scheme is to strengthen the farming practices of Scheduled Caste farmers by making available critical resources such as castor cake, neem cake, liquid fermented organic manure, or green manure seeds at concessional rates. Beneficiaries can avail these inputs for cultivation on a maximum of 2 hectares per account, ensuring equitable distribution and wider coverage."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;AGR-4 Scheduled Castes Sub-Plan for Distribution of Seeds and Fertilizers Input Kits at Subsidised Rates to Scheduled Caste Cultivators&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to support Scheduled Caste cultivators by providing agricultural input kits at subsidised rates for enhancing soil fertility and improving crop yield. The main objective of the scheme is to strengthen the farming practices of Scheduled Caste farmers by making available critical resources such as castor cake, neem cake, liquid fermented organic manure, or green manure seeds at concessional rates. Beneficiaries can avail these inputs for cultivation on a maximum of 2 hectares per account, ensuring equitable distribution and wider coverage.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 36)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "scspdsfik"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68a8493b5c38b46c1123942b",
+      "en": {
+        "documentsRequired_md": "\n   1. 7/12 Certificate.\n   1. Aadhaar Card.\n   1. Bank Pass Book/Cancelled Cheque.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "7/12 Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Pass Book/Cancelled Cheque."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a8491d24f13e9a8cebc8eb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:25.936951+00:00",
+  "scheme_id": "68a8491d24f13e9a8cebc8eb"
+}

@@ -1,0 +1,550 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68ed49d5ed2c57f57c3c2741",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Registration Process",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Madhya Pradesh Lok Sewa Guarantee Portal"
+                      }
+                    ],
+                    "link": "https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": "\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " On the homepage, click \"Citizen Registration\". You will be taken to the registration page."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click \"Verify Mobile Number.\""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A verification code will be sent to your mobile number. Enter the code and complete the registration."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Application Process",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \"Madhya Pradesh Lok Sewa Guarantee Portal\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Enter your User ID, Password, and Captcha Code, and click \"Login.\""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Click on \"Apply Online Service\" and select the scheme you intend to apply for."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click \"Submit\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Post- Application Process",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "The concerned Forest Officer verifies the land ownership and timber records."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "After verification, the payment process is initiated through e-payment."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "Payment is completed within the specified time limits, 45 days for government rate sales or 30 days for lot sales."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Appeal Process",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "First Appeal:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Can be filed within 30 days to the Regional Forest Conservator if payment or application is not approved."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Second Appeal:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Can be filed within 60 days to the Additional Principal Chief Conservator of Forests (Production) against the decision of the First Appellate Authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "##### ***Registration Process***\n**Step 1:** Visit the Official Website of &quot;[Madhya Pradesh Lok Sewa Guarantee Portal](https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx)&quot;.\n**Step 2:** On the homepage, click &quot;Citizen Registration&quot;. You will be taken to the registration page.\n**Step 3:** On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click &quot;Verify Mobile Number.&quot;\n**Step 4:** A verification code will be sent to your mobile number. Enter the code and complete the registration.\n##### ***Application Process***\n**Step 1:** Visit the Official Website of &quot;Madhya Pradesh Lok Sewa Guarantee Portal&quot;.\n**Step 2:** Enter your User ID, Password, and Captcha Code, and click &quot;Login.&quot;\n**Step 3:** Click on &quot;Apply Online Service&quot; and select the scheme you intend to apply for.\n**Step 4:** In the scheme&#39;s online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click &quot;Submit&quot;.\n##### ***Post- Application Process***\n**Step 1:****** The concerned Forest Officer verifies the land ownership and timber records.\n**Step 2:****** After verification, the payment process is initiated through e-payment.\n**Step 3:****** Payment is completed within the specified time limits, 45 days for government rate sales or 30 days for lot sales.\n##### ***Appeal Process***\n**First Appeal:** Can be filed within 30 days to the Regional Forest Conservator if payment or application is not approved.\n**Second Appeal:** Can be filed within 60 days to the Additional Principal Chief Conservator of Forests (Production) against the decision of the First Appellate Authority.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Divisional Forest Officer",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Forest Department",
+            "value": 2300015
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Payment in the Owner-Occupied / Public Forestry Case",
+          "schemeOpenDate": "2021-09-17",
+          "schemeShortTitle": "PTOOPFC",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Farmers",
+            "Land",
+            "Wood",
+            "Teak And Sal",
+            "Financial Assistance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a registered Malik Makbuza (private forest owner) or Lok Vaniki farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The sale must involve only specified forest produce such as teak (sagwan) and sal."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant should be a registered Malik Makbuza (private forest owner) or Lok Vaniki farmer.\n1. The sale must involve only specified forest produce such as teak (sagwan) and sal.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Farmers receive timely payment for the sale of their legally owned teak and sal wood."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Payment is made within 45 working days if sold at government rates and within 30 working days if sold through a separate lot after full recovery."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Ensures fair market value and legal compliance for forest produce sales."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Payments are made directly to the farmer’s bank account through e-payment."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Expected Time of Disbursement:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "45 working days from the date of timber receipt in the depot (if sold at Government rate)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "30 working days from the date of full sale value realization (if sold through a separate lot)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- Farmers receive timely payment for the sale of their legally owned teak and sal wood.\n\n\n- Payment is made within 45 working days if sold at government rates and within 30 working days if sold through a separate lot after full recovery.\n- Ensures fair market value and legal compliance for forest produce sales.\n\n\n- Payments are made directly to the farmer’s bank account through e-payment.\n\n**Expected Time of Disbursement:**\n\n- 45 working days from the date of timber receipt in the depot (if sold at Government rate).\n- 30 working days from the date of full sale value realization (if sold through a separate lot).\n\n<br>\n\n",
+          "briefDescription": "Under this scheme, farmers are enabled to sell teak and sal wood to the government at notified rates, ensuring fair compensation through timely e-payment.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Payment in the Owner-Occupied / Public Forestry Case\" scheme is launched by the Forest Department, Government of Madhya Pradesh.  It is implemented by the Divisional Forest Officer (DFO). Under this scheme, registered landowners and Lok Vaniki farmers can sell their teak and sal wood either at government-notified rates or through separate lot auctions and receive payment within a stipulated time."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Payment in the Owner-Occupied / Public Forestry Case&quot; scheme is launched by the Forest Department, Government of Madhya Pradesh.  It is implemented by the Divisional Forest Officer (DFO). Under this scheme, registered landowners and Lok Vaniki farmers can sell their teak and sal wood either at government-notified rates or through separate lot auctions and receive payment within a stipulated time.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=858"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ptoopfc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68ed4a9c8ba160c15f31b038",
+      "en": {
+        "documentsRequired_md": "\n- Proof of Land Ownership (Malik Makbuza Certificate or Revenue Records)\n- Lok Vaniki Farmer Registration Certificate (for Lok Vaniki cases)\n\n\n- Other Necessary Documents, if required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Land Ownership (Malik Makbuza Certificate or Revenue Records)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lok Vaniki Farmer Registration Certificate (for Lok Vaniki cases)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Other Necessary Documents, if required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ed49d5ed2c57f57c3c2741"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:24.010789+00:00",
+  "scheme_id": "68ed49d5ed2c57f57c3c2741"
+}

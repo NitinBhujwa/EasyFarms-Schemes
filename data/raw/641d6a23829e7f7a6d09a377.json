@@ -1,0 +1,406 @@
+{
+  "detail": {
+    "data": {
+      "_id": "641d6a23829e7f7a6d09a377",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "1)Approval of beneficiaries in Gram Sabha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "2)Approval of beneficiaries approved by Gram Sabha in the meeting of Janpad Panchayat. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "3)After the approval of the Janpad Panchayat, the Deputy Director, Animal Husbandry Department of the district will get the approval by sending the approved case to the bank for approval."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "url": ""
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Infra",
+          "schemeName": "Acharya Vidyasagar Gau Samvardhan Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "AVGSY",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Animal Husbandary",
+            "Dairy",
+            "Milk Production",
+            "Cow",
+            "Veterinary"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "All",
+              "value": "All"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme is applicable to all the registered cow shelters, non-governmental organizations, and individuals who own cows."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The scheme is only applicable to the indigenous cows that are recognized by the government."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cow owners or cow shelters must be registered with the Gau Samvardhan Board to avail the benefits of the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must have a valid Aadhaar card, and the cow must be registered with the Gau Samvardhan Board."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cow owners or cow shelters must have a dedicated space for the cows, along with facilities for their feeding, cleaning, and medical care."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must have a bank account in the name of the cow shelter or in their individual name."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The scheme is applicable to all the registered cow shelters, non-governmental organizations, and individuals who own cows.\n- The scheme is only applicable to the indigenous cows that are recognized by the government.\n- The cow owners or cow shelters must be registered with the Gau Samvardhan Board to avail the benefits of the scheme.\n- The applicant must have a valid Aadhaar card, and the cow must be registered with the Gau Samvardhan Board.\n- The cow owners or cow shelters must have a dedicated space for the cows, along with facilities for their feeding, cleaning, and medical care.\n- The applicant must have a bank account in the name of the cow shelter or in their individual name.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The animal owner can get the plan approved for minimum 5 or more animals and the maximum limit amount of the project is Rs. 10.00 lakhs."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "75 percent of the project cost will have to be received through bank loan and the balance amount will have to be arranged in the form of margin money assistance and the beneficiary's own contribution."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Reimbursement of interest on 75 per cent of the unit cost or 5 per cent per annum (maximum Rs. 25,000 per annum) by the beneficiary on the loan availed from the bank, whichever is less, will be done by the department for 7 years. Interest on the remaining interest rate above 5 percent will have to be reimbursed by the beneficiary himself."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": " "
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "briefDescription": "The objective of this scheme is to Increase in milk production, improving the economic status of the beneficiaries, increase in milk production capacity of animals and provide employment opportunities.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "This scheme is for all categories of beneficiaries."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The beneficiary must have a minimum of 1 acre of agricultural land for 5 animals and with the increase in the number of animals, the minimum agricultural land will be determined by increasing it proportionately."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Priority to implementation of milk route."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Plan Unit Cost"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The animal owner can get the plan approved for minimum 5 or more animals and the maximum limit amount of the project is Rs. 10.00 lakhs."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "75 percent of the project cost will have to be received through bank loan and the balance amount will have to be arranged in the form of margin money assistance and the beneficiary's own contribution."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Reimbursement of interest on 75 per cent of the unit cost or 5 per cent per annum (maximum Rs. 25,000 per annum) by the beneficiary on the loan availed from the bank, whichever is less, will be done by the department for 7 years. Interest on the remaining interest rate above 5 percent will have to be reimbursed by the beneficiary himself."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": "Margin money support - 25% of the project cost for general category subject to a maximum of Rs. 1.50 lakh"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "33 percent of the project cost for SC/ST, maximum Rs. 2.00 lakhs."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "This scheme is for all categories of beneficiaries.\nThe beneficiary must have a minimum of 1 acre of agricultural land for 5 animals and with the increase in the number of animals, the minimum agricultural land will be determined by increasing it proportionately.\nPriority to implementation of milk route.\n<br>\n\nPlan Unit Cost\n\n- The animal owner can get the plan approved for minimum 5 or more animals and the maximum limit amount of the project is Rs. 10.00 lakhs.\n- 75 percent of the project cost will have to be received through bank loan and the balance amount will have to be arranged in the form of margin money assistance and the beneficiary&#39;s own contribution.\n- Reimbursement of interest on 75 per cent of the unit cost or 5 per cent per annum (maximum Rs. 25,000 per annum) by the beneficiary on the loan availed from the bank, whichever is less, will be done by the department for 7 years. Interest on the remaining interest rate above 5 percent will have to be reimbursed by the beneficiary himself.\n\nMargin money support - 25% of the project cost for general category subject to a maximum of Rs. 1.50 lakh\n33 percent of the project cost for SC/ST, maximum Rs. 2.00 lakhs.\n<br>\n\n",
+          "references": [
+            {
+              "title": "Government Website",
+              "url": "https://mpdah.gov.in/schemes/view/eWl6N3NIUFc2bzQ3Tjl1UUNyRmRCQT09"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "avgsy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "641d6d3eb566f8a6b7478ceb",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land document"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "641d6a23829e7f7a6d09a377"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:48.237817+00:00",
+  "scheme_id": "641d6a23829e7f7a6d09a377"
+}

@@ -1,0 +1,451 @@
+{
+  "detail": {
+    "data": {
+      "_id": "69f1e1f3add8ffad637ffcd1",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 1: The applicant should visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "ServicesPlus"
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/",
+                    "type": "link"
+                  },
+                  {
+                    "text": " website."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Click on the “"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Register” "
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                    "type": "link"
+                  },
+                  {
+                    "text": "option on the homepage."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Review all details carefully and submit the registration form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Login",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "“Login.”"
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Enter your Email ID, Password, and Captcha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Select the relevant service/scheme name."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Fill in the required details in the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: Submit the application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": null,
+          "nodalMinistryName": {
+            "label": "Ministry Of Commerce And Industry",
+            "value": 1565
+          },
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Large cardamom Irrigation Land Development : Rainwater harvesting structure(nos)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "LCILDRH",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "schemeType": {
+            "label": "Centrally Sponsored Scheme",
+            "value": "centrally-sponsored-scheme"
+          },
+          "state": null,
+          "tags": [
+            "Rainwater Harvesting Structure",
+            "Water Storage",
+            "Agriculture",
+            "Water Storage"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a large cardamom grower located in Sikkim, Darjeeling and Kalimpong districts of West Bengal, or other North Eastern States."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should undertake construction activities in a manner that does not block the natural flow of water, including streams, and is not objectionable to the local community or concerned authorities."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should ensure that the proposed rainwater harvesting or irrigation structure complies with all local regulations and environmental norms."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should allow inspection by designated officials, who will conduct the final inspection and recommend only eligible cases for assistance."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should ensure that the Inspecting Officer can verify that no violations of the prescribed conditions have occurred before recommending the case for sanction."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a large cardamom grower located in Sikkim, Darjeeling and Kalimpong districts of West Bengal, or other North Eastern States.\n1. The applicant should undertake construction activities in a manner that does not block the natural flow of water, including streams, and is not objectionable to the local community or concerned authorities.\n1. The applicant should ensure that the proposed rainwater harvesting or irrigation structure complies with all local regulations and environmental norms.\n1. The applicant should allow inspection by designated officials, who will conduct the final inspection and recommend only eligible cases for assistance.\n1. The applicant should ensure that the Inspecting Officer can verify that no violations of the prescribed conditions have occurred before recommending the case for sanction.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "33.33 % of cost of construction subject to a maximum of ₹18,000 per structure for General and 75% subject to maximum of ₹ 40,000 /- per structure for SC/ST"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The above assistance will be for a structure of 200 cu. Mt. capacity lined with silpauline sheet. For lesser capacity the assistance will be limited proportionate to the water holding capacity."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Large cardamom growers having land holding size of 0.10 Ha to 8 Ha Devices can be for harvesting water from direct rainfall as well as surface run off without blocking the natural flow of water including streams."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n1. 33.33 % of cost of construction subject to a maximum of ₹18,000 per structure for General and 75% subject to maximum of ₹ 40,000 /- per structure for SC/ST\n1. The above assistance will be for a structure of 200 cu. Mt. capacity lined with silpauline sheet. For lesser capacity the assistance will be limited proportionate to the water holding capacity.\n1. Large cardamom growers having land holding size of 0.10 Ha to 8 Ha Devices can be for harvesting water from direct rainfall as well as surface run off without blocking the natural flow of water including streams.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to motivate the growers to bring more area under irrigation by constructing water storage structures, rain water harvesting structures and installation of irrigation equipments for increasing the productivity and improving quality of large cardamom",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme “Large Cardamom Irrigation Land Development: Rainwater Harvesting Structures (Nos)” is a component of the Integrated Scheme for Export Promotion and Quality Improvement in Spices and Research and Development of Cardamom, implemented during the 15th Finance Commission period (2021–22 to 2025–26) under the Export-Oriented Production component by the Spices Board, India, under the Ministry of Commerce and Industry. The scheme aims to motivate growers to bring more area under irrigation by supporting the construction of water storage structures, rainwater harvesting systems, and the installation of irrigation equipment, thereby increasing productivity and improving the quality of large cardamom."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Large Cardamom Irrigation Land Development: Rainwater Harvesting Structures (Nos)” is a component of the Integrated Scheme for Export Promotion and Quality Improvement in Spices and Research and Development of Cardamom, implemented during the 15th Finance Commission period (2021–22 to 2025–26) under the Export-Oriented Production component by the Spices Board, India, under the Ministry of Commerce and Industry. The scheme aims to motivate growers to bring more area under irrigation by supporting the construction of water storage structures, rainwater harvesting systems, and the installation of irrigation equipment, thereby increasing productivity and improving the quality of large cardamom.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.indianspices.com/export_oriented_prod.html"
+            },
+            {
+              "title": "Application Portal",
+              "url": "https://serviceonline.gov.in/dbt/login.do"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "lcildrh"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "69f1e213c9e1e7229501a78b",
+      "en": {
+        "documentsRequired_md": "\n1. Document of ownership or legal possession of land / Parcha\n1. Aadhaar card\n1. Bank Pass Book\n1. No Objection Certificate from panchayats if the Land is not in the beneficiary’s name.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Document of ownership or legal possession of land / Parcha"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "No Objection Certificate from panchayats if the Land is not in the beneficiary’s name."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69f1e1f3add8ffad637ffcd1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:01:25.348055+00:00",
+  "scheme_id": "69f1e1f3add8ffad637ffcd1"
+}

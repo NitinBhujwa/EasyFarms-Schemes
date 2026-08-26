@@ -1,0 +1,512 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6461fc87b2a653472630cc3a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The first applicants have to open the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "official Website. "
+                          }
+                        ],
+                        "link": "http://www.creda.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Click on \"Saur Sujala Yojana Online Apply\" . "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "In the next window select the scheme name. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Fill out the required details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Provide the bank details and Submit."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "url": "http://www.creda.in/"
+          },
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Applicants have to go to the agriculture office."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicants have to get the application form for Saur Sujala Yojana from there or download it from "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "here"
+                          }
+                        ],
+                        "link": "http://www.creda.in/credaapp/download_link/form.pdf?1684142376",
+                        "type": "link"
+                      },
+                      {
+                        "text": ". "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Now applicants have to enter all the important information asked in the application form."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Attach all the important documents to the application form."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Then submit the application form along with the document to the Office of Agriculture Department.,"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "url": "http://www.creda.in/credaapp/download_link/form.pdf?1684142376"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Energy Department",
+            "value": 2200009
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Individual",
+          "schemeName": "Saur Sujala Yojana",
+          "schemeOpenDate": "2016-11-01",
+          "schemeShortTitle": "SSYC",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Chhattisgarh",
+            "value": 22
+          },
+          "tags": [
+            "Solar Irrigation Pumps",
+            "Empower",
+            "Farmers",
+            "Subsidy",
+            "Renewable Energy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Small/medium/large-scale farmers are eligible to apply for this scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer should be a resident of Chhattisgarh State."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. Small/medium/large-scale farmers are eligible to apply for this scheme.\n1. The farmer should be a resident of Chhattisgarh State.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "The category-wise details of the contribution amount payable by the beneficiary for the installation of the solar pump under the Saur Sujala Yojana are as follows:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "S No"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Description of Pump Capacity / Type"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "SC/ST Beneficiary's contribution"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Other backward classes Beneficiary's contribution"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "General  Beneficiary's contribution"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "03 HP/ AC/DC Surface/submersible"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "7000"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "12000"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "18000"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "05 HP/AC/DC Surface/submersible"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "10000"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "15000"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "20000"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "In addition to the above beneficiary contribution, Rs. At the rate of per watt (Rs. 3000 for 03 H.P. / 3000 W. and Rs. 4800 for 05 H.P. / 4800 W.) amount of processing fee has to be given."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "briefDescription": "The Saur Sujala Yojana is to set up solar irrigation pumps for the irrigation needs of the farmers. The scheme has been started on November 01, 2016, with the aim of empowering the farmers by providing irrigation pumps to the farmers at subsidized rates. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Saur Sujala Yojana is to set up solar irrigation pumps for the irrigation needs of the farmers. The scheme has been started on November 01, 2016 with the aim of empowering the farmers by providing irrigation pumps to the farmers at subsidized rates. The use of solar pump will help in increasing agricultural production in the state as well as conservation and augmentation of ground water and strengthening the rural economy. Under the plan, there is a provision for setting up solar pumps of 03 H.P. and 05 H.P. capacity."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Saur Sujala Yojana is being implemented by Chhattisgarh State Renewable Energy Development Agency (CREDA- Chhattisgarh State Renewable Energy Development Agency). Beneficiaries under the scheme are selected by the Agriculture Department. Under the scheme, more than 01 lakh solar pumps have been installed."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The Saur Sujala Yojana is to set up solar irrigation pumps for the irrigation needs of the farmers. The scheme has been started on November 01, 2016 with the aim of empowering the farmers by providing irrigation pumps to the farmers at subsidized rates. The use of solar pump will help in increasing agricultural production in the state as well as conservation and augmentation of ground water and strengthening the rural economy. Under the plan, there is a provision for setting up solar pumps of 03 H.P. and 05 H.P. capacity.\nSaur Sujala Yojana is being implemented by Chhattisgarh State Renewable Energy Development Agency (CREDA- Chhattisgarh State Renewable Energy Development Agency). Beneficiaries under the scheme are selected by the Agriculture Department. Under the scheme, more than 01 lakh solar pumps have been installed.\n",
+          "references": [
+            {
+              "title": "Details",
+              "url": "http://www.creda.in/"
+            },
+            {
+              "title": "Application Form",
+              "url": "http://www.creda.in/credaapp/download_link/form.pdf?1684141320"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ssyc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6461fd00b2a653472630cc79",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "It is mandatory for the beneficiary to have agricultural land and water source (borewell, well, river/stream etc.) in his own name. "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Attested photocopy of address proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Attested photocopy of Aadhaar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Khasra/area of land and attested map of the workplace."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Attested photocopy of caste certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Amount of processing fee."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Two photographs of the beneficiary."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6461fc87b2a653472630cc3a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:01:37.759346+00:00",
+  "scheme_id": "6461fc87b2a653472630cc3a"
+}

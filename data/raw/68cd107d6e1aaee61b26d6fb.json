@@ -1,0 +1,274 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68cd107d6e1aaee61b26d6fb",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Under the Silk Samagra Yojana, farmers are selected in cluster mode. A departmental committee conducts a field inspection, and the scheme is implemented based on the suitability of the area. The required documents are compiled to prepare the farmer’s Project Implementation Sheet (PIS)."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For the construction of the rearing chamber, the farmer builds the foundation using their own funds. Based on the progress of the construction and the recommendations of the cluster in-charge, the government subsidy is released into the farmer’s account in accordance with the scheme guidelines."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - Under the Silk Samagra Yojana, farmers are selected in cluster mode. A departmental committee conducts a field inspection, and the scheme is implemented based on the suitability of the area. The required documents are compiled to prepare the farmer’s Project Implementation Sheet (PIS).\n  - For the construction of the rearing chamber, the farmer builds the foundation using their own funds. Based on the progress of the construction and the recommendations of the cluster in-charge, the government subsidy is released into the farmer’s account in accordance with the scheme guidelines.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Sericulture",
+            "value": 50000018
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Silkworm Rearing Chamber",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SRC",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Rearing Chamber",
+            "Silk",
+            "Silkworm Rearing",
+            "Silkworm",
+            "Sericulture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must be a resident of Uttarakhand."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must have availed assistance under the Silk Tree Plantation Scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must have at least 300 mulberry plants available for silkworm rearing."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must have availed assistance under the Silk Tree Plantation Scheme.\n   1. The beneficiary must have at least 300 mulberry plants available for silkworm rearing.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, financial assistance of ₹1,00,000/- is provided for the construction of a silkworm rearing chamber on an 80:10:10 cost-sharing basis. The farmer contributes ₹10,000/- for completing the foundation of the chamber, while the state government provides ₹90,000/- as a subsidy in two equal installments."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme, financial assistance of ₹1,00,000/- is provided for the construction of a silkworm rearing chamber on an 80:10:10 cost-sharing basis. The farmer contributes ₹10,000/- for completing the foundation of the chamber, while the state government provides ₹90,000/- as a subsidy in two equal installments.\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote sericulture & enhance silk production among farmers by providing financial assistance for establishing dedicated silkworm rearing chambers. Under this scheme, farmers are provided financial support of upto ₹1,00,000 (80:10:10 pattern) for construction of rearing chambers.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Silkworm Rearing Chamber” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to promote sericulture and enhance silk production among farmers by providing financial assistance for establishing dedicated silkworm rearing chambers."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Silkworm Rearing Chamber” was launched by the Department of Sericulture, Government of Uttarakhand. The scheme aims to promote sericulture and enhance silk production among farmers by providing financial assistance for establishing dedicated silkworm rearing chambers.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 244)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "kk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68cd11296e1aaee61b26dba5",
+      "en": {
+        "documentsRequired_md": "\n1. Voter ID/Ration Card\n1. Bank Account Detail\n1. Details of construction of rearing chamber\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Voter ID/Ration Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Detail"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of construction of rearing chamber"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cd107d6e1aaee61b26d6fb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:49.139044+00:00",
+  "scheme_id": "68cd107d6e1aaee61b26d6fb"
+}

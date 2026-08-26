@@ -1,0 +1,418 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67efaeb34f405f25875ed471",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the confirmed application and submit Related Documents through to concern Taluka office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Assistance for Cattleshed, Gaman, Water Tank and Bucket",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "AFCGWTB",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Animal Husbandry",
+            "Cattleshed",
+            "Water Tank",
+            "Shelter For Cattle"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should belong to the Schedule Caste category."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must own land or have a minimum 10-year lease agreement."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be a farmer.\n   1. The applicant should belong to the Schedule Caste category.\n   1. The applicant must own land or have a minimum 10-year lease agreement.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit(In Year) for Reclaiming Benefits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Assistance for Schedule Caste People of Cattleshed, Gaman, Water tank and Bucket (2 Animal)\t"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Assistace up to ₹30,000/- for 2  Animals Catlle Shed  can be availed after sanction of application and construction of cattle shed"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "once in a lifetime"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Name of Component****Standard of Assistance****Minimum Time Limit(In Year) for Reclaiming Benefits**Assistance for Schedule Caste People of Cattleshed, Gaman, Water tank and Bucket (2 Animal)\tAssistace up to ₹30,000/- for 2  Animals Catlle Shed  can be availed after sanction of application and construction of cattle shedonce in a lifetime<br>\n\n",
+          "briefDescription": "The scheme \"Assistance for Cattleshed, Gaman, Water Tank and Bucket\" introduced by the Agriculture, Farmers Welfare and Cooperation Dept., Gujarat, aims to support livestock farmers by offering financial assistance for essential infrastructure such as cattle sheds, gaman, water tanks, and buckets.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Assistance for Cattleshed, Gaman, Water Tank and Bucket\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to farmers and cattle rearers for the construction of cattlesheds, purchasing gaman (cattle feed containers), water tanks, and buckets."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Assistance for Cattleshed, Gaman, Water Tank and Bucket&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to farmers and cattle rearers for the construction of cattlesheds, purchasing gaman (cattle feed containers), water tanks, and buckets.\n",
+          "exclusions": null,
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=IVf4y2kDy/hLkKH1ioD8IA==&domain=12ewfiAgGqKRe600IL5Z/w=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "afcgwtb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67efaf9f5a4889e1887ae5c8",
+      "en": {
+        "documentsRequired_md": "\n1. Land ownership or 10-year lease agreement documents.\n1. Copy of Ration card.\n1. Schedule Caste Certificate.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land ownership or 10-year lease agreement documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Ration card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Schedule Caste Certificate."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67efaeb34f405f25875ed471"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:57:18.015049+00:00",
+  "scheme_id": "67efaeb34f405f25875ed471"
+}

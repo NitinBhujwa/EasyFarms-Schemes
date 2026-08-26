@@ -1,0 +1,221 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the Regional Manager, Fisheries Federation Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the Fisheries Federation Office. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the Regional Manager, Fisheries Federation Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Fisheries Federation Office. \n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Scholarship up to ₹20,000 or the actual expenditure (whichever is lower) for technical courses such as Medical, Engineering, CLAT-based Law courses, and equivalent technical programs.\n- Scholarship up to ₹10,000 or the actual expenditure (whichever is lower) for non-technical courses such as B.A., B.Sc., B.Com., B.C.A., B.F.F.C., B.Sc. Agriculture, Law, and similar parallel courses.\n\n> **NOTE:** Scholarship amount is transferred through Direct Benefit Transfer (DBT).\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Education & Learning",
+      "value": "628ce76cd6d1a3bde4685292"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "05aa5d03a2b63b4f5b87d147be78ca94ce4102ebf29c11d218581fefb2e01001",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Nishadraj Scholarship Scheme” was launched by the Fisheries Welfare and Fisheries Development Department, Government of Madhya Pradesh. The scheme aims to support the higher education of children belonging to fisher families working in the Federation reservoirs. Under this scheme, scholarships for technical and non-technical courses are provided to meritorious students from fisher households to help them continue professional and academic studies.  \n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a child of a fisher family working in the federation’s reservoirs.\n1. The applicant should be a student. \n1. The student must belong to General, Other Backward Classes (OBC), Scheduled Castes (SC), Scheduled Tribes (ST), Minority communities, or Below Poverty Line (BPL) categories.\n1. The applicant should be enrolled in a recognized technical course (Medical, Engineering, CLAT-based Law, etc.) or a non-technical course (B.A., B.Com., B.Sc., Agriculture, etc.).\n1. The applicant should be pursuing higher education at the time of application.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:55:05.023956+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:05.023956+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 2300013
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpfisheries.gov.in/hi/matasaya-mahaasangha/yaojanaa-kai-jaanakaarai"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=986"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "692959d9f752d58335bb9597",
+      "en": {
+        "documentsRequired_md": "\n- Student Identity Proof\n- Address Proof\n- Caste Certificate \n- BPL Certificate (if applicable)\n- Bank Account Details\n- Any Other Document if Required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Student Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "BPL Certificate (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other Document if Required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6929598f8c1ba81ed40c5e78"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6929598f8c1ba81ed40c5e78",
+  "scheme_name": "Nishadraj Scholarship Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "NSS",
+  "slug": "nss",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Scholarships and student finance",
+      "value": "Scholarships and student finance"
+    },
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Universities and higher education",
+      "value": "Universities and higher education"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fish Farmer",
+    "Children",
+    "Higher Education",
+    "Scholarship",
+    "Student"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

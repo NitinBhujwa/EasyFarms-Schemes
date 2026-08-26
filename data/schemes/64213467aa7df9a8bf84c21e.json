@@ -1,0 +1,254 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "First of all, the applicants have to go to the nearest office of the Agriculture Department"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Now applicants have to ask for the application form for Samagra Gramya Unnayan Yojana"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Applicants have to fill out this application form by entering all the required details"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Now applicants have to attach all the required documents"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "After that, applicants  have to submit this form to the agriculture Department"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "By following this procedure applicant  can apply under Samagra Gramya Unnayan Yojana"
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b7a4548658028ba9b1fb9011520e92af0fe826032780bf3e70eee0ad102725bc",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "**Objective** \nThe main objective of the mission is to double the farm income, in unison with the vision of Hon&#39;ble Prime Minister Shri Narendra Modi.\n**CMSGUY: The Way Ahead**\nAt the current rate of growth, it will take about 80 years to double the farm income in Assam. Normal interventions by the Government in this regard would not be adequate to address the problem. Under CMSGUY there is a proposal to initiate massive investments in rural areas for complete rural empowerment in a period of five years in a focused and concerted manner to realize the dream of doubling the farm income.\n<br>\n\nThis is sought to be achieved through a &#39;saturation model&#39; by covering each revenue village through focused interventions in \n\n1. Direct economic activities, \n1. Logistic support including market linkages, and \n1. Community support.\n\n<br>\n\nAbove focused interventions are aimed at in nine critical areas and related sub-missions are:\n\n1. Fishery Mission,\n1. Milk Mission,\n1. Organic Mission,\n1. Land Management and Conservation Mission,\n1. Sericulture, Khadi and Cottage Industry Mission,\n1. Road and Broadband connectivity,\n1. Semi-Processing, Processing and Market Linkages,\n1. &quot;Youth-Yoga-Sports&quot; Mission and\n1. e-Gram Mission by developing Village Knowledge Centres by strengthening traditional Namghar and other community institutions\n\n",
+  "eligibility": "**Eligibility** \n\n1. The benefit of this scheme will be provided to any group of 8 to 10 members who are actual adult farmers of the same village\n1. The group of farmers must have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated\n1. The applicant group should not have more than one member from one family\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:33.618971+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:33.618971+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Finance Department",
+    "value": 1800011
+  },
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://finance.assam.gov.in/schemes/cmsguy"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "642135cc9473e4658dfc9ea9",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "List of required documents."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Email id"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Age Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details etc"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64213467aa7df9a8bf84c21e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64213467aa7df9a8bf84c21e",
+  "scheme_name": "Chief Minister Samagra Gramya Unnayan Yojana",
+  "scheme_open_date": "2017-02-05",
+  "scheme_short_title": "CMSGUY",
+  "slug": "cmsguy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Assam",
+    "value": 18
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Chief Minister",
+    "Samagra",
+    "Gramya",
+    "Unnayan",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

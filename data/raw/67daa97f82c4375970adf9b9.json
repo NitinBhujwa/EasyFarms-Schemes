@@ -1,0 +1,538 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67daa97f82c4375970adf9b9",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the confirmed application and submit Related Documents through to concerned office during the period when the I-Khedut portal is open for application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note: "
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Applications approved for the component under the scheme shall be intimated to the concerned farmer applicants."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The District Agriculture Officer shall pay the assistance amount into the bank account of the applicant farmer beneficiary through ECS (Electronic Clearance Service)/RTGS (Real Time Gross Settlement)/Account Pay Cheque/NEFT/PFMS"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application and submit Related Documents through to concerned office during the period when the I-Khedut portal is open for application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n&gt; **Note:** \n\n\n  - Applications approved for the component under the scheme shall be intimated to the concerned farmer applicants.\n  - The District Agriculture Officer shall pay the assistance amount into the bank account of the applicant farmer beneficiary through ECS (Electronic Clearance Service)/RTGS (Real Time Gross Settlement)/Account Pay Cheque/NEFT/PFMS\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Use of Advanced Drone Technology (Agriculture Aircraft) in Agriculture Sector",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "UADTAS",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Drone Technology",
+            "Crop Protection Chemicals",
+            "Fertilizers"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be land holder."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary farmer should have minimum 1 acre Agricultural land."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary farmer must have his own bank account (Bank passbook and cancelled check)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must have Aadhar card as identity proof."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must have a Certified bill of purchase of equipment/items."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The beneficiary should be land holder.\n  - The beneficiary farmer should have minimum 1 acre Agricultural land.\n  - The beneficiary farmer must have his own bank account (Bank passbook and cancelled check).\n  - The beneficiary must have Aadhar card as identity proof.\n  - The beneficiary must have a Certified bill of purchase of equipment/items.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of Scheme and Standard of assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Financial Provision(Rs. In lakh)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Implementing Agency/office"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Use of advanced Drone technology (agriculture aircraft) in agriculture sector 1) 90% of the cost or a maximum of Rs. 500/- whichever is less will be admissible per acre/per spraying"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹500.00/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "IFFCO or Subsidiary Organisation/Co-operative Organisation/Farmers Producer Organization (FPO)/Farmer Producing Company (FPC) designated by IFFCO"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Assistance will be admissible to a maximum of five acres per spraying per account."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹500.00/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Directorate of Agriculture (through i-Khedut Portal)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Name of Scheme and Standard of assistance****Financial Provision(Rs. In lakh)****Implementing Agency/office**Use of advanced Drone technology (agriculture aircraft) in agriculture sector 1) 90% of the cost or a maximum of Rs. 500/- whichever is less will be admissible per acre/per spraying₹500.00/-IFFCO or Subsidiary Organisation/Co-operative Organisation/Farmers Producer Organization (FPO)/Farmer Producing Company (FPC) designated by IFFCOAssistance will be admissible to a maximum of five acres per spraying per account.₹500.00/-Directorate of Agriculture (through i-Khedut Portal)<br>\n\n",
+          "briefDescription": "The scheme \"Use of Advanced Drone Technology (Agriculture Aircraft) in Agriculture Sector\" introduced by the Agriculture, Farmers Welfare and Cooperation Dept., Gujarat, aims to promote the use of advanced drone technology for spraying crop protection chemicals and bio-fertilizers, etc.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Use of Advanced Drone Technology (Agriculture Aircraft) in Agriculture Sector\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to promote the use of advanced drone technology for spraying crop protection chemicals, nano urea, FCO-approved liquid fertilizers, and bio-fertilizers. This technology increases efficiency, saves time and water, and reduces environmental pollution. Drones can spray 1 hectare in 20 minutes using 25 liters of water, ensuring 90% chemical efficiency and reducing pollution. The scheme offers 90% financial assistance (up to ₹500/- per acre per spraying), with a limit of 5 acres per account."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Use of Advanced Drone Technology (Agriculture Aircraft) in Agriculture Sector&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to promote the use of advanced drone technology for spraying crop protection chemicals, nano urea, FCO-approved liquid fertilizers, and bio-fertilizers. This technology increases efficiency, saves time and water, and reduces environmental pollution. Drones can spray 1 hectare in 20 minutes using 25 liters of water, ensuring 90% chemical efficiency and reducing pollution. The scheme offers 90% financial assistance (up to ₹500/- per acre per spraying), with a limit of 5 acres per account.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/A36Rf7FTT%E2%9C%A4556gX2TyXKFw%E2%99%AC%E2%99%AC"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "uadtas"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67daa9f3d21dcebb22a12236",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhar Card (Mandatory).\n   1. Land Ownership Documents (minimum 1 acre) (Mandatory).\n   1. Bank Passbook and Cancelled Cheque (for financial transactions) (Mandatory).\n   1. Certified Purchase Bill of Equipment/Items (Mandatory).\n   1. Signed Online Application Form (from i-Khedut Portal) (Mandatory).\n   1. Any other document if required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhar Card (Mandatory)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land Ownership Documents (minimum 1 acre) (Mandatory)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Passbook and Cancelled Cheque (for financial transactions) (Mandatory)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Certified Purchase Bill of Equipment/Items (Mandatory)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Signed Online Application Form (from i-Khedut Portal) (Mandatory)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other document if required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67daa97f82c4375970adf9b9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:02.047936+00:00",
+  "scheme_id": "67daa97f82c4375970adf9b9"
+}

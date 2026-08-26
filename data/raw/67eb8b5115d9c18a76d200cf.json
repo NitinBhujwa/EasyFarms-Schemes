@@ -1,0 +1,481 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67eb8b5115d9c18a76d200cf",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the confirmed application and submit Related Documents through to concern Taluka office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application and submit Related Documents through to concern Taluka office.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Animal Husbandry Department, Gujarat State And Gujarat Milk Marketing Federation (GCMMF)",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Establishment of 50 Milch Animals Dairy Unit",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "EMADU",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Animal Husbandry",
+            "Dairy Unit",
+            "Cattle Development",
+            "Livestock Farming",
+            "Self Employment"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a livestock Farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must purchase 50 dairy animals (cows/buffaloes)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must establish a new dairy farm."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must have ownership rights or inheritance rights or leasehold rights of the land."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must take a loan from a Reserve Bank-recognized institution/bank."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note:"
+                    },
+                    {
+                      "text": " If the beneficiary does not own land, the dairy farm can be established on leased land for a minimum of 7 (seven) years."
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant must be a livestock Farmer.\n  - The applicant must purchase 50 dairy animals (cows/buffaloes).\n  - The applicant must establish a new dairy farm.\n  - The applicant must have ownership rights or inheritance rights or leasehold rights of the land.\n  - The applicant must take a loan from a Reserve Bank-recognized institution/bank.\n\n&gt; **Note:** If the beneficiary does not own land, the dairy farm can be established on leased land for a minimum of 7 (seven) years.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Interest Subsidy: "
+                    },
+                    {
+                      "text": "7.5% interest subsidy for up to 5 years on bank loans for purchasing 50 dairy animals."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Shed Construction:"
+                    },
+                    {
+                      "text": " 50% subsidy on actual expenditure, up to ₹5,00,000/-."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Animal Insurance: "
+                    },
+                    {
+                      "text": "75% subsidy for a three-year premium, up to ₹1,80,000/-."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Equipment Assistance:"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "75% subsidy on an electric chaff cutter (up to ₹30,000/-)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "75% subsidy on a fogger system (up to ₹22,500/-)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "75% subsidy on a milking machine (up to ₹56,250/-)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "benefits_md": "\n- **Interest Subsidy:** 7.5% interest subsidy for up to 5 years on bank loans for purchasing 50 dairy animals.- **Shed Construction:** 50% subsidy on actual expenditure, up to ₹5,00,000/-.- **Animal Insurance:** 75% subsidy for a three-year premium, up to ₹1,80,000/-.- **Equipment Assistance:**\n\n\n1. 75% subsidy on an electric chaff cutter (up to ₹30,000/-).\n1. 75% subsidy on a fogger system (up to ₹22,500/-).\n1. 75% subsidy on a milking machine (up to ₹56,250/-).\n\n",
+          "briefDescription": "The \"Establishment of 50 Milch Animals Dairy Unit\" scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to livestock owners for setting up dairy farms, ensuring sustainable dairy production.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Intensive Castration Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to livestock owners for setting up dairy farms with 50 milch animals, offering subsidies on loan interest, shed construction, animal insurance, and essential equipment."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Intensive Castration Scheme&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to livestock owners for setting up dairy farms with 50 milch animals, offering subsidies on loan interest, shed construction, animal insurance, and essential equipment.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=qEITCG3U50OobCZFAdsNeQ==&domain=12ewfiAgGqKRe600IL5Z/w=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "emadu"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67eb8b92bf2b20c52ae52b5f",
+      "en": {
+        "documentsRequired_md": "\n   1. Copy of residence proof (barcoded ration card/ Electricity bill/bank passbook with address).\n   1. Copy of government-issued photo identification (Aadhar card/Voter ID/Driving License/Kisan Credit Card).\n   1. Caste certificate (for SC/ST category only).\n   1. Copy of bank passbook or cancelled cheque.\n   1. Copy of loan Sanctioned letter.\n   1. Land-related documents: Land ownership proof, 7/12 extract, 8A extract, or lease agreement for land.\n   1. Applicant&amp;#39;s self-declaration form.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of residence proof (barcoded ration card/ Electricity bill/bank passbook with address)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of government-issued photo identification (Aadhar card/Voter ID/Driving License/Kisan Credit Card)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste certificate (for SC/ST category only)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of bank passbook or cancelled cheque."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of loan Sanctioned letter."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land-related documents: Land ownership proof, 7/12 extract, 8A extract, or lease agreement for land."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicant's self-declaration form."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67eb8b5115d9c18a76d200cf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:59:59.569422+00:00",
+  "scheme_id": "67eb8b5115d9c18a76d200cf"
+}

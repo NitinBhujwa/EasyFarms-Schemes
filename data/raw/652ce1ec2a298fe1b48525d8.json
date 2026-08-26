@@ -1,0 +1,783 @@
+{
+  "detail": {
+    "data": {
+      "_id": "652ce1ec2a298fe1b48525d8",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Procedure for Claiming Subsidy"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: Obtaining Technical Feasibility Report (TFR)"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant/s shall submit the application online and also in the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "prescribed format"
+                          }
+                        ],
+                        "link": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " along with necessary documents to their jurisdictional Coffee Board Office before taking up the activity."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The concerned office will scrutinize the documents, carry out a field inspection and issue a Technical Feasibility Report to the grower for taking up replantation activity or otherwise. The activity taken up before issuing TFR is not eligible for claiming subsidy."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: Claiming 1st Instalment of Subsidy"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant/s shall submit the claim in the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "prescribed format"
+                          }
+                        ],
+                        "link": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " along with relevant documents during the same financial year of replanting as far as possible."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The concerned office will scrutinize the documents, carry out a field inspection, prepare a physical verification report with full details of the activity and forward the claim statement along with relevant records to the concerned Deputy Director (Extn)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Deputy Director (Extn.) after scrutinizing the claim and records and confirming the admissibility of the claim in all respects will release the 1st instalment of the replantation subsidy amount to the bank account of the applicant through EFT/RTGS/NEFT."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3: Claiming 2nd Instalment of Subsidy"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Clean Replantation Method"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant shall submit the claim for 2nd instalment of subsidy in the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "prescribed format"
+                          }
+                        ],
+                        "link": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " (in duplicate) along with relevant documents at the jurisdictional Coffee Board office during the second year of replanting / financial year, after filling up vacancies and attending to necessary aftercare measures."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The JLO/SLO shall recommend for release of 2nd instalment to the concerned DDE after ensuring satisfactory maintenance of the area and vacancy filling."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Deputy Director (Extn.) after scrutinizing the claim and records and confirming the admissibility of the claim, will release the 2nd instalment of subsidy amount to the bank account of the applicant through EFT/RTGS/NEFT."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Replantation by Interlining Method"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant shall submit the claim for 2nd instalment of subsidy in the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "prescribed format"
+                          }
+                        ],
+                        "link": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " (in duplicate) along with relevant documents at the jurisdictional Coffee Board office after harvesting a maximum of 2 crops from the old plants and after complete removal of the old plants."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The JLO/SLO shall recommend for release of 2nd instalment to the concerned DDE after ensuring the complete removal of old plants and satisfactory maintenance of the area and vacancy filling."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Deputy Director (Extn.) after scrutinizing the claim and records and confirming the admissibility of the claim, will release the 2nd instalment of subsidy amount to the bank account of the applicant through EFT/RTGS/NEFT."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "process_md": "##### **Procedure for Claiming Subsidy**\n<br>\n\n> **Step 1: Obtaining Technical Feasibility Report (TFR)**\n\n\n1. The applicant/s shall submit the application online and also in the [prescribed format](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) along with necessary documents to their jurisdictional Coffee Board Office before taking up the activity.1. The concerned office will scrutinize the documents, carry out a field inspection and issue a Technical Feasibility Report to the grower for taking up replantation activity or otherwise. The activity taken up before issuing TFR is not eligible for claiming subsidy.\n\n<br>\n\n> **Step 2: Claiming 1st Instalment of Subsidy**\n\n\n1. The applicant/s shall submit the claim in the [prescribed format](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) along with relevant documents during the same financial year of replanting as far as possible.1. The concerned office will scrutinize the documents, carry out a field inspection, prepare a physical verification report with full details of the activity and forward the claim statement along with relevant records to the concerned Deputy Director (Extn).\n1. The Deputy Director (Extn.) after scrutinizing the claim and records and confirming the admissibility of the claim in all respects will release the 1st instalment of the replantation subsidy amount to the bank account of the applicant through EFT/RTGS/NEFT.\n\n<br>\n\n> **Step-3: Claiming 2nd Instalment of Subsidy**\n\n**Clean Replantation Method**\n\n1. The applicant shall submit the claim for 2nd instalment of subsidy in the [prescribed format](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) (in duplicate) along with relevant documents at the jurisdictional Coffee Board office during the second year of replanting / financial year, after filling up vacancies and attending to necessary aftercare measures.1. The JLO/SLO shall recommend for release of 2nd instalment to the concerned DDE after ensuring satisfactory maintenance of the area and vacancy filling.\n1. The Deputy Director (Extn.) after scrutinizing the claim and records and confirming the admissibility of the claim, will release the 2nd instalment of subsidy amount to the bank account of the applicant through EFT/RTGS/NEFT.\n\n**Replantation by Interlining Method**\n\n1. The applicant shall submit the claim for 2nd instalment of subsidy in the [prescribed format](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) (in duplicate) along with relevant documents at the jurisdictional Coffee Board office after harvesting a maximum of 2 crops from the old plants and after complete removal of the old plants.1. The JLO/SLO shall recommend for release of 2nd instalment to the concerned DDE after ensuring the complete removal of old plants and satisfactory maintenance of the area and vacancy filling.\n1. The Deputy Director (Extn.) after scrutinizing the claim and records and confirming the admissibility of the claim, will release the 2nd instalment of subsidy amount to the bank account of the applicant through EFT/RTGS/NEFT.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "implementingAgency": null,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Commerce",
+            "value": 1588
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Commerce And Industry",
+            "value": 1565
+          },
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Infra",
+          "schemeName": "Development Support for Coffee in Traditional Areas: Replantation",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DSCTA:R",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "schemeType": {
+            "label": "Central Sector Scheme",
+            "value": "central-sector-scheme"
+          },
+          "tags": [
+            "Coffee",
+            "Agriculture",
+            "Farmer",
+            "Plantation",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Only Small growers with coffee holding sizes of up to 10 Ha. are eligible."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Applicable for replantation of existing old/senile and low-productive Arabica and Robusta coffee plantations; aged 25 years in the case of Arabica, 40 years in the case of Robusta and 15 years in the case of Arabica dwarfs by adopting either clean replanting or interlining in the existing blocks."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "In the case of inter-planting of Arabica in Robusta adopting clean replanting, the subsidy will be given only to Robusta which is the main crop."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "When interlined in the old blocks, the old/unproductive plants should preferably be removed after one harvest and under no circumstances beyond two harvests i.e., for instance, if interlining is done in August-September 2017, the old plants should preferably be uprooted after harvesting the standing crop by December 2017 to March 2018 or after harvesting the second crop by December 2018 to March 2019. This would ensure that the newly interlined plants would not suffer too much root competition and receive adequate sunlight for vigorous growth."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "In Arabica zones with an elevation of 1000 metres above MSL, the old Arabica coffee blocks should be replanted with disease-tolerant, high-yielding Arabica varieties only. In other areas, with an elevation of less than 1000 meters above MSL, which is suitable for both Arabica and Robusta cultivation, the existing Arabica blocks replanted with Robusta material are eligible."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "In states like Tamil Nadu, if coffee is grown along with intercrops like pepper, orange, banana etc., and the land documents indicate the extent of each crop separately, in such a situation, the subsidy will be based on the actual extent of the area replanted with coffee or based on the maximum extent of land mentioned in the land documents, including other intercrops, whichever is less."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "As far as possible, the growers should adopt appropriate planting designs that are suitable for the mechanization of farm operations. In the case of estates that adopt such a modified planting design amenable to mechanization, the subsidy will be considered for the entire area of replanting and not based on the plant population."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Only Small growers with coffee holding sizes of up to 10 Ha. are eligible.\n   1. Applicable for replantation of existing old/senile and low-productive Arabica and Robusta coffee plantations; aged 25 years in the case of Arabica, 40 years in the case of Robusta and 15 years in the case of Arabica dwarfs by adopting either clean replanting or interlining in the existing blocks.\n   1. In the case of inter-planting of Arabica in Robusta adopting clean replanting, the subsidy will be given only to Robusta which is the main crop.\n   1. When interlined in the old blocks, the old/unproductive plants should preferably be removed after one harvest and under no circumstances beyond two harvests i.e., for instance, if interlining is done in August-September 2017, the old plants should preferably be uprooted after harvesting the standing crop by December 2017 to March 2018 or after harvesting the second crop by December 2018 to March 2019. This would ensure that the newly interlined plants would not suffer too much root competition and receive adequate sunlight for vigorous growth.\n   1. In Arabica zones with an elevation of 1000 metres above MSL, the old Arabica coffee blocks should be replanted with disease-tolerant, high-yielding Arabica varieties only. In other areas, with an elevation of less than 1000 meters above MSL, which is suitable for both Arabica and Robusta cultivation, the existing Arabica blocks replanted with Robusta material are eligible.\n   1. In states like Tamil Nadu, if coffee is grown along with intercrops like pepper, orange, banana etc., and the land documents indicate the extent of each crop separately, in such a situation, the subsidy will be based on the actual extent of the area replanted with coffee or based on the maximum extent of land mentioned in the land documents, including other intercrops, whichever is less.\n   1. As far as possible, the growers should adopt appropriate planting designs that are suitable for the mechanization of farm operations. In the case of estates that adopt such a modified planting design amenable to mechanization, the subsidy will be considered for the entire area of replanting and not based on the plant population.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Unit Cost for Arabica: "
+                },
+                {
+                  "text": "₹ 2,75,000/- per ha"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Unit Cost for Robusta: "
+                },
+                {
+                  "text": "₹ 2,00,000/- per ha."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Scale of Subsidy: "
+                },
+                {
+                  "text": "40% of the unit cost"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Coffee growers belonging to the SC/ST community with a coffee holding size of up to 4.00 Ha are eligible for additional support of 10% of the unit cost."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Release of Subsidy Instalments"
+                }
+              ],
+              "type": "heading_five"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "In the case of Clean Replanting:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "1st Instalment: 70% of the Applicable Unit Cost."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "2nd Instalment: 30% of the Applicable Unit Cost."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "In the case of Replantation by Interlining Method:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "1st Instalment: 30% of the Applicable Unit Cost."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "2nd Instalment: 70% of the Applicable Unit Cost."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "**Unit Cost for Arabica:** ₹ 2,75,000/- per ha\n**Unit Cost for Robusta:** ₹ 2,00,000/- per ha.\n**Scale of Subsidy:** 40% of the unit cost\n<br>\n\nCoffee growers belonging to the SC/ST community with a coffee holding size of up to 4.00 Ha are eligible for additional support of 10% of the unit cost.\n<br>\n\n##### **Release of Subsidy Instalments**\n> **In the case of Clean Replanting:**\n\n\n- 1st Instalment: 70% of the Applicable Unit Cost.\n- 2nd Instalment: 30% of the Applicable Unit Cost.\n\n> **In the case of Replantation by Interlining Method:**\n\n\n- 1st Instalment: 30% of the Applicable Unit Cost.\n- 2nd Instalment: 70% of the Applicable Unit Cost.\n\n",
+          "briefDescription": "The objective of the scheme \"Development Support for Coffee in Traditional Areas: Replantation\" is to improve the production and productivity of coffee plantations by encouraging replantation of old/senile and unproductive plantations with high-yielding, disease-tolerant coffee varieties.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Development Support for Coffee in Traditional Areas: Replantation\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging replantation of old/senile and unproductive plantations with high-yielding, disease-tolerant coffee varieties."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Development Support for Coffee in Traditional Areas: Replantation&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to improve the production and productivity of coffee plantations by encouraging replantation of old/senile and unproductive plantations with high-yielding, disease-tolerant coffee varieties.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "A grower who has availed subsidy under one activity/component is not eligible to avail subsidy for the same activity/component during the MTF period until new beneficiaries are covered."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Arabica replaced with Robusta material at a higher elevation of more than 1000 metres is not eligible for support."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "exclusions_md": "\n1. A grower who has availed subsidy under one activity/component is not eligible to avail subsidy for the same activity/component during the MTF period until new beneficiaries are covered.\n1. Arabica replaced with Robusta material at a higher elevation of more than 1000 metres is not eligible for support.\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dsctar"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "652ce23b4c46bfe12b200259",
+      "en": {
+        "documentsRequired_md": "> **Step 1: Obtaining Technical Feasibility Report (TFR)**\n\n\n1. Application and Self Declaration duly filled in and signed by the Applicant/s (in duplicate) in the prescribed format.\n1. Copy of Aadhaar Card\n1. In case the applicant is a GPA holder, an attested copy of the registered GPA.\n1. Copy of the Bank Pass Book having the details of account number, name of the Bank, branch, IFSC code etc., preferably Aadhaar seeded.\n1. Rough sketch of the estate along with check bandi / boundaries marked with clear demarcation of the proposed replanted blocks/area duly signed by the applicant.\n1. In the case of SC /ST caste certificate issued by the competent authority.\n1. Proof of Land Ownership in the form of any one of the following:\n\n\n- Copy of Patta / Khatha Extract along with RTCs for all Survey Nos. having coffee in possession of the applicant and clearly indicating the extent of coffee holding in the name of the applicant in respect of Karnataka.\n- Copy of Land Possession Certificate (Atalji Kendra) / CRC issued from the competent Revenue authority along with RTCs for all Survey Nos. having multiple names in the RTCs in respect of Kodagu District in Karnataka.\n- Copy of Chitta &amp; Adangal in respect of Tamil Nadu.\n- Copy of Land Possession Certificate issued by the competent Revenue authority of Kerala.\n\n<br>\n\n> **Step 2: Claiming 1st Instalment of Subsidy**\n\n\n1. Claim Statement in the prescribed format (in duplicate).\n1. Rough sketch of the replanted blocks/area duly signed by the applicant. The plant count in each block along with the number of rows/columns should be recorded.\n1. Expenditure statement\n\n<br>\n\n> **Step 3: Claiming 2nd Instalment of Subsidy**\n\n\n1. Claim Statement in the Prescribed Format (in Duplicate).\n1. Expenditure Statement\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 1: Obtaining Technical Feasibility Report (TFR)"
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application and Self Declaration duly filled in and signed by the Applicant/s (in duplicate) in the prescribed format."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "In case the applicant is a GPA holder, an attested copy of the registered GPA."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Bank Pass Book having the details of account number, name of the Bank, branch, IFSC code etc., preferably Aadhaar seeded."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Rough sketch of the estate along with check bandi / boundaries marked with clear demarcation of the proposed replanted blocks/area duly signed by the applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "In the case of SC /ST caste certificate issued by the competent authority."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Land Ownership in the form of any one of the following:"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Patta / Khatha Extract along with RTCs for all Survey Nos. having coffee in possession of the applicant and clearly indicating the extent of coffee holding in the name of the applicant in respect of Karnataka."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Land Possession Certificate (Atalji Kendra) / CRC issued from the competent Revenue authority along with RTCs for all Survey Nos. having multiple names in the RTCs in respect of Kodagu District in Karnataka."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Chitta & Adangal in respect of Tamil Nadu."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Land Possession Certificate issued by the competent Revenue authority of Kerala."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 2: Claiming 1st Instalment of Subsidy"
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Claim Statement in the prescribed format (in duplicate)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Rough sketch of the replanted blocks/area duly signed by the applicant. The plant count in each block along with the number of rows/columns should be recorded."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Expenditure statement"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Step 3: Claiming 2nd Instalment of Subsidy"
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Claim Statement in the Prescribed Format (in Duplicate)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Expenditure Statement"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "652ce1ec2a298fe1b48525d8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:21.906426+00:00",
+  "scheme_id": "652ce1ec2a298fe1b48525d8"
+}

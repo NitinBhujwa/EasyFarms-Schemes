@@ -1,0 +1,367 @@
+{
+  "detail": {
+    "data": {
+      "_id": "691877a75d0e85cf96209a54",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Application forms can be obtained from the officers or staff at the Horticulture Mobile team Centre. Forms are also available for download from the department’s website: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://shm.uk.gov.in"
+                              }
+                            ],
+                            "link": "https://shm.uk.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For winter planting, applications must be submitted between September and October, and for rainy season planting, applications must be submitted between April and June. Applicants are required to submit land-related documents, such as Khasra and Khatauni, along with the application form. For leased land, additional documents including the lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Currently, the application process is offline. Farmers must submit their completed application along with the required documents to the respective Horticulture Mobile team Centre. The application format also serves as a proposal. If a farmer faces any difficulty in filling out the form, the staff at the respective centre are responsible for providing assistance."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre  forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "After a farmer’s proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase vegetable seeds or saplings from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries under the scheme are selected on a first-come, first-served basis, subject to budget availability."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - Application forms can be obtained from the officers or staff at the Horticulture Mobile team Centre. Forms are also available for download from the department’s website: [https://shm.uk.gov.in](https://shm.uk.gov.in/).  - For winter planting, applications must be submitted between September and October, and for rainy season planting, applications must be submitted between April and June. Applicants are required to submit land-related documents, such as Khasra and Khatauni, along with the application form. For leased land, additional documents including the lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required.\n  - Currently, the application process is offline. Farmers must submit their completed application along with the required documents to the respective Horticulture Mobile team Centre. The application format also serves as a proposal. If a farmer faces any difficulty in filling out the form, the staff at the respective centre are responsible for providing assistance.\n  - For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre  forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate.\n  - For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order.\n  - After a farmer’s proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase vegetable seeds or saplings from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries under the scheme are selected on a first-come, first-served basis, subject to budget availability.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Vegetable Area Expansion",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "VEA",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Horticulture",
+            "Vegetable",
+            "Vegetable Seeds",
+            "Farmer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer and hold a Udhyan Card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer must either own agricultural land or have land on lease."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The maximum land area allowed under the scheme is 2 hectares."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer and hold a Udhyan Card.\n1. The farmer must either own agricultural land or have land on lease.\n1. The maximum land area allowed under the scheme is 2 hectares.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "To promote vegetable production, seasonal vegetable seeds are provided to farmers at a 50% subsidy. Farmers are required to apply approximately two months before planting seasonal vegetables."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "For example, if a packet of bottle gourd seeds costs ₹200/-, the farmer pays ₹100/- at the concerned Horticulture Mobile team Centre, while the government bears the remaining ₹100/- as a subsidy, allowing the farmer to receive the seeds for ₹100/-."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - To promote vegetable production, seasonal vegetable seeds are provided to farmers at a 50% subsidy. Farmers are required to apply approximately two months before planting seasonal vegetables.\n  - For example, if a packet of bottle gourd seeds costs ₹200/-, the farmer pays ₹100/- at the concerned Horticulture Mobile team Centre, while the government bears the remaining ₹100/- as a subsidy, allowing the farmer to receive the seeds for ₹100/-.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote and expand vegetable cultivation across the state by providing seasonal vegetable seeds to farmers at a 50% subsidy.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Vegetable Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand vegetable cultivation across the state by providing seasonal vegetable seeds to farmers at a 50% subsidy."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Vegetable Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand vegetable cultivation across the state by providing seasonal vegetable seeds to farmers at a 50% subsidy.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 212)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "vea"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "69187b535d0e85cf9620a64c",
+      "en": {
+        "documentsRequired_md": "\n   1. Land-related documents, such as Khasra and Khatauni (lease certificate, in case of leased land)\n   1. Aadhaar Card\n   1. PAN Card\n   1. Udhyan Card\n   1. Bank account details\n   1. Mobile Number\n   1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Land-related documents, such as Khasra and Khatauni (lease certificate, in case of leased land)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "PAN Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Udhyan Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Mobile Number"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Other supporting documents as required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691877a75d0e85cf96209a54"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:07:01.144133+00:00",
+  "scheme_id": "691877a75d0e85cf96209a54"
+}

@@ -1,0 +1,476 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68e26398074b2831665cff98",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "The interested applicant should visit the Gram Panchayat office and request a hard copy of the prescribed format of the application form from the designated staff."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents at the Gram Panchayat."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the Gram Panchayat to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Post-Application Processes",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "The Veterinary Extension Officer at the block level reviews and forwards the application to the Janpad Panchayat for approval."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "The Deputy Director of Animal Husbandry presents the cases to the District Panchayat Agriculture Standing Committee for approval within available budget limits."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "Upon approval, the beneficiary enters into an agreement with the Animal Husbandry Department."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "The indigenous breeding bull, feed for 60 days, and supporting resources are provided to the beneficiary."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:****** The interested applicant should visit the Gram Panchayat office and request a hard copy of the prescribed format of the application form from the designated staff.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents at the Gram Panchayat.\n**Step 4:** Request a receipt or acknowledgment from the Gram Panchayat to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n> **Post-Application Processes**\n\n**Step 1:****** The Veterinary Extension Officer at the block level reviews and forwards the application to the Janpad Panchayat for approval.\n**Step 2:****** The Deputy Director of Animal Husbandry presents the cases to the District Panchayat Agriculture Standing Committee for approval within available budget limits.\n**Step 3:****** Upon approval, the beneficiary enters into an agreement with the Animal Husbandry Department.\n**Step 4:****** The indigenous breeding bull, feed for 60 days, and supporting resources are provided to the beneficiary.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Nandi Shala Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "NSYMP",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Dairy",
+            "Financial Assistance",
+            "Subsidy",
+            "Farmer",
+            "Cattle"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a livestock farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be residing in a rural area of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have a minimum of 5 cattle along with sufficient agricultural land."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "If the applicant does not have agricultural land, they should have at least 20 cattle."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be willing to maintain and use the distributed bull for community natural insemination purposes."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a livestock farmer.\n1. The applicant should be residing in a rural area of Madhya Pradesh.\n1. The applicant should have a minimum of 5 cattle along with sufficient agricultural land.\n1. If the applicant does not have agricultural land, they should have at least 20 cattle.\n1. The applicant should be willing to maintain and use the distributed bull for community natural insemination purposes.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Cost and Subsidy",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "For bulls procured from outside Madhya Pradesh: ₹25,720/- per unit."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "For bulls procured from within Madhya Pradesh: ₹18,260/- per unit."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy: 75% of the cost."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Beneficiary contribution: 25% of the cost."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "> **Cost and Subsidy**\n\n\n- For bulls procured from outside Madhya Pradesh: ₹25,720/- per unit.\n- For bulls procured from within Madhya Pradesh: ₹18,260/- per unit.\n- Subsidy: 75% of the cost.\n- Beneficiary contribution: 25% of the cost.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to improve local cattle breeds through natural insemination. Under this, indigenous breeding bulls are provided on subsidy to livestock farmers in rural Gram Panchayats.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Nandi Shala Yojana (Provision of Breeding Indigenous Bulls on Subsidy)\" is launched by the Department of Animal Husbandry, Government of Madhya Pradesh. The scheme aims to improve the breeds of local non-descript and graded cattle in rural areas through natural insemination services. The progressive livestock owners at the Gram Panchayat level are provided high-quality indigenous breeding bulls of recognized breeds such as Sahiwal, Tharparkar, Haryana, Gir, Gaolao, Malvi, Nimari, and Kenkatha at a subsidized cost."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Objectives"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To provide indigenous breeding bulls on subsidy for natural insemination services."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To improve the productivity of local cattle breeds in rural areas."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To support progressive livestock farmers in rural Gram Panchayats."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Nandi Shala Yojana (Provision of Breeding Indigenous Bulls on Subsidy)&quot; is launched by the Department of Animal Husbandry, Government of Madhya Pradesh. The scheme aims to improve the breeds of local non-descript and graded cattle in rural areas through natural insemination services. The progressive livestock owners at the Gram Panchayat level are provided high-quality indigenous breeding bulls of recognized breeds such as Sahiwal, Tharparkar, Haryana, Gir, Gaolao, Malvi, Nimari, and Kenkatha at a subsidized cost.\n> **Objectives**\n\n\n- To provide indigenous breeding bulls on subsidy for natural insemination services.\n- To improve the productivity of local cattle breeds in rural areas.\n- To support progressive livestock farmers in rural Gram Panchayats.\n\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://mpdah.gov.in/schemes/view/RDFQVlRiaE01TE1xZnQ5QitjeTlIQT09"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=204"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "nsymp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68e2642a074b2831665d0202",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card\n- Residence/Address Proof\n- Land document\n- Bank details\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence/Address Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land document"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e26398074b2831665cff98"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:39.371977+00:00",
+  "scheme_id": "68e26398074b2831665cff98"
+}

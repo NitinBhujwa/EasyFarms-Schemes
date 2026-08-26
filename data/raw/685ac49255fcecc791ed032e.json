@@ -1,0 +1,840 @@
+{
+  "detail": {
+    "data": {
+      "_id": "685ac49255fcecc791ed032e",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process on Antyodaya-SARAL Portal:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Visit the Official Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal."
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details,i.e., Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Login to Apply for the Scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Visit the Official Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal."
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Track Your Service Online:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Track Application/Appeal: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://status.saralharyana.nic.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Track Ticket: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "",
+                        "underline": true
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Track Your Service Through SMS:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Registered Mobile Number:"
+                          },
+                          {
+                            "text": " Type 'SARAL' and send it to 9954699899 to track your application."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Other Mobile Number: "
+                          },
+                          {
+                            "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Helpline: "
+                          },
+                          {
+                            "text": "0172-3968400"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Email: "
+                          },
+                          {
+                            "text": "saral.haryana@gov.in"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note: ",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Govt. Charges:"
+                          },
+                          {
+                            "text": " No Fee"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Service Charges:  "
+                          },
+                          {
+                            "text": " ₹10/-"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Atal Seva Kendra Service Charges:"
+                          },
+                          {
+                            "text": "  ₹10/-"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details,i.e., Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&lt;br&gt;\n\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&lt;br&gt;\n\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&lt;br&gt;\n\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type &amp;#39;SARAL&amp;#39; and send it to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&lt;br&gt;\n\n&gt; **Contact Us:**\n\n\n  - **Helpline:** 0172-3968400  - **Email:** saral.haryana@gov.in\n&lt;br&gt;\n\n&gt; **Note:** \n\n\n  - **Govt. Charges:** No Fee  - **Service Charges:**   ₹10/-  - **Atal Seva Kendra Service Charges:**  ₹10/-\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Fisheries Department",
+            "value": 666678
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "PMMSY: Installation of Cages in Reservoirs Scheme - Haryana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "IOCIRS",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "Fish Farming",
+            "Fishermen",
+            "Subsidy",
+            "Scheduled Caste",
+            "Women",
+            "General Category"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Joint Liability Groups (JLGS)",
+              "value": "joint-liability-groups"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            },
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be an individual farmer, cooperative society, self-help group, or joint liability group. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cooperative society, self-help group, or joint liability group having a minimum of 10 members. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must possess a Family Identity Card (Parivar Pehchan Patra)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must obtain prior permission from the Government of Haryana and competent authorities."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cage location must have year-round water availability and a minimum of 8 meters depth."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should take government permission for rearing exotic fish species. "
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be an individual farmer, cooperative society, self-help group, or joint liability group. \n1. The cooperative society, self-help group, or joint liability group having a minimum of 10 members. \n1. The applicant must possess a Family Identity Card (Parivar Pehchan Patra).\n1. The applicant must obtain prior permission from the Government of Haryana and competent authorities.\n1. The cage location must have year-round water availability and a minimum of 8 meters depth.\n1. The applicant should take government permission for rearing exotic fish species. \n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Grant Amount:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "₹3,00,000/- per unit (per cage)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Grant Proportion:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "40% of unit cost for General Category beneficiaries."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "60% of unit cost for Scheduled Caste/Women beneficiaries."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Cage Limit for Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Up to 5 cages for individual farmers."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Up to 20 cages for registered cooperative societies/self-help groups/joint liability groups (with at least 10 members)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Grant Amount:**\n\n- ₹3,00,000/- per unit (per cage).\n\n**Grant Proportion:**\n\n- 40% of unit cost for General Category beneficiaries.\n- 60% of unit cost for Scheduled Caste/Women beneficiaries.\n\n**Cage Limit for Assistance:**\n\n- Up to 5 cages for individual farmers.\n- Up to 20 cages for registered cooperative societies/self-help groups/joint liability groups (with at least 10 members).\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote cage fish farming. It provides grants per unit to the individuals and groups for sustainable aquaculture practices.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Installation of Cages in Reservoirs Scheme\" was launched by the Ministry Of Fisheries, Animal Husbandry & Dairying, Government of India, under the umbrella scheme \"Pradhan Mantri Matsya Sampada Yojana\". It aims to promote sustainable aquaculture practices by supporting cage fish farming in water bodies. Under this scheme, a grant of ₹3,00,000/- per unit to the individuals and groups for setting up cage fish farms, thereby encouraging entrepreneurship, increasing fish production, and generating employment."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Installation of Cages in Reservoirs Scheme&quot; was launched by the Ministry Of Fisheries, Animal Husbandry &amp; Dairying, Government of India, under the umbrella scheme &quot;Pradhan Mantri Matsya Sampada Yojana&quot;. It aims to promote sustainable aquaculture practices by supporting cage fish farming in water bodies. Under this scheme, a grant of ₹3,00,000/- per unit to the individuals and groups for setting up cage fish farms, thereby encouraging entrepreneurship, increasing fish production, and generating employment.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=W%2fsFEMWlJZG3hueCeE3oEg%3d%3d"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sfiocir"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "685ac82bb891d3ecdabd220e",
+      "en": {
+        "documentsRequired_md": "**General Document:**\n\n- Family Identity Card (Parivar Pehchan Patra).\n- Agreement 1 (agreement deed between the beneficiary and the fisheries Department).\n- Date of Birth Certificate (Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate).\n- Caste Certificate (from a first-class Magistrate (Tehsildar)).\n- Training Certificate.\n- Land Record (Land record from Tehsil (own land- Jamabandi, Nakal, Akshizra, Farad) or registered lease deed of minimum 7 years.\n- Bills/Receipts/Vouchers.\n- Photographs of cages with beneficiary.\n- Bank Account Detail.\n- Pan Card.\n\n**Detailed Project Report (DPR)/Self-Contained Proposal (SCP) with:**\n\n- Project justification.\n- Capital and recurring cost details.\n- Source of the beneficiary&#39;s contribution.\n- Bank consent for loan (if applicable).\n- Employment potential and project timeline.\n- An undertaking that no other government assistance has been availed for the project.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "General Document:",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Family Identity Card (Parivar Pehchan Patra)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Agreement 1 (agreement deed between the beneficiary and the fisheries Department)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Date of Birth Certificate (Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (from a first-class Magistrate (Tehsildar))."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Record (Land record from Tehsil (own land- Jamabandi, Nakal, Akshizra, Farad) or registered lease deed of minimum 7 years."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bills/Receipts/Vouchers."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photographs of cages with beneficiary."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Detail."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Pan Card."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Detailed Project Report (DPR)/Self-Contained Proposal (SCP) with:",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Project justification."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Capital and recurring cost details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Source of the beneficiary's contribution."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank consent for loan (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Employment potential and project timeline."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "An undertaking that no other government assistance has been availed for the project."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "685ac49255fcecc791ed032e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:02.752402+00:00",
+  "scheme_id": "685ac49255fcecc791ed032e"
+}

@@ -1,0 +1,309 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "After receiving the target from the Government of India, the Agriculture Department, through the District Chief Agriculture Officer’s Office, publishes an advertisement inviting applications for the purchase of machinery at a subsidized rate. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To avail of this scheme, farmers/groups must apply within the dates specified in the advertisement. Applications can be submitted online through the SMAM portal ("
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "https://agrimachinery.nic.in"
+                        }
+                      ],
+                      "link": "https://agrimachinery.nic.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": ") either by the farmers/groups themselves or via the nearest Common Service Center (CSC)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To apply online, farmers are required to upload their Aadhaar card along with an Aadhaar-linked mobile number, bank account details, land certificate, and caste certificate if applicable. In the case of group applications, it is mandatory to provide the bank account of the group or Custom Hiring Centre, a photo of the group president, Aadhaar cards of all group members, and the land documents of all members. All documents must correspond to the district in which the agricultural land is located. Farmers/groups who are unable to apply online can seek assistance from the Agriculture Department’s development block-level officer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Once the application is submitted, the farmer/group receives a registration number or certificate. Using this registration number, the farmer/group can purchase the required equipment from a panel firm approved by the Agriculture Department, as listed on the portal, and upload the purchase bills. The bills are then verified by Agriculture Department personnel, and the subsidy amount is directly disbursed to the farmer’s/group's bank account through DBT."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The scheme follows a “first-come, first-served” system. District-wise targets are set, and once a district’s target is reached, farmers/groups will need to apply again in the following year to avail the benefits of the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - After receiving the target from the Government of India, the Agriculture Department, through the District Chief Agriculture Officer’s Office, publishes an advertisement inviting applications for the purchase of machinery at a subsidized rate. \n  - To avail of this scheme, farmers/groups must apply within the dates specified in the advertisement. Applications can be submitted online through the SMAM portal ([https://agrimachinery.nic.in](https://agrimachinery.nic.in/)) either by the farmers/groups themselves or via the nearest Common Service Center (CSC).  - To apply online, farmers are required to upload their Aadhaar card along with an Aadhaar-linked mobile number, bank account details, land certificate, and caste certificate if applicable. In the case of group applications, it is mandatory to provide the bank account of the group or Custom Hiring Centre, a photo of the group president, Aadhaar cards of all group members, and the land documents of all members. All documents must correspond to the district in which the agricultural land is located. Farmers/groups who are unable to apply online can seek assistance from the Agriculture Department’s development block-level officer.\n  - Once the application is submitted, the farmer/group receives a registration number or certificate. Using this registration number, the farmer/group can purchase the required equipment from a panel firm approved by the Agriculture Department, as listed on the portal, and upload the purchase bills. The bills are then verified by Agriculture Department personnel, and the subsidy amount is directly disbursed to the farmer’s/group&amp;#39;s bank account through DBT.\n  - The scheme follows a “first-come, first-served” system. District-wise targets are set, and once a district’s target is reached, farmers/groups will need to apply again in the following year to avail the benefits of the scheme.\n\n<br>\n\n"
+    },
+    {
+      "mode": "Online - via CSC",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Applications can be submitted online by visiting the nearest Common Service Center (CSC), along with all the relevant documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Applications can be submitted online by visiting the nearest Common Service Center (CSC), along with all the relevant documents.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under the Custom Hiring Centre component (for groups of farmers involved in buying, renting, or selling agricultural equipment), farmer groups, cooperatives, FPOs, self-help groups, and individual farmers can purchase equipment valued between ₹10.00 lakh and ₹100.00 lakh. The Government of India provides a maximum subsidy of 40% on such purchases.<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "92894f232bbfd36f45af50474f9db21f276076b0f614ba7deec9f44c23a8c567",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Sub-Mission on Agricultural Mechanization for Custom Hiring Centres / Big Farmers” is implemented by the Department of Agriculture, Government of Uttarakhand. It aims to promote agricultural mechanization and enhance farm productivity by facilitating access to modern farm machinery. Under this scheme, individual large farmers, farmer groups, cooperatives, self-help groups, and custom hiring centres in the state can purchase agricultural equipment at a subsidized rate, with the Government of India providing a maximum subsidy of 40%.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a large farmer (owning 5 hectares or more of land), a cooperative group, self-help group, or a custom hiring centre in Uttarakhand.\n   1. The farmer or group must have cultivable land located in Uttarakhand.\n   1. For an individual large farmer, their name must be recorded in the revenue records. For a group, the names of all group members must be listed in the agricultural land documents.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:36.938969+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:36.938969+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 208)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f5119fba60690c55e372b6",
+      "en": {
+        "documentsRequired_md": "***To apply online, the following documents must be uploaded:***\n\n1. Aadhaar card and Aadhaar-linked mobile number\n1. Bank account details\n1. Land certificate\n1. Caste certificate (if applicable)\n\n***For group applications, the following are mandatory:***\n\n1. Bank account of the group or Custom Hiring Centre\n1. Photo of the group president\n1. Aadhaar cards of all group members\n1. Land documents of all group members\n\n***Note: All documents must pertain to the district where the agricultural land is located.***\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "To apply online, the following documents must be uploaded:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card and Aadhaar-linked mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "For group applications, the following are mandatory:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Bank account of the group or Custom Hiring Centre"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photo of the group president"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar cards of all group members"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land documents of all group members"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "Note: All documents must pertain to the district where the agricultural land is located."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f50c03f93f97e596adadc1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f50c03f93f97e596adadc1",
+  "scheme_name": "Sub-Mission on Agricultural Mechanization (SMAM) for Custom Hiring Centres / Big Farmers - Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "SMAMCHCBFUK",
+  "slug": "smamchcbfuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Agricultural",
+    "Mechanization",
+    "Subsidy",
+    "Custom Hiring Centre",
+    "Self-help Group"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

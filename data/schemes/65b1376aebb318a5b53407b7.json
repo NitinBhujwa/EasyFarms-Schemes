@@ -1,0 +1,272 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process: "
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Farmers/growers desiring insurance may directly contact representatives/authorized agents of the Insurance Company or may contact the nearest office of the Agriculture/Horticulture Department. Premium will be paid by farmer/grower, net off premium subsidy, through cash, cheque/bank draft, drawn in favour of Insurance Company."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Claim assessment & settlement procedure:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Loss of insured palms will be intimated by insured farmers to the insurance company within 15 (fifteen) days from the occurrence of peril, with all relevant details."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The claims may also be intimated through concerned State Government Call Centers until the Implementing Agency (i.e. insurance company) sees up its own call centre. Loss assessment certification is required to be furnished by the Coconut Development Board (CDB)/Agriculture/Horticulture Department/State Agriculture University (SAU), as authorized by the insurance company for each district, justifying cause for loss of palm, within 15 days from the intimation of loss."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The insurance company, at its discretion may send its representative to assess loss jointly with the agency designated to certify loss."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The insurance company will release the claim to the insured farmer/grower within one month from the date, all relevant certified details of the claim are received in their office. Release of the claim amount, however, is subject to receiving a premium subsidy from both CDB and the concerned State."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Insurance ceases to operate once a full claim is paid."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Personal Accident cover for climbers registered with CDB/State government may be arranged with the public sector general insurance companies."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The sum insured and the premium will be negotiated depending on the likely number of climbers to be insured."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:** \n\nFarmers/growers desiring insurance may directly contact representatives/authorized agents of the Insurance Company or may contact the nearest office of the Agriculture/Horticulture Department. Premium will be paid by farmer/grower, net off premium subsidy, through cash, cheque/bank draft, drawn in favour of Insurance Company.\n&gt; **Claim assessment &amp;amp; settlement procedure:**\n\n\n  - Loss of insured palms will be intimated by insured farmers to the insurance company within 15 (fifteen) days from the occurrence of peril, with all relevant details.\n  - The claims may also be intimated through concerned State Government Call Centers until the Implementing Agency (i.e. insurance company) sees up its own call centre. Loss assessment certification is required to be furnished by the Coconut Development Board (CDB)/Agriculture/Horticulture Department/State Agriculture University (SAU), as authorized by the insurance company for each district, justifying cause for loss of palm, within 15 days from the intimation of loss.\n  - The insurance company, at its discretion may send its representative to assess loss jointly with the agency designated to certify loss.\n  - The insurance company will release the claim to the insured farmer/grower within one month from the date, all relevant certified details of the claim are received in their office. Release of the claim amount, however, is subject to receiving a premium subsidy from both CDB and the concerned State.\n  - Insurance ceases to operate once a full claim is paid.\n  - Personal Accident cover for climbers registered with CDB/State government may be arranged with the public sector general insurance companies.\n  - The sum insured and the premium will be negotiated depending on the likely number of climbers to be insured.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Sum Insured &amp;amp; Premium****:** Under this scheme, 50% of the premium is borne by the Board and balance is shared between the State Government and Farmers @ 25% each, as below:\nAge group of PalmsPremium per plant/yearBoard’s Share (50%)State Govt. Share (25%)  Farmer’s Share (25%)   Sum insured per palm4-15 years ₹9₹4.50₹2.25₹2.25₹900/-16-60 years₹14₹7₹3.50₹3.50₹1750/-**Premium Subsidy:**\n\n  - Of amount under above, 50% will be paid by Coconut Development Board (CDB) and 25% by State Government concerned and balance 25% will be paid by farmer/grower.\n  - In case, the State government does not agrees to bear 25% share of premium, farmers/growers, will be required to pay 50% of premium, if interested in insurance scheme. In case some planters/growers’ association wishes to bear the premium on behalf of planters/growers, such associations may do so if they have ‘insurable interest’. \n  - In any case, the planters/ growers shall have to bear a minimum of 10% premium. Premium subsidy amount (50% by CDB and 25% by participating States) will be released to Insurance Company in advance based on estimates, which will be replenished / adjusted on quarter/year basis.\n\n**Insurance Term:**\n\n  - A policy can be issued for a maximum period of three years for which rebate in premium @7.5% for two year policy and 12.5% for three year policy will be provided to the planters/growers.\n  - Effort will be made to ensure that all eligible farmers/growers join the scheme by 31st March of year. However, those farmers/growers who do not join the scheme by 31st March may join the scheme subsequently, and in which case risk is covered from 1st day of succeeding month.\n\n**Contingency Insured:**\nThis insurance policy pays for total loss of palm on account of happening of perils insured leading to death of insured palm or It’s becoming unproductive. In case, death of palm is not immediate, payment of sum insured will be payable on production of certificate from Coconut Development Board (CDB)/Agriculture / Horticulture Department justifying cause for declaring palm unproductive. A palm can be declared ‘unproductive’ only when further growth / rejuvenation of palm is removed / possible after the same damaged by peril(s) insured, provided palm is removed / felled by insured. In case farmer / grower wishes to retain unproductive palm as it is (without felling), salvage value of 50% of sum insured will be deducted from claim. In any case, loss of palm will have to be established to, occurrence of peril insured.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "eb682005564c373e66c5c266bdc8ce8ae7e0e342382228b2c6d2767881d3ef72",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Coconut Palm Insurance Scheme (CPIS)” is being implemented by the Coconut Development Board, Ministry of Agriculture and Farmers Welfare, Government of India, with the objective of insuring coconut palms against natural calamities, climatic risks, pests, diseases, and other perils. Under this scheme, all healthy nut-bearing coconut palms in the age group of 4 years to 60 years in a contiguous area (mono/mixed) can be insured against natural perils leading to death/loss of palm/becoming unproductive. The scheme is being implemented in all coconut-growing States through Agriculture Insurance Company and implementing State Governments.\n&gt; **Objectives:**\n\n\n  - Assist coconut growers in insuring coconut palms, against natural and other perils.\n  - Provide timely relief to farmers, who suffer income loss due to sudden death of palms.\n  - Minimize risk and encourage replanting and rejuvenation to make coconut farming remunerative.\n\n&gt; **Applicability:**\n\nThe CPIS will be applicable to all healthy nuts bearing coconut palms; grown as mono or intercropped; on bunds farms or homestead and to all varieties of coconut, including Tall, Dwarf and Hybrids. Since, Dwarf and Hybrids begin to yield fruit from 4th year of planting, this variety of coconut palms in age range of 4-60 year will be covered under the scheme, but Tall variety coconut palms will be eligible for coverage for age range of 7-60 year. Unhealthy and senile palms will be excluded from coverage. \nRisks covered: The scheme covers following perils leading to death/loss of palm or palm becoming un-productive:\n\n  - Storm, hailstorm, cyclone typhoon, tornado, heavy rains.\n  - Flood and inundation.\n  - Pest and diseases of widespread nature causing, irreparable damages to palm.\n  - Accidental fire, including forest fire and bush fire, lightening.\n  - Earthquake, landslide and tsunami.\n  - Severe drought and consequential total loss.\n\n&gt; **States &amp;amp; Areas Covered:**\n\n\n  - This insurance scheme will be implemented in the selected districts of all the States/UTs, growing coconut palms.\n  - All bearing and healthy palms will be insured, in a contiguous area, by farmer/grower and every effort will be made by CDB, to get all bearing and healthy palms insured, in cluster villages of district(s).\n\n",
+  "eligibility": "&gt; **Eligibility criteria:**\n\n\n   1. As per the Scheme, individual farmers/growers offering at least 5 healthy nuts-bearing palms for insurance in specified age groups, (4-60 years for dwarf, hybrid, and 7-60 years for tall) contiguous area/plots will be eligible for insurance.\n\n**Note 01:** Insurance is for individual palms and not area-based.\n**Note 02:** Partial insurance of the plantation is not allowed.\n**Note 03:** A minimum of 5 healthy nut-bearing palms is the criterion to come under the insurance scheme.\n&gt; **Scope of cover:**\n\n\n  - The scheme will cover all healthy palms within the insurable age group in areas/districts selected for implementation of the scheme. Partial insurance of plantations in contiguous areas is not allowed. Insurance coverage is from the 4th/7th year to the 60th year, and split into two age groups i.e. 4-15 years and 16-60 years, for fixing premium and sum insured.\n  - Self-declaration of age group by insured farmer/grower in insurance proposal will be acceptable. Insurance Company may get the insured palms verified for authenticity, at any time before expiry of the policy period or payment of the claim. Insurance becomes void in the event of a wrong declaration of age or any material fact by the insured, concerning insurance.\n\n&gt; **Franchise:**\n\nThe claim is assessed only if a number of palms damaged, due to perils insured are in a contiguous area is more than the palms lost as shown for different slabs:\nSl. No.No. of Insured Palms in a contiguous areaFranchise (Palms lost) 1&amp;amp;amp;lt; 30 1231-100 23&amp;amp;amp;gt;100 3&gt; **Waiting period:**\n\nLoss/death of palms, within 30 days from inception of insurance, sum insured is not payable under the scheme, but this condition is not applicable in case of renewal of insurance, without time gap.\n",
+  "exclusions": "No claims shall be payable under the scheme if the palm is lost due to operation of peril insured is within the ‘Franchise’ clause. Under this policy, the insurer will not be liable for any payment for any expenses incurred by the insured in connection with or in respect to loss other than on account of perils insured. The insurance does not cover the following events, in so far as they are applicable, keeping in view the scope of insurance coverage:\n\n  - Loss by Theft, War, Invasion, Civil War. Rebellion, Revolution, Insurrection, Mutiny, Lockout, Malicious Damage, Conspiracy, Military/Usurped Power, Civil Commotion, Confiscation, Requisition/Destruction/damage by order of any Government de-jure/de-facto/by any public/municipal/local authority, including damage due to power transmission.\n  - Nuclear reaction, nuclear radiation or radioactive contamination.\n  - Impact damage due to aircraft or other falling objects\n  - Wilful negligence of the insured and anyone acting on his behalf.\n  - Damage caused by human, bird or any animal action.\n  - Improper maintenance of palms.\n  - Palm becoming unhealthy &amp;amp; senile.\n  - Natural morality of the palm; uprooting of palm traceable to chiselling of roots.\n\n",
+  "first_seen_at": "2026-08-26T13:55:58.212478+00:00",
+  "implementing_agency": "Coconut Development Board",
+  "last_synced_at": "2026-08-26T13:55:58.212478+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture & Farmers Welfare",
+    "value": 121226
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://coconutboard.gov.in/Scheme.aspx#Insurance"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://coconutboard.gov.in/docs/operationalguidelines-cpis.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65b13b2d66a1d73a218432af",
+      "en": {
+        "documentsRequired_md": "**Farmer/Grower who needs to insure his palms should submit the following documents, as the case may be:**\n\n   1. Identity proof of farmer\n   1. Proposal forms along with premium amount (Preferably DD)\n   1. Proof of land record / Plantation or a certificate issued by revenue authorities to Agri. Dept. / CDB / Horticulture Department, depending upon the practice in a State\n   1. Declaration by a farmer that only healthy palms are insured.\n   1. A rough sketch of the plantation with the land identification number of each plot and the number of palms therein, the palms should preferably be numbered.\n   1. Bank account details\n   1. Other documents as required by the board\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Farmer/Grower who needs to insure his palms should submit the following documents, as the case may be:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity proof of farmer"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proposal forms along with premium amount (Preferably DD)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of land record / Plantation or a certificate issued by revenue authorities to Agri. Dept. / CDB / Horticulture Department, depending upon the practice in a State"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Declaration by a farmer that only healthy palms are insured."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "A rough sketch of the plantation with the land identification number of each plot and the number of palms therein, the palms should preferably be numbered."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Other documents as required by the board"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "65b1376aebb318a5b53407b7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65b1376aebb318a5b53407b7",
+  "scheme_name": "Coconut Palm Insurance Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "CPIS",
+  "slug": "cpis",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Insurance",
+      "value": "Insurance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Coconut",
+    "Palm",
+    "Insurance",
+    "Farmer",
+    "Coconut Grower"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

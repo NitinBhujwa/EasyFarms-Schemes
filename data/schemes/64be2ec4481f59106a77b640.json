@@ -1,0 +1,387 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Prior filling the application form, applicants may ensure that the following documents may be readily available for uploading:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Passport size photo in JPG/JPEG (format size less than 2 MB)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Letter of recommendation in PDF (format size less than 2 MB)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Mark sheet or Certificate of Qualification (in PDF format size less than 2 MB)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "A. Registration:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Applicant is required to register himself on the official website of "
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "ICRO Amrit Internship Program"
+                        }
+                      ],
+                      "link": "https://amritinternship.iplfoundation.org.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": ". "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "On the homepage, the applicant will click on the section \""
+                    },
+                    {
+                      "bold": true,
+                      "text": "New Registration"
+                    },
+                    {
+                      "text": "\""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "link": "https://www.icroamrit.npcindia.gov.in/Register.aspx",
+                      "type": "link"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After successful registration, the applicant may receive his Username and Password."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "B. Application form:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Then, the applicant is required to click \""
+                    },
+                    {
+                      "bold": true,
+                      "text": "Already Registered"
+                    },
+                    {
+                      "text": "\" tab on the homepage."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Then the applicant is required to enter Username, Password and complete the application form."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant will also be required to upload marksheet as a proof of qualification related documents."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant is required to upload a letter of recommendation in the "
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "prescribed format"
+                        }
+                      ],
+                      "link": "https://amritinternship.iplfoundation.org.in/PDFs/Amrit_English.pdf",
+                      "type": "link"
+                    },
+                    {
+                      "text": " from their institute / college / university / establishment along with the application. (Refer page no. 7)"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Once the application is form is complete. Click submit."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Applicants will be selected based on the recommendations of committee set up by NPC/IPL."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Placement of interns will be made at Head office and regional offices of NPC / IPL depending upon the preference of interns and requirements of offices concerned."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "NPC / IPL / ICRO may terminate any intern’s engagement/ program at any time, as deemed fit in cases of discipline, or misconduct, without assigning any reason. Decision of NPC / IPL / ICRO shall be final in this regard. "
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Prior filling the application form, applicants may ensure that the following documents may be readily available for uploading:\n\n  - Passport size photo in JPG/JPEG (format size less than 2 MB).\n  - Letter of recommendation in PDF (format size less than 2 MB).\n  - Mark sheet or Certificate of Qualification (in PDF format size less than 2 MB).\n\n**A. Registration:**\n\n   1. Applicant is required to register himself on the official website of [**ICRO Amrit Internship Program**](https://amritinternship.iplfoundation.org.in/).    1. On the homepage, the applicant will click on the section &amp;quot;**New Registration**&amp;quot;   1. After successful registration, the applicant may receive his Username and Password.\n\n**B. Application form:**\n\n   1. Then, the applicant is required to click &amp;quot;**Already Registered**&amp;quot; tab on the homepage.   1. Then the applicant is required to enter Username, Password and complete the application form.\n   1. The applicant will also be required to upload marksheet as a proof of qualification related documents.\n   1. The applicant is required to upload a letter of recommendation in the [**prescribed format**](https://amritinternship.iplfoundation.org.in/PDFs/Amrit_English.pdf) from their institute / college / university / establishment along with the application. (Refer page no. 7)   1. Once the application is form is complete. Click submit.\n\n**Note:**\n\n  - Applicants will be selected based on the recommendations of committee set up by NPC/IPL.\n  - Placement of interns will be made at Head office and regional offices of NPC / IPL depending upon the preference of interns and requirements of offices concerned.\n  - NPC / IPL / ICRO may terminate any intern’s engagement/ program at any time, as deemed fit in cases of discipline, or misconduct, without assigning any reason. Decision of NPC / IPL / ICRO shall be final in this regard. \n\n<br>\n\n",
+      "url": "https://www.icroamrit.npcindia.gov.in/Register.aspx"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **STIPEND**\n\n\n- The selected intern shall be entitled to **₹ 6,000/- per month** as a stipend during the period of internship.\n> **CERTIFICATE**\n\n\n- The interns will be issued an **Internship Completion Certificate** upon successful completion of the internship.\n**NOTE:** No payment towards transportation and other allowance etc. shall be paid to the interns.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Education & Learning",
+      "value": "628ce76cd6d1a3bde4685292"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "af3f8eae58b6355e61d9b69a92bb34f94cb2655b08067ee124ac6680e7740c26",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The IPL Centre for Rural Outreach (ICRO) established under the Indian Potash Limited (IPL), Department of Fertilizers, Ministry of Chemicals and Fertilizers, has launched ICRO Amrit Internship Programme focused on youth productivity for prosperity. The interns will be placed at the headquarters and Regional Offices of NPC/ IPL. The duration of the internship will be 3 months initially which can be renewed up to 4 times. The internship program shall be available throughout the year. The placement of interns will be made at the Head office and regional offices of NPC / IPL depending upon the preference of interns and the requirements of the offices concerned.\n> **Objectives**\n\n\n1. To promote productivity-related employment by enhancing vocational skills among youth and rural people.\n1. To create awareness about the enhancement of agriculture productivity.\n1. To create a network of youth entrepreneurs with skills to work in rural settings.\n1. To work towards the improvement of knowledge resources on youth interface.\n1. To ensure environmental sustainability and conservation of natural resources.\n\n",
+  "eligibility": "\n1. The applicant for the internship should be a citizen of India.\n1. The applicant should be 12th Pass / Diploma Holder / Graduate or in the Final Year of their graduation degree.\n1. The applicant should be in the age group of 18-45 years.\n\n> **Reservation/Preference/Priority**\n\nPreference will be given to candidates having agriculture or related sector qualification.\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:40.592860+00:00",
+  "implementing_agency": "IPL Centre For Rural Outreach (ICRO) Established Under The Indian Potash Limited (IPL)",
+  "last_synced_at": "2026-08-26T13:58:40.592860+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department Of Fertilizers",
+    "value": 1585
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://amritinternship.iplfoundation.org.in/PDFs/Amrit_English.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://amritinternship.iplfoundation.org.in/Default.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64be3155481f59106a77b728",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card \n- Passport size photo in JPG/JPEG (format size less than 2 MB).\n- Letter of recommendation in PDF (format size less than 2 MB).\n- Mark sheet or Certificate of Qualification (in PDF format size less than 2 MB).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Passport size photo in JPG/JPEG (format size less than 2 MB)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Letter of recommendation in PDF (format size less than 2 MB)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Mark sheet or Certificate of Qualification (in PDF format size less than 2 MB)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64be2ec4481f59106a77b640"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64be2ec4481f59106a77b640",
+  "scheme_name": "ICRO Amrit Internship Programme",
+  "scheme_open_date": null,
+  "scheme_short_title": "ICROAIP",
+  "slug": "icroaip",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Internship",
+      "value": "Internship"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Internship",
+    "Student",
+    "Youth Productivity",
+    "Stipend"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

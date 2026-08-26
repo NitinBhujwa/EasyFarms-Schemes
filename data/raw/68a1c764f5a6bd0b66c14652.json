@@ -1,0 +1,337 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68a1c764f5a6bd0b66c14652",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "Approach the Gram Sevak in your village for access to the \"Castor cake/Neem cake/ Liquid Fermented Organic Manure / Green manure seed (For mix in the soil)\" under the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "Approach the Gram Sevak in your village for access to the &quot;Castor cake/Neem cake/ Liquid Fermented Organic Manure / Green manure seed (For mix in the soil)&quot; under the scheme.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Castor cake/Neem cake/ Liquid Fermented Organic Manure / Green manure seed (For mix in the soil) Gujarat",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DSMPHSFCCLOMUK",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Adivasi Farmers",
+            "Crop Production",
+            "Livelihood",
+            "Castor Cake",
+            "Fertilizer",
+            "Subsidies"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should belong to a Scheduled Tribe."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The scheme excludes farmers from Dang district."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "SCHEDULE-IV and V under FCO 1985:-"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Castor cake/Neem cake/ Liquid Fermented Organic Manure:"
+                    },
+                    {
+                      "text": " 75% of the purchase price or ₹9,000/- per hectare, whichever is less. This assistance is for a maximum of two hectares per account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": "OR"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Green manuring (hemp/Ikkad seeds): "
+                    },
+                    {
+                      "text": "75% of the purchase price or ₹3,000/- per hectare, whichever is less. A total of ₹6,000/- per person, whichever is less, is provided for hemp (60 kg) or Ikkad (50 kg) seeds per hectare. This assistance is for a maximum of three hectares per account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Frequency of Disbursement:"
+                },
+                {
+                  "text": " The benefit for Castor cake/Neem cake/Liquid Fermented Organic Manure/Green manure seed is provided every year."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Remark:"
+                },
+                {
+                  "text": " As per conditions No. 5, 16, 17, 19 and 22 of "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Appendix-1"
+                    }
+                  ],
+                  "link": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ". (Refer Scheme No. 35)"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**SCHEDULE-IV and V under FCO 1985:-**\n\n1. **Castor cake/Neem cake/ Liquid Fermented Organic Manure:** 75% of the purchase price or ₹9,000/- per hectare, whichever is less. This assistance is for a maximum of two hectares per account.\nOR\n\n1. **Green manuring (hemp/Ikkad seeds):** 75% of the purchase price or ₹3,000/- per hectare, whichever is less. A total of ₹6,000/- per person, whichever is less, is provided for hemp (60 kg) or Ikkad (50 kg) seeds per hectare. This assistance is for a maximum of three hectares per account.\n<br>\n\n> **Frequency of Disbursement:** The benefit for Castor cake/Neem cake/Liquid Fermented Organic Manure/Green manure seed is provided every year.\n\n> **Remark:** As per conditions No. 5, 16, 17, 19 and 22 of [Appendix-1](https://mariyojana.gujarat.gov.in/Schemeatoz.aspx). (Refer Scheme No. 35)\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to help tribal farmers improve their livelihood by increasing agricultural crop production. Through this scheme, subsidies are provided on high-yield and hybrid seeds, fertilizers, and other agricultural inputs to Scheduled Tribe farmers.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme \"Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)\" with a component \"Castor cake/Neem cake/ Liquid Fermented Organic Manure / Green manure seed (For mix in the soil)\" is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to help Adivasi farmers in Tribal Areas (TASP) and tribal cultivators outside these areas achieve higher production of agricultural crops. Through this scheme, subsidies are provided on various agricultural inputs such as high-yield variety seeds, hybrid seeds, and fertilizers. Farmers are also provided with plant protection equipment, tarpaulins, field demonstrations, micronutrients, water carrying pipelines, and pump sets to increase their crop yield and improve their livelihoods. The scheme's benefits are provided to farmers belonging to Scheduled Tribes and tribal cultivators residing outside tribal areas."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Castor cake/Neem cake/ Liquid Fermented Organic Manure / Green manure seed (For mix in the soil)&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to help Adivasi farmers in Tribal Areas (TASP) and tribal cultivators outside these areas achieve higher production of agricultural crops. Through this scheme, subsidies are provided on various agricultural inputs such as high-yield variety seeds, hybrid seeds, and fertilizers. Farmers are also provided with plant protection equipment, tarpaulins, field demonstrations, micronutrients, water carrying pipelines, and pump sets to increase their crop yield and improve their livelihoods. The scheme&#39;s benefits are provided to farmers belonging to Scheduled Tribes and tribal cultivators residing outside tribal areas.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/v4lc2tu73R%E2%9C%A49lWYKO76SRg%E2%99%AC%E2%99%AC?utm_source=chatgpt.com"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dsmphsfcclomuk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68a1c798f73f190022aab81b",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate\n1. Aadhar Card\n1. Bank Pass Book/Cancelled Cheque\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a1c764f5a6bd0b66c14652"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:35.868703+00:00",
+  "scheme_id": "68a1c764f5a6bd0b66c14652"
+}

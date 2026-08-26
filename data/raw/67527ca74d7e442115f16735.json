@@ -1,0 +1,744 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67527ca74d7e442115f16735",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "DBT Registration Process:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-1: "
+                  },
+                  {
+                    "text": "Visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "registration page"
+                      }
+                    ],
+                    "link": "https://dbtagriculture.bihar.gov.in/RegFarmer/",
+                    "type": "link"
+                  },
+                  {
+                    "text": " of the DBT portal. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-2:"
+                  },
+                  {
+                    "text": " Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3: "
+                  },
+                  {
+                    "text": "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-4:"
+                  },
+                  {
+                    "text": " Enter the OTP. Click on “Validate OTP”. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-5: "
+                  },
+                  {
+                    "text": "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-6:"
+                  },
+                  {
+                    "text": " In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-7: "
+                  },
+                  {
+                    "text": "Validate with OTP. Click on “Register” to generate the Registration Id."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note:"
+                  },
+                  {
+                    "text": "  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number."
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Online Application of the Scheme:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-1:"
+                  },
+                  {
+                    "text": " Visit the official "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "website"
+                      }
+                    ],
+                    "link": "https://horticulture.bihar.gov.in/HortMIS/ChaiVikasYojana/OnlineApp.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-2:"
+                  },
+                  {
+                    "text": " Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3:"
+                  },
+                  {
+                    "text": " In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-4: "
+                  },
+                  {
+                    "text": "Fill in the required details i.e. Address, Land Details, etc, and upload documents."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-5: "
+                  },
+                  {
+                    "text": "Confirm the checkbox and then click on “Submit”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-6:"
+                  },
+                  {
+                    "text": " An “Application Number” will be generated. Keep this for future reference."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-7:"
+                  },
+                  {
+                    "text": " Printout of the filled in application also can be taken using the Print option."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **DBT Registration Process:**\n\n**Step-1:** Visit the [registration page](https://dbtagriculture.bihar.gov.in/RegFarmer/) of the DBT portal. \n**Step-2:** Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.\n**Step-3:** Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.\n**Step-4:** Enter the OTP. Click on “Validate OTP”. \n**Step-5:** Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.\n**Step-6:** In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.\n**Step-7:** Validate with OTP. Click on “Register” to generate the Registration Id.\n> **Note:**  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.\n\n<br>\n\n> **Online Application of the Scheme:**\n\n**Step-1:** Visit the official [website](https://horticulture.bihar.gov.in/HortMIS/ChaiVikasYojana/OnlineApp.aspx). \n**Step-2:** Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.\n**Step-3:** In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.\n**Step-4:** Fill in the required details i.e. Address, Land Details, etc, and upload documents.\n**Step-5:** Confirm the checkbox and then click on “Submit”.\n**Step-6:** An “Application Number” will be generated. Keep this for future reference.\n**Step-7:** Printout of the filled in application also can be taken using the Print option.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 10111111
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Chai Vikas Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "CVYB",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Bihar",
+            "value": 10
+          },
+          "tags": [
+            "Agriculture",
+            "Subsidy",
+            "Seed Supply",
+            "Financial Assistance",
+            "Tea Development"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should belong to any of the following districts of Bihar : Kishanganj, Araria, Supaul, Purnia and Katihar."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must have a minimum land area of 2 acres."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be registered on the DBT portal."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be a farmer.\n   1. The applicant should belong to any of the following districts of Bihar : Kishanganj, Araria, Supaul, Purnia and Katihar.\n   1. The applicant must have a minimum land area of 2 acres.\n   1. The applicant must be registered on the DBT portal.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Subsidy on Planting Materials:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "75% subsidy in the first year, with 25% provided in the second year if plant survival reaches 90%."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Subsidy on Machines:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Pruning Machine: 50% of the cost or ₹60,000/- (whichever is less) (Minimum Land Area: 2 acres)."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Mechanical Harvester: 50% of the cost or ₹50,000/- (whichever is less) (Minimum Land Area: 2 acres)."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Plucking Shears: 50% of the cost or ₹1,100/- (maximum of 20 shears) (Minimum Land Area: 2 acres)."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Leaf Carriage Vehicle: 50% of the cost or ₹7,50,000/- (whichever is less) (Minimum Land Area: 10 acres)."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Leaf Collection Shed: 50% of the cost or ₹37,500/- (whichever is less) (Minimum Land Area: ​​5 acres)."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note : ",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Women Beneficiary allocation: 30%."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Beneficiaries will be selected on first come first serve basis."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "> **Subsidy on Planting Materials:**\n\n\n\n\n\n      - 75% subsidy in the first year, with 25% provided in the second year if plant survival reaches 90%.\n\n\n\n\n> **Subsidy on Machines:**\n\n\n\n\n\n      - Pruning Machine: 50% of the cost or ₹60,000/- (whichever is less) (Minimum Land Area: 2 acres).\n      - Mechanical Harvester: 50% of the cost or ₹50,000/- (whichever is less) (Minimum Land Area: 2 acres).\n      - Plucking Shears: 50% of the cost or ₹1,100/- (maximum of 20 shears) (Minimum Land Area: 2 acres).\n      - Leaf Carriage Vehicle: 50% of the cost or ₹7,50,000/- (whichever is less) (Minimum Land Area: 10 acres).\n      - Leaf Collection Shed: 50% of the cost or ₹37,500/- (whichever is less) (Minimum Land Area: ​​5 acres).\n\n\n\n\n> **Note :** \n\n\n\n\n\n      - Women Beneficiary allocation: 30%.\n      - Beneficiaries will be selected on first come first serve basis.\n\n\n\n\n",
+          "briefDescription": "The scheme aims to offer subsidies for planting materials, horticultural machinery, and related resources to support tea farmers.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "“Chai Vikas Yojana” launched by the Department of Agriculture, Bihar, aimed at fostering the tea industry in Bihar by expanding tea plantations in selected districts, namely in Kishanganj, Araria, Supaul, Purnia and Katihar."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, farmers will independently purchase planting materials, and a subsidy will be provided in two installments based on a 75:25 cost-sharing model for purchasing various horticultural machines, such as pruning machines, mechanical harvesters, plucking shears, leaf carriage vehicles, and leaf collection sheds."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "“Chai Vikas Yojana” launched by the Department of Agriculture, Bihar, aimed at fostering the tea industry in Bihar by expanding tea plantations in selected districts, namely in Kishanganj, Araria, Supaul, Purnia and Katihar.\nUnder this scheme, farmers will independently purchase planting materials, and a subsidy will be provided in two installments based on a 75:25 cost-sharing model for purchasing various horticultural machines, such as pruning machines, mechanical harvesters, plucking shears, leaf carriage vehicles, and leaf collection sheds.\n&lt;br&gt;\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Beneficiaries of new area expansion of tea under this scheme will not be eligible for the benefit of mechanized organs."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "\n  - Beneficiaries of new area expansion of tea under this scheme will not be eligible for the benefit of mechanized organs.\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://horticulture.bihar.gov.in/MainSite/Documents/SOP/0.0_2023-10-20.pdf"
+            },
+            {
+              "title": "Online Application",
+              "url": "https://horticulture.bihar.gov.in/HortMIS/ChaiVikasYojana/OnlineApp.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "cvyb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67527d32d109737353c7b3ae",
+      "en": {
+        "documentsRequired_md": "&amp;gt; **For DBT Registration Process:**\n\n\n\n      1. Aadhaar Details (Should be linked with mobile number).\n      1. Passport Size Photo.\n      1. Farmer details.\n      1. Land information.\n      1. Bank account.\n\n\n&amp;gt; **For the Online Application of the Scheme:**\n\n\n\n      1. Passport Size Photo.\n      1. Land-ownership/ revenue receipt (If applicable).\n      1. Any other document (if required).\n\n\n&amp;gt; **Note:** If the applicant&amp;amp;#39;s name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For DBT Registration Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Aadhaar Details (Should be linked with mobile number)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Passport Size Photo."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Farmer details."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Land information."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Bank account."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ol_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "ol_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For the Online Application of the Scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Passport Size Photo."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Land-ownership/ revenue receipt (If applicable)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Any other document (if required)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ol_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "ol_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note:"
+                      },
+                      {
+                        "text": " If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67527ca74d7e442115f16735"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:53.166186+00:00",
+  "scheme_id": "67527ca74d7e442115f16735"
+}

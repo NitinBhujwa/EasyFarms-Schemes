@@ -1,0 +1,243 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Collect the application form from the nearest Agricultural Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Submit the form to the concerned office:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Village Level:"
+                },
+                {
+                  "text": " Submit the application to the Assistant Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Block Level:"
+                },
+                {
+                  "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "District Level: "
+                },
+                {
+                  "text": "Submit to the Joint Director of Agriculture."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n&lt;br&gt;\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Financial Assistance:** Subsidy of 50% of the seed cost or ₹1,200/- per quintal, whichever is less.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "347fa944fdb8981cf7fe5d89c1c15e4be45e667f6dd65f9a5a833a57be235185",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Distribution of Certified Seeds-Oil Seeds&amp;quot; scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides financial assistance to farmers by subsidizing the cost of certified oil seeds. This scheme also encourages the farmers to use high-quality seeds and improve agricultural productivity.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+  "eligibility": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should produce and supply Foundation and Certified Class seeds to the Department.\n\n&lt;br&gt;\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:53:50.549367+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:53:50.549367+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 3333332
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7613"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66d83578926d5490dea2d373",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of identity (e.g., Aadhaar card, Voter ID).\n   1. Proof of land ownership or cultivation.\n   1. Seed purchase receipt.\n   1. Certificate of seed production and supply to the Department.\n   1. Bank account details.\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of identity (e.g., Aadhaar card, Voter ID)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of land ownership or cultivation."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Seed purchase receipt."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Certificate of seed production and supply to the Department."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "66d83558926d5490dea2d334"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66d83558926d5490dea2d334",
+  "scheme_name": "Distribution of Certified Seeds-Oil Seeds",
+  "scheme_open_date": null,
+  "scheme_short_title": "DOCSOS",
+  "slug": "docsos",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Seed Distribution",
+    "Oil Seeds",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

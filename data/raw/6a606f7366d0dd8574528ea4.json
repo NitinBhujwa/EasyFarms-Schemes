@@ -1,0 +1,412 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6a606f7366d0dd8574528ea4",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 1: The applicant should visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "ServicesPlus"
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/",
+                    "type": "link"
+                  },
+                  {
+                    "text": " website."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Click on the “"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Register” "
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                    "type": "link"
+                  },
+                  {
+                    "text": "option on the homepage."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Review all details carefully and submit the registration form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Login",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "“Login.”"
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Enter your Email ID, Password, and Captcha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Select the relevant service/scheme name."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Fill in the required details in the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: Submit the application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": null,
+          "nodalMinistryName": {
+            "label": "Ministry Of Commerce And Industry",
+            "value": 1565
+          },
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: New Subcomponents:Weather Based Insurance Scheme for small cardamom",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ISFEPQISARADOCNSWBISFSC",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": {
+            "label": "Centrally Sponsored Scheme",
+            "value": "centrally-sponsored-scheme"
+          },
+          "state": null,
+          "tags": [
+            "Agricultural",
+            "Farmer",
+            "Small Cardamom",
+            "Weather Based"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "text": "1.In Idukki district of Kerala on pilot basis"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2. If the State Govt. is not sharing the premium of 10%, the same have to be compensated by the beneficiaries making their share of premium as 25%. Board as well as beneficiary farmers will pay their share of premium directly to the Insurance Company."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "3. The term sheet of insurance will be provided by Insurance Company at the time of application. Claims will be settled between the Insurance Company and the beneficiary and Spices Board will not have any direct involvement on such issues."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "1.In Idukki district of Kerala on pilot basis\n2. If the State Govt. is not sharing the premium of 10%, the same have to be compensated by the beneficiaries making their share of premium as 25%. Board as well as beneficiary farmers will pay their share of premium directly to the Insurance Company.\n3. The term sheet of insurance will be provided by Insurance Company at the time of application. Claims will be settled between the Insurance Company and the beneficiary and Spices Board will not have any direct involvement on such issues.\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "75% of premium by GoI, 15% by State Govt and 10% by Beneficiary. Board share will be ₹ 16,040/ Ha. (including GST) Registered cardamom growers having land holding size of 0.10 Ha to 8 Ha. For a beneficiary the assistance will be available for 3 consecutive years only in the block year of five years from 2021-26."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "> 75% of premium by GoI, 15% by State Govt and 10% by Beneficiary. Board share will be ₹ 16,040/ Ha. (including GST) Registered cardamom growers having land holding size of 0.10 Ha to 8 Ha. For a beneficiary the assistance will be available for 3 consecutive years only in the block year of five years from 2021-26.\n\n<br>\n\n",
+          "briefDescription": "To protect small cardamom growers against the adverse weather incidences such as deficit or excess rainfall, heat (temperature), relative humidity, etc. which are deemed to adversely affect the production.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "Weather-Based Insurance Scheme for Small Cardamom is implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India, as a subcomponent of the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The scheme aims to protect small cardamom growers against adverse weather events, such as deficient or excess rainfall, high temperatures, and variations in relative humidity, which may negatively affect crop production."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "Weather-Based Insurance Scheme for Small Cardamom is implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India, as a subcomponent of the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom.\nThe scheme aims to protect small cardamom growers against adverse weather events, such as deficient or excess rainfall, high temperatures, and variations in relative humidity, which may negatively affect crop production.\nThe scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.indianspices.com/export_oriented_prod.html"
+            },
+            {
+              "title": "Application Portal",
+              "url": "https://serviceonline.gov.in/dbt/login.do"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "isfepqisaradocnswbisfsc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6a606f85852d36b0a859cc29",
+      "en": {
+        "documentsRequired_md": "a) Document of ownership or legal possession of land viz. patta\nb) Current year land tax receipt\nc)CR/ACR\nd) Aadhar card\ne) Copy of Bank Pass book\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "a) Document of ownership or legal possession of land viz. patta"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "b) Current year land tax receipt"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "c)CR/ACR"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "d) Aadhar card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "e) Copy of Bank Pass book"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6a606f7366d0dd8574528ea4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:58:52.042294+00:00",
+  "scheme_id": "6a606f7366d0dd8574528ea4"
+}

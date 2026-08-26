@@ -1,0 +1,409 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6888b106521292893e626fe0",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit the District Registrar's Office and request a hard copy of the prescribed format of the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit the District Registrar&#39;s Office and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Assistance to Co-operative Irrigation Societies M. N. R.-10 (General Area)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ATCISG",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Irrigation",
+            "Co-operative Irrigation Societies",
+            "Farm Productivity",
+            "Water Distribution"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            },
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The society should be located within the state of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The Scheme is applicable to the General category."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme.\n  - The society should be located within the state of Gujarat.\n  - The Scheme is applicable to the General category.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Monetary Benefit:"
+                    },
+                    {
+                      "text": " Financial assistance for setting up irrigation infrastructure (such as pumps and motors) for cooperative societies."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Monetary Benefit:** Financial assistance for setting up irrigation infrastructure (such as pumps and motors) for cooperative societies.\n<br>\n\n",
+          "briefDescription": "The scheme \"Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)\"  aims to increase agricultural production by supporting irrigation cooperative societies through the provision of pumps and electric motors for efficient water distribution.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance agricultural yield in the state by offering assistance to irrigation cooperative societies formed by farmers of a common area. The support involves establishing water distribution systems using pumps and electric motors on wells and agar creeks to facilitate effective irrigation."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Assistance to Co-operative Irrigation Societies, M. N. R.-10 (General Area)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance agricultural yield in the state by offering assistance to irrigation cooperative societies formed by farmers of a common area. The support involves establishing water distribution systems using pumps and electric motors on wells and agar creeks to facilitate effective irrigation.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 81)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "atcisg"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6888b19b521292893e62731c",
+      "en": {
+        "documentsRequired_md": "1. Application of the association for getting assistance.\n2. Copy of registration certificate of the association.\n3. Certified copy of the resolution of the prescribed form of the association to get assistance under MNR-10 scheme and to accept the terms and conditions of MNR-10 scheme.\n4. Name, caste (general, scheduled caste, scheduled caste) of the association, land holdings and members&amp;#39; caste/unscheduled caste Certificate from the competent authority (except for general purpose) of being a tribal.\n5. Certified copy of the final rough survey of the village.\n6. Original copy of the plan/estimate of the project with the signature and stamp of the Executive Engineer/N.K.E of the District Panchayat and the technical approval of the Executive Engineer.\n7. Certificate from the competent officer of the Irrigation Department regarding the feasibility of the project.\n8. Certificate from the Government Engineer that the project estimate is supported by a valid SAR of the Public Works/Irrigation Department.\n9. Water survey from river, canal, creek To obtain a copy of the written permission order of the Government&amp;#39;s Irrigation Department for a period of 10 (ten) years. \n10. The cooperative societies selected for the well/bore should submit the permission order of the Water Resources Development Department or a certificate from the competent authority stating that there is no proper well/bore available near the command extension. \n11. How will the society raise the remaining amount required for the project apart from the assistance received under the scheme? Annual report of the scheme.\n12. Gross area of total irrigation covered in all three seasons i.e. Fall, Winter and Summer.\nand Annual report of assistance available on the basis of gross area.\n13. Copies of 8-A extract of the land of the members coming under the command area of the scheme.\n14. Written consent/rent agreement of the farmer/member for the use of the land of any farmer member for the scheme work (on stamp paper of Rs. 300/-)\n15. Scheme registration form.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "1. Application of the association for getting assistance."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "2. Copy of registration certificate of the association."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "3. Certified copy of the resolution of the prescribed form of the association to get assistance under MNR-10 scheme and to accept the terms and conditions of MNR-10 scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "4. Name, caste (general, scheduled caste, scheduled caste) of the association, land holdings and members' caste/unscheduled caste Certificate from the competent authority (except for general purpose) of being a tribal."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "5. Certified copy of the final rough survey of the village."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "6. Original copy of the plan/estimate of the project with the signature and stamp of the Executive Engineer/N.K.E of the District Panchayat and the technical approval of the Executive Engineer."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "7. Certificate from the competent officer of the Irrigation Department regarding the feasibility of the project."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "8. Certificate from the Government Engineer that the project estimate is supported by a valid SAR of the Public Works/Irrigation Department."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "9. Water survey from river, canal, creek To obtain a copy of the written permission order of the Government's Irrigation Department for a period of 10 (ten) years. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "10. The cooperative societies selected for the well/bore should submit the permission order of the Water Resources Development Department or a certificate from the competent authority stating that there is no proper well/bore available near the command extension. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "11. How will the society raise the remaining amount required for the project apart from the assistance received under the scheme? Annual report of the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "12. Gross area of total irrigation covered in all three seasons i.e. Fall, Winter and Summer."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "and Annual report of assistance available on the basis of gross area."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "13. Copies of 8-A extract of the land of the members coming under the command area of the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "14. Written consent/rent agreement of the farmer/member for the use of the land of any farmer member for the scheme work (on stamp paper of Rs. 300/-)"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "15. Scheme registration form."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6888b106521292893e626fe0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:41.521984+00:00",
+  "scheme_id": "6888b106521292893e626fe0"
+}

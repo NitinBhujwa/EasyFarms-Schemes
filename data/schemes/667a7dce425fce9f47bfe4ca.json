@@ -1,0 +1,408 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Registration Process on Antyodaya-SARAL Portal:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The eligible applicant may apply online through the Official Portal- "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal"
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ". "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02"
+                },
+                {
+                  "text": ": If the applicant is not registered on the portal, he/she gets registered there. "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " For registration, click “"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "New User"
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/citizenRegistration.html",
+                  "type": "link"
+                },
+                {
+                  "text": "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " Verify your mobile number and email ID through the received OTP and complete the registration process."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Login to apply for the scheme:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " To avail the benefits of the scheme, visit the Official "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal"
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": " and log in through the email ID used while registering."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Enter Password & Captcha and click on ‘Login’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04"
+                },
+                {
+                  "text": ": Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 05: "
+                },
+                {
+                  "text": "Fill in all the mandatory details and upload all the mandatory documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 06: "
+                },
+                {
+                  "text": "Preview the application form and click on ‘Submit’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Tracking of Application:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Applicants can track their applications through the Official "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal"
+                    }
+                  ],
+                  "link": "https://status.saralharyana.nic.in/",
+                  "type": "link"
+                },
+                {
+                  "text": " by entering their Department Name, Scheme Name, and Application Reference ID. "
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** The eligible applicant may apply online through the Official Portal- [Antyodaya-SARAL Portal](https://saralharyana.gov.in/). \n**Step 02**: If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04**: Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 06:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track their applications through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID. \n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n   1. Under this scheme, loans up to ₹10,00,000/- are provided to persons with disabilities for agricultural production, irrigation, horticulture, sericulture, purchasing agricultural machinery/equipment for agricultural services, marketing agricultural products, etc.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "87b89b6cb1d9202b131017c922dd5a840cf2ce50542b8ed0e197cafcc1d26b92",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Agricultural Activities for Persons with Disabilities&amp;quot; is implemented by the Haryana Backward Classes and Economically Weaker Sections Kalyan Nigam, Government of Haryana. Under this scheme, loans up to ₹10,00,000/- are provided to individuals identified as persons with disabilities for agricultural production, irrigation, horticulture, sericulture, the purchase of agricultural machinery and equipment for agricultural services, and the marketing of agricultural products etc. Permanent residents of Haryana, aged 18 years or older, with a disability of 40% or more, are eligible under this scheme.\n",
+  "eligibility": "\n   1. The applicant should be a permanent resident of Haryana.\n   1. The applicant should have a disability of at least 40%.\n   1. The applicant should be above 18 years old. For persons with mental retardation, the age requirement is relaxed to 14 years instead of the usual 18 years.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:53:47.692259+00:00",
+  "implementing_agency": "Haryana Backward Classes And Economically Weaker Sections Kalyan Nigam",
+  "last_synced_at": "2026-08-26T13:53:47.692259+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Welfare of Scheduled Caste & Backward Classes Department",
+    "value": 666710
+  },
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=Zo1BN3bFml3OfYJUOzJvwg%3d%3d"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://www.haryanascbc.gov.in/contribution-towards-share-capital-to-haryana-backward-classes-and-economically-weaker-sections"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "667a7dee113e1b5b0a849429",
+      "en": {
+        "documentsRequired_md": "\n   1. Identity proof i.e. Aadhaar Card\n   1. Proof of age\n   1. Haryana Domicile Certificate\n   1. Ration Card\n   1. Caste/Religion Proof \n   1. Disability Certificate\n   1. Passport-size photograph of the applicant\n   1. Bank account details\n   1. Any other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity proof i.e. Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of age"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Haryana Domicile Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Ration Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste/Religion Proof "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Disability Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Passport-size photograph of the applicant"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "667a7dce425fce9f47bfe4ca"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "667a7dce425fce9f47bfe4ca",
+  "scheme_name": "Agricultural Activities for Persons with Disabilities",
+  "scheme_open_date": null,
+  "scheme_short_title": "AAPD",
+  "slug": "aapd",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agricultural Activities",
+    "PwD",
+    "Loan",
+    "Disabled Person"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

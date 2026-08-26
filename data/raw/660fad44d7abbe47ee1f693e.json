@@ -1,0 +1,373 @@
+{
+  "detail": {
+    "data": {
+      "_id": "660fad44d7abbe47ee1f693e",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01: "
+                      },
+                      {
+                        "text": "The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 05:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 06:"
+                      },
+                      {
+                        "text": " Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 07: "
+                      },
+                      {
+                        "text": "Take a print out of the confirmed application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 08:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note: "
+                      },
+                      {
+                        "text": "After sanctioning application through I-Khedut Portal, beneficiary has to purchase Chaff Cutter from government approved empanelled vendor and has to produce the bill for claim submission of subsidy."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 02:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 03:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 04:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 05:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 06:** Once the application is done, confirm it.\n**Step 07:** Take a print out of the confirmed application.\n**Step 08:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n**Note:** After sanctioning application through I-Khedut Portal, beneficiary has to purchase Chaff Cutter from government approved empanelled vendor and has to produce the bill for claim submission of subsidy.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Animal Husbandry, District Panchayats, Gujarat",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Assistance for Power Driven Chaff Cutter Scheme under Integrated Fodder Development Scheme (General Category)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "APDCCSIFDS(GC)",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Chaff Cutter",
+            "Animal Husbandry",
+            "Dairy Farmer",
+            "Financial Assistance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a permanent resident of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should belong to the General Caste category."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should have a minimum of five (5) animals of his/her own."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary should belong to the General Caste category.\n   1. The beneficiary should have a minimum of five (5) animals of his/her own.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Under the scheme, financial assistance up to 75% of the purchase cost of powered chaff cutter or ₹18,000/-, whichever is less, is given to beneficiaries belonging to General category.  "
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note:"
+                    },
+                    {
+                      "text": " The amount of assistance will be deposited in bank account of the beneficiary."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n   1. Under the scheme, financial assistance up to 75% of the purchase cost of powered chaff cutter or ₹18,000/-, whichever is less, is given to beneficiaries belonging to General category.  \n\n**Note:** The amount of assistance will be deposited in bank account of the beneficiary.\n",
+          "briefDescription": "The scheme provides financial assistance to dairy farmers belonging to General Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green & dry fodder which is economically important for their profitable dairy farming.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Assistance for Power Driven Chaff Cutter Scheme under Integrated Fodder Development Scheme (General Category)” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, financial assistance is given to dairy farmers belonging to the General Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green and dry fodder which is economically important for their profitable dairy farming."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Assistance for Power Driven Chaff Cutter Scheme under Integrated Fodder Development Scheme (General Category)” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, financial assistance is given to dairy farmers belonging to the General Caste category on purchase of electric powered chaff cutters. By using power driven chaff cutter, dairy farmers can reduce wastage of green and dry fodder which is economically important for their profitable dairy farming.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://doah.gujarat.gov.in/fodder-development-guj.htm"
+            },
+            {
+              "title": "Guidelines (page No. 6)",
+              "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/English-for-Fodder-Development.pdf"
+            },
+            {
+              "title": "I-Khedut Portal",
+              "url": "https://ikhedut.gujarat.gov.in/"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "apdccsifdsgc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "660fad54ff0ffe4f91ccccf7",
+      "en": {
+        "documentsRequired_md": "1.\tIdentity proof of the applicant i.e. Aadhaar Card\n2.\tProof of residence\n3.\tProof of possessing necessary animals\n4.\tBank account details of beneficiary\n5.\tAny other documents as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tIdentity proof of the applicant i.e. Aadhaar Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tProof of residence"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tProof of possessing necessary animals"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tBank account details of beneficiary"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other documents as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "660fad44d7abbe47ee1f693e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:53:44.834942+00:00",
+  "scheme_id": "660fad44d7abbe47ee1f693e"
+}

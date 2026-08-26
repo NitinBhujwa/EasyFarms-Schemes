@@ -1,0 +1,398 @@
+{
+  "detail": {
+    "data": {
+      "_id": "659ba4666093f0fa3318b641",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit the office of the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "concerned authority"
+                      }
+                    ],
+                    "link": "https://fisheries.py.gov.in/sub-offices",
+                    "type": "link"
+                  },
+                  {
+                    "text": " i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Marketing Union, Karaikal/The Assistant Director of Fisheries and Fishermen Welfare, Mahe/The Assistant Director of Fisheries and Fishermen Welfare, Yanam of the respective regions. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should request the hard copy of the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://fisheries.py.gov.in/sites/default/files/aquarium20subsidy20notification.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " of the application form from the concerned authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit the office of the [concerned authority](https://fisheries.py.gov.in/sub-offices) i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Marketing Union, Karaikal/The Assistant Director of Fisheries and Fishermen Welfare, Mahe/The Assistant Director of Fisheries and Fishermen Welfare, Yanam of the respective regions. \n**Step 1:** The interested applicant should request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/aquarium20subsidy20notification.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Fisheries and Fishermen Welfare Department, Puducherry",
+            "value": 34000015
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Grant of 50% Subsidy for the Purchase of Aquarium and Its Accessories under \"Development of Freshwater Aquaculture and Setting up of Aquarium, Ornamental Fish Breeding Centre\"",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "GSPAA-DFWASAOFBC",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Puducherry",
+            "value": 34
+          },
+          "tags": [
+            "Fisheries",
+            "Aquarium",
+            "Subsidy",
+            "Financial Assistance",
+            "Aquaculture",
+            "Fish"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of the Union territory of Puducherry by domicile or by birth."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have attained 18 years of age."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant or their family member should not have benefited under the scheme previously. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should possess a pucca house/commercial place to keep an aquarium."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The applicant should be a resident of the Union territory of Puducherry by domicile or by birth.\n- The applicant should have attained 18 years of age.\n- The applicant or their family member should not have benefited under the scheme previously. \n- The applicant should possess a pucca house/commercial place to keep an aquarium.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The department has assessed the unit cost for the aquarium and its accessories at ₹ 7,000 per unit. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The aquarium proposed to be issued to the beneficiaries consists of one aquarium/moulded aquarium, one stand, one power filter, one air pump, two numbers of 1’ tube lights, 10 kgs. of gravel, 9 numbers of gold fishes, 1 number of 100 grams fish food pocket and one number of scoop net."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance (in ₹)"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Unit cost: 7,000 (Maximum)* "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "50% subsidy by Government: 3,500 (Maximum)* "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "50% and above the cost of an aquarium to be paid by the beneficiary to the Secretary/Administrator of PSFCF/ KFCMU/ Fishermen Co-operative Societies in Mahe and Yanam: 3,500 (Maximum)* "
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "* May vary from time to time."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- The department has assessed the unit cost for the aquarium and its accessories at ₹ 7,000 per unit. \n- The aquarium proposed to be issued to the beneficiaries consists of one aquarium/moulded aquarium, one stand, one power filter, one air pump, two numbers of 1’ tube lights, 10 kgs. of gravel, 9 numbers of gold fishes, 1 number of 100 grams fish food pocket and one number of scoop net.\n\n<br>\n\n> **Pattern of Assistance (in ₹)**\n\n\n- Unit cost: 7,000 (Maximum)* \n- 50% subsidy by Government: 3,500 (Maximum)* \n- 50% and above the cost of an aquarium to be paid by the beneficiary to the Secretary/Administrator of PSFCF/ KFCMU/ Fishermen Co-operative Societies in Mahe and Yanam: 3,500 (Maximum)* \n\n*** May vary from time to time.**\n",
+          "briefDescription": "\"Grant of 50% Subsidy for the Purchase of Aquarium and Its Accessories\" is introduced with the objective to propagate the importance of aquarium keeping and to inculcate the art of aquarium keeping among the general public. The scheme is extended to all the regions of Puducherry.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme \"Grant of 50% Subsidy for the Purchase of Aquarium and Its Accessories\" is a Sub-Component under the scheme \"Development of Freshwater Aquaculture and Setting up of Aquarium, Ornamental Fish Breeding Centre”. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to propagate the importance of aquarium keeping and to inculcate the art of aquarium keeping among the general public. "
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &quot;Grant of 50% Subsidy for the Purchase of Aquarium and Its Accessories&quot; is a Sub-Component under the scheme &quot;Development of Freshwater Aquaculture and Setting up of Aquarium, Ornamental Fish Breeding Centre”. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to propagate the importance of aquarium keeping and to inculcate the art of aquarium keeping among the general public. \n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines & Application Form",
+              "url": "https://fisheries.py.gov.in/sites/default/files/aquarium20subsidy20notification.pdf"
+            },
+            {
+              "title": "State Plan Schemes",
+              "url": "https://fisheries.py.gov.in/sites/default/files/fisheries-state-plan-schemes.pdf"
+            },
+            {
+              "title": "List Of Sub-Offices",
+              "url": "https://fisheries.py.gov.in/sub-offices"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://fisheries.py.gov.in/contact-us"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "gspaa-dfwasaofbc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "659ba7a46093f0fa3318b9e3",
+      "en": {
+        "documentsRequired_md": "\n- Aadhar Identity Card and Smart Card\n- Resident Certificate of Union Territory of Puducherry (from Deputy Tahsildar of the Area of Residence)\n- Proof of Age\n- Ration Card as a Proof of His/Her Residential Address\n- Electoral Identity Card/PAN Card/Driving Licence as a Photo Identity Proof\n- Proof of Possession of a Pucca House/Commercial Place\n- Declaration\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Identity Card and Smart Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resident Certificate of Union Territory of Puducherry (from Deputy Tahsildar of the Area of Residence)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Age"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card as a Proof of His/Her Residential Address"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Electoral Identity Card/PAN Card/Driving Licence as a Photo Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Possession of a Pucca House/Commercial Place"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "659ba4666093f0fa3318b641"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:55.969759+00:00",
+  "scheme_id": "659ba4666093f0fa3318b641"
+}

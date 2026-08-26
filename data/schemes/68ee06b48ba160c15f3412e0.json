@@ -1,0 +1,128 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "All farmers belonging to the selected clusters."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "All farmers belonging to the selected clusters.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "**Under the scheme, the following objectives will be achieved by distributing verified seeds of local crops at 100% subsidy:**\na. Distribution of certified seeds on subsidy to increase the cultivation area according to the specific region.\nb. Ensuring the recommended seed replacement rate is met.\nc. Enhancing production and productivity through the use of quality seeds.\nd. Promoting and encouraging the cultivation of local pulse crops.\ne. Ensuring farmers receive a fair price for their produce.\nSeed production will be carried out by the Agriculture Department in clusters formed under the Traditional Agriculture Development Scheme, through the CLF/LC established under UGVS-REAP, and directly by the Agriculture Department. For crops where traditional clusters are not operational, clusters will be identified through CLF/LC for certified seed production. The Agriculture Department will conduct seed production programs in these areas, and the produced seeds will be distributed region-wise after appropriate allocation.\n**Traditional crops selected under the program:**\n1. Kidney Beans 2. Gahat 3. Ramdana 4. Red Rice 5. Maize – Nainital and Chakrata region 6. Bhatta 7. Ugal/Phafar 8. Kauni 9. Toor (Pigeon Pea)\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "57974748fd65b0cea348f05329b6c9dd06863225b3304e1cf9d7941f5ce732e9",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Sthaniya Fasal Protsahan Karyakram” was launched by the Department of Agriculture, Government of Uttarakhand, to promote the cultivation of local crops, enhance productivity, ensure the use of quality seeds, and provide fair prices to farmers in the mountain districts of Uttarakhand.\n<br>\n\n",
+  "eligibility": "\n- All farmers from the mountain districts of Uttarakhand are eligible.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:15.548004+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:15.548004+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 164)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ee070b8ba160c15f34152e",
+      "en": {
+        "documentsRequired_md": "Farmers should submit documents as specified in the program guidelines.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Farmers should submit documents as specified in the program guidelines."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ee06b48ba160c15f3412e0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ee06b48ba160c15f3412e0",
+  "scheme_name": "Sthaniya Fasal Protsahan Karyakram",
+  "scheme_open_date": null,
+  "scheme_short_title": "SFPK",
+  "slug": "sfpk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Local Crop",
+    "Agriculture",
+    "Seed Production",
+    "Subsidy On Seed",
+    "Crop Promotion Program"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

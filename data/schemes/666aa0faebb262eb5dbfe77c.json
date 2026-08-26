@@ -1,0 +1,171 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The eligible applicant may contact the nearest veterinary hospital in his/her village."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The applicant can submit their application form to the Deputy Director/Sub-Divisional office of his/her district."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        }
+      ],
+      "process_md": "\n- The eligible applicant may contact the nearest veterinary hospital in his/her village.\n- The applicant can submit their application form to the Deputy Director/Sub-Divisional office of his/her district.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n  - 50 chicks, 10 day old reared at Government Hatchery along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "93ab54e89c4bbfa4bee79676a3ba551e13bd0430197d19d2b1ae6a220720b28a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana. Under this scheme, 50 chicks of 10 days of age from the Government Hatchery Farm along with two feeders and two water drinkers are provided free of cost to each beneficiary family at their doorstep. Any unemployed resident of Haryana aged between 18 and 60 years is eligible to avail of the benefits under this scheme.\n",
+  "eligibility": "1.\tThe applicant should be a resident of Haryana.\n2.\tThe applicant should be unemployed.\n3.\tThe applicant should be between 18 to 60 years old.\n4.\tThere are no mandatory educational qualifications or training requirements.\n",
+  "exclusions": "\n  - Any group/firm/organization would not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented.\n\n",
+  "first_seen_at": "2026-08-26T14:02:24.158098+00:00",
+  "implementing_agency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+  "last_synced_at": "2026-08-26T14:02:24.158098+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry & Dairying Department",
+    "value": 666663
+  },
+  "references": [
+    {
+      "title": "Scheme Details (Page No. 19)",
+      "url": "https://parivarutthan.haryana.gov.in/assets/uploads/Schemes%20booklet%20(%20updated%20%2004.05.2023).pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=ZfWa6itdLCW6DRMCArEPXg%3d%3d"
+    },
+    {
+      "title": "Notification (Page No. 4)",
+      "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/BPU%20Scheme.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "666aa12721d7c2ac0d875ee3",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof i.e. Aadhaar Card\n1. Passport size photograph\n1. Proof of residence\n1. Parivaar Pahchan Patra (PPP ID)\n1. Any other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of residence"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Parivaar Pahchan Patra (PPP ID)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "666aa0faebb262eb5dbfe77c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "666aa0faebb262eb5dbfe77c",
+  "scheme_name": "Scheme for Establishment of Backyard Poultry Units under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "SEBPUMMAPUY",
+  "slug": "sebpummapuy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "MMAPUY",
+    "Backyard Poultry",
+    "Chicks",
+    "Feeders",
+    "Water Drinkers",
+    "Hatchery",
+    "Unemployed"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

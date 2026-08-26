@@ -1,0 +1,324 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The Eligible SMFs desirous of joining the scheme shall visit the nearest Common Service Centre (CSC)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " Following are the prerequisites for the enrolment process: "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Aadhaar Card"
+                                    }
+                                  ],
+                                  "type": "list_item"
+                                },
+                                {
+                                  "children": [
+                                    {
+                                      "text": "Savings Bank Account Number along with IFSC Code ( Bank Passbook or Cheque Leave/book or copy of bank statement as evidence of bank account )."
+                                    }
+                                  ],
+                                  "type": "list_item"
+                                }
+                              ],
+                              "type": "ul_list"
+                            }
+                          ],
+                          "type": "align_justify"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Initial contribution amount in cash will be made to the Village Level Entrepreneur (VLE)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "The VLE will key-in the Aadhaar number, Name of subscriber and Date of birth as printed on aadhaar card for authentication."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " The VLE will complete the online registration by filling up the details like Bank Account details, Mobile Number, Email Address, Spouse (if any) and Nominee details will be captured."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 6:"
+                },
+                {
+                  "text": " System will auto calculate monthly contribution payable according to age of the Subscriber."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 7: "
+                },
+                {
+                  "text": "Subscriber will pay the 1st subscription amount in cash to the VLE."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 8:"
+                },
+                {
+                  "text": " Enrolment cum Auto Debit mandate form will be printed and will be further signed by the subscriber. VLE will scan the same and upload it into the system."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 9:"
+                },
+                {
+                  "text": " A unique Kisan Pension Account Number (KPAN) will be generated and Kisan Card will be printed."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The Eligible SMFs desirous of joining the scheme shall visit the nearest Common Service Centre (CSC).\n**Step 2:** Following are the prerequisites for the enrolment process: \n\n\n    - Aadhaar Card\n    - Savings Bank Account Number along with IFSC Code ( Bank Passbook or Cheque Leave/book or copy of bank statement as evidence of bank account ).\n\n\n**Step 3:** Initial contribution amount in cash will be made to the Village Level Entrepreneur (VLE).\n**Step 4:** The VLE will key-in the Aadhaar number, Name of subscriber and Date of birth as printed on aadhaar card for authentication.\n**Step 5:** The VLE will complete the online registration by filling up the details like Bank Account details, Mobile Number, Email Address, Spouse (if any) and Nominee details will be captured.\n**Step 6:** System will auto calculate monthly contribution payable according to age of the Subscriber.\n**Step 7:** Subscriber will pay the 1st subscription amount in cash to the VLE.\n**Step 8:** Enrolment cum Auto Debit mandate form will be printed and will be further signed by the subscriber. VLE will scan the same and upload it into the system.\n**Step 9:** A unique Kisan Pension Account Number (KPAN) will be generated and Kisan Card will be printed.\n<br>\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Monthly Pension Benefit:**\n\n\n\n  - The subscriber will receive a minimum assured pension of ₹ 3,000/- per month after attaining the age of 60 years.\n\n\n\n- **Family Pension Benefit:**\n\n\n\n  - In case of death of the subscriber, the spouse will receive 50% of the pension amount as family pension.\n\n\n  - Family pension is applicable only to the spouse.\n\n\n\n- **Government Matching Contribution:**\n\n\n\n  - The Government of India will contribute an amount equal to the subscriber’s monthly contribution to the pension fund.\n\n\n\n- **Disablement Benefit:**\n\n\n\n    - If the subscriber becomes permanently disabled before the age of 60 years, the spouse can continue the scheme by paying contributions or exit by receiving the subscriber’s contribution with interest.\n    - Exit Benefits:\n    - If the subscriber exits within 10 years, only the subscriber’s contribution will be refunded with savings bank interest.\n    - If the subscriber exits after 10 years but before 60 years, the subscriber’s contribution will be refunded with accumulated interest or savings bank interest, whichever is higher.\n    - If the subscriber dies before 60 years, the spouse can continue the scheme or exit with a refund of the subscriber’s contribution with interest.\n    - After the death of both subscriber and spouse, the corpus will be credited back to the pension fund.\n\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "6fd2ab7f4427cb8b688c5c98f9a99ba927a080117cca3ed2e5baed65cc700502",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&amp;quot;Pradhan Mantri Kisan Maandhan Yojana&amp;quot; by the Department of Agriculture &amp;amp; Farmers Welfare, Government of India is a government scheme meant for old age protection and social security of Small and Marginal Farmers (SMF). All Small and Marginal Farmers having cultivable landholding up to 2 hectares falling in the age group of 18 to 40 years, whose names appear in the land records of States/UTs as on 01.08.2019, are eligible to get benefits under the scheme.\nUnder this scheme, the farmers would receive a minimum assured pension of ₹,3000/- per month after attaining the age of 60 years and if the farmer dies, the spouse of the farmer shall be entitled to receive 50% of the pension as family pension. Family pension is applicable only to the spouse.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant should be a Small or Marginal Farmer.\n   1. The applicant should have cultivable landholding up to 2 hectares as per State or Union Territory land records.\n   1. The applicant should be between 18 and 40 years of age at the time of entry.\n   1. The applicant’s name should appear in land records as on 01.08.2019.\n   1. The applicant should possess an Aadhaar card.\n   1. The applicant should have a savings bank account or PM-KISAN account.\n\n<br>\n\n<br>\n\n",
+  "exclusions": "- SMFs covered under any other statuary social security schemes such as National Pension Scheme (NPS), Employees’ State Insurance Corporation scheme, Employees’ Fund Organization Scheme etc.\n- Farmers who have opted for Pradhan Mantri Shram Yogi Maandhan Yojana and Pradhan Mantri Vyapari Maandhan administered by the Ministry of Labour &amp;amp; Employment.\n- Further, the following categories of beneficiaries of higher economic status shall not be eligible for benefits under the scheme:\n\n   1. All Institutional Landholders.\n   1. Former and present holders of constitutional posts.\n   1. Former and present Ministers/ State Ministers and former/present Members of Lok Sabha/ Rajya Sabha/ State Legislative Assemblies/ State Legislative Councils, former and present Mayors of Municipal Corporations, former and present Chairpersons of District Panchayats.\n   1. All serving or retired officers and employees of Central/ State Government Ministries/ Offices/Departments and their field units, Central or State PSEs and Attached offices/ Autonomous Institutions under Government as well as regular employees of the Local Bodies (Excluding Multi Tasking Staff / Class IV/Group D employees).\n   1. All Persons who paid Income Tax in the last assessment year Professionals like Doctors, Engineers, Lawyers, Chartered Accountants, and Architects registered with Professional bodies and carrying out profession by undertaking practice.\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T14:01:17.171940+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:17.171940+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture & Farmers Welfare",
+    "value": 121226
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://pmkmy.gov.in/scheme/pmkmy"
+    },
+    {
+      "title": "Frequenty Asked Questions (FAQs)",
+      "url": "https://pmkmy.gov.in/page/faq"
+    },
+    {
+      "title": "Monthly Contribution Chart",
+      "url": "https://pmkmy.gov.in/scheme/pmkmy"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "69896df0bd88cb68aad3c644",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar Card\n   1. Savings Bank Account Number along with IFSC Code ( Bank Passbook or Cheque Leaf/book or copy of bank statement as evidence of bank account).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Savings Bank Account Number along with IFSC Code ( Bank Passbook or Cheque Leaf/book or copy of bank statement as evidence of bank account)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69896d8ebd88cb68aad3c472"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "69896d8ebd88cb68aad3c472",
+  "scheme_name": "Pradhan Mantri Kisan Maandhan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "PMKMDY",
+  "slug": "pmkmdy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Superannuation",
+      "value": "Superannuation"
+    },
+    {
+      "label": "Pension",
+      "value": "Pension"
+    },
+    {
+      "label": "Insurance",
+      "value": "Insurance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Small And Marginal Farmer",
+    "Social Security",
+    "Old Age Pension",
+    "Family Pension"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

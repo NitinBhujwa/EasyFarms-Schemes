@@ -1,0 +1,155 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "For construction of the project, project's proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After examination by the departmental TAC, the DPR is forwarded to the headquarters. After which the proposal is sent to the government for approval. The construction work of the projects is initiated after receiving financial approval from the Government."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - For construction of the project, project&amp;#39;s proposal may be submitted to the Division, Sub-Division, or other departmental offices through the Gram Sabha, Gram Panchayat, District Panchayat, or other authorized channels. Based on site inspection and the suitability of the received proposals, a Detailed Project Report (DPR) will be prepared.\n  - After examination by the departmental TAC, the DPR is forwarded to the headquarters. After which the proposal is sent to the government for approval. The construction work of the projects is initiated after receiving financial approval from the Government.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "Under this scheme, farmers will be provided with free irrigation facilities. The following projects are constructed for collective irrigation in Scheduled Caste-dominated areas:\n\n  - Hauz (Water Storage Tank)\n  - Construction of Pipelines / Water Channels (Gool)\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "945b25773e38d9585c1aa7dc27d8c404ccf7ff33deb51e888ded3c7da7977cd6",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Construction of Minor Irrigation Projects for Scheduled Caste Beneficiaries” was launched by the Department of Minor Irrigation, Government of Uttarakhand. The scheme aims to provide Scheduled Caste farmers with free and adequate irrigation by constructing small irrigation projects such as water tanks and pipelines in Scheduled Caste-dominated areas, thereby helping them improve their farming. It is a 100% state government-funded scheme.\n<br>\n\n",
+  "eligibility": "\n   1. The beneficiary must be a resident of Uttarakhand.\n   1. The beneficiary must be a farmer engaged in agricultural activities.\n   1. The beneficiary must belong to the Scheduled Caste category.\n   1. Collective irrigation projects will be constructed under the scheme.\n   1. The name of the proposed village must be included in the list of Scheduled Caste-dominated villages issued by the Department of Social Welfare.\n   1. Sufficient irrigated area must be available for the project.\n   1. The cost of the project must not exceed ₹4.00 lakh per hectare, and the benefit-cost ratio must be greater than 1.0.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:03.341256+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:03.341256+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Minor Irrigation Department",
+    "value": 50000029
+  },
+  "references": [
+    {
+      "title": "Guidelines Page No. 248",
+      "url": "https://www.google.com/url?q=https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf&sa=D&source=docs&ust=1750927616357877&usg=AOvVaw04FwRQf8ZVw0xT2NNrjJSo"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://minorirrigation.uk.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "691d55517c57e02236ed8600",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the department’s guidelines prescribed for this scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required as per the department’s guidelines prescribed for this scheme."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691d522a01e7202b8723ed0c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "691d522a01e7202b8723ed0c",
+  "scheme_name": "Construction of Minor Irrigation Projects for Scheduled Caste Beneficiaries",
+  "scheme_open_date": null,
+  "scheme_short_title": "CMIPSCB",
+  "slug": "cmipscb",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Scheduled Caste",
+    "Irrigation",
+    "Minor Irrigation",
+    "Water Storage Tank",
+    "Farmer",
+    "Water Channels"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Approach the Gram Sevak in your village for access to the \"100% Soluble Chemical Fertilizer/Nano Fertilizer\" under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Approach the Gram Sevak in your village for access to the &quot;100% Soluble Chemical Fertilizer/Nano Fertilizer&quot; under the scheme.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **100% Soluble Chemical Fertilizer/Nano Fertilizer:**\n\n\n- 100% soluble chemical fertilizers/nano-fertilizers of FCO-approved grade subject to 75% of the purchase price or ₹ 750/- per hectare, will be eligible for subsidy. (subject to a maximum of four hectares per account)\n\n<br>\n\n> **Remark:** As per conditions No. 5, 16, 17, 19 and 22 of [Appendix-1](https://mariyojana.gujarat.gov.in/Schemeatoz.aspx). (Refer Scheme No. 35).\n\n> **Frequency:** Every year.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8255780b770f86e8bfdddeff7f6587b61492228e10b725bfc607805049cf326a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies, etc,. to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;100% Soluble Chemical Fertilizer/Nano Fertilizer&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to assist Adivasi and Scheduled Tribe farmers in tribal and non-tribal areas to achieve higher agricultural production and improve their livelihoods. Through this scheme, subsidies are provided on items such as seeds of more productive/hybrid varieties, fertilizers, plant protection equipment, tarpaulins, micronutrients, water carrying pipelines, and pump sets. \n<br>\n\n",
+  "eligibility": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:06:18.211501+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:06:18.211501+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/v4lc2tu73R%E2%9C%A49lWYKO76SRg%E2%99%AC%E2%99%AC?utm_source=chatgpt.com"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68a20a3a539a131c1aaa4d4f",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate\n1. Aadhar Card\n1. Bank Pass Book/Cancelled Cheque\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a20a28539a131c1aaa4d18"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68a20a28539a131c1aaa4d18",
+  "scheme_name": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: 100% Soluble Chemical Fertilizer/Nano Fertilizer Gujarat",
+  "scheme_open_date": null,
+  "scheme_short_title": "DSMPVHSCFGUJ",
+  "slug": "dsmpvhscfguj",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Adivasi Farmers",
+    "Crop Production",
+    "Livelihood",
+    "Fertilizer Subsidies",
+    "Seeds",
+    "Nano Fertilizer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

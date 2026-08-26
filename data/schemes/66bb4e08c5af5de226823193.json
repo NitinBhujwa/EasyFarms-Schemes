@@ -1,0 +1,187 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Eligible farmers can apply for benefits under the scheme by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "\n  - Eligible farmers can apply for benefits under the scheme by visiting the office of the Deputy Director, Farmers Welfare and Agriculture Development Department in their respective district in Madhya Pradesh.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "&gt; **Subsidy for Tube Well Digging:**\n\n\n  - A grant of 75% of the unit cost (up to a maximum of ₹25,000/-), is provided for digging a tube well.\n  - Applicable for both successful and unsuccessful digging.\n\n&gt; **Subsidy for Submersible Pump Installation:**\n\n\n  - A grant of 75% of the unit cost (up to a maximum of ₹15,000/-), is provided for the successful installation of a submersible pump on a tube well.\n  - Applicable only for successful installation of a Submersible Pump.\n\n**Note:** The subsidy is transferred to the bank account of the farmers.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8100db0fd8cd3f0ed9b87a2ee502b98281212f7daef56bc3d88a91275bef363d",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Nalkoop Khanan Yojana&amp;quot; was launched on 31st December 2001, by the Farmer Welfare and Agriculture Development Department, Government of Madhya Pradesh, to increase the irrigation area by harnessing underground water. Under this scheme, farmers from Scheduled Caste and Scheduled Tribe categories are eligible for a subsidy covering 75% of the unit cost (up to ₹25,000/-) for digging a tube well and 75% of the unit cost (up to ₹15,000/-) for the successful installation of a tube well submersible pump. This scheme is effective in entire Madhya Pradesh, except in Shajapur and Indore.\n",
+  "eligibility": "\n   1. The applicant should be a native of Madhya Pradesh.\n   1. The applicant should be a farmer.\n   1. Farmers from Shajapur and Indore districts of Madhya Pradesh are excluded from this scheme.\n   1. The applicant should belong to the Scheduled Caste or Scheduled Tribe category.\n   1. The applicant should own agricultural land within the state.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:27.211042+00:00",
+  "implementing_agency": "Farmer Welfare And Agriculture Development Department, Government Of Madhya Pradesh",
+  "last_synced_at": "2026-08-26T14:02:27.211042+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Farmer Welfare and Agriculture Development Department",
+    "value": 2300011
+  },
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?Schemeid=941"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mpkrishi.mp.gov.in/Englishsite_New/pdfs/Nalkoop.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://mpkrishi.mp.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66bb4e320d7fcba7845a0016",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity proof i.e. Aadhaar card\n1. Domicile certificate of Madhya Pradesh\n1. Caste Certificate\n1. Proof of having agricultural land\n1. Bank passbook/bank account details\n1. Any other required documents\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Domicile certificate of Madhya Pradesh"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of having agricultural land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook/bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other required documents"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "66bb4e08c5af5de226823193"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66bb4e08c5af5de226823193",
+  "scheme_name": "Nalkoop Khanan Yojana- Madhya Pradesh",
+  "scheme_open_date": "2001-12-31",
+  "scheme_short_title": "NKYMP",
+  "slug": "nkymp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Nalkoop",
+    "Farmer",
+    "Pump",
+    "Subsidy",
+    "Tube Well"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

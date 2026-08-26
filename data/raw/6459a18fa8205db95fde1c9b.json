@@ -1,0 +1,802 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6459a18fa8205db95fde1c9b",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Apply on http://tenders.nddb.coop/sitepages/tenders.aspx "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Screening of EOL by NDDB."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Identified applicant to submit DPR, EMD and tie up for 50% loan."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Screening of DPR, Field verification and presentation by applicant."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Final selection of applicant and recommendation to bank/financial institution for the loan."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proposal with sanctioned bank loan approved by DAHD."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Release of 50% subsidy after the release of 1st tranche of the loan."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "25% subsidy after all infra is in place along with induction of animals."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "25% of subsidy after 10% of calves are born."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "url": "http://tenders.nddb.coop/sitepages/tenders.aspx "
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry and Veterinary Department",
+            "value": 1511112
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Infra",
+          "schemeName": "Breed Multiplication Farm Entrepreneurship",
+          "schemeOpenDate": "2014-01-01",
+          "schemeShortTitle": "BMFE",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            }
+          ],
+          "state": {
+            "label": "Mizoram",
+            "value": 15
+          },
+          "tags": [
+            "Breed Multiplication Farms",
+            "Heifers Of Cattle And Buffaloes",
+            "Forconstruction Of Cattle",
+            "Farmers Scientist Interaction",
+            "Cattle And Buffalo Breeding"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant shall be an entrepreneur-aggregator /private individual, SHGs/FPOs/FCOs/ JLGs and Section 8 companies who have their registered offices in India."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Entrepreneur/applicant shall have appropriate experience in breeding or rearing dairy animals"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The entrepreneur/applicant will be responsible for arranging land of suitable size and location. At least having ownership/lease deed of 5 acres of land."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The entrepreneur/applicant will make its own arrangement for the procurement of feed and fodder as per the requirement of the farm"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The entrepreneur will establish a breed multiplication farm of at least 200 milch cows/buffalo and use the latest breeding technology to continuously upgrade the stock."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant shall be an entrepreneur-aggregator /private individual, SHGs/FPOs/FCOs/ JLGs and Section 8 companies who have their registered offices in India.\n   1. Entrepreneur/applicant shall have appropriate experience in breeding or rearing dairy animals\n   1. The entrepreneur/applicant will be responsible for arranging land of suitable size and location. At least having ownership/lease deed of 5 acres of land.\n   1. The entrepreneur/applicant will make its own arrangement for the procurement of feed and fodder as per the requirement of the farm\n   1. The entrepreneur will establish a breed multiplication farm of at least 200 milch cows/buffalo and use the latest breeding technology to continuously upgrade the stock.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Construction of cattle sheds."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Procurement of elite bull."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Purchase of relevant equipment, mothers etc."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Establish breed multiplication farms and produce elite heifers using sex-sorted semen or IVF technology."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Maximum Subsidy will not exceed Rs 2.00 Cr."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Indicative cost of the model project for the establishment of Breed Multiplication Farm"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "S No"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Particulars"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Total Cost (Rs in lakh)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Purchase of cows in first lactation/ 2nd lactation"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "200"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Construction of cow sheds 10 sq. meter per cow (sheds to house 200 cows and its followers"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "100"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Construction of isolation shed "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "2.5"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "4"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Administration block "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "20"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "5"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Feed 8 fodder store room "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "40"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "6"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Tractor 75 HP, with agriculture implements."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "10"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "7"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Dairy equipment (BMC, stainless steel Milk cans, digital milko tester, deep freezer etc.)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "5"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "8"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Shed for Agri implements "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "22.5"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "9"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Chaff cutter (electric) "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Total"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "401"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "briefDescription": "At present entrepreneurs/farmers interested in taking up dairy programmes are facing difficulties in sourcing disease-free high-yielding heifers or cows and farmers are dependent on either middlemen or other farmers maintaining dairy animals for sourcing their requirement of dairy animals. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "It is proposed to make available a 50% capital subsidy (limited to Rs. 2.00 Crore) to the interested entrepreneur for the construction of cattle sheds, equipment, procurement of elite bull mothers etc. The entrepreneur will establish a breed multiplication farm (BMF) and produce elite heifers using sexed semen or IVF technology. "
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Disease-free heifers (free from at least TB, JD & Brucella) produced at the BMF will be sold to interested farmers and HGM bulls born at BMF will be procured by semen stations for semen production, subject to qualifying Minimum Standards for production of frozen semen. BMF will also act as the training centre to conduct training for farmers and entrepreneurs."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "There is no system available in the country for producing disease-free elite animals of indigenous breeds of cattle and buffalo or exotic breeds of cattle. Therefore it is proposed to establish breed multiplication farms through an entrepreneurship model to make available disease-free high-yielding heifers/pregnant heifers /cows preferably of indigenous breeds of cattle/buffaloes in the country. "
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "It is proposed to make available a 50% capital subsidy (limited to Rs. 2.00 Crore) to the interested entrepreneur for the construction of cattle sheds, equipment, procurement of elite bull mothers etc. The entrepreneur will establish a breed multiplication farm (BMF) and produce elite heifers using sexed semen or IVF technology. \nDisease-free heifers (free from at least TB, JD &amp;amp; Brucella) produced at the BMF will be sold to interested farmers and HGM bulls born at BMF will be procured by semen stations for semen production, subject to qualifying Minimum Standards for production of frozen semen. BMF will also act as the training centre to conduct training for farmers and entrepreneurs.\nThere is no system available in the country for producing disease-free elite animals of indigenous breeds of cattle and buffalo or exotic breeds of cattle. Therefore it is proposed to establish breed multiplication farms through an entrepreneurship model to make available disease-free high-yielding heifers/pregnant heifers /cows preferably of indigenous breeds of cattle/buffaloes in the country. \n&lt;br&gt;\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "references": [
+            {
+              "title": "Details",
+              "url": "https://ahvety.mizoram.gov.in/uploads/attachments/2e2033ccb4f81a68125d2531528b92a7/breed-multiplication-farm-entrepreneurship-scheme-english.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "bmfe"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6459a1e8db1f8be7d3b4a362",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Certificate of Incorporation and Partnership Deed, if any."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "For individuals, a copy of their Aadhar card along with a Bank statement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of their activity: Certificate of experience in breeding and rearing of dairy animals from the local Govt. Veterinarian."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "copy of ownership document/lease deed."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Commitment letter from the supplier of feed and fodder."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Affidavit (Annexure-III)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Note: Download forms from "
+              },
+              {
+                "children": [
+                  {
+                    "text": "here"
+                  }
+                ],
+                "link": "https://www.nddb.coop/information/establishment-of-breed-multiplication-farms",
+                "type": "link"
+              },
+              {
+                "text": "."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6459a18fa8205db95fde1c9b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:09:03.856292+00:00",
+  "scheme_id": "6459a18fa8205db95fde1c9b"
+}

@@ -1,0 +1,203 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " he market committee must prepare a development plan and obtain an estimate from an engineer approved by the Director of Agricultural Markets and Rural Finance, Gujarat State, Gandhinagar."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "The proposal must be submitted through the Deputy Director and District Registrar Co-operative Societies of the respective district."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Office Address and Contact Details of District Registrar: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Click here"
+                        }
+                      ],
+                      "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+                      "type": "link"
+                    },
+                    {
+                      "bold": true,
+                      "text": "."
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** he market committee must prepare a development plan and obtain an estimate from an engineer approved by the Director of Agricultural Markets and Rural Finance, Gujarat State, Gandhinagar.\n**Step 2:** The proposal must be submitted through the Deputy Director and District Registrar Co-operative Societies of the respective district.\n&amp;gt; **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Component****Standard of Assistance**To create facilities for processing/ grading/ cleaning / washing /shorting/ packaging/ branding, and valuation at State Market Committee level50% of project cost to all types of market committees up to a limit of ₹1,50,00,000/-.<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "fa9d5b7be833b3d46ecc4ffbb27bbe3008c996728125fcdd4a43b3331e6dcccb",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Scheme to Provide Assistance to Processing Units in State Market Committees&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to market committees in Gujarat to establish food processing units. These units will help in cleaning, grading, packaging, and branding agricultural produce. \n",
+  "eligibility": "\n- All market committees in Gujarat are eligible to apply.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:11:12.239921+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:11:12.239921+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=jyiVmEe2hbXtFere99frwg==&domain=Uxijm857oHjeSHuzZgXyAA=="
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://agri.gujarat.gov.in/ViewFile?fileName=aPNBWj81zn2Uij94k1vnHASH__HASHQVwFnxM0iwP0xrtm2ICpfmFN7qzVxYNNf7xIyq0314bcqthMBKXtS7FeqZ3rQKs72CclSNKL0gDjny31IIuJnepRwmheZLXefbmfPUdOrR8DZUDqEYTprm3qBzdrHASH__HASHgAHA=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67d01e00777a17dd53de4fd9",
+      "en": {
+        "documentsRequired_md": "\n- Proposal for development work.\n- Estimate from an approved engineer.\n- Undertaking by the market committee.\n- Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proposal for development work."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Estimate from an approved engineer."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Undertaking by the market committee."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67d01d82777a17dd53de4f35"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67d01d82777a17dd53de4f35",
+  "scheme_name": "Scheme to Provide Assistance to Processing Units in State Market Committees",
+  "scheme_open_date": null,
+  "scheme_short_title": "APAPUSMC",
+  "slug": "apapusmc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Processing Units",
+    "Market Committees"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Government Organisation",
+      "value": "government-organisation"
+    }
+  ]
+}

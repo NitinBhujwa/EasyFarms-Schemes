@@ -1,0 +1,388 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-01:"
+                },
+                {
+                  "text": " The owners of a female calf born through A.I. by pure breeding in an indigenous cow can apply online at I-Khedut Portal."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme1/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme1/Public/frm_Public_ANH2_SchemeApplicaiton.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_left"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-02: "
+                },
+                {
+                  "text": "Now, the applicant needs to select the scheme in the Animal Husbandry Schemes Section on the portal and click on \"Click here for details\". "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-03:"
+                },
+                {
+                  "text": " The applicant needs to select the desired scheme and read the instruction carefully and then click on ‘Apply’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-04:"
+                },
+                {
+                  "text": " Choose the option ‘Yes’ or ‘No’ and then click on “Click to proceed”."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-05:"
+                },
+                {
+                  "text": " Click on the \"Click to Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-06:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-07:"
+                },
+                {
+                  "text": " Click on the \"Upload Document\" button to upload all the relevant documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-08:"
+                },
+                {
+                  "text": " Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-09:"
+                },
+                {
+                  "text": " Take a printout of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-10:"
+                },
+                {
+                  "text": " The application must be signed and submitted along with the supporting documents to the nearby Veterinary Officer of the Veterinary Dispensary."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step-11:"
+                },
+                {
+                  "text": " Scanned copy of the application and other documents can be uploaded after confirming the application."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note-01"
+                },
+                {
+                  "text": ": The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note-02:"
+                },
+                {
+                  "text": " If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents in the concerned office within seven days of application."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note-03:"
+                },
+                {
+                  "text": " For the approval of the application form printout of the online application must be submitted to the nearby Veterinary Officer of Veterinary Dispensary."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note-04:"
+                },
+                {
+                  "text": " Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step-01:** The owners of a female calf born through A.I. by pure breeding in an indigenous cow can apply online at I-Khedut Portal.\n[https://ikhedut.gujarat.gov.in/iKhedutPublicScheme1/Public/frm_Public_ANH2_SchemeApplicaiton.aspx](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme1/Public/frm_Public_ANH2_SchemeApplicaiton.aspx)\n**Step-02:** Now, the applicant needs to select the scheme in the Animal Husbandry Schemes Section on the portal and click on &amp;quot;Click here for details&amp;quot;. \n**Step-03:** The applicant needs to select the desired scheme and read the instruction carefully and then click on ‘Apply’.\n**Step-04:** Choose the option ‘Yes’ or ‘No’ and then click on “Click to proceed”.\n**Step-05:** Click on the &amp;quot;Click to Apply New&amp;quot; button and submit a new application.\n**Step-06:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step-07:** Click on the &amp;quot;Upload Document&amp;quot; button to upload all the relevant documents.\n**Step-08:** Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application.\n**Step-09:** Take a printout of the confirmed application.\n**Step-10:** The application must be signed and submitted along with the supporting documents to the nearby Veterinary Officer of the Veterinary Dispensary.\n**Step-11:** Scanned copy of the application and other documents can be uploaded after confirming the application.\n<br>\n\n&gt; **Note-01**: The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary.\n\n&gt; **Note-02:** If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents in the concerned office within seven days of application.\n\n&gt; **Note-03:** For the approval of the application form printout of the online application must be submitted to the nearby Veterinary Officer of Veterinary Dispensary.\n\n&gt; **Note-04:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n\n",
+      "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme1/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "1.\tThe incentive of ₹3,000/- will be given to owners of a female calf born through Artificial Insemination by pure breeding in indigenous cows.\n2.\tThe incentive/assistance shall be given once per year for one calf per beneficiary.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "2557f66272ed67a73eeca727ded87c3d5eea2444c13d2320251e2bc2cae1ea32",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Incentive to Owners of Artificial Insemination Born Female Calf through Pure Breeding in Indigenous Cow” was started by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat. The objective of this scheme is to avoid a decrease in the number of local pure breeds of Cow namely Gir and Kankrej and increase it to be properly maintained in the state.\n",
+  "eligibility": "\n   1. The applicant should be a permanent resident of Gujarat State.\n   1. The applicant should be the owner of a female calf born through artificial insemination by pure breeding in indigenous cows.\n   1. The age of the calf should not be more than 11 months as of the date of the online application.\n   1. The benefit of this scheme is eligible once per year for a maximum of one calf per beneficiary.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:53:16.648934+00:00",
+  "implementing_agency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+  "last_synced_at": "2026-08-26T13:53:16.648934+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://doah.gujarat.gov.in/intensive-cattle-development-programme.htm"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64899d9c380f8e12353ecad8",
+      "en": {
+        "documentsRequired_md": "\n1. Government-approved photo ID (if applicable) i.e. Aadhaar Card\n1. Canceled Bank Cheque or Xerox of the first page of Bank Passbook\n1. Ration Card (Barcoded)\n1. Certificate of AI done from whom AI is carried out. (as mentioned in the online application)\n1. Certificate of Artificial Insemination Institution (if applicable) of Animal Breeding by Artificial Insemination \n1. Certificate of spot verification of calf details by Veterinary Officer/Livestock Inspector (if applicable)\n1. Disability Certificate from Competent Authority (only for disabled) (if applicable)\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Government-approved photo ID (if applicable) i.e. Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Canceled Bank Cheque or Xerox of the first page of Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card (Barcoded)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate of AI done from whom AI is carried out. (as mentioned in the online application)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate of Artificial Insemination Institution (if applicable) of Animal Breeding by Artificial Insemination "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate of spot verification of calf details by Veterinary Officer/Livestock Inspector (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate from Competent Authority (only for disabled) (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64897eb1481f59106a694edf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64897eb1481f59106a694edf",
+  "scheme_name": "Incentive To Owners Of Artificial Insemination Born Female Calf Through Pure Breeding In Indigenous Cow",
+  "scheme_open_date": null,
+  "scheme_short_title": "IOAIBFCPBIC",
+  "slug": "ioaibfcpbic",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Incentive",
+    "Artificial Insemination",
+    "Indigenous Cow",
+    "Livestock"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

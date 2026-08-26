@@ -1,0 +1,314 @@
+{
+  "detail": {
+    "data": {
+      "_id": "66ed160e8738f8968e6cc8fc",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Collect the application form from the nearest Agricultural Office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Submit the form to the concerned office:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Village Level:"
+                      },
+                      {
+                        "text": " Submit the application to the Assistant Agricultural Officer."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Block Level:"
+                      },
+                      {
+                        "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "District Level: "
+                      },
+                      {
+                        "text": "Submit to the Joint Director of Agriculture."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 3333332
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Visit of Contract Farming Farmers to the Research Stations in Karnataka",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "VCFRSK",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Tamil Nadu",
+            "value": 33
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Contract Farming",
+            "Research Stations Visit"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a Farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a resident of Tamil Nadu."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Financial Assistance: "
+                    },
+                    {
+                      "text": "₹1,12,500/- per batch of 50 farmers for 3 days."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Learning Program: "
+                    },
+                    {
+                      "text": "Exposure to the latest agricultural research and innovations."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "\n- **Financial Assistance:** ₹1,12,500/- per batch of 50 farmers for 3 days.- **Learning Program:** Exposure to the latest agricultural research and innovations.\n",
+          "briefDescription": "The scheme “Visit of Contract Farming Farmers to the Research Stations in Karnataka” facilitates visits for contract farming farmers to research stations across Karnataka to gain agricultural knowledge. Financial support is provided for a 3-day visit.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Visit of Contract Farming Farmers to the Research Stations in Karnataka” by the Agriculture-Farmers Welfare Department, Tamil Nadu, aims to enhance the agricultural practices of contract farming farmers by enabling visits to research stations in Karnataka. A batch of 50 farmers will be sponsored for a 3-day visit. The scheme focuses on increasing exposure to advanced techniques and research findings to improve farming outcomes."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Visit of Contract Farming Farmers to the Research Stations in Karnataka” by the Agriculture-Farmers Welfare Department, Tamil Nadu, aims to enhance the agricultural practices of contract farming farmers by enabling visits to research stations in Karnataka. A batch of 50 farmers will be sponsored for a 3-day visit. The scheme focuses on increasing exposure to advanced techniques and research findings to improve farming outcomes.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.tn.gov.in/scheme/data_view/6858"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "vcfrsk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "66ed16218738f8968e6cc91e",
+      "en": {
+        "documentsRequired_md": "\n1. Proof of identity (Aadhar card, Voter ID).\n1. Land ownership documents or lease agreement.\n1. Caste Certificate (for SC/ST applicants).\n1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of identity (Aadhar card, Voter ID)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership documents or lease agreement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (for SC/ST applicants)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents (if required)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "66ed160e8738f8968e6cc8fc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:45.013073+00:00",
+  "scheme_id": "66ed160e8738f8968e6cc8fc"
+}

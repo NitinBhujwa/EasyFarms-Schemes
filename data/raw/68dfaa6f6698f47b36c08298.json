@@ -1,0 +1,224 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68dfaa6f6698f47b36c08298",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Council organizes training programmes for entrepreneurship development. Prior to each event, information is published on the official website and in newspapers. Colleges, universities, and related institutions are informed through email or social media platforms, and applications are accepted via Google Forms."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The Council organizes training programmes for entrepreneurship development. Prior to each event, information is published on the official website and in newspapers. Colleges, universities, and related institutions are informed through email or social media platforms, and applications are accepted via Google Forms.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Uttarakhand Council For Biotechnology",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Skills & Employment",
+              "value": "628ce85cd6d1a3bde4685304"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Training Programme for Entrepreneurship Development in Biotechnology",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TPEDB",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Training Program",
+            "Entrepreneurship Development",
+            "Biotechnology",
+            "Student",
+            "Researcher"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a student or researcher at the graduate, postgraduate, or Ph.D. level in Biotechnology, Microbiology, Molecular Biology, Genetic Biology, Environmental Biology, or related subjects."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand. \n1. The applicant must be a student or researcher at the graduate, postgraduate, or Ph.D. level in Biotechnology, Microbiology, Molecular Biology, Genetic Biology, Environmental Biology, or related subjects.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this training programme, training and technical information are provided to the youth of the state to promote entrepreneurship development and support them in establishing startups in the field of biotechnology, along with guidance as per their specific needs."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this training programme, training and technical information are provided to the youth of the state to promote entrepreneurship development and support them in establishing startups in the field of biotechnology, along with guidance as per their specific needs.\n<br>\n\n",
+          "briefDescription": "The scheme aims to train youth in biotechnology and develop entrepreneurial skills by providing technical knowledge, mentorship, and guidance to help them initiate biotech startups.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Training Programme for Entrepreneurship Development in Biotechnology” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to train youth in biotechnology and develop entrepreneurial skills by providing technical knowledge, mentorship, and guidance to help them initiate biotech startups."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Training Programme for Entrepreneurship Development in Biotechnology” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to train youth in biotechnology and develop entrepreneurial skills by providing technical knowledge, mentorship, and guidance to help them initiate biotech startups.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 125)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tpedb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68dfaa7c6698f47b36c082dd",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the guidelines of the Uttarakhand Council for Biotechnology for the Training Programme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Documents are required as per the guidelines of the Uttarakhand Council for Biotechnology for the Training Programme."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68dfaa6f6698f47b36c08298"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:07.469393+00:00",
+  "scheme_id": "68dfaa6f6698f47b36c08298"
+}

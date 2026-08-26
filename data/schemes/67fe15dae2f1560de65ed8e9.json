@@ -1,0 +1,207 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The concerned Agricultural Credit Co-operative Society must prepare a proposal."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " The proposal should be submitted to the District Registrar Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " The application should include all required supporting documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " The Registrar will verify and forward the eligible applications for financial assistance under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The concerned Agricultural Credit Co-operative Society must prepare a proposal.\n**Step 2:** The proposal should be submitted to the District Registrar Office.\n**Step 3:** The application should include all required supporting documents.\n**Step 4:** The Registrar will verify and forward the eligible applications for financial assistance under the scheme.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Incentive admissible over and above the average amount of the last three years****Percentage of the grant of incentive on the excess amount**For growth from 10% to 15%\t1 %For growth above 15% and up to 20%\t1.5 %For growth above 20%\t2% or a maximum of ₹.50,000/- whichever is less (on deposits up to a ₹2,00,000/- whichever is less)<br>\n\n> **Note:** The benefit of the scheme is available only once in a financial year.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "e7d9d92f95a07188fcc1bd61a02f8c70a8bbfcef5367820377f64a2568add5e3",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;COP-5 Financial Assistance to Agricultural Credit Co-operative Banks (PACS/LAMPS) for Reconstruction and Reestablishment (General/Tribal Area)&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to make economically weak but functionally efficient PACS/LAMPS financially viable. These societies play a foundational role in the three-tier cooperative credit system, and their performance impacts District and State Cooperative Banks. The scheme incentivizes societies based on their growth in credit disbursement, loan recovery, and deposit mobilization over the past three years (two years for LAMPS).\n",
+  "eligibility": "\n1. The applicant must be a registered Agricultural Co-operative Credit Society, either a Primary Agricultural Credit Society (PACS) or a Large-sized Adivasi Multi-Purpose Society (LAMPS).\n1. The society must have been operational and performing for the required duration:\n\n  -  PACS: At least the last three years.\n  - LAMPS: At least the last two years.\n\n1. The applicant must provide performance data for the relevant period, showing:\n\n  - Growth in credit disbursement (short and medium-term).\n  - Improvement in loan recovery rates.\n  - Increase in deposit collection.\n\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:44.729560+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:44.729560+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=VBmlBmd+scMV9XoODqMfYw==&domain=v4lc2tu73R/9lWYKO76SRg=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67fe1606e2f1560de65ed92d",
+      "en": {
+        "documentsRequired_md": "\n1. Growth and recovery records of the last three years (two years for LAMPS).\n1. Audit reports or financial statements.\n1. Proof of credit disbursed and deposits collected.\n1. Society registration certificate.\n1. Identity proof of society office bearers.\n1. Bank account details of the society.\n1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Growth and recovery records of the last three years (two years for LAMPS)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audit reports or financial statements."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of credit disbursed and deposits collected."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Society registration certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity proof of society office bearers."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details of the society."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67fe15dae2f1560de65ed8e9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67fe15dae2f1560de65ed8e9",
+  "scheme_name": "COP-5 Financial Assistance to Agricultural Credit Co-operative Banks (PACS/LAMPS) for Reconstruction and Reestablishment (General/Tribal Area)",
+  "scheme_open_date": null,
+  "scheme_short_title": "CFAACOBRR",
+  "slug": "cfaacobrr",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Co Operative Banks",
+    "Reconstruction"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Government Organisation",
+      "value": "government-organisation"
+    }
+  ]
+}

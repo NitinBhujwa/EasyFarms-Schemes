@@ -1,0 +1,239 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Collect the application form from the nearest Agricultural Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Submit the form to the concerned office:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Village Level:"
+                },
+                {
+                  "text": " Submit the application to the Assistant Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Block Level:"
+                },
+                {
+                  "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "District Level: "
+                },
+                {
+                  "text": "Submit to the Joint Director of Agriculture."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Quantum of Assistance:** 50% cost of input limited to ₹250/- per hectare.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8e32669e1782230d4e83506983bb823dc81de70315cde208f5b9b0f4649bee82",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Distribution of Nuclear Poly Hedrosis Virus” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides subsidies for the distribution of Nuclear Poly Hedrosis Virus (NPV) to farmers raising seed farms with Pulses crops.\n",
+  "eligibility": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should raise seed farms with Pulses crops.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:32.218497+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:32.218497+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 3333332
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7078"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66d8470d926d5490dea2ecef",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Identity (Aadhar Card, Voter ID, etc.).\n   1. Proof of Land Ownership.\n   1. Proof of Pulses crop cultivation.\n   1. Caste Certificate (for SC/ST applicants).\n   1. Bank Account Details.\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Identity (Aadhar Card, Voter ID, etc.)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Land Ownership."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Pulses crop cultivation."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate (for SC/ST applicants)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Account Details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "66d846f591b6f2157d6ff08b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66d846f591b6f2157d6ff08b",
+  "scheme_name": "Distribution of Nuclear Poly Hedrosis Virus",
+  "scheme_open_date": null,
+  "scheme_short_title": "DONPV",
+  "slug": "donpv",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Nuclear Poly Hedrosis Virus",
+    "NPV",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

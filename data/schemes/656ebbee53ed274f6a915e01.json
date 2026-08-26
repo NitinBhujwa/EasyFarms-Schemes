@@ -1,0 +1,302 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should take print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+            },
+            {
+              "bold": true,
+              "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+            },
+            {
+              "children": [
+                {
+                  "text": "BDO Office/ Sub-Offices"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": " of the Department of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Redressal"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+            },
+            {
+              "children": [
+                {
+                  "text": "Grievance Redressal Officer"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "text": ". The grievance can also be lodged on the link "
+            },
+            {
+              "bold": true,
+              "text": "dir-fish.goa@nic.in"
+            },
+            {
+              "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Subsidy of ₹ 30 per Litre on a maximum consumption of 1000 Litre of Petrol.\n- For SC/ST, a Subsidy of ₹ 30 per Litre on a maximum consumption of 1100 Litre of Petrol.\n\n\n- The benefits can be availed every year.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "2a7a4a6a6e31189462a0948c06490b9c6e472752609e4034848bae275eaf45f0",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Financial Assistance for Purchase of Fuel (Petrol) to the Fishermen for Operation of Out Board Motors” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a subsidy of ₹ 30 per Litre on a maximum consumption of 1000 Litre of Petrol is provided to the fishermen.\n",
+  "eligibility": "\n1. The applicant should be a traditional fisherman by birth or profession.\n1. The applicant should be a resident of Goa.\n1. The applicant&#39;s fishing canoe should be registered under the Merchant Shipping Act, of 1958 and the rules framed there under.\n1. The applicant should be a member of the Registered Fisheries Co-operative Societies/ Association or Individual.\n1. The applicant should not be a defaulter of the Directorate of Fisheries.\n1. The applicant should not be a violator of the Goa Daman &amp; Diu Marine Fishing Regulation Act,1980 (Act No.3 of 1981).\n1. Petrol OBM (Out Board Motors) having 10HP or below should be incorporated on the Fishing Vessel/Canoe.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:01:55.741383+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:55.741383+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 30000017
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Applications-Forms-5-Schemes.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "656ebc03f2dded0c80955c65",
+      "en": {
+        "documentsRequired_md": "\n- Certificate of Vessel Registration, with OBM (Out Board Motors) incorporated on it, issued by the Directorate of Fisheries, Government of Goa, under the Merchant Shipping Act 1958.\n- Fishing Vessel License Certificate, issued under the Goa, Daman &amp; Diu Marine Fishing Regulation Rules 1982.\n- Fishing Net License Certificate, issued under the Goa Fisheries Rule 1981.\n- Caste Certificate, if applicable.\n- Aadhaar Card.\n- ECS Mandate Form.\n- Self Declaration.\n- Original bill (may be submitted by the owner of the petrol pump).\n- Petrol Consumption Passbook maintained by Registered Fisheries Cooperative Societies/ Association/ Individuals.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Certificate of Vessel Registration, with OBM (Out Board Motors) incorporated on it, issued by the Directorate of Fisheries, Government of Goa, under the Merchant Shipping Act 1958."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Fishing Vessel License Certificate, issued under the Goa, Daman & Diu Marine Fishing Regulation Rules 1982."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Fishing Net License Certificate, issued under the Goa Fisheries Rule 1981."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate, if applicable."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "ECS Mandate Form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self Declaration."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original bill (may be submitted by the owner of the petrol pump)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Petrol Consumption Passbook maintained by Registered Fisheries Cooperative Societies/ Association/ Individuals."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "656ebbee53ed274f6a915e01"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "656ebbee53ed274f6a915e01",
+  "scheme_name": "Financial Assistance for Purchase of Fuel (Petrol) to the Fishermen for Operation of Out Board Motors",
+  "scheme_open_date": null,
+  "scheme_short_title": "FAPFPFOOBM",
+  "slug": "fapfpfoobm",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fishermen",
+    "Fish",
+    "Subsidy",
+    "Financial Assistance",
+    "Petrol"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

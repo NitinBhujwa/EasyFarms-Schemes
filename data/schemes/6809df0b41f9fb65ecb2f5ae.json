@@ -1,0 +1,305 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Click on \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 6: "
+                },
+                {
+                  "text": "Once the application is done, confirm it."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 7:"
+                },
+                {
+                  "text": " Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "GGVB’s nodal officer"
+                    }
+                  ],
+                  "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                  "type": "link"
+                },
+                {
+                  "text": " of the concerned district with the necessary documents listed in the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 8:"
+                },
+                {
+                  "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:"
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Click here."
+                    }
+                  ],
+                  "link": "https://gauseva.gujarat.gov.in/Home/Address",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the online application and submit it to the board within 30 days of application with the signature and stamp of the [GGVB’s nodal officer](https://gauseva.gujarat.gov.in/Home/Address) of the concerned district with the necessary documents listed in the application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here.](https://gauseva.gujarat.gov.in/Home/Address)\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Financial assistance of up to 75% of the total cost or ₹4,00,000/-, whichever is lower, for each of the following:\n\n\n\n   1. Cattle Shed.\n   1. Compound Wall.\n   1. Grass Godown.\n   1. Water Bore (Electric Motor / Submersible Pump).\n   1. Overhead or Underground Water Tank.\n\n\n> **Note:** The benefit of this scheme will be available to an organization for a period of five years for different purpose-components.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "77fface58bd6c09a061c9af56ae1b2f58bc327d1416c363a67f8aad7bc2a875d",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Scheme to Assist for Infrastructural Facilities for Gaushalas &amp;amp; Panjrapole” launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat, aims to provide financial aid to registered gaushalas and panjrapoles for building essential infrastructure like cattle sheds, water facilities, and storage areas, ensuring better care for non-productive livestock.\n",
+  "eligibility": "\n   1. Any panjarapol and gaushala of the state registered under Public Charity Act.\n   1. At least 3 (three) acres of land on which the organization has to construct the development work, must be in the name of the organization or on lease of 99 years. There is no limit on the maximum land.\n   1. A gaushala must have more than 50 cows of local origin While Panjarapol must have more than 100 livestock.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:31.545841+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:31.545841+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=picXjrkWac6JiCP+hnZI2Q==&domain=A36Rf7FTT/556gX2TyXKFw=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6809df5341f9fb65ecb2f65c",
+      "en": {
+        "documentsRequired_md": "\n1. Copy of 7/12, 8-A, and 6-rights land records (own/lease land).\n1. Lease agreement (minimum 99 years, if applicable).\n1. Estimate and plan/map of the proposed construction work (as per taluka S.O.R.).\n1. Registration certificate under the Public Charity Act.\n1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of 7/12, 8-A, and 6-rights land records (own/lease land)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lease agreement (minimum 99 years, if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Estimate and plan/map of the proposed construction work (as per taluka S.O.R.)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Registration certificate under the Public Charity Act."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6809df0b41f9fb65ecb2f5ae"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6809df0b41f9fb65ecb2f5ae",
+  "scheme_name": "Scheme to Assist for Infrastructural Facilities for Gaushalas & Panjrapole",
+  "scheme_open_date": null,
+  "scheme_short_title": "SAIFGP",
+  "slug": "saifgp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Animal Husbandry",
+    "Animal Welfare",
+    "Infrastructural Facilities"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

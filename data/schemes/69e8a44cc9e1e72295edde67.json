@@ -1,0 +1,221 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The applicant must form or join a Self Help Group or Van Dhan Self Help Group."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "The group must be organized under a Van Dhan Vikas Kendra."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "The proposal must be submitted through State Implementing Agencies or TRIFED."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " The concerned authority reviews and approves the proposal."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Upon approval, financial and technical support is provided."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant must form or join a Self Help Group or Van Dhan Self Help Group.\n**Step 2:** The group must be organized under a Van Dhan Vikas Kendra.\n**Step 3:** The proposal must be submitted through State Implementing Agencies or TRIFED.\n**Step 4:** The concerned authority reviews and approves the proposal.\n**Step 5:** Upon approval, financial and technical support is provided.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n  - **Livelihood Support:** Provides support for income generation through value addition and processing of Minor Forest Produce.  - **Formation of SHGs and VDVKs:** Supports creation of Van Dhan Self Help Groups (up to 20 members) and Van Dhan Vikas Kendras (around 300 members).  - **Infrastructure Support:** Provides assistance for setting up processing units, storage facilities, and haat bazaars.  - **Market Linkages:** Facilitates marketing of tribal products through TRIFED and other platforms.  - **Capacity Building:** Offers training and skill development for tribal beneficiaries.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Transport & Infrastructure",
+      "value": "628ce924d6d1a3bde4685354"
+    }
+  ],
+  "content_hash": "1952f5f3a5c0777493e5c256fd02ce3bc1c3bbb2f220009077dde4e6475b23a0",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Pradhan Mantri Janjatiya Vikas Mission (PMJVM)&amp;quot; by the Ministry of Tribal Affairs, Government of India, aims to enhance the livelihood of tribal communities through providing support for value addition, processing, and marketing of Minor Forest Produce and tribal products to the tribal beneficiaries. It integrates earlier initiatives related to MSP for MFP and tribal product marketing. The scheme promotes the formation of Self Help Groups and Van Dhan Vikas Kendras for aggregation and enterprise development. It supports infrastructure, capacity building, and market linkages. The implementation is carried out through agencies like TRIFED and State Implementing Agencies.\n<br>\n\n",
+  "eligibility": "\n  - **MSP Support:** Fixation and procurement of non-nationalised, non-timber Minor Forest Produce (MFPs) to ensure a fair price to tribal gatherers.  - **Infrastructure Development:** Creation and development of Haat Bazars, storage godowns, and other facilities, including special projects for tribal trade and storage.  - **Value Addition:** Support for processing and value addition to various MFPs, non-MFPs, and other tribal produce/products to enhance income.  - **Enterprise Creation:** Establishment of Van Dhan Vikas Kendras (VDVKs) and Van Dhan Producer Enterprises (VDPEs) for organised tribal business activities.  - **Marketing Support:** Facilitation of sale and purchase of products made by VDVKs/VDPEs and other tribal products such as handloom and handicrafts.  - **Branding &amp;amp; Promotion:** Advertisement, branding, and promotion of tribal products through participation in festivals, exhibitions, tribal artisan melas, and Mahotsavas.  - **Skill &amp;amp; Entrepreneurship Development:** Training and capacity building for tribal beneficiaries to develop skills and entrepreneurial capabilities.  - **Geo-Tagging of Assets:** Geo-tagging of VDVKs, VDPEs, and other assets created under the scheme for better monitoring and tracking.  - **Geographical Indication Support:** Promotion and support for Geographical Indication (GI) tagging of tribal produce/products.  - **IT &amp;amp; E-Commerce Development:** Building and upgradation of IT infrastructure, e-commerce platforms, and digitisation of operations.  - **Beneficiary Survey:** Conducting surveys for the identification, assessment, and monitoring of beneficiaries.  - **Research &amp;amp; Development:** Support for research and development activities to improve tribal products and processes.\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:47.530137+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:47.530137+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tribal.gov.in/downloads/Livelihood/Guidelines/PMJVMGuidelines.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "69e8a469c9e1e72295eddec0",
+      "en": {
+        "documentsRequired_md": "\n1. Self-Help Group Registration Documents\n1. Project Proposal (for group-based activities)\n1. Authorization Documents of Group/Enterprise (if applicable)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Self-Help Group Registration Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal (for group-based activities)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Authorization Documents of Group/Enterprise (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69e8a44cc9e1e72295edde67"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "69e8a44cc9e1e72295edde67",
+  "scheme_name": "Pradhan Mantri Janjatiya Vikas Mission (PMJVM)",
+  "scheme_open_date": null,
+  "scheme_short_title": "PMJVM",
+  "slug": "pmjvm",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Rural services",
+      "value": "Rural services"
+    },
+    {
+      "label": "Infrastructure",
+      "value": "Infrastructure"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Tribal Development",
+    "Minor Forest Produce",
+    "Van Dhan Vikas Kendra",
+    "Self Help Group",
+    "Tribal Livelihood",
+    "Marketing Support"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Village",
+      "value": "village"
+    }
+  ]
+}

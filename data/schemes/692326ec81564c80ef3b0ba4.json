@@ -1,0 +1,233 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To avail the benefits of the scheme, the applicant must submit an application to the office of the Assistant Director of Fisheries/District Fisheries In-charge at the district level. The application should be submitted along with the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, and mobile number."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "italic": true,
+                      "text": "In the future, the application process will be made available online through the "
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "italic": true,
+                          "text": "Apuni Sarkar Portal"
+                        }
+                      ],
+                      "link": "https://eservices.uk.gov.in/",
+                      "type": "link"
+                    },
+                    {
+                      "bold": true,
+                      "italic": true,
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After the application is submitted, a survey is conducted by the Fisheries Inspector/field personnel, and a proposal is prepared in consultation with the beneficiary. Once the proposal is finalized, the concerned district officer approves the work. Field personnel then supervise the implementation and provide technical assistance to ensure timely completion. Subsequently, the subsidy is transferred directly to the beneficiary’s bank account through DBT."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - To avail the benefits of the scheme, the applicant must submit an application to the office of the Assistant Director of Fisheries/District Fisheries In-charge at the district level. The application should be submitted along with the following documents: Aadhaar card, land records, permanent residence certificate, caste certificate, bank account details, and mobile number.\n  - ***In the future, the application process will be made available online through the*** [***Apuni Sarkar Portal***](https://eservices.uk.gov.in/)***.***  - After the application is submitted, a survey is conducted by the Fisheries Inspector/field personnel, and a proposal is prepared in consultation with the beneficiary. Once the proposal is finalized, the concerned district officer approves the work. Field personnel then supervise the implementation and provide technical assistance to ensure timely completion. Subsequently, the subsidy is transferred directly to the beneficiary’s bank account through DBT.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "A 60% subsidy is provided to SC/ST and Women beneficiaries for pond construction, trout units, rearing units, RAS, biofloc units, cage culture, cold storage, motorcycles with ice boxes, fish kiosks, ornamental fisheries, feed mills, hatcheries, and similar activities. A 40% subsidy is provided for all other categories, and a 20% subsidy is provided specifically for large RAS units.\n**Table-1:**\n**Activity/Item****Unit Cost per Hectare****Grant (General Category)****Grant (Women/SC/ST)****Maximum Limit/Grant Limit**Construction and investment of new ponds₹11 lakh (per hectare)₹4,40,000/-₹6,60,000/-Maximum 2 hectares individual &amp;amp;amp;amp; 20 hectares society/group etc. Trout Raceways and Investment (Nos.) 50 sq.m. per unit₹5,50,000/-₹2,20,000/-₹3,30,000/-Maximum 4 units individual &amp;amp;amp;amp; 20 units society/group etc.Large RAS (8 tanks)/Large Biofloc Unit (50 tanks)₹50,00,000/-₹10,00,000/-₹12,50,000/-Maximum 1 UnitMedium RAS (6 tanks)/Medium Biofloc Unit (25 tanks)₹25,00,000/-₹10,00,000/-₹15,00,000/-Maximum 1 UnitSmall RAS (1 tank) / Small Biofloc Unit (7 tanks)₹7,50,000/-₹3,00,000/-₹4,50,000/-Maximum 1 UnitEstablishment of Trout Fish Hatcheries ₹50,00,000/-₹20,00,000/-₹30,00,000/-Maximum 1 UnitCold Water RAS Unit₹20,00,000/-₹8,00,000/-₹12,00,000/-Maximum 1 UnitFish Kiosk₹10,00,000/-₹4,00,000/-₹6,00,000/-Maximum 1 Unit**Table-2:**\n**Activity/Item****Unit Cost****Grant (General Category)****Grant (Women/SC/ST)****Maximum Limit/Grant Limit**Motor cycle with Ice Box₹75,000/-₹30,000/-₹45,000/-Maximum 1 UnitThree wheeler with Ice Box₹3,00,000/-₹1,20,000/-₹1,80,000/-Maximum 1 UnitRefrigerated/Insulated Vehicles₹25,00,000/-₹10,00,000/-₹15,00,000/-Maximum 1 UnitCold Storage Capacity 10 Tons₹40,00,000/-₹16,00,000/-₹24,00,000/-Maximum 1 UnitEstablishment of Cage₹3,000/- per cubic meter₹1,200/-₹1,800/-Maximum 1800 cubic meters for individual &amp;amp;amp;amp; 7200 cubic meters for society/group etc. Backyard Ornamental Unit₹3,00,000/-₹1,20,000/-₹1,80,000/-Maximum 4 units for individual and 20 units for society/group etc.Feed Mill Capacity 2 Tons Per Day Production₹30,00,000/-₹12,00,000/-₹18,00,000/-  Maximum 1 Unit\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "833a87af759a2c8f1097df81db4ac9c6b5714f8e8e60de2c42b92270a04789b6",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Pradhan Mantri Matsya Sampada Yojana” is a centrally sponsored scheme implemented by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote the growth of the fisheries sector by providing financial assistance and technical support for modern fisheries activities, thereby increasing fish production, improving livelihood opportunities, and encouraging the adoption of advanced fisheries infrastructure among eligible beneficiaries.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant may belong to any caste category, including General, Scheduled Caste (SC), Scheduled Tribe (ST), Other Backward Class (OBC), or be a woman.\n1. The applicant must have availability of land and a water supply source.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:00:56.307660+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:56.307660+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Fisheries",
+    "value": 50000011
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 248)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6923f219b124ff084121568c",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar card\n1. Land records\n1. Permanent residence certificate\n1. Caste certificate\n1. Bank account details\n1. Mobile number\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land records"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Permanent residence certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "692326ec81564c80ef3b0ba4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "692326ec81564c80ef3b0ba4",
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana - Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "PMMSYUK",
+  "slug": "pmmsyuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fisheries",
+    "Subsidy",
+    "Fish Farming",
+    "Fish Farmer",
+    "Fishermen"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

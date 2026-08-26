@@ -1,0 +1,194 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Market committees need to prepare development plans and cost estimates with an engineer on the panel approved by the Director-Agricultural Markets and Rural Finance."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Submit the proposal to the Deputy Director and District Registrar of Co-operative Societies of the respective district."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Office Address and Contact Details of District Registrar: "
+            },
+            {
+              "children": [
+                {
+                  "text": "Click here"
+                }
+              ],
+              "link": "https://rcs.gujarat.gov.in/Home/DistrictRegistrar",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": "."
+            }
+          ],
+          "type": "block_quote"
+        }
+      ],
+      "process_md": "**Step 1:** Market committees need to prepare development plans and cost estimates with an engineer on the panel approved by the Director-Agricultural Markets and Rural Finance.\n**Step 2:** Submit the proposal to the Deputy Director and District Registrar of Co-operative Societies of the respective district.\n> **Office Address and Contact Details of District Registrar:** [Click here](https://rcs.gujarat.gov.in/Home/DistrictRegistrar)**.**\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Name of the Component****Standard of Assistance**For Retail Outlet /Krishi MallAny one market committee of the &amp;amp;amp;quot;C&amp;amp;amp;quot; and &amp;amp;amp;quot;D&amp;amp;amp;quot; category of the state will be eligible for assistance to the extent of 90% of the total project cost and a maximum of ₹2,00,00,000/-\t<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "6d011e1f0ccb63e3a3d18cc09a16d55b4c9cb2adaae4b6de553a100a535d44cd",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Scheme to Provide Assistance for Construction of Retail Outlets/ Agricultural Malls in State Market Committees&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to market committees in Gujarat’s &amp;quot;C&amp;quot; and &amp;quot;D&amp;quot; category areas to set up retail outlets/agricultural malls. These establishments help farmers sell their produce directly, eliminating middlemen and ensuring fair prices.\n",
+  "eligibility": "\n- Market Committees of all Areas of “C” and “D” Class of Gujarat State shall be eligible for this scheme.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:41.066711+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:41.066711+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=3zUPePaUEc3IqbkZY0tCRg==&domain=Uxijm857oHjeSHuzZgXyAA=="
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://agri.gujarat.gov.in/ViewFile?fileName=aPNBWj81zn2Uij94k1vnHASH__HASHQVwFnxM0iwP0xrtm2ICpflmFleWlMnLavRWTu4DFLxKlEdHWPzwwtBChuDOlfGAMv0WYAJ2VkUWz1qXHhEK9CASaGpK7tpR8BxW6MW9UNMYmjpR92xHASH_HASHxou1Uxt23d9Nlw=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67cacb3e1dc65aa2df41b260",
+      "en": {
+        "documentsRequired_md": "\n1. Development work maps and cost estimates\n1. Engineer’s certification from the approved panel\n1. Proposal submission letter\n1. Any other documents required by the authorities\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Development work maps and cost estimates"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Engineer’s certification from the approved panel"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proposal submission letter"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents required by the authorities"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67ca9c084f0bd5e698d2d095"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67ca9c084f0bd5e698d2d095",
+  "scheme_name": "Scheme to Provide Assistance for Construction of Retail Outlets/ Agricultural Malls in State Market Committees",
+  "scheme_open_date": null,
+  "scheme_short_title": "SPACROAM",
+  "slug": "spacroam",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Retail Outlets",
+    "Agricultural Malls",
+    "Assistance For Construction"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

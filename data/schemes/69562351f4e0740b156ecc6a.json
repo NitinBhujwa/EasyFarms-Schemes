@@ -1,0 +1,193 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The applicant must approach the Department of Animal Husbandry & Veterinary Services,"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "U.T. Administration of Daman & Diu and Dadra & Nagar Haveli, for availing benefits under the Integrated Dairy Development Project (For 2 Cows)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The applicant must approach the Department of Animal Husbandry &amp; Veterinary Services,\nU.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli, for availing benefits under the Integrated Dairy Development Project (For 2 Cows).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n<br>\n\n**Sr. No.****Activity****Cost (₹)****UT Subsidy Admin (₹)****Under DEDS – Subsidy Beneficiary Gets**1Cost of 2 milch cows of the Indigenous “Gir” breed, including transportation cost (@ ₹60,000/- per animal)₹1,20,000/-₹30,000/- (@25% of purchase cost subject to a maximum of ₹30,000/-)Beneficiary will get back-ended subsidy from NABARD @ 25% for General and 33.33% for SC/ST, i.e. ₹30,000/- (@25% for General) or ₹39,996/- (@33.33% for SC/ST)2Cost towards cattle shed, water tank with automatic drinking system (already existing)₹8,000/-₹4,000/- (50% of construction cost)-344 bags of cattle feed (each of 50 kg) (44 bags × 2) (@ ₹600/- per bag)₹52,800/-₹26,400/- (50% of purchase cost)-444 kg of mineral mixture (each of 1 kg) (44 kg × 2) (@ ₹80/- per bag)₹7,040/-₹3,520/- (50% of purchase cost)-5Cost of insurance for 3 years (approx. @ ₹5,400/- per animal)₹10,800/-₹5,400 (50% for General) or ₹8,100 (75% for SC/ST)-**Total****₹1,98,640/-****₹69,320/- (General) or ₹72,020/- (SC/ST)****₹99,320/- (General) or ₹1,12,016/- (SC/ST)**<br>\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "237ce1f329dfdd7672539a7f2198fd935e0bc285c0fc178d7a99445b0ab61256",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Integrated Dairy Development Project (For 2 Cows)” scheme has been launched by the Department of Animal Husbandry &amp; Veterinary Services, U.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli. The scheme aims to promote dairy development through the introduction of Gir breed milch cows and the provision of necessary dairy inputs. Through this scheme, financial assistance and subsidies are provided to beneficiaries for the purchase of cows, cattle shed infrastructure, feed, mineral mixture, and insurance coverage.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of the Union Territory of Daman and Diu and Dadra and Nagar Haveli.\n1. The applicant should purchase only the Indigenous Gir breed milch cows.\n1. The applicant should utilise the grant only for the purpose for which it is sanctioned and within the stipulated period.\n1. The applicant should maintain all required records and registers as per the General Financial Rules, 1963.\n1. The applicant should submit utilisation certificates, audited accounts, and achievement reports as prescribed by the Department of Animal Husbandry &amp; Veterinary Services.\n\n> **Preference / Reservation:**\n\n\n- A higher subsidy rate is applicable for Scheduled Caste and Scheduled Tribe applicants.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:30.008417+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:30.008417+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 38000074
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.daman.nic.in/websites/veterinary_office_daman/documents/2017/374-26-10-2017.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6956238d1d8404ae809cf71b",
+      "en": {
+        "documentsRequired_md": "\n1. Application Form (as prescribed by the Department)\n1. Proof of Category (SC/ST Certificate, if applicable)\n1. Bank Loan Documents (for NABARD-linked subsidy)\n1. Insurance Policy Documents\n1. Asset Register (Form GFR-19)\n1. Utilization Certificate\n1. Audited Statement of Accounts\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application Form (as prescribed by the Department)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Category (SC/ST Certificate, if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Loan Documents (for NABARD-linked subsidy)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Insurance Policy Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Asset Register (Form GFR-19)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Utilization Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audited Statement of Accounts"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69562351f4e0740b156ecc6a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "69562351f4e0740b156ecc6a",
+  "scheme_name": "Integrated Dairy Development Project (IDDP)",
+  "scheme_open_date": null,
+  "scheme_short_title": "IDDPDAMAN",
+  "slug": "iddpdaman",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Dadra & Nagar Haveli and Daman & Diu",
+    "value": 38
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Purchase Of Cows",
+    "Cattle Shed Infrastructure",
+    "Insurance Coverage",
+    "Financial Assistance",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

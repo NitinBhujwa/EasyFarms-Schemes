@@ -1,0 +1,386 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " Visit the official website:  "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://sugam.odisha.gov.in/website/home"
+                    }
+                  ],
+                  "link": "https://sugam.odisha.gov.in/website/home",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Click on “Apply” and then click on “Register Now”."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on \"Register\". The login credentials will be sent to your registered Email ID / Mobile Number."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " Visit the official website: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://sugam.odisha.gov.in/website/home"
+                    }
+                  ],
+                  "link": "https://sugam.odisha.gov.in/website/home",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Click on “Scheme & Services” and then select the scheme by its name."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Click “Apply” and login. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://sugam.odisha.gov.in/website/citizen-portal/login"
+                    }
+                  ],
+                  "link": "https://sugam.odisha.gov.in/website/citizen-portal/login",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04"
+                },
+                {
+                  "text": " On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, you will get an Application Reference ID."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Check Application Status:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " You can enter the Application ID on the ‘Track Status’ page to check the status of your application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " SMS alerts will also be sent to you at each step of the application after submission."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration Process:**\n**Step 01:** Visit the official website:  [https://sugam.odisha.gov.in/website/home](https://sugam.odisha.gov.in/website/home)\n**Step 02:** Click on “Apply” and then click on “Register Now”.\n**Step 03:** On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on &amp;quot;Register&amp;quot;. The login credentials will be sent to your registered Email ID / Mobile Number.\n**Application Process:**\n**Step 01:** Visit the official website: [https://sugam.odisha.gov.in/website/home](https://sugam.odisha.gov.in/website/home)\n**Step 02:** Click on “Scheme &amp;amp; Services” and then select the scheme by its name.\n**Step 03:** Click “Apply” and login. [https://sugam.odisha.gov.in/website/citizen-portal/login](https://sugam.odisha.gov.in/website/citizen-portal/login)\n**Step 04** On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, you will get an Application Reference ID.\n**Check Application Status:**\n**Step 01:** You can enter the Application ID on the ‘Track Status’ page to check the status of your application.\n**Step 02:** SMS alerts will also be sent to you at each step of the application after submission.\n<br>\n\n",
+      "url": "https://sugam.odisha.gov.in/website/citizen-portal/login"
+    },
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The applicant has to approach their concerned the respective Block Veterinary Officer (BVO). Collect the application form."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02: "
+                },
+                {
+                  "text": "Fill in all the mandatory fields of the application form and attach all the (self-attested) mandatory documents and submit it to the designated receiving authority/Block Veterinary Officer (BVO)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03: "
+                },
+                {
+                  "text": "The BVO shall compile the Block wise applications and thereafter undertake a joint verification of the proposed duckery unit."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 01:** The applicant has to approach their concerned the respective Block Veterinary Officer (BVO). Collect the application form.\n**Step 02:** Fill in all the mandatory fields of the application form and attach all the (self-attested) mandatory documents and submit it to the designated receiving authority/Block Veterinary Officer (BVO).\n**Step 03:** The BVO shall compile the Block wise applications and thereafter undertake a joint verification of the proposed duckery unit.\n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n- The individual beneficiary will be provided a maximum of 40% subsidy.\n- Training will be organized at the Block Head Quarter level or any other convenient place after the final approval of the list.\n- Each beneficiary will be trained on recommended management practices on feeding and watering, brooding and rearing young ducks, record keeping, etc.\n- The concerned Livestock Inspectors, Gomitras and PraniMitras will guide the beneficiaries in field for managing the duck units.\n- Routine vaccination of birds on a priority basis.\n- The Block Veterinary Officer (BVO) will provide all technical guidance to the farmer for maintaining proper veterinary health care and immunization of the ducks.\n- The beneficiary shall directly procure quality ducklings from reputed sources which will be facilitated by the respective BVOs.\n\n**Note:** The subsidy will be released in two phases through DBT mode to the individual beneficiary. The 1st installment of 40% of the eligible subsidy will be released after the construction of the duck shed and 2nd installment of the eligible subsidy shall be released after the stocking of ducklings.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "e301f37426ee5dc614a07566f0cba10800d3ada40b23b99b32cd022734cba365",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Semi-Commercial Duck Farming” started under the State Sector Scheme &amp;quot;Encouragement of Commercial Poultry Entrepreneur and Promotion of Backyard Poultry Production&amp;quot; to support small entrepreneurs in setting up Duck farms with a capacity of 1000 ducks. Under this new State plan scheme, individual farmers will be supported for taking up semi-commercial duck rearing with a subsidy of 40% subsidy.\n**Aim:**\nThe scheme aims to support 100 individual farmers in setting up semi-commercial duckery units with a capacity of 1000 ducks per unit.\n**Objective:**\n\n- To strengthen the local production systems for enhancing livelihoods and for the generation of additional income among the farmers through duck rearing.\n- To support nutritional requirements through the production of animal protein.\n- To build the capacity of farmers for undertaking semi-commercial duck farming as a profitable enterprise.\n\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Odisha.\n1. Individuals, farmers, and entrepreneurs will be eligible to avail of support under the scheme.\n1. All beneficiaries covered under the Scheme should mandatorily be Aadhaar linked to avoid duplication.\n1. The beneficiaries who have availed of subsidy previously in a similar scheme should not be included.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:01:36.547320+00:00",
+  "implementing_agency": "Directorate Of Animal Husbandry & Veterinary Services, Odisha",
+  "last_synced_at": "2026-08-26T14:01:36.547320+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Animal Resources Development Department",
+    "value": 2111120
+  },
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://sugam.odisha.gov.in/website/home/scheme-list"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://sugam.odisha.gov.in/admin//storage/uploads/serviceImg/6243da016ad161648613889.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "646e04c39062e559675eeab9",
+      "en": {
+        "documentsRequired_md": "\n1. Identification Proof (Aadhaar Card)\n1. Aadhaar-linked Bank A/C No. with IFS Code for DBT (Photocopy)\n1. Residence proof\n1. Passport-size photograph\n1. Land document/lease deed photocopy\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identification Proof (Aadhaar Card)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar-linked Bank A/C No. with IFS Code for DBT (Photocopy)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land document/lease deed photocopy"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "646df5fa527a0d6debd1b4e2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "646df5fa527a0d6debd1b4e2",
+  "scheme_name": "Semi-Commercial Duck Farming",
+  "scheme_open_date": "2021-04-01",
+  "scheme_short_title": "SCDF",
+  "slug": "scdf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Odisha",
+    "value": 21
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Duck",
+    "Farming",
+    "Entrepreneurs",
+    "Subsidy",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

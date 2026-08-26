@@ -1,0 +1,246 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": "The interested applicant should visit the District Registrar's Office and request a hard copy of the prescribed format of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:**The interested applicant should visit the District Registrar&#39;s Office and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:**Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n  - **Financial Support for Market Committees:** Allocates significant funds (25% for &amp;#39;A&amp;#39; and &amp;#39;B&amp;#39; class, 50% for &amp;#39;C&amp;#39; and &amp;#39;D&amp;#39; class) to support the development and functioning of various market committees.  - **Post-Harvest Management:** Includes crucial facilities such as cleaning and grading facilities, cold storage, and ripening chambers to minimize post-harvest losses and improve produce quality.  - **Farmer Education and Empowerment:** Establishes farmers&amp;#39; training centers and organizes agricultural camps to educate farmers on modern agricultural practices, including the proper use of seeds, fertilizers, and pesticides.  - **Improved Hygiene and Waste Management:** Provides sanitation facilities and offers assistance to market committees for purchasing solid waste management equipment, promoting cleaner market environments.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c88c64d3fb685d7e7e20d10e6f1dfb1fcb24f7b17dd451239218bde12e26cb22",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Kishan Kalpvriksh Yojana (Scheme for Assistance to APMCs to Provide Basic and Modern Facilities) (General)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to strengthen the infrastructure of agricultural markets in light of the increased competition resulting from globalization, liberalization, and the entry of private players into the agricultural sector. It supports Agricultural Produce Market Committees (APMCs) in upgrading facilities such as auction platforms, parking areas, sanitation amenities, and storage systems to facilitate efficient marketing of agricultural products, thereby benefiting both producers and consumers. The scheme is implemented by the Gujarat State Agricultural Marketing Board.\n**Objectives of the Scheme:**\n\n  - To upgrade APMCs with infrastructure like auction sheds, cold storage, roads, and weigh-bridges.\n  - To support the establishment of farmer-consumer markets with adequate facilities.\n  - To raise awareness among farmers about modern agricultural practices through agricultural camps.\n  - To assist APMCs in acquiring solid waste management equipment for better sanitation and hygiene.\n  - To encourage direct selling by farmers and reduce intermediaries in the market chain.\n\n<br>\n\n",
+  "eligibility": "\n  - The applicant should be an Agricultural Produce Market Committee (APMC) operating in the state of Gujarat.\n  - The applicant APMC should belong to either Class &amp;#39;A&amp;#39;, &amp;#39;B&amp;#39;, &amp;#39;C&amp;#39;, or &amp;#39;D&amp;#39; as categorized by the government.\n  - The applicant APMC must be engaged in facilitating agricultural produce marketing and must require infrastructure support for modernization.\n  - The applicant must submit a proposal for the development of specific facilities as per the scheme&amp;#39;s focus areas.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:50.040754+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:50.040754+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 294)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6881ce9069de8e4acc4882b5",
+      "en": {
+        "documentsRequired_md": "\n   1. Project Proposal Detailing Infrastructure Requirements.\n   1. Registration Certificate of APMC.\n   1. Previous Audit Reports of APMC (if required).\n   1. Utilization Certificate for Previously Received Grants (if applicable).\n   1. No Objection Certificate from the Local Authority (if construction-related work is proposed).\n   1. Bank Account Details of APMC.\n   1. Resolution Copy of the APMC Board Approving the Proposal.\n   1.  Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Project Proposal Detailing Infrastructure Requirements."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Registration Certificate of APMC."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Previous Audit Reports of APMC (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Utilization Certificate for Previously Received Grants (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "No Objection Certificate from the Local Authority (if construction-related work is proposed)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Account Details of APMC."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Resolution Copy of the APMC Board Approving the Proposal."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": " Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6881ce0e79cc2cdbb7923e79"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6881ce0e79cc2cdbb7923e79",
+  "scheme_name": "Kishan Kalpvriksh Yojana (Scheme for Assistance to APMCs to Provide Basic and Modern Facilities) (General)",
+  "scheme_open_date": null,
+  "scheme_short_title": "KKYAABMG",
+  "slug": "kkyaabmg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Rural services",
+      "value": "Rural services"
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agricultural Market",
+    "APMC",
+    "Infrastructure Development",
+    "Farmer Welfare",
+    "Cold Storage"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

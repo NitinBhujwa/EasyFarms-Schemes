@@ -1,0 +1,314 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68edd8b5ed2c57f57c3d632c",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " The interested applicant should visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Zonal Agriculture Officer"
+                      }
+                    ],
+                    "link": "https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0",
+                    "type": "link"
+                  },
+                  {
+                    "text": " and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit the [Zonal Agriculture Officer](https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 30000002
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Development of Manures & Fertilizers:  Assistance for construction/Installation of Organic Manure Units",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DMF-ACIOMU",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Soil health",
+              "value": "Soil health"
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "state": {
+            "label": "Goa",
+            "value": 30
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Crop",
+            "Soil",
+            "Plant"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n- Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.\n- Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Construction/Installation of organic manure units would be provided 75% subsidy limited to Rs. 1950/- per cu.mt. for Organic manure unit for all categories of farmer. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The standard cost for Organic manure unit would be Rs. 2600/- per cu. mt which includes 90% cost on construction/installation including mason cost and 10% on culture, decomposing material, etc."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The unit can have one or more pits with or without internal chambers and preferably be above ground level, of bricks, laterite stones, cement blocks, shahabadi/kadappa or RCC cement rings with clean internal side walls and should have adequate protection from sun and rain."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The portable organic manure unit of HDPE material and laid on prepared surface free from sharp objects and should be protected from rodents, maximum of 3 units would also be considered for subsidy @90% subsidy on the standard cost fixed and maximum amount of Rs. 7,500/- per farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- Construction/Installation of organic manure units would be provided 75% subsidy limited to Rs. 1950/- per cu.mt. for Organic manure unit for all categories of farmer. \n- The standard cost for Organic manure unit would be Rs. 2600/- per cu. mt which includes 90% cost on construction/installation including mason cost and 10% on culture, decomposing material, etc.\n- The unit can have one or more pits with or without internal chambers and preferably be above ground level, of bricks, laterite stones, cement blocks, shahabadi/kadappa or RCC cement rings with clean internal side walls and should have adequate protection from sun and rain.\n- The portable organic manure unit of HDPE material and laid on prepared surface free from sharp objects and should be protected from rodents, maximum of 3 units would also be considered for subsidy @90% subsidy on the standard cost fixed and maximum amount of Rs. 7,500/- per farmer.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to aid in the conversion of available on-farm organic waste into chemical-free organic manure, providing quality organic farming inputs for sustainable agriculture. The applications for this scheme are accepted offline via the Zonal Agriculture Officer.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme “Development of Manures & Fertilizers\" was launched by the Department of Agriculture, Government of Goa. The \"Assistance for Construction/Installation of Organic Manure Units\" component of the scheme aims to aid in the conversion of available on-farm organic waste into chemical-free organic manure, providing quality organic farming inputs for sustainable agriculture. The payment of the sanctioned subsidy is through the Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Development of Manures &amp; Fertilizers&quot; was launched by the Department of Agriculture, Government of Goa. The &quot;Assistance for Construction/Installation of Organic Manure Units&quot; component of the scheme aims to aid in the conversion of available on-farm organic waste into chemical-free organic manure, providing quality organic farming inputs for sustainable agriculture. The payment of the sanctioned subsidy is through the Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://goaprintingpress.gov.in/downloads/2526/2526-22-SI-OG.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dmf-aciomu"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68eddcd6ed2c57f57c3d7a4b",
+      "en": {
+        "documentsRequired_md": "\n- Krishi Card Abstract\n- Soil Health Card\n- Cash Invoice\n\n_*The farmer should apply to the Agriculture Officer with the design and estimates and, in portable units, with an estimate of approved models prior to construction/installation._\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Krishi Card Abstract"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Soil Health Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cash Invoice"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "*The farmer should apply to the Agriculture Officer with the design and estimates and, in portable units, with an estimate of approved models prior to construction/installation."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68edd8b5ed2c57f57c3d632c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:44.245300+00:00",
+  "scheme_id": "68edd8b5ed2c57f57c3d632c"
+}

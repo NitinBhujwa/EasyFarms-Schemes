@@ -1,0 +1,735 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6957b0218dc93152805c8cc7",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "The applicant must approach the Department of Animal Husbandry & Veterinary Services,"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "U.T. Administration of Daman & Diu and Dadra & Nagar Haveli, for availing benefits under the Establishment of Small Scale Dairy Unit (SSDU) (for 10 cows)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The applicant must approach the Department of Animal Husbandry &amp; Veterinary Services,\nU.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli, for availing benefits under the Establishment of Small Scale Dairy Unit (SSDU) (for 10 cows).\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry & Veterinary Department",
+            "value": 38000064
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Establishment Of Small Scale Dairy Unit (SSDU)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SSDU",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Dadra & Nagar Haveli and Daman & Diu",
+            "value": 38
+          },
+          "tags": [
+            "Dairy Development",
+            "Milch Cow",
+            "Insurance Coverage",
+            "Cattle Shed",
+            "Equipment",
+            "Procurement Of Feed"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of the Union Territory of Daman and Diu and Dadra and Nagar Haveli."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should establish a small-scale dairy unit with 10 milch cows."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should procure indigenous Gir breed cows only."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should avail a bank loan for implementation of the project."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should utilise the subsidy strictly for approved components."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should maintain records as per the General Financial Rules, 1963."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Preference / Reservation / Relaxation: "
+                },
+                {
+                  "text": "The applicant belonging to the Scheduled Caste or the Scheduled Tribe category is eligible for a higher subsidy rate under the back-ended subsidy and insurance components."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of the Union Territory of Daman and Diu and Dadra and Nagar Haveli.\n1. The applicant should establish a small-scale dairy unit with 10 milch cows.\n1. The applicant should procure indigenous Gir breed cows only.\n1. The applicant should avail a bank loan for implementation of the project.\n1. The applicant should utilise the subsidy strictly for approved components.\n1. The applicant should maintain records as per the General Financial Rules, 1963.\n\n> **Preference / Reservation / Relaxation:** The applicant belonging to the Scheduled Caste or the Scheduled Tribe category is eligible for a higher subsidy rate under the back-ended subsidy and insurance components.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Assistance for 10 Cows:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sr. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Activity"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Cost (₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "U.T. Administration Subsidy"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Under DEDS – Beneficiary Gets Subsidy"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cost of 10 milch cows, including transportation cost (@ ₹60,000 per cow)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹6,00,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹1,50,000/- (25% of purchase cost)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Back-ended subsidy from NABARD: ₹1,50,000/- (25% for General) or ₹1,99,980/- (33.33% for SC/ST)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cost towards cattle shed, water tank, store room, automatic drinking system, etc."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,60,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹1,25,000/- (50% of construction cost)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "44 bags of cattle feed (each of 50 kg) (44 bags × 10 @ ₹600/- per bag)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,64,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹1,32,000/- (50% of purchase cost)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "4"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "44 kg of mineral mixture (each of 1 kg) (44 kg × 2 @ ₹80/- per bag)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹35,200/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹17,600/- (50% of purchase cost)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "5"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Purchase of a milking machine (once in a lifetime)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹65,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹33,700/- (75% of purchase cost)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "6"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Purchase of an electric-driven chaff cutter (once in a lifetime)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹38,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/- (75% of purchase cost)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "7"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Cost of insurance for 3 years (approx. @ ₹5,400/- per animal)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹54,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹27,000/- (50% for General) or ₹40,500 (75% for SC/ST)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Assistance for 10 Cows:**\n<br>\n\n**Sr. No.****Activity****Cost (₹)****U.T. Administration Subsidy****Under DEDS – Beneficiary Gets Subsidy**1Cost of 10 milch cows, including transportation cost (@ ₹60,000 per cow)₹6,00,000/-₹1,50,000/- (25% of purchase cost)Back-ended subsidy from NABARD: ₹1,50,000/- (25% for General) or ₹1,99,980/- (33.33% for SC/ST)2Cost towards cattle shed, water tank, store room, automatic drinking system, etc.₹2,60,000/-₹1,25,000/- (50% of construction cost)344 bags of cattle feed (each of 50 kg) (44 bags × 10 @ ₹600/- per bag)₹2,64,000/-₹1,32,000/- (50% of purchase cost)444 kg of mineral mixture (each of 1 kg) (44 kg × 2 @ ₹80/- per bag)₹35,200/-₹17,600/- (50% of purchase cost)5Purchase of a milking machine (once in a lifetime)₹65,000/-₹33,700/- (75% of purchase cost)6Purchase of an electric-driven chaff cutter (once in a lifetime)₹38,000/-₹15,000/- (75% of purchase cost)7Cost of insurance for 3 years (approx. @ ₹5,400/- per animal)₹54,000/-₹27,000/- (50% for General) or ₹40,500 (75% for SC/ST)<br>\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to support the establishment of dairy units with 10 Gir cows. Through this scheme, capital subsidy and back-ended subsidy are provided to beneficiaries via bank finance and NABARD.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Small Scale Dairy Unit (SSDU)\" has been launched by the Department of Animal Husbandry & Veterinary Services, U.T. Administration of Daman & Diu and Dadra & Nagar Haveli. It aims to promote dairy development by supporting the establishment of a small-scale dairy unit with indigenous Gir cows. Through this scheme, financial assistance in the form of capital subsidy and back-ended subsidy is provided to beneficiaries for the purchase of milch cows, construction of cattle sheds, and procurement of feed, equipment, and insurance coverage."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Small Scale Dairy Unit (SSDU)&quot; has been launched by the Department of Animal Husbandry &amp; Veterinary Services, U.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli. It aims to promote dairy development by supporting the establishment of a small-scale dairy unit with indigenous Gir cows. Through this scheme, financial assistance in the form of capital subsidy and back-ended subsidy is provided to beneficiaries for the purchase of milch cows, construction of cattle sheds, and procurement of feed, equipment, and insurance coverage.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.daman.nic.in/websites/veterinary_office_daman/documents/2017/374-26-10-2017.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ssdu"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6957b0468dc93152805c8d83",
+      "en": {
+        "documentsRequired_md": "\n1. Application Form\n1. Bank Loan Sanction Letter\n1. Purchase Invoice of Milch Cows\n1. Breed Certificate (Gir Cow)\n1. Construction Cost Estimate for Cattle Shed\n1. Bills for Feed, Equipment, and Machinery\n1. Insurance Policy Documents\n1. Utilization Certificate\n1. Audited Statement of Accounts\n1. Asset Register as per General Financial Rules, 1963\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application Form"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Loan Sanction Letter"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Purchase Invoice of Milch Cows"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Breed Certificate (Gir Cow)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Construction Cost Estimate for Cattle Shed"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bills for Feed, Equipment, and Machinery"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Insurance Policy Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Utilization Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audited Statement of Accounts"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Asset Register as per General Financial Rules, 1963"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6957b0218dc93152805c8cc7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:58:43.047346+00:00",
+  "scheme_id": "6957b0218dc93152805c8cc7"
+}

@@ -1,0 +1,771 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6682c4c7c833972ed2ebe70d",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Registration Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-01:"
+                      },
+                      {
+                        "text": " The applicant need to visit "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Go-Sugam Portal"
+                          }
+                        ],
+                        "link": "https://sugam.odisha.gov.in/website/home",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-02:"
+                      },
+                      {
+                        "text": " Click on “"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Register Now"
+                          }
+                        ],
+                        "link": "https://sugam.odisha.gov.in/website/citizen-portal/registration",
+                        "type": "link"
+                      },
+                      {
+                        "text": "” under the \"Apply Button\"."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-03:"
+                      },
+                      {
+                        "text": " On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on \"Register\". The login credentials will be sent to applicant's registered Email ID / Mobile Number."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step-01:"
+                          },
+                          {
+                            "text": " The applicant need to visit "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Go-Sugam Portal"
+                              }
+                            ],
+                            "link": "https://sugam.odisha.gov.in/website/home",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "align_justify"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-02:"
+                      },
+                      {
+                        "text": " Click on “Scheme & Services” and then select the scheme by its name."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-03:"
+                      },
+                      {
+                        "text": " Click “Apply” and do login."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-04:"
+                      },
+                      {
+                        "text": " On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, the applicant will get an Application Reference ID."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Check Application Status:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-01: "
+                      },
+                      {
+                        "text": "Click on the “Track Status” link on the menu."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-02: "
+                      },
+                      {
+                        "text": "Enter the Application ID or Mobile Number to get the application status."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Registration Process:**\n\n**Step-01:** The applicant need to visit [Go-Sugam Portal](https://sugam.odisha.gov.in/website/home).\n**Step-02:** Click on “[Register Now](https://sugam.odisha.gov.in/website/citizen-portal/registration)” under the &amp;quot;Apply Button&amp;quot;.\n**Step-03:** On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on &amp;quot;Register&amp;quot;. The login credentials will be sent to applicant&amp;#39;s registered Email ID / Mobile Number.\n&lt;br&gt;\n\n&gt; **Application Process:**\n\n**Step-01:** The applicant need to visit [Go-Sugam Portal](https://sugam.odisha.gov.in/website/home).\n**Step-02:** Click on “Scheme &amp;amp; Services” and then select the scheme by its name.\n**Step-03:** Click “Apply” and do login.\n**Step-04:** On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, the applicant will get an Application Reference ID.\n&lt;br&gt;\n\n&gt; **Check Application Status:**\n\n**Step-01:** Click on the “Track Status” link on the menu.\n**Step-02:** Enter the Application ID or Mobile Number to get the application status.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Fisheries and Animal Resources Development Department",
+            "value": 2111120
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Buffalo Entrepreneurship Development Scheme",
+          "schemeOpenDate": "2023-07-31",
+          "schemeShortTitle": "BEDS",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Odisha",
+            "value": 21
+          },
+          "tags": [
+            "Farmers",
+            "Milk Production",
+            "Subsidy",
+            "Opportunity"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer, entrepreneur, or member of SHG."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant belongs to General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should purchase two Graded Murrah She Buffaloes, preferably in their 1st or 2nd lactation and yielding a minimum of 8 liters of milk per day."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "If the applicant is a PwD, their disability should be more than 40%."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "An individual per family will be eligible to avail assistance only once."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a farmer, entrepreneur, or member of SHG.\n1. The applicant belongs to General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals.\n1. The applicant should purchase two Graded Murrah She Buffaloes, preferably in their 1st or 2nd lactation and yielding a minimum of 8 liters of milk per day.\n1. If the applicant is a PwD, their disability should be more than 40%.\n1. An individual per family will be eligible to avail assistance only once.\n\n<br>\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Subsidy Payment for beneficiary opted for Shed:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Phase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Time"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "SC/ST/Women/PwD/ Transgender"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "General"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1st Phase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "After completion of the shed and purchase of 1st milch graded Murrah she Buffalo & completion of its insurance 50% of the subsidy amount"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹59,100/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹49,250/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2nd Phase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "After the purchase of 2nd milch graded Murrah she Buffalo & completion of its insurance-50% of the subsidy amount"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹59,100/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹49,250/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Subsidy Payment for beneficiary not opted for Shed:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Phase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Time"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "SC/ST/Women/PwD/ Transgender "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "General"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1st Phase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Purchase of 1 milch graded Murrah she Buffalo & completion of its insurance for 3 years 50% of the subsidy amount"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹44,700/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹37,250/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2nd Phase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "After the purchase of 2nd milch graded Murrah she Buffalo & completion of its insurance for 3 years- 50% of the subsidy amount"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹44,700/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹37,250/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "NOTE: "
+                },
+                {
+                  "text": "The beneficiaries are eligible for a back-ended subsidy of 60% for SC, ST, PWD, Women & Transgender categories and 50% for the General category. The subsidy shall be released to the beneficiary's bank account through DBT mode in 2 phases. "
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Subsidy Payment for beneficiary opted for Shed:**\n**Phase****Time****SC/ST/Women/PwD/ Transgender****General**1st PhaseAfter completion of the shed and purchase of 1st milch graded Murrah she Buffalo &amp;amp;amp;amp; completion of its insurance 50% of the subsidy amount₹59,100/-₹49,250/-2nd PhaseAfter the purchase of 2nd milch graded Murrah she Buffalo &amp;amp;amp;amp; completion of its insurance-50% of the subsidy amount₹59,100/-₹49,250/-<br>\n\n**Subsidy Payment for beneficiary not opted for Shed:**\n**Phase****Time****SC/ST/Women/PwD/ Transgender** **General**1st PhasePurchase of 1 milch graded Murrah she Buffalo &amp;amp;amp;amp; completion of its insurance for 3 years 50% of the subsidy amount₹44,700/-₹37,250/-2nd PhaseAfter the purchase of 2nd milch graded Murrah she Buffalo &amp;amp;amp;amp; completion of its insurance for 3 years- 50% of the subsidy amount₹44,700/-₹37,250/-<br>\n\n**NOTE:** The beneficiaries are eligible for a back-ended subsidy of 60% for SC, ST, PWD, Women &amp; Transgender categories and 50% for the General category. The subsidy shall be released to the beneficiary&#39;s bank account through DBT mode in 2 phases. \n",
+          "briefDescription": "The \"Buffalo Entrepreneurship Development Scheme\" aims to enhance livestock productivity, especially among marginalized farmers in Odisha. This scheme seeks to address protein deficiency, boost nutritional status, & promote livelihood through dairy farming. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Buffalo Entrepreneurship Development Scheme\" was launched by the Fisheries and Animal Resources Development Department, Government of Odisha. The scheme aims to enhance livestock productivity, especially among marginalized farmers, entrepreneurs, or members of SHG who belong to General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals in Odisha. The scheme will cover all 30 districts of the State."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Implementation:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The scheme was implemented by the Directorate of Animal Husbandry & Veterinary Services, Odisha, Cuttack through the Chief District Veterinary Officers & their field functionaries."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Buffalo Entrepreneurship Development Scheme&quot; was launched by the Fisheries and Animal Resources Development Department, Government of Odisha. The scheme aims to enhance livestock productivity, especially among marginalized farmers, entrepreneurs, or members of SHG who belong to General, SC, ST categories, SHG members, PWD, Women, and Transgender individuals in Odisha. The scheme will cover all 30 districts of the State.\n<br>\n\n**Implementation:**\nThe scheme was implemented by the Directorate of Animal Husbandry &amp; Veterinary Services, Odisha, Cuttack through the Chief District Veterinary Officers &amp; their field functionaries.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://fard.odisha.gov.in/sites/default/files/2023-10/Guidelines%20for%20Buffalo%20Entrepreneurship%20Development%20for%20FY%202023-24.PDF"
+            },
+            {
+              "title": "Official Website",
+              "url": "https://sugam.odisha.gov.in/website/home"
+            },
+            {
+              "title": "Registration",
+              "url": "https://sugam.odisha.gov.in/website/citizen-portal/registration"
+            },
+            {
+              "title": "Login & Apply",
+              "url": "https://sugam.odisha.gov.in/website/citizen-portal/login"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://sugam.odisha.gov.in/website/home/faq"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "beds"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6682cfb4c833972ed2ebf452",
+      "en": {
+        "documentsRequired_md": "\n- Passport-size Photograph\n- Aadhaar Card\n- Bill/Money Receipt\n- Disability Certificate\n- Bank Detail\n- Any Other Documents if Required\n\n \n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bill/Money Receipt"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Detail"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other Documents if Required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": " "
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6682c4c7c833972ed2ebe70d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:53:46.467788+00:00",
+  "scheme_id": "6682c4c7c833972ed2ebe70d"
+}

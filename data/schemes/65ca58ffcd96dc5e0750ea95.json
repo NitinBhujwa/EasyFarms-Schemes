@@ -1,0 +1,246 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "1. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Horticulture Officer"
+                    }
+                  ],
+                  "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2. Assistant Director of Horticulture i/c FP Center"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "3. Horticulture Development Officer"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\n**Step 01:** The bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Assistant Director of Horticulture i/c FP Center\n3. Horticulture Development Officer\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\nTraining and Demonstration\n> **Type of Assistance:**\n\nAwareness, Capacity building on fruit and vegetable processing\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "06a4f1826383779b972f11d403d803c6a13f346b960569567a1e2bacefd00663",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Fruit Processing Centre” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to disseminate technical knowhow to youth entrepreneurs, farmers, and housewives through the practical demonstration on the importance of fruit preservation and to manufacture quality processed fruit products such as Squashes, Jams, Jelly, canned fruits and Juices under the trade name ‘Meg Fruits Products’.\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:57.830164+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:04:57.830164+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=106"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65ca5957ed4030e118d7570c",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Other relevant documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other relevant documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65ca58ffcd96dc5e0750ea95"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65ca58ffcd96dc5e0750ea95",
+  "scheme_name": "Fruit Processing Centre",
+  "scheme_open_date": null,
+  "scheme_short_title": "FPC",
+  "slug": "fpc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Horticulture",
+    "Farmer",
+    "Youth Entrepreneur",
+    "Training",
+    "Demonstration",
+    "Fruit Processing",
+    "Vegetable Processing"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

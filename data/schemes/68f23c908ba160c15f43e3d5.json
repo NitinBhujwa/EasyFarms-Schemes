@@ -1,0 +1,197 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The society shall submit the 'Milk Supply Report' from the Milk Union for the period for which the assistance is applied for, along with the proposal."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " The concerned Assistant Registrar shall certify the correctness of the Milk Supply Report of the society by verifying the records of the society."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " The society shall submit the proposal to the concerned O/o Asstt. Registrar in the prescribed application along with all the requirements."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " The society shall approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of the Assistant Registrar."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The society shall submit the &#39;Milk Supply Report&#39; from the Milk Union for the period for which the assistance is applied for, along with the proposal.\n**Step 2:** The concerned Assistant Registrar shall certify the correctness of the Milk Supply Report of the society by verifying the records of the society.\n**Step 3:** The society shall submit the proposal to the concerned O/o Asstt. Registrar in the prescribed application along with all the requirements.\n**Step 4:** The society shall approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of the Assistant Registrar.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "****The financial support is provided to meet administrative/managerial expenses on staff salaries and allowances, wages, office expenses, rent rates and taxes, and equipment.***\n****The Registering Authority shall verify the utilization of the grants released.***\n##### ***General Category Dairy Co-operative Societies***\n\n- Above 500 liters per day: ₹1,50,000/-.\n- 300–500 liters per day: ₹1,00,000/-.\n- 150–300 liters per day: ₹75,000/-.\n- 50–150 liters per day: ₹30,000/-.\n\n##### ***Tribal Sub Plan/Schedule Caste Sub Plan Dairy Co-operative Societies***\n\n- Above 1,250 liters per day: ₹3,75,000/-.\n- 1,000–less than 1,250 liters per day: ₹3,00,000/-.\n- 750–less than 1,000 liters per day: ₹2,25,000/-.\n- 500–less than 750 liters per day: ₹1,75,000/-.\n- 300–less than 500 liters per day: ₹1,25,000/-.\n- 75–less than 300 liters per day: ₹1,00,000/-.\n- 25–less than 75 liters per day: ₹50,000/-.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8a52ff5e1be120568e48d930a76732acec1b4b9f67844c1b3af4b45b9bde2b6b",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Infrastructure Development Scheme for Dairy Co-operatives&quot; was approved by the Government of Goa, Department of Co-operation, Office of the Registrar of Co-operative Societies. The scheme aims to provide financial assistance to Dairy Co-operative Societies for their development, smooth functioning of business, and other allied activities, enabling them to become stable and create better infrastructure. The scheme provides financial support in the form of grant or subsidy to cover administrative and managerial expenses, including staff salaries, allowances, wages, office expenses, rent, rates, taxes, and the purchase of equipment. The applications for this scheme are accepted by submitting the proposal to the concerned Office of the Assistant Registrar.\n<br>\n\n",
+  "eligibility": "\n- The applicant must be a Dairy Co-operative Society in the State.\n- The applicant must regularly supply the milk to the Milk Union.\n- The applicant must have completed one year of its registration.\n- The applicant must submit the Milk Supply Report from the Milk Union for the period for which the assistance is applied for along with the proposal.\n- The applicant must approve the proposal for Government assistance in the General Body/Special General Body before submitting the proposal to the concerned office of Assistant Registrar.\n\n##### ***Tribal Sub Plan/Schedule Caste Sub Plan Category Criteria***\nThe applicant must have a minimum of 15% shareholders as Scheduled Tribe/Scheduled Caste, as the case may be, to be considered a Tribal Sub Plan/Schedule Caste Sub Plan Co-operative Society for the purpose of availing assistance.\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:32.585185+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:32.585185+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry & Veterinary Services Department",
+    "value": 30000003
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://goaprintingpress.gov.in/downloads/2425/2425-33-SI-OG-0.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f23ca96e57497683c88f3f",
+      "en": {
+        "documentsRequired_md": "\n- Milk Supply Report From The Milk Union (For the period for which the assistance is applied for).\n- List of Scheduled Tribe/Scheduled Caste Members (Required to ascertain the percentage of shareholders among the Scheduled Tribe/Scheduled Caste for Tribal Sub Plan/Scheduled Caste Sub Plan assistance).\n- Minutes of General Body/Special General Body Meeting (Approving the proposal for Government assistance).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Milk Supply Report From The Milk Union (For the period for which the assistance is applied for)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "List of Scheduled Tribe/Scheduled Caste Members (Required to ascertain the percentage of shareholders among the Scheduled Tribe/Scheduled Caste for Tribal Sub Plan/Scheduled Caste Sub Plan assistance)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Minutes of General Body/Special General Body Meeting (Approving the proposal for Government assistance)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f23c908ba160c15f43e3d5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f23c908ba160c15f43e3d5",
+  "scheme_name": "Infrastructure Development Scheme for Dairy Co-operatives",
+  "scheme_open_date": null,
+  "scheme_short_title": "IDSDCO",
+  "slug": "idsdco",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Society",
+    "Dairy",
+    "Farmer",
+    "Subsidy",
+    "Infrastructure"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

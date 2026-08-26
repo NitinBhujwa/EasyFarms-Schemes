@@ -1,0 +1,708 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6747035a805235502a7d04f4",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "DBT Registration Process:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "Visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "registration page"
+                      }
+                    ],
+                    "link": "https://dbtagriculture.bihar.gov.in/RegFarmer/",
+                    "type": "link"
+                  },
+                  {
+                    "text": " of the DBT portal. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Enter the OTP. Click on “Validate OTP”. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5: "
+                  },
+                  {
+                    "text": "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 6:"
+                  },
+                  {
+                    "text": " In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 7: "
+                  },
+                  {
+                    "text": "Validate with OTP. Click on “Register” to generate the Registration Id."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note:"
+                  },
+                  {
+                    "text": "  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number."
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Online Application of the Scheme:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:"
+                  },
+                  {
+                    "text": " Visit the official "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "website"
+                      }
+                    ],
+                    "link": "https://horticulture.bihar.gov.in/HortMIS/InputBasedStateScheme/OnlineAppCoconutSchemeState.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Fill in the required details i.e. Address, Land Details, etc, and upload documents."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5: "
+                  },
+                  {
+                    "text": "Confirm the checkbox and then click on “Submit”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 6:"
+                  },
+                  {
+                    "text": " An “Application Number” will be generated. Keep this for future reference."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 7:"
+                  },
+                  {
+                    "text": " Printout of the filled in application also can be taken using the Print option."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **DBT Registration Process:**\n\n**Step 1:** Visit the [registration page](https://dbtagriculture.bihar.gov.in/RegFarmer/) of the DBT portal. \n**Step 2:** Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.\n**Step 3:** Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.\n**Step 4:** Enter the OTP. Click on “Validate OTP”. \n**Step 5:** Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.\n**Step 6:** In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.\n**Step 7:** Validate with OTP. Click on “Register” to generate the Registration Id.\n> **Note:**  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.\n\n<br>\n\n> **Online Application of the Scheme:**\n\n**Step 1:** Visit the official [website](https://horticulture.bihar.gov.in/HortMIS/InputBasedStateScheme/OnlineAppCoconutSchemeState.aspx). \n**Step 2:** Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.\n**Step 3:** In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.\n**Step 4:** Fill in the required details i.e. Address, Land Details, etc, and upload documents.\n**Step 5:** Confirm the checkbox and then click on “Submit”.\n**Step 6:** An “Application Number” will be generated. Keep this for future reference.\n**Step 7:** Printout of the filled in application also can be taken using the Print option.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 10111111
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Nariwal Paudha Vitaran Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "NPVY",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Bihar",
+            "value": 10
+          },
+          "tags": [
+            "Agriculture",
+            "Subsidy",
+            "Plant Supply",
+            "Financial Assistance",
+            "Coconut Development"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a resident of Bihar."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be interested in planting coconut saplings."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be registered on the DBT portal."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 1: Beneficiary allocation:"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "General Category: 78.56%."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Scheduled Castes: 20%."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Scheduled Tribes: 1.44%."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Women Participation: 30%."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 2:"
+                    },
+                    {
+                      "text": " The benefit of the scheme will generally be given to the farmer family. Farmer family means husband-wife and minor child."
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 3: "
+                    },
+                    {
+                      "text": "Beneficiaries will be selected on first come first serve basis."
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be a resident of Bihar.\n   1. The applicant should be a farmer.\n   1. The applicant should be interested in planting coconut saplings.\n   1. The applicant must be registered on the DBT portal.\n\n&lt;br&gt;\n\n&gt; **Note 1: Beneficiary allocation:**\n\n\n\n    - General Category: 78.56%.\n    - Scheduled Castes: 20%.\n    - Scheduled Tribes: 1.44%.\n    - Women Participation: 30%.\n\n\n&gt; **Note 2:** The benefit of the scheme will generally be given to the farmer family. Farmer family means husband-wife and minor child.\n\n&gt; **Note 3:** Beneficiaries will be selected on first come first serve basis.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Subsidy Support:"
+                        },
+                        {
+                          "text": " 75% subsidy i.e. ₹63.75/- will be payable on the unit cost of ₹85/- per sapling."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Distribution of Saplings:"
+                        },
+                        {
+                          "text": " A minimum of 5 and a maximum of 712 saplings (178 saplings per hectare) will be provided to beneficiaries."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n  - **Subsidy Support:** 75% subsidy i.e. ₹63.75/- will be payable on the unit cost of ₹85/- per sapling.  - **Distribution of Saplings:** A minimum of 5 and a maximum of 712 saplings (178 saplings per hectare) will be provided to beneficiaries.\n",
+          "briefDescription": "The scheme aimed at promoting coconut cultivation in non-traditional areas like Bihar. Under this scheme, farmers and urban residents can obtain coconut saplings at a subsidized rate to encourage widespread plantation and utilization.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Nariwal Paudha Vitaran Yojana”, launched by the Department of Agriculture, Bihar, is designed to distribute coconut saplings to farmers and individuals willing to plant on their land. The main objective of this scheme is to plant coconut saplings in non-traditional coconut areas in the state."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Nariwal Paudha Vitaran Yojana”, launched by the Department of Agriculture, Bihar, is designed to distribute coconut saplings to farmers and individuals willing to plant on their land. The main objective of this scheme is to plant coconut saplings in non-traditional coconut areas in the state.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://horticulture.bihar.gov.in/MainSite/Documents/SOP/0.6_2024-06-04.pdf"
+            },
+            {
+              "title": "Online Application",
+              "url": "https://horticulture.bihar.gov.in/HortMIS/InputBasedStateScheme/OnlineAppCoconutSchemeState.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "npvy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "674703dd317b2851b10b28cd",
+      "en": {
+        "documentsRequired_md": "&amp;gt; **For DBT Registration Process:**\n\n\n\n      1. Aadhaar Details (Should be linked with mobile number).\n      1. Passport Size Photo.\n      1. Farmer details.\n      1. Land information.\n      1. Bank account.\n\n\n&amp;gt; **For the Online Application of the Scheme:**\n\n\n\n      1. Passport Size Photo.\n      1. Land-ownership/ revenue receipt (If applicable).\n\n\n&amp;gt; **Note:** \n\n\n  - If the applicant&amp;amp;#39;s name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt.\n  - For the distribution of coconut saplings at subsidized rates, an agreement /or receipt of the land where it will be planted will be mandatory.\n\n&amp;lt;br&amp;gt;\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For DBT Registration Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Aadhaar Details (Should be linked with mobile number)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Passport Size Photo."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Farmer details."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Land information."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Bank account."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ol_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "ol_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For the Online Application of the Scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Passport Size Photo."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Land-ownership/ revenue receipt (If applicable)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ol_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "ol_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note:"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For the distribution of coconut saplings at subsidized rates, an agreement /or receipt of the land where it will be planted will be mandatory."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "6747035a805235502a7d04f4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:38.305116+00:00",
+  "scheme_id": "6747035a805235502a7d04f4"
+}

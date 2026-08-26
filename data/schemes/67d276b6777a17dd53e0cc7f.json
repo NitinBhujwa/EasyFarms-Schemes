@@ -1,0 +1,337 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Click on \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 6: "
+                },
+                {
+                  "text": "Once the application is done, confirm it."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 7:"
+                },
+                {
+                  "text": " Take a print out of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 8:"
+                },
+                {
+                  "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note: "
+                    },
+                    {
+                      "text": "Application will be accepted on the principle of first come, first serve bases within the target limits."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:"
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Click here"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n\n  - **Note:** Application will be accepted on the principle of first come, first serve bases within the target limits.\n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Name of the Component****Standard of Assistance**\t**Minimum Time Limit (in Years) for Reclaiming  Benefits**Project Based Processing Unit50% of the cost or ₹10,00,000/- whichever is less10 Year<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a8718af861ed2907b157be2c26a3a81ca81c90858b35fe0b79ac296373b3fdc2",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Promoting to Farmer for Post Harvesting &amp;amp; Management (Value Addition)&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to encourage all categories of farmers to establish crop value addition units that utilize post-harvesting technology and management strategies.\n",
+  "eligibility": "> **Eligible entities:**\n\n\n- Farmers Interest Group\n- Farmers Producer Group\n- Farmer Producer Companies\n- Self-Help Groups (SHGs) and Sakhi Mandals of Women farmers\n- Co-operative society at village level\n\n> **Eligible Individuals with relevant agricultural education:**\n\n\n- Diploma in Agriculture\n- Graduate in Agriculture\n- Postgraduate in Agriculture\n- Bachelor of Rural Studies (B.R.S.)\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:36.585367+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:36.585367+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/ZGBPasq5nKT5f3TEB66czQ%E2%99%AC%E2%99%AC"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67d276ebb36d179ff804b00a",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Land Ownership Documents.\n1. Bank Account Details.\n1. Project Proposal Document.\n1. Farmer Group Registration Certificate (if applicable).\n1. Diploma/Degree Certificate (for individual applicants).\n1. Any other document if required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal Document."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Farmer Group Registration Certificate (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Diploma/Degree Certificate (for individual applicants)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document if required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67d276b6777a17dd53e0cc7f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67d276b6777a17dd53e0cc7f",
+  "scheme_name": "Promoting to Farmer for Post Harvesting & Management (Value Addition)",
+  "scheme_open_date": null,
+  "scheme_short_title": "PFPHMVA",
+  "slug": "pfphmva",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Post Harvesting Technology"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Joint Liability Groups (JLGS)",
+      "value": "joint-liability-groups"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

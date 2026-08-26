@@ -1,0 +1,325 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should take print of the prescribed format of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+            },
+            {
+              "bold": true,
+              "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+            },
+            {
+              "children": [
+                {
+                  "text": "BDO Office/ Sub-Offices"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": " of the Department of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Redressal"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+            },
+            {
+              "children": [
+                {
+                  "text": "Grievance Redressal Officer"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "text": ". The grievance can also be lodged on the link "
+            },
+            {
+              "bold": true,
+              "text": "dir-fish.goa@nic.in"
+            },
+            {
+              "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Setting Up of the Crab Culture Unit**\n\n\n- Financial assistance of 25% of the actual cost, limited to ₹1,50,000 per hectare.\n- The assistance can be availed for up to 2 hectares of land.\n\n<br>\n\n> **Purchase of Seed and Feed**\n\n\n- 50% of the actual cost, limited to ₹75,000 per hectare.\n- The assistance can be availed for up to 2 hectares of land.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "35ff9f6b848ebd4d4ebaf28a75faad0b15017fc32c4086fb673b691c612ea63b",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Financial Assistance for Setting up Crab Culture Unit” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance of 25% of the actual cost, limited to ₹1,50,000 per hectare is provided to eligible fishermen for setting up crab culture unit. Only Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in the setting up of the Crab Farming Unit in the State of Goa can apply to this scheme. The applications are accepted only in offline mode.\n",
+  "eligibility": "\n1. The applicant should be a Fish Farmer/ Individual/ Registered Self Help Group/ Societies, interested in the setting up of the Crab Farming Unit in the State of Goa.\n1. The applicant should be a resident of Goa for the last fifteen years.\n1. The applicant should undergo a training programme on Crab Farming organized by the Fisheries Department/ MPEDA/ ICAR/ Other Institutes.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:54.748387+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:54.748387+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 30000017
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    },
+    {
+      "title": "Application Form (Crab Culture Unit)",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/Crab-Unit-1.pdf"
+    },
+    {
+      "title": "Application Form (Seed And Feed)",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/Crab-SEED-FEED-1.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "656ed43df2dded0c8095708f",
+      "en": {
+        "documentsRequired_md": "\n1. Application in Prescribed Form.\n1. Joint Photograph of Applicant.\n1. Survey Plan Showing Neighboring Area in Original.\n1. Engineering Layout.\n1. Project Report.\n1. Affidavit.\n1. Form 1 &amp; Form 14 of the Proposed Land.\n1. NOC From Local Panchayat.\n1. Proof of Existence of the Farm in Case the Farm is an Existing Traditional Farm.\n1. Ownership/Leased Document.\n1. Residence Certificate of 15 Years in Goa.\n1. Training Completion Certificate of Crab Farming From Directorate of Fisheries/MPEDA/ICAR/Any Other Institute.\n1. Mandate Form.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application in Prescribed Form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Joint Photograph of Applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Survey Plan Showing Neighboring Area in Original."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Engineering Layout."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Report."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Affidavit."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Form 1 & Form 14 of the Proposed Land."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "NOC From Local Panchayat."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Existence of the Farm in Case the Farm is an Existing Traditional Farm."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ownership/Leased Document."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Certificate of 15 Years in Goa."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training Completion Certificate of Crab Farming From Directorate of Fisheries/MPEDA/ICAR/Any Other Institute."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mandate Form."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "656ed430f2dded0c8095707e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "656ed430f2dded0c8095707e",
+  "scheme_name": "Financial Assistance for Setting up Crab Culture Unit",
+  "scheme_open_date": null,
+  "scheme_short_title": "FASUCCU",
+  "slug": "fasuccu",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fishermen",
+    "Subsidy",
+    "Financial Assistance",
+    "Aquaculture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

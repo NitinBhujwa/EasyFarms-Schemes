@@ -1,0 +1,653 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Citizen Registration for Member ID",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20qi8j2YRjDoJlYyx%200f2Snw%2Fkzho0z2ju%2FpAcMMa9QEDuRwEiHf9uKeJfHuskucj%201tu8cbsj6Dew15OMnC4iH15nTbDlskrvRU7mgnM8RDLnNl1OK1Pk1zsETtrkWL%202OH4w2WlaEeSNbJKo1vOxJt3TCw2SKgbeFKIHjJDDH7DSVzwjyNNoYEaOdx6cSatkYeQFSV6MCMB8It8zZVJBpUq3yzH2DwiaKVi7s2OMkRvtFMSZh%20u%20m=",
+              "type": "link"
+            },
+            {
+              "text": " of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " If you are a first-time user, click on “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Registration for New User"
+                }
+              ],
+              "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D",
+              "type": "link"
+            },
+            {
+              "text": "” and complete the registration process to create your account."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Select your Authentication ID from the available options, such as"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "PDS (Ration Card) "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Election Photo ID Card (EPIC)."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Enter your card number, select your name from the displayed list, and click on “Next” to continue."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7:"
+            },
+            {
+              "text": " Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Sign In ",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Click on "
+            },
+            {
+              "children": [
+                {
+                  "text": "“Sign In"
+                }
+              ],
+              "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D",
+              "type": "link"
+            },
+            {
+              "text": "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Enter your User ID and Password, then click on “Login” to access your account."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " After logging in, click on “Apply for Services/Scheme” to start your application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Citizen Registration for Member ID**\n**Step 1:** Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%20qi8j2YRjDoJlYyx%200f2Snw%2Fkzho0z2ju%2FpAcMMa9QEDuRwEiHf9uKeJfHuskucj%201tu8cbsj6Dew15OMnC4iH15nTbDlskrvRU7mgnM8RDLnNl1OK1Pk1zsETtrkWL%202OH4w2WlaEeSNbJKo1vOxJt3TCw2SKgbeFKIHjJDDH7DSVzwjyNNoYEaOdx6cSatkYeQFSV6MCMB8It8zZVJBpUq3yzH2DwiaKVi7s2OMkRvtFMSZh%20u%20m=) of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.\n**Step 2:** If you are a first-time user, click on “[Registration for New User](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D)” and complete the registration process to create your account.\n**Step 3:** Select your Authentication ID from the available options, such as\n\n- PDS (Ration Card) \n- Election Photo ID Card (EPIC).\n\n**Step 4:** Enter your card number, select your name from the displayed list, and click on “Next” to continue.\n**Step 5:** Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.\n**Step 6:** Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.\n**Step 7:** Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.\n**Sign In** \n**Step 1:** Click on [“Sign In](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D)” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.\n**Step 2:** Enter your User ID and Password, then click on “Login” to access your account.\n**Step 3:** After logging in, click on “Apply for Services/Scheme” to start your application.\n**Step 4:** Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. 50% of project cost supported (5% by applicant, 45% by Government)\n1. 5% EMI co-payment support for 24 months\n1. Credit linkage through partnered banks\n1. Technical training and capacity building\n1. Veterinary and farm management support\n1. Market linkage for selling output\n1. Mentorship and business advisory\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "cce4fb896700faaca2765bea083c3136f817bb5f449814705a2dc21833ac690e",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;**Chief Minister’s CM-ELEVATE Program&quot;**, launched by the Government of Meghalaya under the Planning Department, aims to promote entrepreneurship and improve livelihoods across the state. Under this program, the **&quot;Meghalaya Piggery Development Scheme&quot;** has been introduced to employ, engage, and empower youth and rural communities by promoting piggery entrepreneurship through easy access to credit and subsidies.\n<br>\n\n",
+  "eligibility": "**Individuals**\n\n1. The applicant should be between 18 and 58 years of age.\n1. The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority.\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience in undertaking piggery.\n1. The entrepreneur should have access to adequate and quality feed for the pigs.\n1. The entrepreneur should have a vaccination scheme in place for the pigs.\n1. The entrepreneur should have a plan for marketing the pigs and their products.\n1. The entrepreneur’s village should be in an area where pig rearing is feasible.\n1. The distance between the entrepreneur’s village and the nearest market should be reasonable.\n1. The entrepreneur should not be a credit defaulter with any bank.\n1. The entrepreneur should possess self-owned land or notarized lease land (≥15 years).\n\n**Registered Entities**\n\n1. The entrepreneur should be a registered entity from Meghalaya, such as a Cooperative, Farmer Producer Company (FPC), Farmer Producer Organization (FPO), or any other legally registered group in the state.\n1. The entrepreneur should possess land, either self-owned or on lease, verified by the competent authority\n1. The entrepreneur should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery.\n1. The entrepreneur must have access to adequate and quality feed for the pigs.\n1. The entrepreneur must have a vaccination Scheme in place for the pigs.\n1. The entrepreneur must have a plan for marketing the pigs and their products.\n1. The entrepreneur’s village must be in an area where pig rearing is feasible.\n1. The distance between the entrepreneur’s village and the nearest market must be reasonable.\n1. The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)\n\n**Registered Entities**\n\n1. Registered Entities from Meghalaya such as any group/entity registered in Meghalaya such as Cooperatives, Farmer Producer Companies (FPC), Farmer Producer Organization (FPO) and so on.\n1. Must provide an Incorporation Certificate or a registration certificate whichever is applicable.\n1. Should possess land, either self-owned or on lease, verified by the competent authority\n1. Should possess a training certificate on the sector applied for from a recognized Institution, preferably from a Government Institute\n1. Preference for availing loans will be given to entrepreneurs and entities with prior experience of undertaking piggery.\n1. The entrepreneur must have access to adequate and quality feed for the pigs.\n1. The entrepreneur must have a vaccination Scheme in place for the pigs.\n1. The entrepreneur must have a plan for marketing the pigs and their products.\n1. The entrepreneur’s village must be in an area where pig rearing is feasible.\n1. The distance between the entrepreneur’s village and the nearest market must be reasonable.\n1. The entrepreneur should not be a credit defaulter from any bank. Must possess self-owned or notarized lease land (≥15 years)\n\n<br>\n\n",
+  "exclusions": "**Individuals**\n**Applications Shall Not Ordinarily Be Considered For:**\nA) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\n\n- State and Central Government employees\n- Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\n- Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\n- Registered class-1 contractors\n- Consultants who are currently engaged with state or central government\n\nB) Only one member from a family is eligible for the scheme.\nC) Pressure groups and organizations that are primarily political in nature\n**Registered Entities**\n**Applications shall not be ordinarily considered for the following:**\nA) Only one member from a family is eligible for the scheme.\nB) Pressure groups and organizations that are primarily political in nature.\nC) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their immediate family members, which include spouse, parents, and children up to the age of 30:\n\n- State and Central Government employees.\n- Employees of Public Sector Undertakings, subsidiaries of Public Sector Undertakings, and divisions of Public Sector Undertakings, etc.\n- Any individual whose job is concerned with politics such as MLAs, MLCs, MPs, etc., or those seeking to hold a similar position in government.\n- Registered Class-1 contractors.\n- Consultants who are currently engaged with State or Central Government.\n\n**Unregistered Entities**\n**Applications shall not be ordinarily considered for the following**\nA) Only one member from a family is eligible for the scheme.\nB) Pressure groups and organizations that are primarily political in nature\nC) Following individuals (currently employed as full-fledged or contractual, or retired and drawing pension) and their Immediate family members which includes spouse, parents, and children up to the age of 30\n\n-  State and Central Government employees\n-  Employees of public sector undertakings, subsidiaries of public sector undertakings and divisions of public sector undertakings etc.\n-  Any individual whose job is concerned with politics such MLAs, MLCs, MPs etc. or seeking to hold a similar position in government\n-  Registered class-1 contractors\n-  Consultants who are currently engaged with state or central government\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:07.694392+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:07.694392+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Planning Department",
+    "value": 1777803
+  },
+  "references": [
+    {
+      "title": "Website:1",
+      "url": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX19KTCioXpR1EAo%20zGQsFuiG3oz2MdKy0sEQrtdso4b78%20JakIxok%2FcYtJIZzheG%2FqNOcr9nHOuvkDkIucj33RTbiCkHKIuJlto7iKmvhQ0%2FjiJWaxUF2QTReo5lu6GOQ7BwIdc%2FPjtyE%20iZdO06SDGA3qjqMhPZbbkQI1YhFOZjrn5ZFFCe642ChL7MBl9iRYCdRUUvhrmPL8e15HsRVztX2kC3JCUBsfPJa6eq9%20aXdqQ54cVqBQXe="
+    },
+    {
+      "title": "Website:2",
+      "url": "https://www.primemeghalaya.com/piggery/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6996cfd9e2f4291145652d1a",
+      "en": {
+        "documentsRequired_md": "**Individuals**\n\n1. Proof of Address of Applicant (Voter ID / Passport / Driving License)\n1. PAN Card\n1. Latest Bank Statement (Last 6 months)\n1. Training certificate\n1. Ration Card\n1. Self Declaration [Download ](https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/SDCI.pdf)1. Land ownership or notarized lease certificate (if applicable) [Download  ](https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf)\n**Registered Entities**\n\n1. Proof of Address of Applicant (Voter ID / Passport / Driving License)\n1. Incorporation Certificate or Registration Certificate\n1. GST Certificate (if available)\n1. PAN Card\n1. Ration Card of Applicant\n1. Training certificates for at least 2 members\n1. Latest Bank Statement (Last 6 months)\n1. Self Declaration [Download](https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/SDC.pdf)1. Land ownership or notarized lease certificate (if applicable) [Download](https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf)\n**Unregistered Entities**\n\n1. PAN Card\n1. Proof of Address of Applicant (Voter ID / Passport / Driving License)\n1. Latest Bank Statement (Last 6 months)\n1. Ration Card of Applicant\n1. Training certificates for at least 2 members\n1. Self Declaration [Download ](https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/SDC.pdf)1. Land ownership or notarized lease certificate (if applicable) [Download](https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf) \n<br>\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Individuals",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Address of Applicant (Voter ID / Passport / Driving License)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Latest Bank Statement (Last 6 months)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self Declaration "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download "
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/SDCI.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership or notarized lease certificate (if applicable) "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download  "
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Registered Entities",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Address of Applicant (Voter ID / Passport / Driving License)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Incorporation Certificate or Registration Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "GST Certificate (if available)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card of Applicant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training certificates for at least 2 members"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Latest Bank Statement (Last 6 months)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self Declaration "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download"
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/SDC.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership or notarized lease certificate (if applicable) "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download"
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "",
+                "underline": true
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "",
+                    "underline": true
+                  }
+                ],
+                "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf",
+                "type": "link"
+              },
+              {
+                "bold": true,
+                "text": "Unregistered Entities",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Address of Applicant (Voter ID / Passport / Driving License)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Latest Bank Statement (Last 6 months)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card of Applicant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training certificates for at least 2 members"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self Declaration "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download "
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/SDC.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership or notarized lease certificate (if applicable) "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download"
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/CMEA/Piggery_Development_Scheme/LAC.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6996caeee2f4291145650b19"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6996caeee2f4291145650b19",
+  "scheme_name": "Meghalaya Piggery Development Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "MPDSC",
+  "slug": "mpdsc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal",
+    "Piggery",
+    "Farmer",
+    "Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

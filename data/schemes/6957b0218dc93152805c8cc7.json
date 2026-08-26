@@ -1,0 +1,218 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The applicant must approach the Department of Animal Husbandry & Veterinary Services,"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "U.T. Administration of Daman & Diu and Dadra & Nagar Haveli, for availing benefits under the Establishment of Small Scale Dairy Unit (SSDU) (for 10 cows)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The applicant must approach the Department of Animal Husbandry &amp; Veterinary Services,\nU.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli, for availing benefits under the Establishment of Small Scale Dairy Unit (SSDU) (for 10 cows).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Assistance for 10 Cows:**\n<br>\n\n**Sr. No.****Activity****Cost (₹)****U.T. Administration Subsidy****Under DEDS – Beneficiary Gets Subsidy**1Cost of 10 milch cows, including transportation cost (@ ₹60,000 per cow)₹6,00,000/-₹1,50,000/- (25% of purchase cost)Back-ended subsidy from NABARD: ₹1,50,000/- (25% for General) or ₹1,99,980/- (33.33% for SC/ST)2Cost towards cattle shed, water tank, store room, automatic drinking system, etc.₹2,60,000/-₹1,25,000/- (50% of construction cost)344 bags of cattle feed (each of 50 kg) (44 bags × 10 @ ₹600/- per bag)₹2,64,000/-₹1,32,000/- (50% of purchase cost)444 kg of mineral mixture (each of 1 kg) (44 kg × 2 @ ₹80/- per bag)₹35,200/-₹17,600/- (50% of purchase cost)5Purchase of a milking machine (once in a lifetime)₹65,000/-₹33,700/- (75% of purchase cost)6Purchase of an electric-driven chaff cutter (once in a lifetime)₹38,000/-₹15,000/- (75% of purchase cost)7Cost of insurance for 3 years (approx. @ ₹5,400/- per animal)₹54,000/-₹27,000/- (50% for General) or ₹40,500 (75% for SC/ST)<br>\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "6aa0af1b996a986e6d3c92871f014289b043710ddcd65754986f48d2a8d9709f",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Small Scale Dairy Unit (SSDU)&quot; has been launched by the Department of Animal Husbandry &amp; Veterinary Services, U.T. Administration of Daman &amp; Diu and Dadra &amp; Nagar Haveli. It aims to promote dairy development by supporting the establishment of a small-scale dairy unit with indigenous Gir cows. Through this scheme, financial assistance in the form of capital subsidy and back-ended subsidy is provided to beneficiaries for the purchase of milch cows, construction of cattle sheds, and procurement of feed, equipment, and insurance coverage.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of the Union Territory of Daman and Diu and Dadra and Nagar Haveli.\n1. The applicant should establish a small-scale dairy unit with 10 milch cows.\n1. The applicant should procure indigenous Gir breed cows only.\n1. The applicant should avail a bank loan for implementation of the project.\n1. The applicant should utilise the subsidy strictly for approved components.\n1. The applicant should maintain records as per the General Financial Rules, 1963.\n\n> **Preference / Reservation / Relaxation:** The applicant belonging to the Scheduled Caste or the Scheduled Tribe category is eligible for a higher subsidy rate under the back-ended subsidy and insurance components.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:43.047346+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:43.047346+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry & Veterinary Department",
+    "value": 38000064
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.daman.nic.in/websites/veterinary_office_daman/documents/2017/374-26-10-2017.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6957b0468dc93152805c8d83",
+      "en": {
+        "documentsRequired_md": "\n1. Application Form\n1. Bank Loan Sanction Letter\n1. Purchase Invoice of Milch Cows\n1. Breed Certificate (Gir Cow)\n1. Construction Cost Estimate for Cattle Shed\n1. Bills for Feed, Equipment, and Machinery\n1. Insurance Policy Documents\n1. Utilization Certificate\n1. Audited Statement of Accounts\n1. Asset Register as per General Financial Rules, 1963\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application Form"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Loan Sanction Letter"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Purchase Invoice of Milch Cows"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Breed Certificate (Gir Cow)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Construction Cost Estimate for Cattle Shed"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bills for Feed, Equipment, and Machinery"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Insurance Policy Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Utilization Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audited Statement of Accounts"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Asset Register as per General Financial Rules, 1963"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6957b0218dc93152805c8cc7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6957b0218dc93152805c8cc7",
+  "scheme_name": "Establishment Of Small Scale Dairy Unit (SSDU)",
+  "scheme_open_date": null,
+  "scheme_short_title": "SSDU",
+  "slug": "ssdu",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Dadra & Nagar Haveli and Daman & Diu",
+    "value": 38
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Dairy Development",
+    "Milch Cow",
+    "Insurance Coverage",
+    "Cattle Shed",
+    "Equipment",
+    "Procurement Of Feed"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

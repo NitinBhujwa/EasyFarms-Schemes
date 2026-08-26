@@ -1,0 +1,170 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "For reporting fire or flood accidents, the affected farmer/producer must submit an application in the prescribed format (available free of cost at the Mandi Samiti office) to the Secretary, Chairman, Administrator, or Tehsildar of the concerned Mandi Samiti area within seven days of the incident."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The received claim will be investigated by the Secretary of the Market Committee, and the inquiry must be completed within one week. The final report shall be submitted to the Chairman/Administrator of the Mandi Committee in the prescribed format attached to the claim form. In areas where the Mandi Committee does not have an office, the concerned Tehsildar will conduct the inquiry and forward it to the respective Mandi Committee."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After thorough scrutiny of the claim form by the Mandi Samiti office, the payment process will be initiated with the approval of the Chairman/Administrator of the Mandi Samiti."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "All the above proceedings should be completed within two months, and in special circumstances, the Chairman/Administrator of the Mandi Committee may extend the time period as required."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "For the payment of assistance claims, the Mandi Board will prepare a bank draft of the sanctioned amount in the name of the claimant and send it to the Secretary of the concerned Mandi Committee for disbursement."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - For reporting fire or flood accidents, the affected farmer/producer must submit an application in the prescribed format (available free of cost at the Mandi Samiti office) to the Secretary, Chairman, Administrator, or Tehsildar of the concerned Mandi Samiti area within seven days of the incident.\n  - The received claim will be investigated by the Secretary of the Market Committee, and the inquiry must be completed within one week. The final report shall be submitted to the Chairman/Administrator of the Mandi Committee in the prescribed format attached to the claim form. In areas where the Mandi Committee does not have an office, the concerned Tehsildar will conduct the inquiry and forward it to the respective Mandi Committee.\n  - After thorough scrutiny of the claim form by the Mandi Samiti office, the payment process will be initiated with the approval of the Chairman/Administrator of the Mandi Samiti.\n  - All the above proceedings should be completed within two months, and in special circumstances, the Chairman/Administrator of the Mandi Committee may extend the time period as required.\n  - For the payment of assistance claims, the Mandi Board will prepare a bank draft of the sanctioned amount in the name of the claimant and send it to the Secretary of the concerned Mandi Committee for disbursement.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Damage caused by fire accidents to standing crops, harvested crops in the field, crops stored in barns for threshing, or residual produce in the notified market areas of Uttarakhand State, as well as damage to property and livestock due to fire in the farmer’s house, and damage to agricultural land due to floods or rain-induced soil erosion, all such losses make farmers eligible to receive compensation under this scheme.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4bbe05b11e0cc5f391399acf507cab92cdfa2917397bdd4471b9a9b0253640d6",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Krishak Utpadak Kshati Sahayata Yojana” is implemented by the Uttarakhand Agricultural Production &amp;amp; Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide financial assistance and compensation to farmers in the event of loss or damage to crops, livestock, or agricultural land caused by fire, flood, or heavy rains in the notified areas of the state.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a minimum of 18 years of age to submit and receive a claim.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:00:08.628096+00:00",
+  "implementing_agency": "Uttarakhand Agricultural Production & Marketing Board",
+  "last_synced_at": "2026-08-26T14:00:08.628096+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guideline (at Page 170)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "685b95d3e908c729d3cdea1f",
+      "en": {
+        "documentsRequired_md": "Documents are required in accordance with the Mandi Committee/ Mandi Board for claiming the compensation under the scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required in accordance with the Mandi Committee/ Mandi Board for claiming the compensation under the scheme."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "685b9540e908c729d3cde71c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "685b9540e908c729d3cde71c",
+  "scheme_name": " Krishak Utpadak Kshati Sahayata Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "KUKSY",
+  "slug": "kuksy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Damage Assistance",
+    "Farmer",
+    "Natural Calamities",
+    "Crop Damage",
+    "Compensation"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

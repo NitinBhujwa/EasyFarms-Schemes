@@ -1,0 +1,282 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68ee06b48ba160c15f3412e0",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "All farmers belonging to the selected clusters."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "All farmers belonging to the selected clusters.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Sthaniya Fasal Protsahan Karyakram",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SFPK",
+          "schemeSubCategory": null,
+          "schemeType": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Farmer",
+            "Local Crop",
+            "Agriculture",
+            "Seed Production",
+            "Subsidy On Seed",
+            "Crop Promotion Program"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "All farmers from the mountain districts of Uttarakhand are eligible."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "align_justify"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n- All farmers from the mountain districts of Uttarakhand are eligible.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Under the scheme, the following objectives will be achieved by distributing verified seeds of local crops at 100% subsidy:"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "a. Distribution of certified seeds on subsidy to increase the cultivation area according to the specific region."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "b. Ensuring the recommended seed replacement rate is met."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "c. Enhancing production and productivity through the use of quality seeds."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "d. Promoting and encouraging the cultivation of local pulse crops."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "e. Ensuring farmers receive a fair price for their produce."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Seed production will be carried out by the Agriculture Department in clusters formed under the Traditional Agriculture Development Scheme, through the CLF/LC established under UGVS-REAP, and directly by the Agriculture Department. For crops where traditional clusters are not operational, clusters will be identified through CLF/LC for certified seed production. The Agriculture Department will conduct seed production programs in these areas, and the produced seeds will be distributed region-wise after appropriate allocation."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Traditional crops selected under the program:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "1. Kidney Beans 2. Gahat 3. Ramdana 4. Red Rice 5. Maize – Nainital and Chakrata region 6. Bhatta 7. Ugal/Phafar 8. Kauni 9. Toor (Pigeon Pea)"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Under the scheme, the following objectives will be achieved by distributing verified seeds of local crops at 100% subsidy:**\na. Distribution of certified seeds on subsidy to increase the cultivation area according to the specific region.\nb. Ensuring the recommended seed replacement rate is met.\nc. Enhancing production and productivity through the use of quality seeds.\nd. Promoting and encouraging the cultivation of local pulse crops.\ne. Ensuring farmers receive a fair price for their produce.\nSeed production will be carried out by the Agriculture Department in clusters formed under the Traditional Agriculture Development Scheme, through the CLF/LC established under UGVS-REAP, and directly by the Agriculture Department. For crops where traditional clusters are not operational, clusters will be identified through CLF/LC for certified seed production. The Agriculture Department will conduct seed production programs in these areas, and the produced seeds will be distributed region-wise after appropriate allocation.\n**Traditional crops selected under the program:**\n1. Kidney Beans 2. Gahat 3. Ramdana 4. Red Rice 5. Maize – Nainital and Chakrata region 6. Bhatta 7. Ugal/Phafar 8. Kauni 9. Toor (Pigeon Pea)\n<br>\n\n",
+          "briefDescription": "The program aims to promote the cultivation of local crops, enhance productivity, ensure the use of quality seeds, and provide fair prices to farmers in the mountain districts of Uttarakhand.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Sthaniya Fasal Protsahan Karyakram” was launched by the Department of Agriculture, Government of Uttarakhand, to promote the cultivation of local crops, enhance productivity, ensure the use of quality seeds, and provide fair prices to farmers in the mountain districts of Uttarakhand."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Sthaniya Fasal Protsahan Karyakram” was launched by the Department of Agriculture, Government of Uttarakhand, to promote the cultivation of local crops, enhance productivity, ensure the use of quality seeds, and provide fair prices to farmers in the mountain districts of Uttarakhand.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 164)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sfpk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68ee070b8ba160c15f34152e",
+      "en": {
+        "documentsRequired_md": "Farmers should submit documents as specified in the program guidelines.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Farmers should submit documents as specified in the program guidelines."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ee06b48ba160c15f3412e0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:58:15.548004+00:00",
+  "scheme_id": "68ee06b48ba160c15f3412e0"
+}

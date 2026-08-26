@@ -1,0 +1,183 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Get the application form to apply under this scheme."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Enter all the necessary information asked in the form carefully."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Attach the required documents with the application form."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Submit the application form to the same agriculture department."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "process_md": "\n1. Applicant farmers have to go to the Agriculture Department office or Krishi Vigyan Kendra of your district to get the benefit of Mukhyamantri Swavalamban Yojana.\n1. Get the application form to apply under this scheme.\n1. Enter all the necessary information asked in the form carefully.\n1. Attach the required documents with the application form.\n1. Submit the application form to the same agriculture department.\n\n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n   1. A subsidy of 50% provides to farmers to buy the farming items.\n   1. A large drum of 200 litres, a small drum of 50 litres capacity, a bucket of 20 litres capacity, a Jug, filter, water spray, sprayer, Trichoderma, cow-urine, dung, etc. Material and organic mulch material like leaves of trees, weed bedding, leaves of millet-sorghum, etc., groundnut peels, and in the field for moisture conservation between the rows, 50% of the total cost of available other waste material or a maximum of Rs.600/- per farmer will be given as subsidy by DBT. \n   1. Training and Farmers Tours.\n   1. Gram Panchayat level Training.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b378c9944609b97a457511e48bd373d75dbad0c5a4712d6ddfab1586fd1b34c0",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Zero Budget Natural Farming is natural farming based on cow-products (cow urine, dung) produced by indigenous cows. All agricultural inputs are prepared by the farmer from his own farm, no inputs are purchased from the market. Therefore, he does not have to spend anything directly. Due to which it is called zero budget based farming. At present, reducing the indiscriminate use of chemical fertilizers, pesticides and irrigation. To reduce the cost of agriculture, improve the quality of agricultural products and increase production per acre. Use of Beejamrit for treatment of seeds and Dravjeevamrit and Ghanjeevamrit etc. for nutrition. Use of Neemastra, Brahrastra and Aagnestra for the prevention of insects.\n&lt;br&gt;\n\n**Objective:-**\n\n   1. To promote environment-protected and climate-tolerant natural farming practices so that the fertility power of the land can be increased.\n   1. To reduce the cost of cultivation by less irrigation, sustainable and integrated organic methods so that farmers can get more income per unit area.\n   1. Production of chemical free and nutritious food for human health and wellness.\n   1. Protecting biodiversity and environment.\n   1. Empowering farmers for production, processing and progress by developing them in the form of clusters / groups.\n   1. To make farmers entrepreneurs for marketing and by connecting directly with the national market.\n\n",
+  "eligibility": "\n1. Interested farmers should be selected for the scheme who have a special interest in natural farming. Every farmer must have a minimum of one-acre land ownership or family account holder.\n1. Interested farmers may be from the same village, neighboring villages, or different villages as far as possible. \n1. Interested farmers will be selected by the Regional Assistant Agriculture Officer / Agriculture Supervisor.\n1. Horticulture crops and animal husbandry should also be included in natural farming.\n1. For the selection of farmers, priority should be given to SC, ST, BPL, small and marginal farmers as much as possible. Youths up to 35 years should be included for natural farming so that their capacity can increase.\n1. Necessary material like drum, bucket, jug etc. will be given on grant to the concerned farmer for setting up the input unit for natural farming. \n1. Farmers selected under Paramparagat Krishi Vikas Yojana should not be included in this scheme.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:36.290760+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:36.290760+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 8000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jankalyan.rajasthan.gov.in/#/scheme/detail/440"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64957341481f59106a6d2fff",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhar Card.\n   1. Bank Passbook.\n   1. Land Proof.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhar Card."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Passbook."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land Proof."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "649566df380f8e123542a437"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "649566df380f8e123542a437",
+  "scheme_name": "Zero Budget Natural Farming",
+  "scheme_open_date": "2020-01-01",
+  "scheme_short_title": "ZBNF",
+  "slug": "zbnf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Rajasthan",
+    "value": 8
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Low Cost Fartming",
+    "Agriculture",
+    "Farmer",
+    "Training"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

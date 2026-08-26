@@ -1,0 +1,217 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Research Dissertation Programme (Dissertation) is conducted every year from January to June. Students and research scholars can also undergo training of 30, 45, or 90 days at any time of the year, according to their convenience."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Candidates can apply for training of 30, 45, or 90 days by downloading the application form and guidelines from the Council’s website "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "www.ucb.ac.in"
+                        }
+                      ],
+                      "link": "https://ucb.ac.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": ". The duly completed application (hard copy or soft copy) should be submitted to the Council’s address after obtaining the recommendation of the competent authority, Principal, or Head of Department."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Selection is based on merit. For short-term training, students are provided training in the relevant area or laboratory. For the six-month Research Dissertation Programme (Dissertation), the Council issues a notification on its website, and after receiving applications, the maximum number of students is selected for training on the basis of merit."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Along with the completed application, candidates must submit photocopies of their Aadhar Card, high school, intermediate, graduation, and post-graduation certificates and mark sheets, as well as any other equivalent degree certificates, permanent residence proof, and caste certificate (if applicable)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The Research Dissertation Programme (Dissertation) is conducted every year from January to June. Students and research scholars can also undergo training of 30, 45, or 90 days at any time of the year, according to their convenience.\n  - Candidates can apply for training of 30, 45, or 90 days by downloading the application form and guidelines from the Council’s website [www.ucb.ac.in](https://ucb.ac.in/). The duly completed application (hard copy or soft copy) should be submitted to the Council’s address after obtaining the recommendation of the competent authority, Principal, or Head of Department.  - Selection is based on merit. For short-term training, students are provided training in the relevant area or laboratory. For the six-month Research Dissertation Programme (Dissertation), the Council issues a notification on its website, and after receiving applications, the maximum number of students is selected for training on the basis of merit.\n  - Along with the completed application, candidates must submit photocopies of their Aadhar Card, high school, intermediate, graduation, and post-graduation certificates and mark sheets, as well as any other equivalent degree certificates, permanent residence proof, and caste certificate (if applicable).\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "Training programs are organized to promote self-employment under the Skill Development in Critical Areas of Biotechnology. These programs range in duration from 30/45 to 90 days for undergraduate and postgraduate students, and 180 days (Dissertation Program) for postgraduate students.\nDuring the training period, selected students conduct their research and practical training in the Council’s modern research laboratories. The trainees receive hands-on training in plant tissue culture, molecular biology and genetic engineering, environmental biotechnology, hydroponics, and soilless farming. After receiving the training, beneficiaries are better able to manage their business, self-employment, and agricultural activities.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Skills & Employment",
+      "value": "628ce85cd6d1a3bde4685304"
+    }
+  ],
+  "content_hash": "e26056af38539a853c9e9de985a1e0e2d633f78695b4109b9c32484261d3be24",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Skill Development Programme” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to enhance the employability and entrepreneurial skills of students, researchers, and farmers in the field of biotechnology, thereby promoting self-employment and entrepreneurship in emerging areas of the biotechnology sector. Under this scheme, various training programmes are conducted in the following areas:\n\n  - Training programme on plant production methods and cultivation through plant tissue culture.\n  - Training programme on hydroponic and soilless farming techniques.\n  - Training programme on drinking water and soil quality testing.\n  - Training programme on biological and molecular genetic engineering techniques.\n  - Training programme on the preparation of medicines from natural products derived from Himalayan plants.\n\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a graduate or postgraduate student, researcher, or farmer from subjects such as Biotechnology, Microbiology, Molecular and Genetic Biology, Environmental Biology, B.Tech in Biotechnology, or related fields.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:02.096937+00:00",
+  "implementing_agency": "Uttarakhand Council For Biotechnology",
+  "last_synced_at": "2026-08-26T13:58:02.096937+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Science And Technology",
+    "value": 50000087
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 124)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ed23238ba160c15f30ff9e",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar Card\n   1. High school, intermediate, graduation, and post-graduation certificates and mark sheets as well as any other equivalent degree certificates\n   1. Permanent residence proof\n   1. Caste certificate (if applicable)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "High school, intermediate, graduation, and post-graduation certificates and mark sheets as well as any other equivalent degree certificates"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Permanent residence proof"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste certificate (if applicable)"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ed22d98ba160c15f30fe0b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ed22d98ba160c15f30fe0b",
+  "scheme_name": "Skill Development Programme- Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "SDPUK",
+  "slug": "sdpuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Skill Development",
+    "Training Program",
+    "Biotechnology",
+    "Student",
+    "Researcher",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

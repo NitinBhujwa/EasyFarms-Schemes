@@ -1,0 +1,474 @@
+{
+  "detail": {
+    "data": {
+      "_id": "650984c07846de4ead17eafa",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Identification of individual beneficiary i.e. village level young entrepreneur and community based beneficiaries i.e., PACS, SHGs, School, Agriculture University, etc., in a transparent and time-bound manner."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "Identification of premises for establishment of VLSTL."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Verification of proof of procure land equipment / inputs."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4: "
+                      },
+                      {
+                        "text": "SLEC will finalise the entrepreneur’s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " State government will release financial assistance to entrepreneurs within a week after approval of application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6:"
+                      },
+                      {
+                        "text": " Entrepreneurs after receiving fund will submit receipts of procurement of lab equipment, consumables, etc. to DLEC within 15 days."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** Identification of individual beneficiary i.e. village level young entrepreneur and community based beneficiaries i.e., PACS, SHGs, School, Agriculture University, etc., in a transparent and time-bound manner.\n**Step 2:** Identification of premises for establishment of VLSTL.\n**Step 3:** Verification of proof of procure land equipment / inputs.\n**Step 4:** SLEC will finalise the entrepreneur’s proposals received from the District Level Executive Committee (DLEC). The entire procedure will take maximum one month.\n**Step 5:** State government will release financial assistance to entrepreneurs within a week after approval of application.\n**Step 6:** Entrepreneurs after receiving fund will submit receipts of procurement of lab equipment, consumables, etc. to DLEC within 15 days.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "State Government Department",
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department of Agriculture & Farmers Welfare",
+            "value": 121226
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Agriculture and Farmers Welfare",
+            "value": 498
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "RKVY Soil Health and Fertility Village level Soil Testing Lab",
+          "schemeOpenDate": "2015-01-01",
+          "schemeShortTitle": "RKVYSHFVLSTL",
+          "schemeSubCategory": [
+            {
+              "label": "Soil health",
+              "value": "Soil health"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": {
+            "label": "Centrally Sponsored Scheme",
+            "value": "centrally-sponsored-scheme"
+          },
+          "tags": [
+            "Soil Testing Lab",
+            "Soil Health",
+            "INM",
+            "Rural Entrepreneur",
+            "RKVY"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            },
+            {
+              "label": "Business Entity",
+              "value": "business-entity"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The Age of the applicant should be between 18 to 27 years"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The Educational Qualification of the applicant should be 10th pass with science and knowledge of computer"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant / entrepreneur group should have their own premises / rented building with lease agreement for atleast four years."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The Age of the applicant should be between 18 to 27 years\n  - The Educational Qualification of the applicant should be 10th pass with science and knowledge of computer\n  - The applicant / entrepreneur group should have their own premises / rented building with lease agreement for atleast four years.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "One-Time Financial Assistance: "
+                        },
+                        {
+                          "text": "Financial assistance of ₹1,50,000/- is provided for establishing a Village Level Soil Testing Lab (VLSTL)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Assistance for Soil Testing Equipment: "
+                        },
+                        {
+                          "text": "Up to ₹1,00,000/- for soil testing equipment, reagents, sample shaker machine, and one-year Annual Maintenance Contract (AMC)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Assistance for Laboratory Consumables: "
+                        },
+                        {
+                          "text": "Up to ₹50,000/- for distilled water, pH meter, conductivity meter, electronic balance, glassware, filter papers, and other required consumables."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Soil Testing Services:"
+                        },
+                        {
+                          "text": " Provides affordable soil testing services to farmers at the village level."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Soil Health Advisory:"
+                        },
+                        {
+                          "text": " Facilitates customized soil nutrient recommendations based on soil test results."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Agricultural Productivity Support:"
+                        },
+                        {
+                          "text": " Helps farmers optimize fertilizer use and reduce input costs by avoiding under-application or over-application of fertilizers."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Awareness Generation:"
+                        },
+                        {
+                          "text": " Promotes awareness regarding soil health and the importance of soil testing among farmers."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Employment Generation:"
+                        },
+                        {
+                          "text": " Creates employment opportunities for rural youth through the operation of village-level laboratories."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Soil Data Collection: "
+                        },
+                        {
+                          "text": "Supports the collection of local soil data for studies, policy formulation, and region-specific agricultural interventions."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - **One-Time Financial Assistance:** Financial assistance of ₹1,50,000/- is provided for establishing a Village Level Soil Testing Lab (VLSTL).  - **Assistance for Soil Testing Equipment:** Up to ₹1,00,000/- for soil testing equipment, reagents, sample shaker machine, and one-year Annual Maintenance Contract (AMC).  - **Assistance for Laboratory Consumables:** Up to ₹50,000/- for distilled water, pH meter, conductivity meter, electronic balance, glassware, filter papers, and other required consumables.  - **Soil Testing Services:** Provides affordable soil testing services to farmers at the village level.  - **Soil Health Advisory:** Facilitates customized soil nutrient recommendations based on soil test results.  - **Agricultural Productivity Support:** Helps farmers optimize fertilizer use and reduce input costs by avoiding under-application or over-application of fertilizers.  - **Awareness Generation:** Promotes awareness regarding soil health and the importance of soil testing among farmers.  - **Employment Generation:** Creates employment opportunities for rural youth through the operation of village-level laboratories.  - **Soil Data Collection:** Supports the collection of local soil data for studies, policy formulation, and region-specific agricultural interventions.\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide easy and affordable access to soil testing facilities at the village level and support rural youth through financial assistance of ₹1,50,000/- for establishing Village Level Soil Testing Labs.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"RKVY Soil Health and Fertility Village Level Soil Testing Lab\" scheme is implemented by the Ministry of Agriculture and Farmers Welfare to provide easy access to soil testing facilities and affordable soil testing services to farmers at the grassroots level. Under the scheme, eligible rural youth and community-based institutions can establish Village Level Soil Testing Labs (VLSTLs) with a one-time financial assistance of ₹1,50,000/-. The labs provide timely and accurate soil analysis, customized nutrient recommendations, and promote awareness regarding soil health. The scheme also supports local data collection, strengthens soil testing infrastructure, and generates employment opportunities in rural areas. Financial assistance is released through the Direct Benefit Transfer (DBT) mode by the State Government."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;RKVY Soil Health and Fertility Village Level Soil Testing Lab&amp;quot; scheme is implemented by the Ministry of Agriculture and Farmers Welfare to provide easy access to soil testing facilities and affordable soil testing services to farmers at the grassroots level. Under the scheme, eligible rural youth and community-based institutions can establish Village Level Soil Testing Labs (VLSTLs) with a one-time financial assistance of ₹1,50,000/-. The labs provide timely and accurate soil analysis, customized nutrient recommendations, and promote awareness regarding soil health. The scheme also supports local data collection, strengthens soil testing infrastructure, and generates employment opportunities in rural areas. Financial assistance is released through the Direct Benefit Transfer (DBT) mode by the State Government.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agriwelfare.gov.in/sites/default/files/guide_soil.pdf"
+            },
+            {
+              "title": "Website",
+              "url": "https://www.soilhealth.dac.gov.in/home"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "rkvyshfvlstl"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "650985007846de4ead17eb2a",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar number\n   1. Land documents\n   1. Bank details\n   1. Photographs\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar number"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land documents"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Photographs"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "650984c07846de4ead17eafa"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:01:28.197426+00:00",
+  "scheme_id": "650984c07846de4ead17eafa"
+}

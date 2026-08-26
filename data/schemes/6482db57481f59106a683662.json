@@ -1,0 +1,283 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "To participate in this scheme, the farmer may download the application form or collect it from the office of the Directorate of Agriculture/District Agriculture Office. The farmer may fill the application form as per his/her eligibility."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "a.\t"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Application Form for Sardar Patel Agricultural Research Award Scheme"
+                    }
+                  ],
+                  "link": "https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "b.\t"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Application form for Sardar Patel Agricultural Research Award (Organic Farming)."
+                    }
+                  ],
+                  "link": "https://dag.gujarat.gov.in/images/S-P-SAJIV-FORM.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "The application form in the prescribed format with the necessary information/documents is to be sent to the Directorate of Agriculture Office, Krushi Bhavan Gandhinagar, Gujarat through the concerned District Agriculture Officer before 31st May."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "After successful verification, the applicant may be eligible to avail the benefits of the scheme. "
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** To participate in this scheme, the farmer may download the application form or collect it from the office of the Directorate of Agriculture/District Agriculture Office. The farmer may fill the application form as per his/her eligibility.\na.\t[Application Form for Sardar Patel Agricultural Research Award Scheme](https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf)\nb.\t[Application form for Sardar Patel Agricultural Research Award (Organic Farming).](https://dag.gujarat.gov.in/images/S-P-SAJIV-FORM.pdf)\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents.\n**Step 3:** The application form in the prescribed format with the necessary information/documents is to be sent to the Directorate of Agriculture Office, Krushi Bhavan Gandhinagar, Gujarat through the concerned District Agriculture Officer before 31st May.\n**Step 4:** After successful verification, the applicant may be eligible to avail the benefits of the scheme. \n",
+      "url": "https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n- In this scheme every year ₹51000/- is awarded with the shawl and certificate to the farmer who gains the first position in each category and also first five farmers from each category are appreciated with the shawl &amp;amp; certificate.\n- In addition to this, farmers as in the form of encouragement are appreciated by giving shawls &amp;amp; certificates for the special work done in the field of beekeeping, poultry farming, fisheries, etc.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "761fff8fea6caa978b3601d30bdb4c308bdcab6ba8cb97540f229344f487fa8a",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Sardar Patel Agriculture Research Award” was launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat on 30.10.1995. In the field of Agriculture, this scheme has been set up by the state government for the farmers of the state who produce good quality yield by their innovative idea and by their own courage as well as research new technique in the agriculture field. The scheme has been implemented by the State government to honour and appreciate farmers’ contribution to the development of agriculture to encourage and accelerate agricultural production. This award is given in five different categories/subjects.\n**Different categories of the award are as below:**\n\n  - **SUB-1:** Develop a new variety by farmers&amp;#39; own innovative skill in all the main crops of Gujarat like Cereal, Oilseed crop, pulse, cotton, sugarcane, tobacco as well as Horticulture crops and spices and condiments, etc., and introducing successfully new crops instead of traditional crops grown in the state.  - **SUB-2:** Achievement in model agriculture by producing higher yield through modern irrigation methods with water management and utilization of irrigation water as well as raising the water table of well/tube well by recharging well/tube well with harvesting rainwater  - **SUB-3:** Achievement for success in dry farming by developing techniques for drought  - **SUB-4:** Develop new methods of Integrated Pest Management for different crops  - **SUB-5:** Development of innovative farm equipment for different methods, such as cultivation, inter-cultivation, weeding, spacing, harvesting, threshing, or other types of farming.\n",
+  "eligibility": "\n1. The farmer should be a permanent resident of Gujarat State.\n1. The farmers either Male or Female who possesses Agriculture land in Gujarat are eligible to apply for this scheme.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:33.857807+00:00",
+  "implementing_agency": "Directorate Of Agriculture, Government Of Gujarat",
+  "last_synced_at": "2026-08-26T14:04:33.857807+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://dag.gujarat.gov.in/sardar-patel-agriculrure-research-award.htm"
+    },
+    {
+      "title": "SP Award Samanya Form -1",
+      "url": "https://dag.gujarat.gov.in/images/SP-AWARD-SAMANYA-FORM-1.pdf"
+    },
+    {
+      "title": "SP Award Sajiv Kheti Form -2",
+      "url": "https://dag.gujarat.gov.in/images/S-P-SAJIV-FORM.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6482e1ba481f59106a683742",
+      "en": {
+        "documentsRequired_md": "\n1. Copy of Aadhaar Card\n1. Passport-size photographs\n1. Bank Details i.e. Copy of Bank Passbook/Cheque\n1. Residence proof\n1. Basis (evidence) for land (If applicable)\n1. Caste Certificate (If applicable)\n1. Colour photographs of work done\n1. Audio/Video of work done\n1. Copy of award/other certificates received\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photographs"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Details i.e. Copy of Bank Passbook/Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Basis (evidence) for land (If applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (If applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Colour photographs of work done"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audio/Video of work done"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of award/other certificates received"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6482db57481f59106a683662"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6482db57481f59106a683662",
+  "scheme_name": "Sardar Patel Agriculture Research Award",
+  "scheme_open_date": "1995-10-30",
+  "scheme_short_title": "SPARA",
+  "slug": "spara",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Research",
+    "Honour",
+    "Award"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

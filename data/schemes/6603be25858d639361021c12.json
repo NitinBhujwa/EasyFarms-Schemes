@@ -1,0 +1,259 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (on a working day, and during working hours) the Rajya Sainik Board, Jawan Bhawan, Department of Sainik Welfare, Government of Puducherry, 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India, and request a hard copy of the prescribed format of the application form from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "The interested applicant should submit the duly filled and signed application form and the documents to the concerned authority at the Rajya Sainik Board."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "A receipt of the application will be assigned to the applicant by the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Queries/Complaints/Suggestions/Grievances"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Address: 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Phone Number: (+91)(0413) 2253107"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Email: dirdsw.pon@nic.in"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Hours: Monday - Friday, 2:30 pm to 5:00 pm"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (on a working day, and during working hours) the Rajya Sainik Board, Jawan Bhawan, Department of Sainik Welfare, Government of Puducherry, 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India, and request a hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The interested applicant should submit the duly filled and signed application form and the documents to the concerned authority at the Rajya Sainik Board.\n**Step 4:** A receipt of the application will be assigned to the applicant by the concerned authority.\n<br>\n\n> **Queries/Complaints/Suggestions/Grievances**\n\nAddress: 261, Lawspet Main Road, Pakkamudianpet, Puducherry Road, Lawspet, Puducherry - 605013, India\nPhone Number: (+91)(0413) 2253107\nEmail: dirdsw.pon@nic.in\nHours: Monday - Friday, 2:30 pm to 5:00 pm\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- The actual cost of damage or a maximum of ₹40,000/- is provided as a relief during natural calamities such as cyclone, flood or fire.\n- The amount, as decided by the Management Committee, is credited to the beneficiary’s Bank Account through RTGS/ NEFT.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "84d97097c8f6d7da37a62ecf960afc321d1157e63246ea8b74724489c4eaad0e",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&quot;Relief During Natural Calamities Such as Cyclone, Flood or Fire&quot; is a Welfare Scheme by the Armed Forces Flag Day Fund of the Department of Sainik Welfare, Puducherry. Through this scheme, up to ₹40,000/- is provided to the registered ESM / Widows of ESM / Dependents of ESM as a relief during natural calamities such as cyclones, floods or fires. The applications are accepted offline.\n",
+  "eligibility": "\n- The applicant should be an [Ex-serviceman](https://sainik.py.gov.in/definition-ex-servicemen)/Widow of an Ex-serviceman/Dependent of an Ex-serviceman.- The applicant should be [registered ](https://sainik.py.gov.in/registration-procedure)with the Department of Sainik Welfare, Puducherry.\n\n- The applicant should have suffered from natural calamities such as cyclone, flood or fire.\n\n",
+  "exclusions": "The scope of this scheme will not apply to those ESM / living spouse/widows who are re-employed as regular / deemed to be regular in Government/Public Sector Undertakings/Private Organizations and self-employed IT assesses.\n",
+  "first_seen_at": "2026-08-26T13:59:36.835125+00:00",
+  "implementing_agency": "Rajya Sainik Board, Puducherry",
+  "last_synced_at": "2026-08-26T13:59:36.835125+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Sainik Welfare Department, Puducherry",
+    "value": 34000035
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sainik.py.gov.in/assistance-affd-fund"
+    },
+    {
+      "title": "Government Order",
+      "url": "https://sainik.py.gov.in/sites/default/files/g.o.ms.22-dated-24-feb-2020.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://sainik.py.gov.in/contact-us"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6603be30858d639361021c28",
+      "en": {
+        "documentsRequired_md": "\n- Identity Card of the ESM/ Widow of ESM.\n- Discharge Certificate of Ex-Serviceman.\n- Proof of Damages Due to Natural Calamities Such as Cyclone, Flood or Fire.\n- Declaration by the ESM/ Widow of ESM.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Card of the ESM/ Widow of ESM."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Discharge Certificate of Ex-Serviceman."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Damages Due to Natural Calamities Such as Cyclone, Flood or Fire."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration by the ESM/ Widow of ESM."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6603be25858d639361021c12"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6603be25858d639361021c12",
+  "scheme_name": "Relief During Natural Calamities Such as Cyclone, Flood or Fire (Sainik Welfare)",
+  "scheme_open_date": null,
+  "scheme_short_title": "RDNCCFF-SW",
+  "slug": "rdnccff-sw",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Climate change",
+      "value": "Climate change"
+    },
+    {
+      "label": "Weather",
+      "value": "Weather"
+    },
+    {
+      "label": "Crisis/Disaster/Accident",
+      "value": "Crisis/Disaster/Accident"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Calamity",
+    "Disaster",
+    "Relief",
+    "Ex-Serviceman",
+    "Widow",
+    "Dependent"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

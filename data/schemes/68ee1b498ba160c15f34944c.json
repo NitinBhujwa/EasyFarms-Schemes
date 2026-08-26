@@ -1,0 +1,136 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Applications can be submitted in the prescribed format at the office of the Uttarakhand Organic Commodity Board, Kisan Bhawan, 2nd Floor, Mussoorie Bypass, Ring Road, Nehrugram, Dehradun, Uttarakhand 248001."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Applications can be submitted in the prescribed format at the office of the Uttarakhand Organic Commodity Board, Kisan Bhawan, 2nd Floor, Mussoorie Bypass, Ring Road, Nehrugram, Dehradun, Uttarakhand 248001.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "Under the scheme, farmers are provided assistance to adopt organic farming through the formation of clusters.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c71176aeb0ac2e3ea572ef74d5f45512da20ea9c2a93737fd04788dba2e9abcd",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Namami Gange Yojana” is implemented by the Uttarakhand Organic Commodity Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote sustainable and organic farming practices among farmers residing in villages along the banks of the Ganga and its tributaries.\n<br>\n\n",
+  "eligibility": "\n   1. Farmers residing in villages located along the banks of the Ganga and its tributaries in Uttarakhand are eligible for assistance under this scheme.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:06:42.615639+00:00",
+  "implementing_agency": "Uttarakhand Organic Produce Council",
+  "last_synced_at": "2026-08-26T14:06:42.615639+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 165)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ee1bb28ba160c15f3496ea",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the guidelines of the Council to avail the benefits of the scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required as per the guidelines of the Council to avail the benefits of the scheme."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ee1b498ba160c15f34944c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ee1b498ba160c15f34944c",
+  "scheme_name": "Namami Gange Yojana- Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "NGY-UK",
+  "slug": "ngy-uk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Soil health",
+      "value": "Soil health"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Organic Farming",
+    "Ganga",
+    "Agriculture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,226 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Applicants can submit their applications online at "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "www.nlm.udyamimitra.in"
+                    }
+                  ],
+                  "link": "https://nlm.udyamimitra.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ". The process involves the following steps:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Screening of Applications by the State Implementing Agency."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Loan Approval by the designated lender."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Recommendation by the State Level Executive Committee (SLEC)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Sanction of Subsidy by the Animal Husbandry and Dairying Department."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "For detailed guidelines on the release of subsidy, please visit the department’s website "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "www.dahd.nic.in"
+                        }
+                      ],
+                      "link": "https://dahd.gov.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": " or contact the State Animal Husbandry Department."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Applicants can submit their applications online at [www.nlm.udyamimitra.in](https://nlm.udyamimitra.in/). The process involves the following steps:\n\n  - Screening of Applications by the State Implementing Agency.\n  - Loan Approval by the designated lender.\n  - Recommendation by the State Level Executive Committee (SLEC).\n  - Sanction of Subsidy by the Animal Husbandry and Dairying Department.\n  - For detailed guidelines on the release of subsidy, please visit the department’s website [www.dahd.nic.in](https://dahd.gov.in/) or contact the State Animal Husbandry Department.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "Under this scheme, employment generation is promoted through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sector.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "3b6e1fcf84e56e0a36c1088abab3dc03b0bbaf392aed343ca347b35b31d8c710",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Entrepreneurship Development Scheme”, a sub-component of the National Livestock Mission, is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote employment generation through entrepreneurship development in the small ruminants, poultry, piggery, and the fodder sectors by providing financial and institutional support to individuals and organized groups under the National Livestock Mission.\n<br>\n\n",
+  "eligibility": "The applicant must belong to one of the following eligible categories:\n\n  - Individual Entrepreneur\n  - Self Help Group (SHG)\n  - Farmer Producer Organization (FPO)\n  - Farmers Cooperative (FCO)\n  - Joint Liability Group (JLG)\n  - Section 8 Company\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:06:34.091572+00:00",
+  "implementing_agency": "Uttarakhand Livestock Development Board",
+  "last_synced_at": "2026-08-26T14:06:34.091572+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 196)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68cbde1789d250875d371aa6",
+      "en": {
+        "documentsRequired_md": "Applicants must submit all necessary documents as per the guidelines specified by the National Livestock Mission.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Applicants must submit all necessary documents as per the guidelines specified by the National Livestock Mission."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cbdc1b89d250875d370ee2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68cbdc1b89d250875d370ee2",
+  "scheme_name": "National Livestock Mission: Entrepreneurship Development Scheme - Uttarakhand Livestock Development Board",
+  "scheme_open_date": null,
+  "scheme_short_title": "NLMEDS",
+  "slug": "nlmeds",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Entrepreneurship",
+    "Poultry Farming",
+    "Piggery Farming",
+    "Livestock",
+    "Livestock Mission"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Joint Liability Groups (JLGS)",
+      "value": "joint-liability-groups"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    },
+    {
+      "label": "NGO",
+      "value": "ngo"
+    }
+  ]
+}

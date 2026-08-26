@@ -1,0 +1,217 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Visit the official "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "website"
+                    }
+                  ],
+                  "link": "https://smartbijlee.mpez.co.in/view/ltnsc/lt_nsc_mukhyamantri_krushak_mitra_yojana_home_page.php",
+                  "type": "link"
+                },
+                {
+                  "text": ". "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " Choose the applicant type and proceed with the \"Click Here\" option."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Fill in all the required details in the online application form."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Verify the details, accept the Terms & Conditions, then click on \"Submit\"."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the official [website](https://smartbijlee.mpez.co.in/view/ltnsc/lt_nsc_mukhyamantri_krushak_mitra_yojana_home_page.php). \n**Step 2:** Choose the applicant type and proceed with the &amp;quot;Click Here&amp;quot; option.\n**Step 3:** Fill in all the required details in the online application form.\n**Step 4:** Verify the details, accept the Terms &amp;amp; Conditions, then click on &amp;quot;Submit&amp;quot;.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n- **Cost Sharing Support:** Only 50% of the infrastructure development cost will be borne by the concerned farmer or group of farmers.\n\n- **Government Grant:** 40% of the cost will be provided directly by the State Government to the power distribution company as a grant.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Utility & Sanitation",
+      "value": "628ce97ad6d1a3bde468537d"
+    }
+  ],
+  "content_hash": "df67d518b136f9c748ca01534c133d7b1ec153759e64de5a8f17bf5216f7917a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Mukhyamantri Krushak Mitra Yojana” launched by the Energy Department, Government of Madhya Pradesh, aims to create infrastructure for permanent agricultural pump connections through the distribution company. The scheme provides grants and cost-sharing support to farmers and distribution companies for infrastructure development.\n<br>\n\n",
+  "eligibility": "\n- The applicant should be a landholding farmer/group-farmer.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:44.060531+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:44.060531+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Energy Department",
+    "value": 2300010
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=966"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f8be66a4de653fd43e671f",
+      "en": {
+        "documentsRequired_md": "\n   1. Self Photo  (Maximum upload size is 3 MB).\n   1. Aadhaar Card  (Maximum upload size is 3 MB).\n   1. Khasra (Maximum upload size is 3 MB).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Self Photo  (Maximum upload size is 3 MB)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card  (Maximum upload size is 3 MB)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Khasra (Maximum upload size is 3 MB)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f8bda8a4de653fd43e642d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f8bda8a4de653fd43e642d",
+  "scheme_name": "Mukhyamantri Krishak Mitra Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "MKMY",
+  "slug": "mkmy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Electricity",
+      "value": "Electricity"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Pump Connection"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

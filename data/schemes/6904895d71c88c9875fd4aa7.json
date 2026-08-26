@@ -1,0 +1,610 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Initiation of the Management Proposal"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The applicant, if a landowner wishing to manage a tree covered area, must submit a proposal to the Divisional Officer (Van Mandal Adhikari) or the Range Officer (Van Kshetra Adhikari)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "If the applicant is a Gram Panchayat or Gram Sabha wishing to manage tree covered revenue land, they must apply to the Tehsildar (Revenue) to have the land demarcated and managed as \"Lok Van\" (Public Forest)."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Land Demarcation and Handover (Required for Gram Panchayat/Gram Sabha)"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Tehsildar (Revenue) must decide on the application for land demarcation within 30 days."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "If the Tehsildar decides to proceed, the demarcation must be completed within 15 days, and the land must subsequently be handed over to the concerned Gram Sabha or Gram Panchayat."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Preparation of the Technical Management Plan"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "After the initial proposal and demarcation steps (if applicable) are completed, the concerned Landowner, Gram Panchayat, or Gram Sabha must prepare a detailed Technical Management Plan for the tree covered area."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "This plan must outline the specific management activities to be undertaken, such as regulating cutting, conservation measures, timber harvesting, enrichment planting, soil conservation, and biodiversity conservation, over the specified working periods."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Submission of the Technical Management Plan for Approval"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "For proposals concerning private forests, the Technical Management Plan, along with five copies, must be submitted to the Divisional Officer (Van Mandal Adhikari) using the format prescribed in "
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Form 1",
+                      "underline": true
+                    }
+                  ],
+                  "link": "https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "For proposals concerning \"Lok Van\" (Public Forest) on revenue land, the Technical Management Plan, along with five copies and a resolution passed by the Gram Panchayat or Gram Sabha, must be submitted to the Divisional Officer (Van Mandal Adhikari) using the format prescribed in "
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Form 2",
+                      "underline": true
+                    }
+                  ],
+                  "link": "https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Scrutiny and Technical Verification of the Proposal"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Competent Authority (Samyak Pradhikari), or a representative authorized by them, will conduct a physical inspection or inquiry of the area mentioned in the plan to verify the details and ensure the plan's feasibility."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Based on the inquiry report, the Competent Authority may propose amendments or corrections to the submitted Technical Management Plan."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Final Approval Process"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Divisional Officer (Van Mandal Adhikari) is responsible for approving the Technical Management Plan."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "However, if the Technical Management Plan involves timber harvesting exceeding 10 cubic meters, the Competent Authority must submit the plan for the prior approval of the State Government, through the Principal Chief Conservator of Forests, within 30 days of receiving the proposal."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Communication of Decision and Final Documentation"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Competent Authority must communicate the order of approval (in "
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Form 3",
+                      "underline": true
+                    }
+                  ],
+                  "link": "https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": " for private land or "
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Form 4",
+                      "underline": true
+                    }
+                  ],
+                  "link": "https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": " for \"Lok Van\") or the order of rejection, stating the reasons, to the applicant."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "If the plan involves harvesting less than 10 cubic meters and no decision is communicated within 30 days of submission, the Technical Management Plan is deemed approved from the date of expiry of that 30-day period. "
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "After approval, the Competent Authority sends a copy of the approved plan along with the approval order to the concerned Landowner, Gram Panchayat, or Gram Sabha and also forwards a copy of the approval order and the relevant extracts of the plan to the concerned Tehsildar (Revenue) for entry into the land records (Bhumi Abhilekh)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "##### **Step 1:****** ***Initiation of the Management Proposal***\n\n- The applicant, if a landowner wishing to manage a tree covered area, must submit a proposal to the Divisional Officer (Van Mandal Adhikari) or the Range Officer (Van Kshetra Adhikari).\n- If the applicant is a Gram Panchayat or Gram Sabha wishing to manage tree covered revenue land, they must apply to the Tehsildar (Revenue) to have the land demarcated and managed as &quot;Lok Van&quot; (Public Forest).\n\n<br>\n\n##### **Step 2:****** ***Land Demarcation and Handover (Required for Gram Panchayat/Gram Sabha)***\n\n- The Tehsildar (Revenue) must decide on the application for land demarcation within 30 days.\n- If the Tehsildar decides to proceed, the demarcation must be completed within 15 days, and the land must subsequently be handed over to the concerned Gram Sabha or Gram Panchayat.\n\n<br>\n\n##### **Step 3:****** ***Preparation of the Technical Management Plan***\n\n- After the initial proposal and demarcation steps (if applicable) are completed, the concerned Landowner, Gram Panchayat, or Gram Sabha must prepare a detailed Technical Management Plan for the tree covered area.\n- This plan must outline the specific management activities to be undertaken, such as regulating cutting, conservation measures, timber harvesting, enrichment planting, soil conservation, and biodiversity conservation, over the specified working periods.\n\n<br>\n\n##### **Step 4:****** ***Submission of the Technical Management Plan for Approval***\n\n- For proposals concerning private forests, the Technical Management Plan, along with five copies, must be submitted to the Divisional Officer (Van Mandal Adhikari) using the format prescribed in [**Form 1**](https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf).- For proposals concerning &quot;Lok Van&quot; (Public Forest) on revenue land, the Technical Management Plan, along with five copies and a resolution passed by the Gram Panchayat or Gram Sabha, must be submitted to the Divisional Officer (Van Mandal Adhikari) using the format prescribed in [**Form 2**](https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf).\n<br>\n\n##### **Step 5:****** ***Scrutiny and Technical Verification of the Proposal***\n\n- The Competent Authority (Samyak Pradhikari), or a representative authorized by them, will conduct a physical inspection or inquiry of the area mentioned in the plan to verify the details and ensure the plan&#39;s feasibility.\n- Based on the inquiry report, the Competent Authority may propose amendments or corrections to the submitted Technical Management Plan.\n\n<br>\n\n##### **Step 6:****** ***Final Approval Process***\n\n- The Divisional Officer (Van Mandal Adhikari) is responsible for approving the Technical Management Plan.\n- However, if the Technical Management Plan involves timber harvesting exceeding 10 cubic meters, the Competent Authority must submit the plan for the prior approval of the State Government, through the Principal Chief Conservator of Forests, within 30 days of receiving the proposal.\n\n<br>\n\n##### **Step 7:****** ***Communication of Decision and Final Documentation***\n\n- The Competent Authority must communicate the order of approval (in [**Form 3**](https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf) for private land or [**Form 4**](https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf) for &quot;Lok Van&quot;) or the order of rejection, stating the reasons, to the applicant.- If the plan involves harvesting less than 10 cubic meters and no decision is communicated within 30 days of submission, the Technical Management Plan is deemed approved from the date of expiry of that 30-day period. \n\n<br>\n\nAfter approval, the Competent Authority sends a copy of the approved plan along with the approval order to the concerned Landowner, Gram Panchayat, or Gram Sabha and also forwards a copy of the approval order and the relevant extracts of the plan to the concerned Tehsildar (Revenue) for entry into the land records (Bhumi Abhilekh).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n- Authorization for scientific management of tree-covered areas.\n\n<br>\n\n##### ***Conditions***\n\n- _The designated Landowner, Gram Panchayat, or Gram Sabha must implement the Technical Management Plan according to the activities and conditions specified within the plan._\n- _For &quot;Lok Van&quot; (Public Forest) management plans, the Gram Sabha must authorize the implementation of the specified activities through a resolution of the Social Audit Committee._\n- _If the management plan involves harvesting timber, the concerned Landowner, Gram Panchayat, or Gram Sabha must provide advance notification regarding the proposed date of harvesting to the Range Officer (Van Kshetra Adhikari) or Tehsildar, at least seven days prior to the proposed date._\n- _The Landowner, Gram Panchayat, or Gram Sabha must maintain a register regarding the trees harvested, using the prescribed format within the Technical Management Plan._\n- _All subsequent operations and transactions mentioned in the Technical Management Plan must be completed within the stipulated time._\n- _The implementation of the approved Technical Management Plan will be monitored by the Competent Authority (Samyak Pradhikari) through a committee or other authorized official under the supervision of the Divisional Officer (Van Mandal Adhikari)._\n- _The approval of the Technical Management Plan may be revoked if there is a violation of the defined conditions or rules._\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "216a10b2f0db22cf47ed50f2014cf965a3d203f6427da52493e61e134458bfe4",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Madhya Pradesh Lok Vaniki Yojana” was launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to manage private and revenue tree covered areas. The scheme provides for the scientific management of tree covered areas located in private and revenue lands, where the management is proposed voluntarily by the landowner, Gram Panchayat, or Gram Sabha. Key features include the creation of technical management plans (Prabandh Yojana) which are subject to approval by the competent authority. The applications for this scheme are accepted by submitting the proposal to the Divisional Officer (Van Mandal Adhikari) or the Range Officer (Van Kshetra Adhikari).\n<br>\n\n",
+  "eligibility": "\n- The applicant must be a landowner who desires to take responsibility for the management of any tree covered area.\n- The applicant must be a Gram Panchayat or a Gram Sabha who desires to take responsibility for the management of any tree covered revenue land located within its jurisdiction.\n- The applicant must apply to the Tehsildar (Revenue) for the demarcation and management of the land as &quot;Lok Van&quot; (Public Forest), if the land is tree covered revenue land.\n- The applicant must submit the management proposal to the Divisional Officer (Van Mandal Adhikari) or the Range Officer (Van Kshetra Adhikari).\n- The applicant (Landowner) must attach a declaration regarding land title/possession, including an attested photocopy of the latest land records (Khasra).\n- The applicant (Gram Panchayat/Gram Sabha) must submit a resolution to the Tehsildar (Revenue) after getting the land demarcated and handed over for management as &quot;Lok Van&quot;.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:48.548036+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:48.548036+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Science and Technology (Information Technology) Department",
+    "value": 2300040
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://upload.indiacode.nic.in/showfile?actid=AC_MP_74_265_00015_00015_1697454194461&type=rule&filename=rule_lokvaniki_2002.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6904896d71c88c9875fd4ae1",
+      "en": {
+        "documentsRequired_md": "\n- Latest Land Records (Khasra Copy).\n- Declaration Regarding Land Title/Possession.\n- Land Ownership Documents (Patta/Title).\n- Demarcation Certificate (If Required).\n- Technical Management Plan Proposal (Five Copies Required).\n- Map Of The Land/Plot.\n- Report Of Survey Results/Valuation.\n- Consent Of All Coparceners (For Joint Ownership Cases).\n- Resolution Of The Gram Panchayat/Gram Sabha (Required For &quot;Lok Van&quot; Proposals).\n- Documentation Related To Handover Of Land For Management As &quot;Lok Van&quot; (For &quot;Lok Van&quot; Proposals).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Latest Land Records (Khasra Copy)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration Regarding Land Title/Possession."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Documents (Patta/Title)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Demarcation Certificate (If Required)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Technical Management Plan Proposal (Five Copies Required)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Map Of The Land/Plot."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Report Of Survey Results/Valuation."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consent Of All Coparceners (For Joint Ownership Cases)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolution Of The Gram Panchayat/Gram Sabha (Required For \"Lok Van\" Proposals)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documentation Related To Handover Of Land For Management As \"Lok Van\" (For \"Lok Van\" Proposals)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6904895d71c88c9875fd4aa7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6904895d71c88c9875fd4aa7",
+  "scheme_name": "Madhya Pradesh Lok Vaniki Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "MPLVY",
+  "slug": "mplvy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Forest",
+    "Management",
+    "Village",
+    "Panchayat",
+    "Trees",
+    "Land"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Village",
+      "value": "village"
+    }
+  ]
+}

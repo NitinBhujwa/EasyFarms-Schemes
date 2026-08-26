@@ -1,0 +1,234 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68e244ffe00490d9b32d5d8a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Such seminars are organized by the Council from time to time. For participation, farmers, youth, and students associated with agriculture from different areas are informed through brochures, leaflets, and other social media channels. Interested candidates are then registered, after which the training or seminar is conducted."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "Such seminars are organized by the Council from time to time. For participation, farmers, youth, and students associated with agriculture from different areas are informed through brochures, leaflets, and other social media channels. Interested candidates are then registered, after which the training or seminar is conducted.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": "Uttarakhand Council For Biotechnology",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Skills & Employment",
+              "value": "628ce85cd6d1a3bde4685304"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kisan-Vaigyanik Sangoshthi",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "KVS",
+          "schemeSubCategory": [
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            },
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Training and Skill Up-gradation",
+              "value": "Training and Skill Up-gradation"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Farmer",
+            "Scientist",
+            "Self-help Group",
+            "Seminar",
+            "Training",
+            "Youth",
+            "Biotechnology"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a youth, a farmer, a member of a self-help group, or a livestock farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a youth, a farmer, a member of a self-help group, or a livestock farmer.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Through Kisan-Vaigyanik Sangoshthi, the Council provides technical guidance from subject matter experts to the state’s farmers, helping to address challenges in biotechnology-based agriculture and animal husbandry. The Council also continuously works to improve farmers’ livelihoods and promote self-employment by sharing technical knowledge on hydroponics, soilless farming, kiwifruit cultivation, fish farming, beekeeping, vegetable production, and floriculture."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Through Kisan-Vaigyanik Sangoshthi, the Council provides technical guidance from subject matter experts to the state’s farmers, helping to address challenges in biotechnology-based agriculture and animal husbandry. The Council also continuously works to improve farmers’ livelihoods and promote self-employment by sharing technical knowledge on hydroponics, soilless farming, kiwifruit cultivation, fish farming, beekeeping, vegetable production, and floriculture.\n<br>\n\n",
+          "briefDescription": "The scheme aims to guide farmers and youth in biotechnology-based farming and animal husbandry by providing technical training and solutions to enhance self-employment and income generation.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Kisan-Vaigyanik Sangoshthi” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to guide farmers and youth in biotechnology-based farming and animal husbandry by providing technical training and solutions to enhance self-employment and income generation."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Kisan-Vaigyanik Sangoshthi” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to guide farmers and youth in biotechnology-based farming and animal husbandry by providing technical training and solutions to enhance self-employment and income generation.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 125)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "f-ss"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68e24511e00490d9b32d5de2",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the guidelines of the Uttarakhand Council for Biotechnology for participation in the seminars.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required as per the guidelines of the Uttarakhand Council for Biotechnology for participation in the seminars."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e244ffe00490d9b32d5d8a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:57:53.715329+00:00",
+  "scheme_id": "68e244ffe00490d9b32d5d8a"
+}

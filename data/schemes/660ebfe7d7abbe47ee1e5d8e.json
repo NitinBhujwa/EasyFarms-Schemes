@@ -1,0 +1,581 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2: "
+            },
+            {
+              "text": "Click on the option “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/register",
+              "type": "link"
+            },
+            {
+              "text": "”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3:"
+            },
+            {
+              "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "  Citizen"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4: "
+            },
+            {
+              "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Select your name, the name of the head of the family and all the other members and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Enter the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "A new link appear on screen, now click on new SSO link."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "SSO id will appear on screen, now create the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Enter Mobile number, click on registration."
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Complete the registration process."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Apply",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " After login, "
+            },
+            {
+              "children": [
+                {
+                  "text": "dashboard "
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/dashboard",
+              "type": "link"
+            },
+            {
+              "text": "will open."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3: "
+            },
+            {
+              "text": "Click on “ RAJ-KISAN ” option. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4:"
+            },
+            {
+              "text": " In \"Citizen\", click on \"Application Entry Request\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-6:"
+            },
+            {
+              "text": " Select the person name and scheme name. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-7:"
+            },
+            {
+              "text": " Complete the Aadhaar Authentication and click on Get details. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-8:"
+            },
+            {
+              "text": " Provide the required details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Pensioner Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Bank Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Disability Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Verification Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Upload Documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-9:"
+            },
+            {
+              "text": " Submit."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on new SSO link.\n      - SSO id will appear on screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5:** Complete the registration process.\n<br>\n\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Citizen&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Obstetric Support:**\n\n\n- For a maximum of two deliveries, the female license holder Hammal and Palledar are entitled to be paid assistance equivalent to 45 days&#39; wages as per the prevailing wage rate determined by the state government as an unskilled labourer.\n- As paternity leave, an amount equivalent to 15 days wages is payable to the Hammal/Tulara/Palledar father of the child as per the prevailing wage rate determined by the State Government as an unskilled laborer.\n\n> **Help for marriage:**\n\n\n- To the extent of the marriage of a licensed woman and two daughters of a licensed woman, ₹ 50,000/-per marriage assistance is payable. \n- Application has to be submitted in the format prescribed by the concerned licensee 90 days before the marriage.\n\n<br>\n\n> **Scholarship / Meritorious Student Award Scheme**\n\n\n- Every student who gets first-division marks and whose guardian is a licensed Hammal or Palledar in Mandi is given a merit scholarship at the following rate:-\n\nClassMale StudentFemale StudentHigher grades (70% to 80%) in the 10th ₹3,000/- to ₹2,000/-₹3,500/-to ₹2,500/-lump sum per studentHigher scores in the 12th Between 80% to 90% between 70% to 80%₹5,000/-,₹4,000/-,₹3,000/-₹6,000/-,₹5,000/-,₹4,000/-lump sum per studentMore than 60% marks in graduation₹4,000/-₹5,000/-lump sum per studentMore than 60% marks in post-graduation₹3,000/-₹4,000/-lump sum per student<br>\n\n\n- **This award is payable as soon as possible within three months of establishing eligibility.**\n\n> **Medical Aid:-**\n\n\n- Reimbursement of medical expenditures up to a maximum of ₹20,000/-is permitted if a licensed Hammaal or Pulladar becomes gravely ill (due to cancer, heart attack, liver, kidney, etc.) and is admitted to a government hospital or health center.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "2af19f4605c1909debee845ba08b2cf61c4828ee712c3c9348d124986d7cb7b1",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Agriculture Department of the Rajasthan Government is pleased to announce the Mahatma Jyotiba Phule Mandi Shramik Kalyan Yojana. This program is designed to enhance the lives of mandi workers within the state. The Yojana offers a comprehensive suite of benefits, including healthcare services with a focus on medical insurance coverage.  Furthermore, the program extends financial assistance to aid mandi workers with matrimonial endeavors.  In the event of a medical condition, the Yojana can facilitate access to appropriate treatment facilities, ensuring workers receive the necessary care.\n",
+  "eligibility": "\n1. The applicant should be Farmers/agricultural laborers of the Rajasthan.\n1. The applicant workers hold licenses from the market committee.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:56:30.703351+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:56:30.703351+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 8000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "660ec081ff0ffe4f91cbc1e2",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhar Card / Janadhar Card.\n1. Mark sheet.\n1. Age proof.\n1. Medical certificate.\n1. Bank account.\n1. Photos.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card / Janadhar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mark sheet."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Age proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Medical certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photos."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "660ebfe7d7abbe47ee1e5d8e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "660ebfe7d7abbe47ee1e5d8e",
+  "scheme_name": "Mahatma Jyotiba Phule Mandi shramik kalyaan yojana ",
+  "scheme_open_date": null,
+  "scheme_short_title": "MJPMSKY",
+  "slug": "mjpmsky",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Rajasthan",
+    "value": 8
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Agriculture",
+    "Financial Support"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

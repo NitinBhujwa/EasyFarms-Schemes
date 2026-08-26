@@ -1,0 +1,217 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application form along with the documents to the concerned authority."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should collect the application form by contacting the Secretary/ Special Officer of the Primary Cooperative Agriculture and Rural Development Bank.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, a unique identification number (if applicable).\n&lt;br&gt;\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Access to Loan:** \n\n\n   1. **For purchasing 2 Buffaloes:** ₹20,000/-.   1. **For purchasing 21 Goats:** 24,500/-.\n\n  - **Interest Rate:** 14.5% to 16.5% (subject to change).\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "9fa8354f965c1d51fedb6fa019b1b5be17c141506b196aed5450acf719bb01fc",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Primary Cooperative Agriculture and Rural Development Bank: For Animal Husbandry&amp;quot; scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to provide financial support to farmers specifically for animal husbandry activities. This initiative aims to empower farmers by boosting livestock development and enhancing agricultural productivity.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+  "eligibility": "\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be a farmer.\n  - The beneficiary should be engaged in animal husbandry.\n  - The beneficiary should be interested to avail Animal Husbandry Loan from the Primary Cooperative Agriculture and Rural Development Bank.\n  - The beneficiary should have the intention to use the loan specifically for animal husbandry (e.g., purchasing buffaloes or goats).\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:59:49.144902+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:59:49.144902+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Co-operation, Food and Consumer Protection Department",
+    "value": 3333335
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/3564"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67231ea13d70c46ec2c7503b",
+      "en": {
+        "documentsRequired_md": "\n   1. Identity proof (Aadhaar, PAN card, etc.).\n   1. Address proof.\n   1. Proof of agricultural occupation (e.g., Farmer&amp;#39;s certificate) (if applicable).\n   1. Any other documents (if required).\n\n&lt;br&gt;\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity proof (Aadhaar, PAN card, etc.)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Address proof."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of agricultural occupation (e.g., Farmer's certificate) (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67231e8e07ebeb8df5688659"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67231e8e07ebeb8df5688659",
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Animal Husbandry",
+  "scheme_open_date": null,
+  "scheme_short_title": "PCARDAH",
+  "slug": "pcardah",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Loan",
+      "value": "Loan"
+    },
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal Husbandry Loan",
+    "Agriculture",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,395 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application in Assamese: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20Assamese.pdf"
+                }
+              ],
+              "link": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20Assamese.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application in English: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20English.pdf"
+                }
+              ],
+              "link": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20English.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 01:"
+            },
+            {
+              "text": " Agriculture Department will publish the advertisement through the print and electronic media in order to invite applications from the respective website"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 02: "
+            },
+            {
+              "text": "This application will be collected by the Agriculture Extension Assistant (AEA) along with bank account details of beneficiaries with their mobile numbers"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 03:"
+            },
+            {
+              "text": " The beneficiary will be selected GP/VDP wise."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 04:"
+            },
+            {
+              "text": " Gaon Panchayats are required to make a list of all the beneficiaries and compile it by the Agriculture Development Officer (ADO) concerned and this list will be placed before the District-level Committee(DLC) after the scrutiny."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 05:"
+            },
+            {
+              "text": " A list of farmers from AEAs/ADOs will be approved by District Level Committee."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 06:"
+            },
+            {
+              "text": " SC and ST farmers will be selected as per the state reservation act which is 7% for SC, 10% for ST (P), and 5% for ST (H)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 07:"
+            },
+            {
+              "text": " After the approval of the beneficiary list, the list will be sent to the Director of agriculture with the bank account details and mobile number details. Further, the Director will make arrangements to send a request to ASFAC to transfer the amount to the beneficiaries bank account by electronic mode. The APC being the custodian of the ASFAC Bank account will transfer the amount to the individual Bank accounts of the beneficiaries, through RTGS/NEFT from the Bank account of ASFAC. The Financial Assistance will be sent to the beneficiaries' account in a single installment of ₹ 5000/- per beneficiary only."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 08:"
+            },
+            {
+              "text": " The individual beneficiary will give an undertaking that the financial assistance provided under the scheme will be utilized for the procurement of farm implements only failing which he will be liable for suitable legal action."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 09:"
+            },
+            {
+              "text": " The list of approved beneficiaries will be published in the District website of the DCs. The same may also be kept in the office notice boards of the DC and DAOs."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "link": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20English.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "link": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Application%20in%20Assamese.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": "https://diragri.assam.gov.in/schemes/mukhya-mantri-krishi-sa-sajuli-yozana"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4d9f4057ddb67d7e033ab65e34b73f3886c030cceaf5960b80934e84e98467c2",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Agriculture occupies the primary position in the economy of the state of Assam. Over 70% of the state’s population relies on agriculture as farmers, as agricultural labourers, or both for their livelihood. Although agriculture in Assam is characterized by stagnation, low productivity and frequent occurrence of floods, and low levels of public and private investment. The small and fragmented land holdings and frequent floods in the state are a causative factor for farmers to have lower income and agricultural activities become non-remunerative in the State. To boost agricultural productivity, it is pertinent to make interventions through financial assistance to poor farmers. Hence, the finance minister of Assam had announced to assist the farmers to promote the use of scientific farm implements. To encourage the farmer to procure and use such implements, the Department of Agriculture proposed a scheme “Mukhya Mantri Sa Sajuli Yojana” (Chief Minister Farm Tool Scheme) for the purpose and launched in FY 2018-19. \nThe scheme “Mukhya Mantri Krishi Sa Sajuli Yojana” is a State Owned Priority Development (SOPD) scheme and the main purpose of launching this scheme for farmers is their holistic development by implementing several farm mechanization schemes. With the help of “Mukhya Mantri Krishi Sa Sajuli Yojana” the government aims to increase farm productivity in the limited land to meet the expanding demand for farm produce and ensure higher income for farmers. As of now, the usage of scientific tools in cultivation is very limited in the state of Assam. So, the state govt. of Assam is making every possible effort through Chief Minister Farm Tool Scheme to ensure the economic growth of rural farmers. Under this scheme, the following is proposed:\n1.\t₹ 5000/- will be provided to each farmer\n2.\tThe number of beneficiaries will be a total of 5 lakh farmers.\n3.\tThe assistance is to procure farm tools/farm implements.\n4.\tScheme will be implemented on Direct Benefit Transfer by electronic transfer into the accounts of the beneficiaries.\n5.\tThe Selection of beneficiaries will be done by the District Level Committee headed by the Deputy Commissioner of the District. The Principal Secretaries will chair the DLC in the case of BTAD and Autonomous Districts.\n6.\tThe Scheme will be implemented under the overall supervision of the State-Level Monitoring Committee chaired by the Agriculture Production Commissioner.\n<br>\n\n",
+  "eligibility": "\n1. The beneficiary should be a resident farmer of Assam.\n1. Only small and marginal farmers are eligible for the benefit under the scheme.\n1. The beneficiary should be more than 21 years old.\n1. He or she should be involved in cultivation for at least three consecutive years.\n1. All Kisan Credit Card (KCC) holders are eligible to apply under the scheme.\n1. The applicant Beneficiary should have a live bank account.\n1. Only one farmer per family shall be eligible for the benefit under the scheme.\n1. Tenant farmers or sharecroppers with a minimum cultivation area of 1 Acre / 3 Bighas may also be considered under the scheme.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:09.337693+00:00",
+  "implementing_agency": "Directorate Of Agriculture, Government Of Assam",
+  "last_synced_at": "2026-08-26T13:53:09.337693+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1800002
+  },
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Guideline_0.pdf "
+    },
+    {
+      "title": "Website Link",
+      "url": "https://diragri.assam.gov.in/schemes/mukhya-mantri-krishi-sa-sajuli-yozana"
+    },
+    {
+      "title": "Advertisement",
+      "url": "https://diragri.assam.gov.in/sites/default/files/swf_utility_folder/departments/diragri_medhassu_in_oid_4/menu/schemes/Advertisement.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64491349c642f2a3bc39f33a",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate i.e. SC, ST, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Age proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of agricultural land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Undertaking etc."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64490cf44d160f59bc28f6c2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64490cf44d160f59bc28f6c2",
+  "scheme_name": "Mukhya Mantri Krishi Sa Sajuli Yozana - Assam",
+  "scheme_open_date": "2018-04-01",
+  "scheme_short_title": "MMKSSY-ASSAM",
+  "slug": "mmkssy-assam",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Assam",
+    "value": 18
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    },
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Agriculture",
+    "Direct Benefit Transfer",
+    "Financial Assistance",
+    "Farm Tools"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

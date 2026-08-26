@@ -1,0 +1,248 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "District Social Welfare Office"
+                }
+              ],
+              "link": "https://sjsa.maharashtra.gov.in/en/contacts",
+              "type": "link"
+            },
+            {
+              "text": ", and request a hard copy of the format of the application form for the scheme from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach all the (self-attested) mandatory documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the Assistant Commissioner, District Social Welfare Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Acquire the receipt/acknowledgment of the successful submission of the application form from the District Social Welfare Office."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "7509aea45cad8c6e8a5e5ccb9186d16210c7dce903a1876ff4c27ededadd9a43",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Being implemented particularly for the Scheduled Caste Communities, the &quot;Karma Veer Dadasaheb Gaikwad Sabalikaran &amp; Swabhiman Yojana&quot; is a scheme by the Department of Social Justice &amp; Special Assistance, Govt. of Maharashtra. The main objective of this scheme is to improve the financial condition of the scheduled castes and Nav-Buddhists who are landless workers and are from &quot;Below Poverty Line&quot;. Only citizens who are permanent residents of the state of Maharashtra are eligible to apply for this scheme. This scheme is 100% funded by the Govt. of Maharashtra.\n",
+  "eligibility": "\n1. The applicant should be a citizen of India.\n1. The applicant should be a permanent resident of Maharashtra State.\n1. The applicant should be in the 18 to 60 years age group.\n1. The applicant should be from Scheduled Caste or should be a Nav-Buddhists.\n1. The applicant should be landless.\n1. The applicant should be from the &quot;Below Poverty Line&quot; category.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:58.715126+00:00",
+  "implementing_agency": "District Social Welfare Offices Of The Department Of Social Justice & Special Assistance, Govt. Of Maharashtra",
+  "last_synced_at": "2026-08-26T13:58:58.715126+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Social Justice and Special Assistance Department",
+    "value": 27111139
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/awards"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6451fb91ba3a1ddfc948e660",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "BPL Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Age (Birth Certificate, Marksheet of Class 10th/12th, etc)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "2-Passport Sized Photograph (Signed Across)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residential Certificate / Domicile Certificate of the State of Maharashtra."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate and/or Certificate mentioning \"Nau Bouddha\" or \"Converted Buddhist\" or \"Neo Buddhist\" issued by the Revenue Department, Govt. of Maharashtra."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of the Bank Account (Bank Name, Branch Name, Address, IFSC, etc)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document required by the District Social Welfare Office."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6451f928ba3a1ddfc948e608"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6451f928ba3a1ddfc948e608",
+  "scheme_name": "Karma Veer Dadasaheb Gaikwad Sabalikaran & Swabhiman Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "KVDGSSY",
+  "slug": "kvdgssy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Maharashtra",
+    "value": 27
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    },
+    {
+      "label": "Citizen empowerment",
+      "value": "Citizen empowerment"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Loan",
+    "Subsidy",
+    "Below Poverty Line",
+    "Scheduled Caste",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,559 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68e8d35777d907841865dd51",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Madhya Pradesh Lok Sewa Guarantee Portal"
+                      }
+                    ],
+                    "link": "https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": "\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " On the homepage, click \"Citizen Registration\". You will be taken to the registration page."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click \"Verify Mobile Number.\""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A verification code will be sent to your mobile number. Enter the code and complete the registration."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Application",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \"Madhya Pradesh Lok Sewa Guarantee Portal\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Enter your User ID, Password, and Captcha Code, and click \"Login.\""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Click on \"Apply Online Service\" and select the scheme you intend to apply for."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click \"Submit\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Registration**\n**Step 1:** Visit the Official Website of &quot;[Madhya Pradesh Lok Sewa Guarantee Portal](https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx)&quot;.\n**Step 2:** On the homepage, click &quot;Citizen Registration&quot;. You will be taken to the registration page.\n**Step 3:** On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click &quot;Verify Mobile Number.&quot;\n**Step 4:** A verification code will be sent to your mobile number. Enter the code and complete the registration.\n**Application**\n**Step 1:** Visit the Official Website of &quot;Madhya Pradesh Lok Sewa Guarantee Portal&quot;.\n**Step 2:** Enter your User ID, Password, and Captcha Code, and click &quot;Login.&quot;\n**Step 3:** Click on &quot;Apply Online Service&quot; and select the scheme you intend to apply for.\n**Step 4:** In the scheme&#39;s online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click &quot;Submit&quot;.\n<br>\n\n"
+          },
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the nearest Forest Range Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Forest Range Office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the Forest Range Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the nearest Forest Range Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Forest Range Office.\n**Step 4:** Request a receipt or acknowledgment from the Forest Range Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Health & Wellness",
+              "value": "628ce7a2d6d1a3bde46852b1"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Compensation for Human Death or Injury Caused by Wild Animals",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "CHDICBWA",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Wildlife and biodiversity",
+              "value": "Wildlife and biodiversity"
+            },
+            {
+              "label": "Disease and conditions",
+              "value": "Disease and conditions"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Financial Assistance",
+            "Deceased",
+            "Injured",
+            "Wild Animal"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a victim of a wild animal attack, resulting in injury or death."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should submit proof that the injury or death was caused by a wild animal (excluding snakes, monitor lizards, and other poisonous creatures)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "In the case of death, the applicant must be a legal heir, family member, or relative of the deceased person."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant should be a victim of a wild animal attack, resulting in injury or death.\n1. The applicant should submit proof that the injury or death was caused by a wild animal (excluding snakes, monitor lizards, and other poisonous creatures).\n1. In the case of death, the applicant must be a legal heir, family member, or relative of the deceased person.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Compensation Amount:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "In case of death:"
+                    },
+                    {
+                      "text": " ₹4,00,000 is paid to the deceased’s legal heir or family member after deducting any temporary assistance already given and the actual cost of medical treatment before death."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "In case of injury:"
+                    },
+                    {
+                      "text": " Actual medical expenses are reimbursed, along with ₹500 per day (maximum ₹50,000) if hospitalized, after deducting any temporary assistance already provided."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Expected Time of Disbursement:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Within 3 working days in case of death."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Within 7 working days in case of injury."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Disbursement:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The payment is made directly to the beneficiary’s bank account via e-payment."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Compensation Amount:**\n\n- **In case of death:** ₹4,00,000 is paid to the deceased’s legal heir or family member after deducting any temporary assistance already given and the actual cost of medical treatment before death.- **In case of injury:** Actual medical expenses are reimbursed, along with ₹500 per day (maximum ₹50,000) if hospitalized, after deducting any temporary assistance already provided.\n**Expected Time of Disbursement:**\n\n- Within 3 working days in case of death.\n- Within 7 working days in case of injury.\n\n**Mode of Disbursement:**\n\n- The payment is made directly to the beneficiary’s bank account via e-payment.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide financial relief to victims or families affected by wild animal attacks in both urban and rural areas through timely monetary compensation.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The “Compensation for Human Death or Injury Caused by Wild Animals” scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to the families of deceased persons or individuals injured due to attacks by wild animals. The scheme covers both urban and rural areas and ensures quick assistance through a time-bound process."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Compensation for Human Death or Injury Caused by Wild Animals” scheme is launched by the Forest Department, Government of Madhya Pradesh. The scheme aims to provide financial relief to the families of deceased persons or individuals injured due to attacks by wild animals. The scheme covers both urban and rural areas and ensures quick assistance through a time-bound process.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=314"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "chdicbwa"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68e8d49277d907841865e5b5",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof\n- Resident Proof\n- Bank Account Details\n- Death Certificate\n- Treatment Bills \n- Other Necessary Documents, if required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resident Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Death Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Treatment Bills "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other Necessary Documents, if required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e8d35777d907841865dd51"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:36.125673+00:00",
+  "scheme_id": "68e8d35777d907841865dd51"
+}

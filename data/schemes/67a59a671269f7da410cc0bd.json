@@ -1,0 +1,271 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Submission of Application"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Fill out the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Application Form (Annexure 1)"
+                }
+              ],
+              "link": "https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf",
+              "type": "link"
+            },
+            {
+              "text": " with all required details, including the proposed facilities, justification, and business plan. Submit the completed application form to the Nodal Agency (Goa State Urban Development Agency) along with any supporting documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Scrutiny and Approval"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Director of the Department of Urban Development will appoint a scrutiny committee to review the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The scrutiny committee will recommend the case to the Nodal Officer, who, in consultation with the Chairman of the Nodal Agency, will approve the application for benefits under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Signing the Memorandum of Understanding (M.O.U.)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Once approved, the beneficiary must sign an M.O.U. with the Nodal Agency, outlining the terms and conditions for the development and maintenance of the facilities."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Implementation and Monitoring"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Nodal Agency will draw up a feasibility report, design, build, and transfer the facilities to the beneficiary."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*The beneficiary will be responsible for maintaining and operating the facilities, with periodic community impact studies conducted by the Nodal Agency."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** **Submission of Application**\nFill out the [Application Form (Annexure 1)](https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf) with all required details, including the proposed facilities, justification, and business plan. Submit the completed application form to the Nodal Agency (Goa State Urban Development Agency) along with any supporting documents.\n**Step 3:** **Scrutiny and Approval**\nThe Director of the Department of Urban Development will appoint a scrutiny committee to review the application.\nThe scrutiny committee will recommend the case to the Nodal Officer, who, in consultation with the Chairman of the Nodal Agency, will approve the application for benefits under the scheme.\n**Step 4:** **Signing the Memorandum of Understanding (M.O.U.)**\nOnce approved, the beneficiary must sign an M.O.U. with the Nodal Agency, outlining the terms and conditions for the development and maintenance of the facilities.\n**Step 5:** **Implementation and Monitoring**\nThe Nodal Agency will draw up a feasibility report, design, build, and transfer the facilities to the beneficiary.\n_*The beneficiary will be responsible for maintaining and operating the facilities, with periodic community impact studies conducted by the Nodal Agency._\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n- Development of safe play areas for healthy recreation and sports.\n- Provision of facilities such as walking tracks, volleyball courts, basketball courts, athletics tracks, football fields, hockey fields, artificial rock climbing walls, and tennis courts.\n- Additional amenities like changing rooms, toilet blocks, storage spaces, illumination, and mild steel fencing.\n- Funding assistance up to ₹3,00,00,000/- for A-Class Municipal Councils/Corporations, up to ₹2,50,00,000/- for B-Class Municipal Councils, and up to ₹1,00,00,000/- for C-Class Municipal Councils.\n- Encouragement of corporate sponsorships and public-private partnership (PPP) models for future sustainability.\n- Free access to non-formal facilities and affordable pay-and-play schemes.\n- Availability of coaching facilities and linkages with local sports associations.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Transport & Infrastructure",
+      "value": "628ce924d6d1a3bde4685354"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "21630df5935df004d50c4607f045ec4a506a80f22e179341efdcc6d334f978f1",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Launched in 2013, the scheme &quot;Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)&quot; by the Department of Urban Development, Government of Goa aims to provide safe play areas for healthy recreation and sports to urban communities. Assistance is provided to develop safe play areas in urban spaces, benefiting local municipal bodies, schools, colleges, registered sports clubs, and registered housing societies, etc. The scheme is implemented by the Goa State Urban Development Agency (GSUDA), which acts as the nodal agency. The scheme operates within the provisions of the Integrated Development of Major Towns Scheme (IDMT).\n",
+  "eligibility": "The following entities owning land not less than 2,000 square meters within the Municipal jurisdiction shall be eligible for the benefit under this scheme:\n(a) Local Municipal body;\n(b) Schools, colleges, or such other institutions;\n(c) Registered Sports Clubs;\n(d) Registered Housing Societies;\n(e) Other Registered bodies espousing the cause of Physical fitness and Sport:\nProvided that an applicant whose land falls in any of the peripheral Panchayat jurisdiction may be considered eligible.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:10:23.490116+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:23.490116+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Urban Development Department",
+    "value": 30000050
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67a59b0dda50340fc8f1f96c",
+      "en": {
+        "documentsRequired_md": "Any documents as required by the Nodal Agency to verify the information provided in the application form [(Annexure 1)](https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf): Registration Details, Location With Survey Numbers, Area of Land, Land Ownership Status, Business Plan, Management Structure, Operational Details.\n_*Upon approval of the application, the beneficiary must sign a Memorandum of Understanding (M.O.U.)_ [_(Annexure 2)_](https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf) _with the Nodal Agency, outlining the terms and conditions for the development and maintenance of the facilities._\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Any documents as required by the Nodal Agency to verify the information provided in the application form "
+              },
+              {
+                "children": [
+                  {
+                    "text": "(Annexure 1)"
+                  }
+                ],
+                "link": "https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf",
+                "type": "link"
+              },
+              {
+                "text": ": Registration Details, Location With Survey Numbers, Area of Land, Land Ownership Status, Business Plan, Management Structure, Operational Details."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "italic": true,
+                "text": "*Upon approval of the application, the beneficiary must sign a Memorandum of Understanding (M.O.U.) "
+              },
+              {
+                "children": [
+                  {
+                    "italic": true,
+                    "text": "(Annexure 2)"
+                  }
+                ],
+                "link": "https://dmg.goa.gov.in/PDFs/Notifications/Notification/OFFICIAL%20GAZETTE%20Recognize%20Person%20Notification%20May%202013.pdf",
+                "type": "link"
+              },
+              {
+                "italic": true,
+                "text": " with the Nodal Agency, outlining the terms and conditions for the development and maintenance of the facilities."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67a59a671269f7da410cc0bd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67a59a671269f7da410cc0bd",
+  "scheme_name": "Fair Recreational Activity and Non-Competitive Involvement in Sports Urban Connect Scheme (F.R.A.N.C.I.S Urban Connect Scheme)",
+  "scheme_open_date": null,
+  "scheme_short_title": "FRANCIS",
+  "slug": "francis",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Infrastructure",
+      "value": "Infrastructure"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Recreation",
+    "Urban",
+    "Sports",
+    "Playground"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

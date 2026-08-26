@@ -1,0 +1,252 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The State Government identifies eligible Gram Panchayats and villages having practicing natural farmers."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Champion Farmers and Community Resource Persons are selected in consultation with the Gram Panchayat."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Interested farmers participate in Farmer Field School activities and training programmes."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Willing farmers commit to adopting natural farming and are registered in Natural Farming Clusters."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Farmers undertake the natural farming pledge and comply with cluster requirements."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Cluster members are registered under the Natural Farming Recognition System for certification."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7: "
+            },
+            {
+              "text": "Financial assistance and other benefits are provided to eligible farmers through Direct Benefit Transfer (DBT)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The State Government identifies eligible Gram Panchayats and villages having practicing natural farmers.\n**Step 2:** Champion Farmers and Community Resource Persons are selected in consultation with the Gram Panchayat.\n**Step 3:** Interested farmers participate in Farmer Field School activities and training programmes.\n**Step 4:** Willing farmers commit to adopting natural farming and are registered in Natural Farming Clusters.\n**Step 5:** Farmers undertake the natural farming pledge and comply with cluster requirements.\n**Step 6:** Cluster members are registered under the Natural Farming Recognition System for certification.\n**Step 7:** Financial assistance and other benefits are provided to eligible farmers through Direct Benefit Transfer (DBT).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Financial Assistance for On-Farm Input Production Infrastructure**\n\n\n- Financial assistance of ₹15,000/- per hectare is provided.\n- Assistance is released at ₹5,000/- per hectare per year for 3 years.\n- Assistance is provided for creating on-farm natural farming input production infrastructure.\n- Assistance is available only to farmers who adopt and continue natural farming practices.\n\n> **Training and Capacity Building**\n\n\n- Participation in Farmer Field Schools (FFS) for practical training on natural farming techniques.\n- Training programmes organized by Champion Farmers and Community Resource Persons.\n- Exposure visits to successful natural farming models and farms.\n\n> **Natural Farming Kit**\n\n\n- Natural Farming Kit provided to participating farmers during Farmer Field School activities.\n- Cost norm of ₹1,200/- per farmer for the kit.\n\n> **Certification Support**\n\n\n- Registration and certification support under the Natural Farming Recognition System (NFRS).\n- Certification facilitation and verification support provided for cluster members.\n\n> **Market Development Support**\n\n\n- Support for marketing, branding, exhibitions, haats, melas, and promotion of certified natural farming produce.\n- Promotion of Farmer Producer Organizations (FPOs) for aggregation and marketing.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d81ed1bf23c1b42c7c589b20ffdc797efb60e76174f60a4da9ce4a38d9965c47",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The National Mission on Natural Farming (NMNF) is a Centrally Sponsored Scheme implemented by the Department of Agriculture &amp;amp; Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India. The scheme aims to promote natural farming practices through capacity building, awareness creation, certification, and financial assistance for on-farm input production infrastructure to farmers. It focuses on reducing dependence on externally purchased inputs, lowering cultivation costs, improving soil health, and increasing farmers&amp;#39; income. The mission supports the formation of natural farming clusters, Farmer Field Schools, certification under the Natural Farming Recognition System, and market development initiatives for natural farming produce. It also promotes integrated agriculture-animal husbandry models based on desi cows and locally available resources.\n<br>\n\n",
+  "eligibility": "\n- The scheme is applicable to all farmers in India.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:47.951467+00:00",
+  "implementing_agency": "INM / State Government Department",
+  "last_synced_at": "2026-08-26T13:58:47.951467+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture & Farmers Welfare",
+    "value": 121226
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "http://agriculture.up.gov.in/nmnf/natural_farming/guid/NMNFGuidelines.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65099daf1a1c949c65fcc69b",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar number\n   1. Land documents\n   1. Caste Certificate (SC/ST only)\n   1. Bank Details\n   1. Photographs\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar number"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land documents"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate (SC/ST only)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Photographs"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65099d901a1c949c65fcc687"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65099d901a1c949c65fcc687",
+  "scheme_name": "National Mission on Natural Farming",
+  "scheme_open_date": "2023-01-01",
+  "scheme_short_title": "NMNF",
+  "slug": "nmnf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Natural Farming",
+    "Agro Ecology",
+    "Chemical-free Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "University / Institution",
+      "value": "institution"
+    }
+  ]
+}

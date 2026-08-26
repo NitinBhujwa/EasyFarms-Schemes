@@ -1,0 +1,214 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The applicant may contact Deputy Commissioner (DADS)/District Agriculture Officer/ Nearest Agriculture Development Officer/ Agriculture field assistant."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Applications in the prescribed format are received from various circles through ADAs/ADOs."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " The applicant must ensure that the filled information should be correct before submitting the application form to the concerned department."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " The final selection of beneficiaries is done through the selection Committee under the Chairmanship of the District Collector (DC)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0634654789a472ced0b135bdf707635457183033f8fce9285184b9cd2fbabf8d",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "To increase production and productivity and also to maintain a marketable surplus of major fruit crops in the State as well as to double farmer’s income, the government has adopted region-wise feasible and need-based Horticulture activities in the various districts of Arunachal Pradesh under budget announcement during the financial year 2019-20, targeted up to 2021-22.\n**Objective:**\n      The main aim of the government scheme is to uplift the status of women, marginal and small farmers of the state for self-employment generation &amp;amp; commercialization of horticulture activities to double their income as per immediate felt needs of the farmers, according to thrust areas enumerated district-wise on suitable crops grown in the specific areas.\n**Important Features:**\n•\tInputs are provided to farmers for tea, rubber, and double cropping, per hectare\n•\tCrops under double cropping are selected based on soil testing\n",
+  "eligibility": "1.\tThe applicant/farmer should be a permanent resident of Arunachal Pradesh.\n2.\tThe applicant should be a progressive farmer of any area/field.\n3.\tAll categories of farmers are eligible to apply under the scheme.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:59:01.145945+00:00",
+  "implementing_agency": "District Agriculture Office",
+  "last_synced_at": "2026-08-26T13:59:01.145945+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture and Marketing Department",
+    "value": 12111112
+  },
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://westsiang.nic.in/scheme-category/chief-ministers-sashakt-kisan-yojana-cm-sky/"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64631c7274fd7a3615d2c277",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card, Voter ID card, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Arunachal Pradesh Schedule Tribe (APST) Certificate (If applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "LPC/Land Allotment Documents/ Land Documents duly certified by GB/HGB/PRI and countersigned by the Local District Administration"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Three copies of recent passport-sized photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Sketch map of the proposed land for Tea/Rubber dully certified by GB/HGB/PRI and countersigned by the Local District Administration"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6462fece84254e8304cfd45e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6462fece84254e8304cfd45e",
+  "scheme_name": "Chief Minister’s Shasakt Kisan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "CM-SKY",
+  "slug": "cm-sky",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Arunachal Pradesh",
+    "value": 12
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Soil health",
+      "value": "Soil health"
+    },
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Horticulture",
+    "Self-employment",
+    "Tea",
+    "Rubber",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

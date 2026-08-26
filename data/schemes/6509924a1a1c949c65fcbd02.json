@@ -1,0 +1,235 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Refer to respective State's Bamboo Mission Portal for online link"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 01: Application to State Bamboo Mission through their respective portals/offline"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 02: Scrutiny and approval of the SBM"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 03: credit linked financing through scheduled/commercial banks"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 04: progress reporting/completion of projects"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 05: evaluation by SBM and disbursal of subsidy to the bank account of the beneficiary"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Refer to respective State&#39;s Bamboo Mission Portal for online link\n<br>\n\nStep 01: Application to State Bamboo Mission through their respective portals/offline\nStep 02: Scrutiny and approval of the SBM\nStep 03: credit linked financing through scheduled/commercial banks\nStep 04: progress reporting/completion of projects\nStep 05: evaluation by SBM and disbursal of subsidy to the bank account of the beneficiary\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "The scheme targets to provide following benefits:\n1)\tIt would assist farmers, government agencies, artisans, entrepreneurs, private agencies, Federated SHGs, FPOs, and other persons involved in bamboo industry\n2)\tIt will help in establishing bamboo nursery, bamboo cultivation, post-harvest processing, product manufacturing, capacity building, entrepreneurship, etc for the industry\n3)\tIt will help in creating self-dependency for fulfilling the demand of bamboo and bamboo products.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "06a5e226d0611547ab5496dced8dc7c19a21be75ab483e55f34ee1ee3dcb9e4a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Resultant to this historic amendment, bamboo grown in the non-forest area is out of the scope of regulations on the forest produces. During the year 2022-23, the NBM has been merged with Mission for Integrated Development of Horticulture (MIDH) scheme. \n<br>\n\nThe restructured National Bamboo Mission primarily focuses on the development of complete value chain of bamboo sector to link growers with consumers starting from planting material, plantation, creation of facilities, skilled manpower and brand processing marketing, micro, small &amp; medium enterprises, skilled manpower and brand building initiative in a cluster approach mode. Presently the scheme is being implemented in 24 States/UTs. The NBM has provisions to raise bamboo plantations as well as to establish units for bio-energy extraction, activated carbon product, charcoal making, pellet making, Ethanol gasifier, etc for government agencies and private entrepreneurs.\n<br>\n\nNBM also envisaged to revitalise the bamboo industry through various innovations and policy support that would contribute by reducing the carbon emission and contribute to domestic manufacturing.\n<br>\n\nThe key objectives of the Mission are as follows:\n•\tTo increase the area under bamboo plantation in non-forest Government and private lands to supplement farm income and contribute towards resilience to climate change as well as availability of quality raw material requirement of industries. The bamboo plantations will be promoted predominantly in farmers’ fields, homesteads, community lands, arable wastelands, and along irrigation canals, water bodies etc.\n•\tTo improve post-harvest management through establishment of innovative primary processing units near the source of production, primary treatment and seasoning plants, preservation technologies and market infrastructure.\n•\tTo promote product development keeping in view market demand, by assisting R&amp;D, entrepreneurship &amp; business models at micro, small and medium levels and feed bigger industry.\n•\tTo rejuvenate the underdeveloped bamboo industry in India\n•\tTo promote skill development, capacity building, awareness generation for development of bamboo sector from production to market demand.\n•\tTo realign efforts to reduce dependency on import of bamboo and bamboo products by way of improved productivity and suitability of domestic raw material for industry, so as to enhance income of the primary producers.\n<br>\n\n",
+  "eligibility": "The scheme is applicable to all farmers in India\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:09.451310+00:00",
+  "implementing_agency": "State Bamboo Development Agency / State Bamboo Mission",
+  "last_synced_at": "2026-08-26T14:10:09.451310+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture & Farmers Welfare",
+    "value": 121226
+  },
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://nbm.da.gov.in/"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://nbm.da.gov.in/Documents/pdf/NBM_Guideline_2025.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6509925d7846de4ead17f43d",
+      "en": {
+        "documentsRequired_md": "1)\tAadhaar number\n2)\tLand documents\n3)\tCaste Certificate (SC/ST only)\n4)\tPhone Details\n5)\tBank Details\n6)\tPhotographs\n7)\tDPR\nThe specific documents for availing the benefits of the program may vary depending on the type of intervention and the state. It is recommended to consult with the relevant authorities for detailed information on documents to be submitted.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1)\tAadhaar number"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2)\tLand documents"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3)\tCaste Certificate (SC/ST only)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4)\tPhone Details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5)\tBank Details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6)\tPhotographs"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "7)\tDPR"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The specific documents for availing the benefits of the program may vary depending on the type of intervention and the state. It is recommended to consult with the relevant authorities for detailed information on documents to be submitted."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6509924a1a1c949c65fcbd02"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6509924a1a1c949c65fcbd02",
+  "scheme_name": "National Bamboo Mission",
+  "scheme_open_date": "2018-04-25",
+  "scheme_short_title": "NBM",
+  "slug": "nbm",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Bamboo Marketing",
+    "Quality Planting Material",
+    "Bamboo Plantation",
+    "Product Development"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

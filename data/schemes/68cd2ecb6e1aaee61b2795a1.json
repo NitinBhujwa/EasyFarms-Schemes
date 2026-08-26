@@ -1,0 +1,164 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "After providing complete information regarding the formation of the Women's Milk Producers Cooperative Society in an open meeting, upon consensus on the formation of the Women's Milk Committee, 9 women are selected from the Women's Milk Committee members as Managing Committee members and a Chairperson is elected from among the selected members. Thereafter, the Managing Committee appoints a Secretary as an employee to run the Milk Committee."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "All milk producing members who supply milk to the Milk Committee have to become members of the Committee."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - After providing complete information regarding the formation of the Women&amp;#39;s Milk Producers Cooperative Society in an open meeting, upon consensus on the formation of the Women&amp;#39;s Milk Committee, 9 women are selected from the Women&amp;#39;s Milk Committee members as Managing Committee members and a Chairperson is elected from among the selected members. Thereafter, the Managing Committee appoints a Secretary as an employee to run the Milk Committee.\n  - All milk producing members who supply milk to the Milk Committee have to become members of the Committee.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n  - Under this scheme, by providing adequate resources to rural women through Women Milk Producers Cooperative Societies at the village level, their direct participation in the state’s economy is encouraged, making them socially and economically self-reliant. \n  - The scheme also organizes various training, incentive, and awareness programs for women members to increase milk production. These include training programs for secretaries and management committee members, women encouragement and motivational programs, seminars on clean milk procurement, and special women-focused seminars on the occasion of International Women’s Day.\n  - Under the women incentive program to increase milk procurement, first, second, and third prizes are awarded to the women milk producers who supply the maximum milk in the district.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    },
+    {
+      "label": "Women and Child",
+      "value": "64f57d10ffb93104c7006c97"
+    }
+  ],
+  "content_hash": "fff529d18a28ba07388cd732afff97c932eb44daf5bb6c2198a42aee3950e6ce",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Mahila Dairy Vikas Pariyojana” was launched by the Department of Dairy Development, Government of Uttarakhand. It aims to empower rural women in Uttarakhand by promoting their active participation in the dairy sector through Women Milk Producers Cooperative Societies, enhancing milk production, and providing training, incentives, and awareness programs for sustainable livelihood development.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must be a woman interested in the milk procurement business sector.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:01:00.418272+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:00.418272+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Dairy Development Department",
+    "value": 50000068
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 201)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68cd2eea6e1aaee61b279678",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the department’s guidelines prescribed for this scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Documents are required as per the department’s guidelines prescribed for this scheme."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cd2ecb6e1aaee61b2795a1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68cd2ecb6e1aaee61b2795a1",
+  "scheme_name": "Mahila Dairy Vikas Pariyojana - Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "MDVPUK",
+  "slug": "mddpu",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Dairy Development",
+    "Woman",
+    "Milk Production",
+    "Cooperative Society",
+    "Training",
+    "Milk Procurement"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

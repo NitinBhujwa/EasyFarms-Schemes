@@ -1,0 +1,464 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "official website"
+                    }
+                  ],
+                  "href": "https://mahadbt.maharashtra.gov.in/login/login",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "link": "https://mahadbt.maharashtra.gov.in",
+              "type": "link"
+            },
+            {
+              "text": "of Aaple Sarkar / Maha DBT."
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "href": "https://mahadbt.maharashtra.gov.in/login/login",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Click on \""
+            },
+            {
+              "children": [
+                {
+                  "text": "New Applicant Registration"
+                }
+              ],
+              "link": "https://mahadbt.maharashtra.gov.in/RegistrationLogin/RegistrationLogin",
+              "type": "link"
+            },
+            {
+              "text": "\". Register using your Name, Mobile Number, and Email ID. Create a Username and Password. Your Mobile Number and Email ID will be verified via OTP."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Note:"
+            },
+            {
+              "text": " The username should contain only alphabets and numbers. The username should be greater than 4 characters and less than 15 characters."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Note:"
+            },
+            {
+              "text": " Password Length should be a minimum of 8 characters and a maximum of 20 characters. Password must contain at least 1 UpperCase Alphabet, 1 LowerCase Alphabet, 1 Number, and 1 Special Character."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Now visit "
+            },
+            {
+              "children": [
+                {
+                  "text": "Login Page "
+                }
+              ],
+              "link": "https://mahadbt.maharashtra.gov.in/Login/Login",
+              "type": "link"
+            },
+            {
+              "text": "and log in using your Username and Password."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "You will be directed to"
+            },
+            {
+              "children": [
+                {
+                  "text": " Login Page"
+                }
+              ],
+              "link": "https://mahadbt.maharashtra.gov.in/Home/Home",
+              "type": "link"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ". "
+                }
+              ],
+              "href": "https://mahadbt.maharashtra.gov.in/Home/Home",
+              "type": "link"
+            },
+            {
+              "text": "In the left pane, click \"Aadhaar Bank Link\" to link your Aadhaar with your Bank Account."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "In the left pane, click \"Profile\". Fill in all the mandatory details and upload the mandatory documents (Personal Details, Address Information, Other Information, Current Course, Past Qualification, and Hostel Details). Click \"Save\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "In the left pane, click \"All Schemes\". A list of schemes will appear. Click on \"Savitribai Phule Scholarship\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Fill in all the additional information and upload the mandatory documents. Click \"Submit\" to submit your application. A pop-up will appear, displaying your Application ID. Save the Application ID for future reference. Click \"OK\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Optional: "
+            },
+            {
+              "text": "You can track the status of your application (Under Scrutiny / Approved / Rejected / Fund Disbursed) by clicking on \"My Applied Scheme History\" in the left pane."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the [[official website]() ](https://mahadbt.maharashtra.gov.in)of Aaple Sarkar / Maha DBT.\n<br>\n\n**Step 2:** Click on &quot;[New Applicant Registration](https://mahadbt.maharashtra.gov.in/RegistrationLogin/RegistrationLogin)&quot;. Register using your Name, Mobile Number, and Email ID. Create a Username and Password. Your Mobile Number and Email ID will be verified via OTP.\n<br>\n\n**Note:** The username should contain only alphabets and numbers. The username should be greater than 4 characters and less than 15 characters.\n<br>\n\n**Note:** Password Length should be a minimum of 8 characters and a maximum of 20 characters. Password must contain at least 1 UpperCase Alphabet, 1 LowerCase Alphabet, 1 Number, and 1 Special Character.\n<br>\n\n**Step 3:** Now visit [Login Page ](https://mahadbt.maharashtra.gov.in/Login/Login)and log in using your Username and Password.\nYou will be directed to[ Login Page](https://mahadbt.maharashtra.gov.in/Home/Home)[. ]()In the left pane, click &quot;Aadhaar Bank Link&quot; to link your Aadhaar with your Bank Account.\n<br>\n\n**Step 4:** In the left pane, click &quot;Profile&quot;. Fill in all the mandatory details and upload the mandatory documents (Personal Details, Address Information, Other Information, Current Course, Past Qualification, and Hostel Details). Click &quot;Save&quot;.\n<br>\n\n**Step 5:** In the left pane, click &quot;All Schemes&quot;. A list of schemes will appear. Click on &quot;Savitribai Phule Scholarship&quot;.\n<br>\n\n**Step 6:** Fill in all the additional information and upload the mandatory documents. Click &quot;Submit&quot; to submit your application. A pop-up will appear, displaying your Application ID. Save the Application ID for future reference. Click &quot;OK&quot;.\n<br>\n\n**Optional:** You can track the status of your application (Under Scrutiny / Approved / Rejected / Fund Disbursed) by clicking on &quot;My Applied Scheme History&quot; in the left pane.\n<br>\n\n",
+      "url": "https://mahadbt.maharashtra.gov.in"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. Financial Assistance is given to the institution for maintenance assistance is given on building rent.\n1. 100 percent salary grants for approved teaching and non-teaching staff.\n1. Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities. \n1. ₹1450/- p.m. per residential student is admissible.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    },
+    {
+      "label": "Education & Learning",
+      "value": "628ce76cd6d1a3bde4685292"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "7afe672dc354d77fe8da6c73a5435cfa767bac1d95eadda5405250aa72f5f506",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Government of Maharashtra has introduced a scheme &quot;Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes&quot; to the voluntary organization to run the Public School (Vidya Niketan) on a grant-in-aid basis at Kamlewadi, Taluka Mukhed, District Nanded for the needy, brilliant and talented students belonging to VJNT Category. In this public school, students get an education from 5th to 12th standard on a merit basis.\nThe Benefits provided by the Government of Maharashtra are Financial Assistance given to the institution for maintenance assistance given on building rent. 100 percent salary grants for approved teaching and non-teaching staff. Students are provided with facilities like books, notebooks, uniforms, education stationary free lodging, and boarding facilities. Rs.1450/- p.m. per residential student is admissible.\n",
+  "eligibility": "\n1. The beneficiary should be a student.\n1. The beneficiary should be a resident of Maharashtra.\n1. The beneficiary should belong to the VJNT community.\n1. The income of the parents should not be more than Rs. 24000/- per annum.\n1. The beneficiary should clear the competitive examination Students belonging to the VJNT category &amp; those who studying in 4th Standard are eligible to take admitted to VJNT Ashram School on a merit basis\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:59:05.408451+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:59:05.408451+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Social Justice and Special Assistance Department",
+    "value": 27111139
+  },
+  "references": [
+    {
+      "title": "Guidlines",
+      "url": "https://sjsa.maharashtra.gov.in/en/scheme-category/education-training?&Submit=Submit&page=1"
+    },
+    {
+      "title": "Application Link",
+      "url": "https://mahadbt.maharashtra.gov.in/login/login"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64705b809062e55967604a64",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Number.\n1. Proof of Identity.\n1. Proof of Age (Birth Certificate).\n1. Proof of Address.\n1. Domicile Certificate of Maharashtra.\n1. Caste Certificate VJNT And Nomadic Tribe Community (duly signed by an authorized Revenue Officer, not below the rank of Tehsildar).\n1. Marksheet of the Latest Educational Qualification.\n1. Fee Receipt of ‘Current Course Year’.\n1. Bank Account Details.\n1. Passport-sized Photograph.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Identity."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Age (Birth Certificate)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Address."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Domicile Certificate of Maharashtra."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate VJNT And Nomadic Tribe Community (duly signed by an authorized Revenue Officer, not below the rank of Tehsildar)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Marksheet of the Latest Educational Qualification."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Fee Receipt of ‘Current Course Year’."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-sized Photograph."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "646f4a3a9062e559675fb6ad"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "646f4a3a9062e559675fb6ad",
+  "scheme_name": "Opening And Maintenance Of Public School (Vidya Niketan) For Vimukta Jatis And Nomadic Tribes",
+  "scheme_open_date": null,
+  "scheme_short_title": "OMPS",
+  "slug": "omps",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Maharashtra",
+    "value": 27
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Vidya Niketan",
+    "Education",
+    "Public School",
+    "Vimukta Jatis And Nomadic Tribes"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

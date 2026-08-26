@@ -1,0 +1,225 @@
+{
+  "detail": {
+    "data": {
+      "_id": "660ea182d7abbe47ee1e3836",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "To avail the benefits of the scheme, the scheduled caste beneficiary may contact a nearby Intensive Cattle Development Project Sub Centre."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "To avail the benefits of the scheme, the scheduled caste beneficiary may contact a nearby Intensive Cattle Development Project Sub Centre.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Fodder Minikits under Schedule Castes Sub Plan (SC Category)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "FMSCSP(SCC)",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Farmer",
+            "Scheduled Caste",
+            "Fodder Minikits",
+            "Seed"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a permanent resident of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary of the Scheduled Caste category can avail the benefit under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should possess 10 Guntha of land to his or her name. "
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary of the Scheduled Caste category can avail the benefit under this scheme.\n   1. The beneficiary should possess 10 Guntha of land to his or her name. \n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg, or 10 Kg is given to the eligible beneficiary."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n   1. Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg, or 10 Kg is given to the eligible beneficiary.\n\n",
+          "briefDescription": "The scheme “Fodder Minikits under Schedule Castes Sub Plan” is implemented by the Directorate of Animal Husbandry, Government of Gujarat to provide an improved variety of fodder seeds to Scheduled Castes beneficiaries for widespread publicity, demonstration, and adaptation by farmers.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Fodder Minikits under Schedule Castes Sub Plan” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration, and adaptation by farmers."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Fodder Minikits under Schedule Castes Sub Plan” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration, and adaptation by farmers.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://doah.gujarat.gov.in/fodder-development.htm"
+            },
+            {
+              "title": "Guidelines",
+              "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/2-fooder-eng-1818.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "fmscspscc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "660ea194ff0ffe4f91cb9c1f",
+      "en": {
+        "documentsRequired_md": "1.\tIdentity proof\n2.\tProof of Residence\n3.\tProof of possessing10 Guntha of land\n4.\tAny other documents as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tIdentity proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tProof of Residence"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tProof of possessing10 Guntha of land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tAny other documents as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "660ea182d7abbe47ee1e3836"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:59:40.771286+00:00",
+  "scheme_id": "660ea182d7abbe47ee1e3836"
+}

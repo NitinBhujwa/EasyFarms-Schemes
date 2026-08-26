@@ -1,0 +1,350 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To avail the benefits of this scheme, the applicant must first download the application form/proposal format from the department's website https://shm.uk.gov.in/ or obtain it from the Horticulture office of the concerned district."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must then prepare the application proposal in the prescribed format. If any difficulty arises in preparing the proposal, assistance can be sought from the departmental staff at the Dehradun and Jyolikot Indo-Dutch Mushroom Offices. Once prepared, the proposal must be submitted to the relevant office."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The interested farmer must apply for a bank loan. For this, the applicant is required to provide land documents, Aadhaar card, PAN card, bank account details, income details from mushroom farming, expenditure details, other sources of income, and any land-related documents. The bank will process the loan application and approve it following its standard procedures."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After loan approval, the farmer must submit the application to the office of the Director of Horticulture Mission/Chief Mushroom Development Officer in the prescribed format. The application must include the following documents: land records, bank loan approval letter, Aadhaar card, bank passbook, PAN card, copy of family registry/ration card, permanent residence/account khatauni, khasra and khatauni, mushroom training certificate, affidavit, lease certificate for leased land, and, in the case of owned land, an affidavit of ownership. If any required documents are missing at the time of application, the applicant may be asked to provide them verbally or in writing. The submitted proposal is then evaluated by a committee."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Upon approval of the proposal, the applicant is notified by telephone and receives a formal approval letter from the office of the Director of Horticulture Mission/Chief Mushroom Development Officer. The farmer may then begin establishing the mushroom unit. Following this, departmental personnel conduct a site inspection. Based on the inspection report, the subsidy is disbursed directly into the farmer's account in two installments. Currently, this entire process is conducted offline."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - To avail the benefits of this scheme, the applicant must first download the application form/proposal format from the department&amp;#39;s website https://shm.uk.gov.in/ or obtain it from the Horticulture office of the concerned district.\n  - The applicant must then prepare the application proposal in the prescribed format. If any difficulty arises in preparing the proposal, assistance can be sought from the departmental staff at the Dehradun and Jyolikot Indo-Dutch Mushroom Offices. Once prepared, the proposal must be submitted to the relevant office.\n  - The interested farmer must apply for a bank loan. For this, the applicant is required to provide land documents, Aadhaar card, PAN card, bank account details, income details from mushroom farming, expenditure details, other sources of income, and any land-related documents. The bank will process the loan application and approve it following its standard procedures.\n  - After loan approval, the farmer must submit the application to the office of the Director of Horticulture Mission/Chief Mushroom Development Officer in the prescribed format. The application must include the following documents: land records, bank loan approval letter, Aadhaar card, bank passbook, PAN card, copy of family registry/ration card, permanent residence/account khatauni, khasra and khatauni, mushroom training certificate, affidavit, lease certificate for leased land, and, in the case of owned land, an affidavit of ownership. If any required documents are missing at the time of application, the applicant may be asked to provide them verbally or in writing. The submitted proposal is then evaluated by a committee.\n  - Upon approval of the proposal, the applicant is notified by telephone and receives a formal approval letter from the office of the Director of Horticulture Mission/Chief Mushroom Development Officer. The farmer may then begin establishing the mushroom unit. Following this, departmental personnel conduct a site inspection. Based on the inspection report, the subsidy is disbursed directly into the farmer&amp;#39;s account in two installments. Currently, this entire process is conducted offline.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "Under the scheme:\n\n  - To promote mushroom production, a 40% subsidy is provided to the individual sector (farmers or persons interested in mushroom cultivation).\n  - For setting up a mushroom production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit.\n  - For setting up a compost production unit, a 40% subsidy is provided, up to a maximum of ₹20,00,000/- per unit.\n  - For setting up a spawn production unit, a 40% subsidy is provided, up to a maximum of ₹15,00,000/- per unit.\n  - For the public sector (government departments, institutions, agricultural/industrial universities, etc.), 100% subsidy is provided on the total cost.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "710471e3ac75ccfb4352ab45927e316b662331b69ab2f8ad66f3397af1303d67",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Mushroom Production” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote and support mushroom cultivation in the state by providing financial assistance and subsidies for establishing mushroom, compost, and spawn production units, thereby enhancing both farmer income and overall mushroom production in Uttarakhand.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer interested in mushroom production.\n1. The farmer must either own land or have land on lease.\n1. Each farmer is eligible for assistance for only one unit.\n1. There is no provision to provide assistance or subsidy if the farmer does not take a loan.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:21.231067+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:21.231067+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 50000100
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 213)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6918b43c04b813434b126aa9",
+      "en": {
+        "documentsRequired_md": "For applying a loan from a bank, following documents are required:\n\n1. Land documents\n1. Aadhaar card\n1. PAN card\n1. Bank account details\n1. Income details from mushroom farming\n1. Expenditure details\n1. Details of other sources of income\n\nUpon approval of the bank loan, the farmer needs to submit the following documents to the office of the Director of Horticulture Mission or the Chief Mushroom Development Officer:\n\n1. Land records\n1. Bank loan approval letter\n1. Aadhaar card\n1. Bank passbook\n1. PAN card\n1. Copy of family registry or ration card\n1. Permanent residence proof\n1. Land documents (Khasra and khatauni details)\n1. Mushroom training certificate\n1. Affidavit\n1. Lease certificate (if land is leased)\n1. Affidavit of ownership (in case of round account land)\n\nIf any required documents are missing, the applicant is asked to provide them either verbally or in writing.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "For applying a loan from a bank, following documents are required:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income details from mushroom farming"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Expenditure details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of other sources of income"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Upon approval of the bank loan, the farmer needs to submit the following documents to the office of the Director of Horticulture Mission or the Chief Mushroom Development Officer:"
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land records"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank loan approval letter"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of family registry or ration card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Permanent residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land documents (Khasra and khatauni details)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mushroom training certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Affidavit"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lease certificate (if land is leased)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Affidavit of ownership (in case of round account land)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": "If any required documents are missing, the applicant is asked to provide them either verbally or in writing."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6918aa1e04b813434b124d01"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6918aa1e04b813434b124d01",
+  "scheme_name": "Mushroom Production",
+  "scheme_open_date": null,
+  "scheme_short_title": "MSPUK",
+  "slug": "fsf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Mushroom",
+    "Subsidy",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

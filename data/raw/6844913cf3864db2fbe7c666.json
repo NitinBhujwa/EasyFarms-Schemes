@@ -1,0 +1,326 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6844913cf3864db2fbe7c666",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The Veterinary Officer/Livestock Extension Officer will identify eligible beneficiaries and collect their applications."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Applicants must submit their Aadhaar card, bank account details, and land records along with the application form."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The Veterinary Officer will prepare a project report, which the livestock owner will submit to the bank. All applications will be forwarded to the Chief Veterinary Officer’s office. The District Executive Committee will conduct the verification, select the beneficiaries, and disburse the subsidy."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - The Veterinary Officer/Livestock Extension Officer will identify eligible beneficiaries and collect their applications.\n  - Applicants must submit their Aadhaar card, bank account details, and land records along with the application form.\n  - The Veterinary Officer will prepare a project report, which the livestock owner will submit to the bank. All applications will be forwarded to the Chief Veterinary Officer’s office. The District Executive Committee will conduct the verification, select the beneficiaries, and disburse the subsidy.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Animal Husbandry",
+            "value": 50000004
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Business & Entrepreneurship",
+              "value": "628ce733d6d1a3bde4685278"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Establishment of Broiler Farms",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "EBFUK",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Broiler Farms",
+            "Subsidy",
+            "Yard Construction",
+            "Broiler Birds",
+            "Self Help Group"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant may belong to any caste."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Preference will be given to women and self-help groups (SHGs)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must own land or have land on lease."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must have a KYC-certified bank account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant may belong to any caste.\n1. Preference will be given to women and self-help groups (SHGs).\n1. The applicant must own land or have land on lease.\n1. The applicant must have a KYC-certified bank account.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "A subsidy of ₹15/- per bird is provided for 6 batches, amounting to a total subsidy of ₹45,000/- per beneficiary."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "An additional grant of ₹15,000/- per beneficiary is provided for fence construction, making the total subsidy ₹60,000/- per beneficiary."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "With a minimum of 500 broiler birds, the total unit cost is approximately ₹3.05 lakh."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme:\n\n  - A subsidy of ₹15/- per bird is provided for 6 batches, amounting to a total subsidy of ₹45,000/- per beneficiary.\n  - An additional grant of ₹15,000/- per beneficiary is provided for fence construction, making the total subsidy ₹60,000/- per beneficiary.\n  - With a minimum of 500 broiler birds, the total unit cost is approximately ₹3.05 lakh.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs).",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Establishment of Broiler Farms” was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs)."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Establishment of Broiler Farms” was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs).\n<br>\n\n",
+          "exclusions": null,
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 237)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ebfuk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68449170ed4abe56e7454c5e",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Bank Account Details\n1. Land Records\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Records"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6844913cf3864db2fbe7c666"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:09:33.998203+00:00",
+  "scheme_id": "6844913cf3864db2fbe7c666"
+}

@@ -1,0 +1,277 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The interested applicant should take a printout of the prescribed format of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "application form"
+                }
+              ],
+              "link": "https://forests.gujarat.gov.in/writereaddata/images/pdf/2-kissan-nursery-request.pdf",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to - "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "PCCF & HOFF, Gujarat State, Block A, 1st Floor, Aranya Bhavan,Opp, St.Xaviers School,Near Ch-3 Circle, Sector-10/A, Gandhinagar."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "NOTE:",
+              "underline": true
+            },
+            {
+              "text": " Ensure that the application is submitted within the prescribed period, if any."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should take a printout of the prescribed format of the [application form](https://forests.gujarat.gov.in/writereaddata/images/pdf/2-kissan-nursery-request.pdf).\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to - \n_PCCF &amp; HOFF, Gujarat State, Block A, 1st Floor, Aranya Bhavan,Opp, St.Xaviers School,Near Ch-3 Circle, Sector-10/A, Gandhinagar._\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Financial Assistance for Raising Seedlings:** ₹2.20 per seedling is provided in three installments.\n**Ownership of Seedlings:** The beneficiary retains full ownership of the seedlings raised and can sell or use them without requiring permission from anyone.\n**Income Generation:** The scheme is recognized as a &quot;very good income generating activity&quot;.\n**Accessibility of Plants:** Decentralized people&#39;s nurseries ensure the availability of plants within a reasonable distance of villages for extensive tree plantations in both rural and urban areas.\n**Targeted Benefits for Scheduled Caste Community:** Under the &quot;Special Component Program (SCP)-Decentralised Peoples Nursery&quot;, similar benefits are extended to beneficiaries and beneficiary groups belonging to the Scheduled Caste community.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0666140b49d006ca56fc9a9b845a4f90dd9245f4012fadb8174698ac721fae9c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Decentralized People’s Nursery&quot; by the Social Forestry wing of the Principal Chief Conservator of Forest &amp; Head of the Forest Force (HoFF), Government of Gujarat, aims to augment the income of farmers and increase tree cover by promoting afforestation activities. It allows individuals and institutions interested in raising seedlings to apply for assistance. The scheme typically involves a target of 20,000 seedlings to be raised by an applicant. A key feature is that ownership of the seedlings remains with the beneficiary, who is free to sell or use them without external permission. Financial compensation is provided in installments for the plants raised. The scheme is implemented by the Forest Department.\n<br>\n\n",
+  "eligibility": "\n- The applicant must be interested in raising seedlings.\n- The scheme is open to all individuals.\n- The applicant must typically aim to raise a target of 20,000 seedlings.\n\n**Preference**\n\n- An applicant who can keep a piece of land reserved for the purpose of nursery for a minimum of twelve months.\n- An applicant who plans to undertake the nursery activity as a commercial activity and not merely a seasonal one on that piece of land.\n\n**Specific to Decentralized School / Kisan Nursery**\n\n- The interested stakeholder must submit an application in response to an advertisement in the local media. \n- Small and marginal farmers, Below Poverty Line (BPL) cardholder families, landless laborers, and schools can raise plants under this variant.\n\n**Specific to SCP-Decentralised Peoples Nursery**\n\n- The beneficiary or beneficiary group must belong to the Scheduled Caste community.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:13.770790+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:13.770790+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Forests and Environment Department",
+    "value": 2444448
+  },
+  "references": [
+    {
+      "title": "FAQs On Social Forestry Schemes",
+      "url": "https://forests.gujarat.gov.in/sf-faq.htm"
+    },
+    {
+      "title": "Scheme's Page Of PCCF & HoFF",
+      "url": "https://forests.gujarat.gov.in/schemes-details.htm"
+    },
+    {
+      "title": "Application Form [PDF]",
+      "url": "https://forests.gujarat.gov.in/writereaddata/images/pdf/2-kissan-nursery-request.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ab200ff65b9f85e60e0c6b",
+      "en": {
+        "documentsRequired_md": "\n- Proof of Identity\n- Proof of Address\n- Land Ownership or Lease Agreement (for land reserved for nursery)\n- Bank Account Details (for receiving installments)\n- Caste Certificate (for Scheduled Caste beneficiaries)\n- B.P.L. (Below Poverty Line) Card (for Decentralized School / Kisan Nursery and SCP variants)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Identity"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Address"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership or Lease Agreement (for land reserved for nursery)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details (for receiving installments)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (for Scheduled Caste beneficiaries)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "B.P.L. (Below Poverty Line) Card (for Decentralized School / Kisan Nursery and SCP variants)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ab2000b7b67a8b92d64bbb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ab2000b7b67a8b92d64bbb",
+  "scheme_name": "Decentralized People’s Nursery",
+  "scheme_open_date": null,
+  "scheme_short_title": "DPN",
+  "slug": "dpn",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    },
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    },
+    {
+      "label": "Wildlife and biodiversity",
+      "value": "Wildlife and biodiversity"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Nursery",
+    "Seedlings",
+    "Afforestation",
+    "Farmers",
+    "Forestry",
+    "Environment",
+    "Rural"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

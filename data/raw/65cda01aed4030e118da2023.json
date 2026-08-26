@@ -1,0 +1,452 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65cda01aed4030e118da2023",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Application Process:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02: "
+                      },
+                      {
+                        "text": "Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Mode of Selection of Beneficiary(s):",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Whom to Contact:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "1. Sectoral Officer, Department of Horticulture"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "2. "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "District Horticulture Officer"
+                          }
+                        ],
+                        "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "3. Horticulture Development Officer."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. Sectoral Officer, Department of Horticulture\n2. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n3. Horticulture Development Officer.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Post Harvest Marketing Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "PHMS",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Post Harvest",
+            "Marketing",
+            "Infrastructure",
+            "Farmer",
+            "SHG Farmers",
+            "Co-Operative Societies",
+            "FIG",
+            "FPO",
+            "Horticulture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            },
+            {
+              "label": "NGO",
+              "value": "ngo"
+            },
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "text": "1.\tThe applicant should be a permanent resident of Meghalaya."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2.\tThe applicant should be a bonafide farmer engaged in agriculture."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "3.\tThe applicant should possess owned or leased land of at least 0.2 hectares or more."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "1.\tThe applicant should be a permanent resident of Meghalaya.\n2.\tThe applicant should be a bonafide farmer engaged in agriculture.\n3.\tThe applicant should possess owned or leased land of at least 0.2 hectares or more.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Creation of infrastructural facilities for post harvest marketing, Grading Units etc."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Type of Assistance and Entitlement (If Any):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Entitlement"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Owantum of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Evacuation facilities like pick-up trucks/ mini trucks/ Tata mobile to the Farmers Groups/ Farmers Clubs/ SHG farmers Co-Operative Societies/ FIG/ FPOs etc. for transportation of farm produce to the market."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,000,00/- per Group or SHG. (50% Subsidy)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Village level Farmers training on Post Harvest Management."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹189/ day/farmer. (Daily allowance)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            }
+          ],
+          "benefits_md": "> **Pattern of Assistance:**\n\n\n- Creation of infrastructural facilities for post harvest marketing, Grading Units etc.\n\n> **Type of Assistance and Entitlement (If Any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1Evacuation facilities like pick-up trucks/ mini trucks/ Tata mobile to the Farmers Groups/ Farmers Clubs/ SHG farmers Co-Operative Societies/ FIG/ FPOs etc. for transportation of farm produce to the market.₹2,000,00/- per Group or SHG. (50% Subsidy)2Village level Farmers training on Post Harvest Management.₹189/ day/farmer. (Daily allowance)",
+          "briefDescription": "The “Post Harvest Marketing Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya for the creation of post harvest marketing infrastructure. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Post Harvest Marketing Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya for the creation of post harvest marketing infrastructure. Under the scheme, assistance is provided for evacuation facilities like pick-up trucks/ mini trucks/Tata mobile to the Farmers Groups/ Farmers Clubs/ SHG farmers Co-Operative Societies/ FIG/ FPOs, etc. for transportation of farm produce to the market."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Post Harvest Marketing Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for the creation of post harvest marketing infrastructure. Under the scheme, assistance is provided for evacuation facilities like pick-up trucks/ mini trucks/Tata mobile to the Farmers Groups/ Farmers Clubs/ SHG farmers Co-Operative Societies/ FIG/ FPOs, etc. for transportation of farm produce to the market.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=112"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "phms"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65cda046cd96dc5e0753b258",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65cda01aed4030e118da2023"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:53:31.445039+00:00",
+  "scheme_id": "65cda01aed4030e118da2023"
+}

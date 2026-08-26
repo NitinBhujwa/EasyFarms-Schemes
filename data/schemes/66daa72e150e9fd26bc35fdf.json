@@ -1,0 +1,231 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Collect and submit the application form to the below-mentioned office address:"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": "Regional Joint Director of Industries and Commerce Industrial Estate,"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Chennai-600 032"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Telephone: 044-22501622/22501625"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "E-mail address: rjdchn@gmail.com"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Website address: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "http://www.rjdchn.in/"
+                    }
+                  ],
+                  "link": "https://www.rjdchn.in/lander",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "\n  - Collect and submit the application form to the below-mentioned office address:\n\n&gt; Regional Joint Director of Industries and Commerce Industrial Estate,\n\n&gt; Chennai-600 032\n\n&gt; Telephone: 044-22501622/22501625\n\n&gt; E-mail address: rjdchn@gmail.com\n\n&gt; Website address: [http://www.rjdchn.in/](https://www.rjdchn.in/lander) \n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Quantum of Assistance:** 25% subsidy or maximum ₹1,50,000/- on the cost of generator sets (up to 125 KVA capacity).\n&lt;br&gt;\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "102c1151f6f2e151f7282ef9422eb7a60a55b382b696e3fb90ee3a699f5944d1",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Generator Subsidy” scheme provides a 25% subsidy or maximum ₹1,50,000/- on the cost of generator sets up to 125 KVA capacity for manufacturers in Tamil Nadu. The subsidy must be claimed within six months from the date of purchase or installation of the generator.\n&lt;br&gt;\n\n",
+  "eligibility": "\n  - Beneficiaries must be new and existing Micro, Small and Medium Manufacturing Enterprises.\n  - The generator set must have a capacity of up to 125 KVA.\n  - Subsidy claims must be made within six months from the date of purchase or installation.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:09:20.354500+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:20.354500+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 3333332
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/19674"
+    },
+    {
+      "title": "Guidelines (Refer Page No. 10)",
+      "url": "https://cms.tn.gov.in/sites/default/files/schemes/msme_14.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66daa741150e9fd26bc35ff9",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of purchase or installation of the generator set.\n   1. Invoice and receipt of the generator.\n   1. Proof of enterprise registration (MSME registration certificate).\n   1. Bank account details for subsidy transfer.\n   1. Installation certificate from a certified technician.\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of purchase or installation of the generator set."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Invoice and receipt of the generator."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of enterprise registration (MSME registration certificate)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details for subsidy transfer."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Installation certificate from a certified technician."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "66daa72e150e9fd26bc35fdf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "66daa72e150e9fd26bc35fdf",
+  "scheme_name": "Generator Subsidy-Tamil Nadu",
+  "scheme_open_date": null,
+  "scheme_short_title": "GSTN",
+  "slug": "gstn",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Generator",
+    "Subsidy",
+    "Manufacture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

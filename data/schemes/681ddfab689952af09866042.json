@@ -1,0 +1,167 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Fill in the application form with accurate details. Attach the required documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the form to the District Office of the Deputy Director of Horticulture."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Obtain a plain paper application form from the District Office of the Deputy Director of Horticulture.\n**Step 2:** Fill in the application form with accurate details. Attach the required documents.\n**Step 3:** Submit the form to the District Office of the Deputy Director of Horticulture.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n- **Stipend:** ₹250/- per trainee.- **Other Facilities:** Dining facility, training literature kit, experiential education tour, trainee kit, etc.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b9fc8ea107a05adc3ec7d0dd6a55fd7b700e3bff27f6824be467f3d3a1b1b003",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Training Scheme for Horticulture Skill Development to Landless Farm Labour at Centre of Excellence of Department&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, is designed to uplift landless agricultural workers by equipping them with essential horticulture skills through training. Conducted across Gujarat, the training spans a minimum of three days to a maximum of five days and includes modules like experiential learning tours, training kits, stipend, expert-led sessions, and more.\n",
+  "eligibility": "\n  - The applicant should be any of the following:\n\n\n   1. All Farmers.\n   1. Farm Labourer.\n   1. Horticulturists.\n   1. Landless Agricultural Labourers.\n\n\n  - The applicant must be a resident of Gujarat.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:04.787456+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:04.787456+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 562)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "681ddfe2a2ed4f89b964929d",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Bank Pass Book/Cancelled Cheque.\n1. Ration Card.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "681ddfab689952af09866042"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "681ddfab689952af09866042",
+  "scheme_name": "Trainning Scheme for Horticulture Skill Development to Landless farm labour at Centre of Excelence of Department",
+  "scheme_open_date": null,
+  "scheme_short_title": "TSHSDFL",
+  "slug": "tshsdfl",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Horticulture Training",
+    "Skill Development",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

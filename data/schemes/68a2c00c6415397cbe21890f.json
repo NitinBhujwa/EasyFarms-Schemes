@@ -1,0 +1,163 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Approach the Gram Sevak in your village for access to \"Power Operated Plant Protection Equipment\" under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Approach the Gram Sevak in your village for access to &quot;Power Operated Plant Protection Equipment&quot; under the scheme.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. The assistance provided is 75% of the purchase price of power/machine-driven equipment or ₹ 4500/- whichever is less. (Maximum one unit per account is allowed.)\n\n<br>\n\n> Remark: As per conditions No. 5, 16, 17, 19 and 22 of [Appendix-1](https://mariyojana.gujarat.gov.in/Schemeatoz.aspx). (Refer Scheme No. 35)\n\n> Frequency: Once in 3 Years.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "3db9291ef4f449cc7364ba0ae179c4c83665a305530bbfa3a64cbe983f38351c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies etc., to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Power Operated Plant Protection Equipment&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to help farmers belonging to scheduled tribes and tribal cultivators residing outside tribal areas achieve higher production of agricultural crops and improve their livelihood. Through this scheme, subsidies are provided on seeds of more productive/hybrid varieties, plant protection equipment, and agricultural inputs to the intended beneficiaries. The scheme is implemented by the Directorate of Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat.\n<br>\n\n",
+  "eligibility": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:27.766631+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:27.766631+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/v4lc2tu73R%E2%9C%A49lWYKO76SRg%E2%99%AC%E2%99%AC?utm_source=chatgpt.com"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68a2c01e6415397cbe218987",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate\n1. Aadhar Card\n1. Bank Pass Book/Cancelled Cheque\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a2c00c6415397cbe21890f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68a2c00c6415397cbe21890f",
+  "scheme_name": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Power Operated Plant Protection Equipment Gujarat",
+  "scheme_open_date": null,
+  "scheme_short_title": "DSMPVHFPOPEGUJ",
+  "slug": "dsmpvhfpopeguj",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Adivasi Farmers",
+    "Crop Production",
+    "Livelihood",
+    "Seeds",
+    "Fertilizer",
+    "Subsidies",
+    "Power Operated Plant Protection Equipment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

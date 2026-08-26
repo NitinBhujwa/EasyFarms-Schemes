@@ -1,0 +1,325 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Office/ Sub-Office"
+                }
+              ],
+              "link": "https://fisheries.py.gov.in/sub-offices",
+              "type": "link"
+            },
+            {
+              "text": " of the Department of Fisheries and Fishermen Welfare."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should request the hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit the [Office/ Sub-Office](https://fisheries.py.gov.in/sub-offices) of the Department of Fisheries and Fishermen Welfare.\n**Step 1:** The interested applicant should request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "50% subsidy subject to a maximum of ₹ 20,000 per boat on annual insurance premium.\n***The rate of subsidy/maximum limit may be revised by the Government from time to time.***\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "49e9e342d2b30c54c80254db599c4bd0b1da2f3df7449748098f26bd6d53adb8",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Annual Insurance Premium for Boat Owners&quot; is a Sub-Component under the Umbrella Scheme &quot;Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries&quot; by the Department of Fisheries and Fishermen Welfare, Government of Puducherry. The scheme is introduced with the objective to increase marine fish production by extending subsidies for the procurement of annual premiums for insurance coverage paid by the registered mechanized boat operators.\n<br>\n\n<br>\n\n",
+  "eligibility": "\n- The applicant should either belong to the fishermen community or be one of those professionally engaged in fishing/fish trade occupation on a full-time basis/prospective entrepreneurs.\n- The applicant must have resided in the Union territory of Puducherry for a continuous period of not less than five years at the time of applying for extending subsidies/ grants. \n- The applicant must have been enrolled as a member of the Fishermen Co-operative Society and be above the age of 23 years and below 60 years.\n- The applicant must not have been a recipient of Old Age Pension, issued by the department. \n- The applicant should not be employed in Government/ Government Undertakings/Fishermen Co-operative Society. \n- The applicant must not have any dues to be paid to the Department/Fishermen Co-operative Societies at the time of making the application. \n- The applicant should possess a registered mechanized boat. \n- The applicant should have insured the boat on an annual basis with the authorized insurance company. \n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:56.782390+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:56.782390+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Fishermen Welfare Department, Puducherry",
+    "value": 34000015
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.py.gov.in/sites/default/files/reimbursement20of20hsd20notification.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://fisheries.py.gov.in/sites/default/files/subsidies-application007.pdf"
+    },
+    {
+      "title": "List Of Sub-Offices",
+      "url": "https://fisheries.py.gov.in/sub-offices"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.py.gov.in/contact-us"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "659e36026093f0fa331b3707",
+      "en": {
+        "documentsRequired_md": "\n- Passport Sized Photograph.\n- Aadhaar Card.\n- Election Photo Identity Card (for Proof of Identity).\n- Ration Card (for Proof of Address).\n- Birth Certificate (for Proof of Age).\n- Membership Certificate from the President/Administrator of Fishermen/Fisherwoman Co-operative Society (in the case of fishermen).\n- Document attesting full-time engagement in fishing or fish trade occupation (in the case of Fish Traders).\n- Residence Certificate indicating a continuous period of not less than five years in the Union territory of Puducherry (from Deputy Tahsildar of the Area of Residence).\n- Enrollment certificate as a member of the Fishermen Co-operative Society.\n- Declaration of not being a recipient of Old Age Pension.\n- Declaration of not being employed in Government/Government Undertakings/Fishermen Co-operative Society.\n- Declaration certifying that the applicant has no outstanding dues to the Department/Fishermen Co-operative Societies at the time of application.\n- Proof of Possession of the Registered Mechanized Boat. \n- Proof of Insurance of the Boat With an Authorized Insurance Company. \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport Sized Photograph."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Election Photo Identity Card (for Proof of Identity)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card (for Proof of Address)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Birth Certificate (for Proof of Age)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Membership Certificate from the President/Administrator of Fishermen/Fisherwoman Co-operative Society (in the case of fishermen)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Document attesting full-time engagement in fishing or fish trade occupation (in the case of Fish Traders)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Certificate indicating a continuous period of not less than five years in the Union territory of Puducherry (from Deputy Tahsildar of the Area of Residence)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Enrollment certificate as a member of the Fishermen Co-operative Society."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration of not being a recipient of Old Age Pension."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration of not being employed in Government/Government Undertakings/Fishermen Co-operative Society."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration certifying that the applicant has no outstanding dues to the Department/Fishermen Co-operative Societies at the time of application."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Possession of the Registered Mechanized Boat. "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Insurance of the Boat With an Authorized Insurance Company. "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "659e35eda733b1d7327c56fe"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "659e35eda733b1d7327c56fe",
+  "scheme_name": "\"Annual Insurance Premium for Boat Owners\" under \"Financial Assistance for Availing Subsidy Components for the Development of Marine Fisheries\"",
+  "scheme_open_date": null,
+  "scheme_short_title": "AIPBO-FAASCDMF",
+  "slug": "aipbo-faascdmf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    },
+    {
+      "label": "Insurance",
+      "value": "Insurance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Insurance",
+    "Boat",
+    "Marine",
+    "Fisheries",
+    "Fisherman"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

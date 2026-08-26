@@ -1,0 +1,490 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6797b7cadf7f9829793f4980",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "The "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "application "
+                      }
+                    ],
+                    "link": "https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=r5lUDQ5ydUg=",
+                    "type": "link"
+                  },
+                  {
+                    "text": "should be submitted to the nearest forest officer within 48 hours of the incident, and the dead cattle should not be removed from the place of death."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "First Appeal",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Can be filed with the concerned Divisional Forest Officer, Deputy Director, or Assistant Director of the protected area."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Must be submitted within 30 days from the date of non-acceptance of the application or after the stipulated time limit expires."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The appellate officer will resolve the appeal within 30 working days."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Second Appeal",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Can be filed with the Director of Forest Conservation/Protected Area."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Must be submitted within 60 days from the order of the first appellate officer."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "process_md": "The [application ](https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=r5lUDQ5ydUg=)should be submitted to the nearest forest officer within 48 hours of the incident, and the dead cattle should not be removed from the place of death.\n**First Appeal**\n\n- Can be filed with the concerned Divisional Forest Officer, Deputy Director, or Assistant Director of the protected area.\n- Must be submitted within 30 days from the date of non-acceptance of the application or after the stipulated time limit expires.\n- The appellate officer will resolve the appeal within 30 working days.\n\n**Second Appeal**\n\n- Can be filed with the Director of Forest Conservation/Protected Area.\n- Must be submitted within 60 days from the order of the first appellate officer.\n\n"
+          },
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Madhya Pradesh Lok Sewa Guarantee Portal"
+                      }
+                    ],
+                    "link": "https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": "\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " On the homepage, click \"Citizen Registration\". You will be taken to the registration page."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click \"Verify Mobile Number.\""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A verification code will be sent to your mobile number. Enter the code and complete the registration."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Application",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the Official Website of \"Madhya Pradesh Lok Sewa Guarantee Portal\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Enter your User ID, Password, and Captcha Code, and click \"Login.\""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Click on \"Apply Online Service\" and select the scheme you intend to apply for."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the scheme's online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click \"Submit\"."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Registration**\n**Step 1:** Visit the Official Website of &quot;[Madhya Pradesh Lok Sewa Guarantee Portal](https://mpedistrict.gov.in/MPL/CitizenRegistration.aspx)&quot;.\n**Step 2:** On the homepage, click &quot;Citizen Registration&quot;. You will be taken to the registration page.\n**Step 3:** On the registration page, fill in all the mandatory fields (name, mobile number, gender, and captcha) and click &quot;Verify Mobile Number.&quot;\n**Step 4:** A verification code will be sent to your mobile number. Enter the code and complete the registration.\n**Application**\n**Step 1:** Visit the Official Website of &quot;Madhya Pradesh Lok Sewa Guarantee Portal&quot;.\n**Step 2:** Enter your User ID, Password, and Captcha Code, and click &quot;Login.&quot;\n**Step 3:** Click on &quot;Apply Online Service&quot; and select the scheme you intend to apply for.\n**Step 4:** In the scheme&#39;s online application form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size (fields marked with * are mandatory), and click &quot;Submit&quot;.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Forest Department",
+            "value": 2300015
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Social welfare & Empowerment",
+              "value": "628ce87cd6d1a3bde4685312"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Compensation Amount Towards Cattle Injury Caused by Forest Animals",
+          "schemeOpenDate": "2014-02-06",
+          "schemeShortTitle": "CATCICBFA",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Animal",
+            "Forest",
+            "Financial Assistance",
+            "Death",
+            "Compensation",
+            "Injury",
+            "Cattle"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The cattle of the owner should have been injured by a wild animal, as defined under the Wild Life (Protection) Act, 1972."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cattle owner should have reported the incident to the nearest forest officer within 48 hours of its occurrence."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cattle owner should be able to provide necessary proof or verification documents as required by the Forest Department."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The compensation applies only to cattle owners who are residents of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The cattle of the owner should have been injured by a wild animal, as defined under the Wild Life (Protection) Act, 1972.\n1. The cattle owner should have reported the incident to the nearest forest officer within 48 hours of its occurrence.\n1. The cattle owner should be able to provide necessary proof or verification documents as required by the Forest Department.\n1. The compensation applies only to cattle owners who are residents of Madhya Pradesh.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "₹1,000/- as immediate assistance for wild animal injury."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "₹30,000/- for medical expenses (normal injury)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "₹1,00,000/- for permanent disability and full treatment cost."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "\n- ₹1,000/- as immediate assistance for wild animal injury.\n- ₹30,000/- for medical expenses (normal injury).\n- ₹1,00,000/- for permanent disability and full treatment cost.\n\n",
+          "briefDescription": "Launched on 6th February 2024, the scheme \"Compensation Amount towards Cattle Injury Caused by Forest Animals\" by the Forest Department, Government of Madhya Pradesh, provides compensation in case of death of cattle due to attacks by wild animals.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "Launched on 6th February 2024, the scheme \"Compensation Amount towards Cattle Injury Caused by Forest Animals\" by the Forest Department, Government of Madhya Pradesh, provides compensation in case of death of cattle due to attacks by wild animals. The cattle owner will receive a relief amount. The nearest forest officer must be informed in writing or verbally within 48 hours of the incident, and the dead cattle should not be removed from the place of death."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "Launched on 6th February 2024, the scheme &quot;Compensation Amount towards Cattle Injury Caused by Forest Animals&quot; by the Forest Department, Government of Madhya Pradesh, provides compensation in case of death of cattle due to attacks by wild animals. The cattle owner will receive a relief amount. The nearest forest officer must be informed in writing or verbally within 48 hours of the incident, and the dead cattle should not be removed from the place of death.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://mpedistrict.gov.in/MPL/getphoto.aspx?ViewCircular=r5lUDQ5ydUg="
+            },
+            {
+              "title": "Registration",
+              "url": "https://mpedistrict.gov.in/MPL/Index.aspx#First"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=312"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "caicoloabfabfa"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6797b842df7f9829793f4a7e",
+      "en": {
+        "documentsRequired_md": "\n1. Bank Account Details/ Bank Passbook\n1. Certificate or Panchnama issued by Doctor/Sarpanch/Panchayat Secretary/Local Body\n1. Bills Related to Payment of Treatment Undergone\n1. Certificate issued by a Competent Government Doctor in case of Permanent Disability\n1. Other Necessary Documents, if required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details/ Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate or Panchnama issued by Doctor/Sarpanch/Panchayat Secretary/Local Body"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bills Related to Payment of Treatment Undergone"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate issued by a Competent Government Doctor in case of Permanent Disability"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other Necessary Documents, if required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6797b7cadf7f9829793f4980"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:57:04.969508+00:00",
+  "scheme_id": "6797b7cadf7f9829793f4980"
+}

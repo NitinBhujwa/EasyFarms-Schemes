@@ -1,0 +1,217 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Step 1: Applicants have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal."
+                }
+              ],
+              "link": "https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Click on \""
+            },
+            {
+              "children": [
+                {
+                  "text": "New Registration"
+                }
+              ],
+              "link": "https://mpfsts.mp.gov.in/mphd/#/new-application",
+              "type": "link"
+            },
+            {
+              "text": "\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Enter your mobile number and click on OTP Send."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: After authentication via OTP, fill out the required details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: Upload the documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 6: After, filling all the information click on the submit button."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Step 1: Applicants have to visit the [official portal.](https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex)\nStep 2: Click on &quot;[New Registration](https://mpfsts.mp.gov.in/mphd/#/new-application)&quot;.\nStep 3: Enter your mobile number and click on OTP Send.\nStep 4: After authentication via OTP, fill out the required details.\nStep 5: Upload the documents.\nStep 6: After, filling all the information click on the submit button.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n1. Farmer training within the state : ₹1,000/- per farmer per month (maximum 7 days)\n1. Farmer training outside the state : ₹1,500/- per farmer per day.\n1. Exposure visit outside the state to observe new technology (new component) : ₹1,500/- per farmer per day.\n1. A total of ₹12,000/- for 20 trainees in one-day farmer training and tour, i.e. maximum expenditure per farmer is ₹500/- and honorarium to the host farmer is ₹100/-, thus the total maximum expenditure is Rs 600/- per farmer.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "337827eeaed03699738eab6c248cfe1bad14114b757794d01d41cf6112428f0f",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Krishak Parisharam Bhraman Karyakram Yojana under the Horticulture and Food Processing Department of Madhya Pradesh, provide tour to the different countries and states/divisions/districts/trends outside the development block. To attract the farmers towards the production of horticulture crops by giving tours to the farmers regarding horticulture crops.\n<br>\n\n> **Objective:**\n\n\n1. To expose farmers to diverse agricultural technologies, practices, and innovations.\n1. Organize visits to different agricultural fields, research institutions, and agricultural universities.\n1. Facilitate knowledge and experience exchange among farmers.\n1. Promote entrepreneurship and innovation in the agriculture sector.\n\n",
+  "eligibility": "\n1. This scheme will apply to all sections.\n1. Farmers of all classes who cultivate crops.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:04.853163+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:04.853163+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture and Food Processing Department",
+    "value": 2300018
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.mphorticulture.gov.in/sites/default/files/krashak%20prashikshan.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A4%95%20%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%B6%E0%A4%BF%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%A3%20%E0%A4%A4%E0%A4%A5%E0%A4%BE%20%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3%20%E0%A4%95%E0%A4%BE%E0%A4%B0%E0%A5%8D%E0%A4%AF%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE.pdf"
+    },
+    {
+      "title": "Registration",
+      "url": "https://mpfsts.mp.gov.in/mphd/#/new-application"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65cc42b2ed4030e118d8e423",
+      "en": {
+        "documentsRequired_md": "\n- Photo.\n- Aadhaar Card.\n- Bank Passbook.\n- Birth Certificate.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Birth Certificate."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65cc428aed4030e118d8e3f8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65cc428aed4030e118d8e3f8",
+  "scheme_name": "Krshak Prashikshan Tatha Bhraman Karyakram",
+  "scheme_open_date": "2015-10-20",
+  "scheme_short_title": "KPBKY",
+  "slug": "kbky",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farming",
+    "Farmer",
+    "Farm",
+    "Land",
+    "Financial Support"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

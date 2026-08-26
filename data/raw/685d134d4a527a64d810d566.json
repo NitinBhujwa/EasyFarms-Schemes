@@ -1,0 +1,407 @@
+{
+  "detail": {
+    "data": {
+      "_id": "685d134d4a527a64d810d566",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The committee willing to expand its work and prepare a comprehensive plan must complete the following formalities:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "It should be registered under the Uttaranchal Cooperative Act, 2003 (as amended)."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The committee should agree to maintain relations with the federation/community, and a formal resolution to this effect should be passed by the committee."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The Development Committee must undertake work in accordance with the State Integrated Cooperative Development Project and agree to pay the loan, interest, and other dues, and to repay them as per the norms prescribed by the National Cooperative Development Corporation (NCDC), which may be revised from time to time."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Previously, the interest on the loan amount was 10.95% per annum, and it is currently 9.61% per annum. The interest rate may change periodically, and the loan must be repaid within eight years, subject to modifications by NCDC."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The committee can submit its application along with the proposed work estimate and Detailed Project Report (DPR)/Business Development Plan (BDP) to the district’s Assistant Director of Fisheries/District Fisheries In-Charge. Committees are provided ongoing support in preparing the DPR/BDP."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Selection under the project is made after evaluating the DPR/BDP at the district/state level and determining its suitability."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Funds are released to the committees in installments."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Selected activities are implemented through convergence under the project."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "For more information regarding the project, please visit: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ukcdp.com/sector/fisheries"
+                          }
+                        ],
+                        "link": "https://ukcdp.com/sector/fisheries",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The committee willing to expand its work and prepare a comprehensive plan must complete the following formalities:\n\n  - It should be registered under the Uttaranchal Cooperative Act, 2003 (as amended).\n  - The committee should agree to maintain relations with the federation/community, and a formal resolution to this effect should be passed by the committee.\n  - The Development Committee must undertake work in accordance with the State Integrated Cooperative Development Project and agree to pay the loan, interest, and other dues, and to repay them as per the norms prescribed by the National Cooperative Development Corporation (NCDC), which may be revised from time to time.\n  - Previously, the interest on the loan amount was 10.95% per annum, and it is currently 9.61% per annum. The interest rate may change periodically, and the loan must be repaid within eight years, subject to modifications by NCDC.\n  - The committee can submit its application along with the proposed work estimate and Detailed Project Report (DPR)/Business Development Plan (BDP) to the district’s Assistant Director of Fisheries/District Fisheries In-Charge. Committees are provided ongoing support in preparing the DPR/BDP.\n  - Selection under the project is made after evaluating the DPR/BDP at the district/state level and determining its suitability.\n  - Funds are released to the committees in installments.\n  - Selected activities are implemented through convergence under the project.\n\nFor more information regarding the project, please visit: [https://ukcdp.com/sector/fisheries](https://ukcdp.com/sector/fisheries)\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Fisheries",
+            "value": 50000011
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Banking,Financial Services and Insurance",
+              "value": "628ce7f6d6d1a3bde46852d0"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "State Integrated Cooperative Development Project - Fisheries Sector",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SICDP",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Loan",
+              "value": "Loan"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Fish Sales",
+            "Loan",
+            "Cooperative Society",
+            "Fisheries",
+            "Fish Farming",
+            "Fish"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a cooperative society engaged in fisheries sector."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cooperative society must be registered in Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a cooperative society engaged in fisheries sector.\n1. The cooperative society must be registered in Uttarakhand.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under the scheme, the following support is provided:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Options for setting up large loan-based projects in both mountainous and plain areas are available for individuals or groups engaged in fisheries through cooperative societies."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Facilities are provided for trout farming, angling, and retail outlets on a cluster basis in mountainous districts, and for Pangasius farming, major carp farming, and integrated fisheries in plain districts."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Under the project, the cooperative societies will bear 10% of the contribution, while 70% is provided as a loan and 20% as a grant."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The project assists the societies in preparing their Detailed Project Reports (DPRs) or Business Development Plans (BDPs) and organizes free training and capacity-building programs periodically."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Support is provided for marketing and sale of fish produced by the societies."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under the scheme, the following support is provided:\n\n  - Options for setting up large loan-based projects in both mountainous and plain areas are available for individuals or groups engaged in fisheries through cooperative societies.\n  - Facilities are provided for trout farming, angling, and retail outlets on a cluster basis in mountainous districts, and for Pangasius farming, major carp farming, and integrated fisheries in plain districts.\n  - Under the project, the cooperative societies will bear 10% of the contribution, while 70% is provided as a loan and 20% as a grant.\n  - The project assists the societies in preparing their Detailed Project Reports (DPRs) or Business Development Plans (BDPs) and organizes free training and capacity-building programs periodically.\n  - Support is provided for marketing and sale of fish produced by the societies.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote sustainable fisheries development in Uttarakhand by facilitating the establishment and expansion of cooperative-based fisheries projects in both mountainous and plain regions.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “State Integrated Cooperative Development Project” was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote sustainable fisheries development in Uttarakhand by facilitating the establishment and expansion of cooperative-based fisheries projects in both mountainous and plain regions."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “State Integrated Cooperative Development Project” was introduced by the Department of Fisheries, Government of Uttarakhand. The scheme aims to promote sustainable fisheries development in Uttarakhand by facilitating the establishment and expansion of cooperative-based fisheries projects in both mountainous and plain regions.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 204)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "scfdp-fs"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "685d13cb38d49a55968f2d94",
+      "en": {
+        "documentsRequired_md": "\n1. Registration Certificate of the Cooperative Society\n1. Resolution Copy\n1. Detailed Project Report (DPR) or Business Development Plan (BDP)\n1. Bank Account Details\n1. Other supporting document as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Registration Certificate of the Cooperative Society"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolution Copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Detailed Project Report (DPR) or Business Development Plan (BDP)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "685d134d4a527a64d810d566"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:57.173194+00:00",
+  "scheme_id": "685d134d4a527a64d810d566"
+}

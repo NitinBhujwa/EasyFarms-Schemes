@@ -1,0 +1,159 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The beneficiary must visit the nearest Veterinary Dispensary, First Aid Veterinary Centre, or Intensive Cattle Development Programme Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Obtain and submit the physical application form along with the required documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "The concerned authority will verify eligibility and distribute the fodder minikits accordingly."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The beneficiary must visit the nearest Veterinary Dispensary, First Aid Veterinary Centre, or Intensive Cattle Development Programme Office.\n**Step 2:** Obtain and submit the physical application form along with the required documents.\n**Step 3:** The concerned authority will verify eligibility and distribute the fodder minikits accordingly.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "<br>\n\n**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit(In Year) for Reclaiming Benefits**\tSupply of Fodder Minikit under General People, Schedule Caste People and Schedule Tribe People.\tFree1 Year\t<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "edfa22d1bd2e5f3d45ae1710e88f0561e5929e61b6fda438c7c1964cb339bbc5",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Supply of Fodder Minikit&amp;quot; scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. Under this scheme, improved variety of fodder seeds are provided to beneficiaries for wide spread publicity, demonstration and adaptation by farmers.\n",
+  "eligibility": "\n   1. All farmers belonging to the General, Scheduled Caste (SC), and Scheduled Tribe (ST) categories are eligible.\n   1. The applicant must own agricultural land.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:57:17.202885+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:57:17.202885+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=Bu2wc90IXRdJKrcfHJ/9ew==&domain=12ewfiAgGqKRe600IL5Z/w=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67efbcb15a4889e1887afb96",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 and 8-a Certificate\n1. Scheduled Caste and Scheduled Tribe cast Certificate.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 and 8-a Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Scheduled Caste and Scheduled Tribe cast Certificate."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67efbc765a4889e1887afb2e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67efbc765a4889e1887afb2e",
+  "scheme_name": "Supply of Fodder Minikit",
+  "scheme_open_date": null,
+  "scheme_short_title": "SOFMG",
+  "slug": "sofmg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal Husbandry",
+    "Fodder Minikit"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

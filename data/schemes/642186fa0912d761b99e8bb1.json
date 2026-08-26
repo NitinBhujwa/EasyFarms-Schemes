@@ -1,0 +1,284 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The process of applying for the Krushak Assistance for Livelihood and Income Augmentation (KALIA) Scheme in Odisha is as follows:"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Visit the official website of the KALIA Scheme"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Click on the \"Apply Online\" tab on the homepage."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "You will be directed to a new page where you have to select the \"Green Form\" for farmers or \"Red Form\" for sharecroppers and landless farmers."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fill in all the required details, including personal details, bank details, Aadhaar number, land details, and income details."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Upload the necessary documents, such as Aadhaar card, land documents, and bank passbook."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Once you have filled in all the details and uploaded the documents, click on the \"Submit\" button."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "You will receive an acknowledgement receipt with a unique application number."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The application will be verified by the concerned authorities, and if found eligible, the financial assistance will be directly transferred to your bank account."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "ol_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    },
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Alternatively, you can also apply for the KALIA Scheme offline by visiting the nearest Common Service Centre (CSC) or the Gram Panchayat office. Fill in the application form, attach the necessary documents and submit it to the concerned authorities. You will receive an acknowledgement receipt, which you can use to track the status of your application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c6dac03a8e54f865a351429500fba3627024df757d3fbf5be08a4aa0b204507f",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Financing agriculture and insuring the cultivators is essential to eradicate poverty and to boost shared prosperity of the state. Through the implementation of Krushak Assistance for Livelihood and Income Augmentation - KALIA Scheme , the State Government aims to lend farmers with an all inclusive and flexible support system, ensuring accelerated agricultural prosperity. At the heart of a progressive scheme like KALIA lies the motivation to empower the farmers of the state with finance options that will enable the growth and development of agriculture in Odisha. Enhancement of the accessibility to suitable financial services will further ensure agricultural productivity and increase income among farmers , particularly the small and marginal land holders.\n<br>\n\nAmounting to over 10,000 crore the scheme has been tailored to relieve the debt ridden farmers from the debt trap, keeping a pragmatic vision to directly attack poverty by providing financial assistance to the vulnerable agriculture households, landless labourers as well as marginal cultivators of the state. Proposed by the Government of Odisha , KALIA scheme brings under its umbrella 92% of cultivators of the state and almost all needy landless cultivators , who can avail the benefits of this scheme through Direct Benefit Transfer Mode.\n<br>\n\n",
+  "eligibility": "\n1. Residency: The applicant must be a permanent resident of Odisha.\n1. Agricultural activities: The applicant must be engaged in agricultural activities, such as farming, cultivation, horticulture, or animal husbandry, either as a landowner, tenant farmer or sharecropper.\n1. Household status: The applicant&#39;s household should be categorized as &quot;deprived&quot; or &quot;vulnerable&quot; under the Socio-Economic Caste Census (SECC) 2011 or any other state government survey.\n1. Landownership: The applicant must either own cultivable land or be a sharecropper/tenant farmer cultivating someone else&#39;s land.\n1. Age: There is no age limit for applying for the KALIA Scheme.\n1. Income: The applicant&#39;s annual income should be less than Rs. 2.00 lakhs per annum.\n1. Bank account: The applicant must have a bank account in his/her name and a valid Aadhaar number linked to the account.\n1. Criminal record: The applicant must not have any criminal record or involvement in any illegal activities.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:57.501405+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:57.501405+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture and Farmers Empowerment Department",
+    "value": 2111111
+  },
+  "references": [
+    {
+      "title": "Odisha Government Website",
+      "url": "https://kalia.odisha.gov.in/index1.html"
+    },
+    {
+      "title": "Guidelines PDF",
+      "url": "https://kalia.odisha.gov.in/assets/guidelines/Gazette-Notification-of-KALIA-scheme.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64218dd14149152a5caefc4e",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card: A copy of your Aadhaar card is mandatory to apply for the KALIA Scheme. The Aadhaar number must be linked to your bank account."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details: You need to provide your bank account details, including the bank name, branch name, account number, and IFSC code."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Documents: If you own cultivable land, you need to submit the land documents, such as the land passbook or land tax receipt. If you are a sharecropper, you need to submit the sharecropping agreement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income Certificate: You need to provide an income certificate issued by a competent authority to prove that your annual income is less than Rs. 2.00 lakhs per annum."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof: You need to submit a copy of your identity proof, such as a Voter ID card, PAN card, or Driving License."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph: You need to submit a recent passport-size photograph."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "642186fa0912d761b99e8bb1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "642186fa0912d761b99e8bb1",
+  "scheme_name": "Krushak Assistance For Livelihood And Income Augmentation",
+  "scheme_open_date": null,
+  "scheme_short_title": "KALIA",
+  "slug": "kalia",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Odisha",
+    "value": 21
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "KALIA",
+    "Farmers",
+    "Cultivators",
+    "Financial Assistance",
+    "Agriculture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

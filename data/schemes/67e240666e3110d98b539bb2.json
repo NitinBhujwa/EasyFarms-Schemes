@@ -1,0 +1,217 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The legal heir of the deceased fisherman must collect and fill out the application form."
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " The application along with the necessary documents should be submitted to the concerned district office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Upon verification, financial assistance will be provided to the eligible beneficiary."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The legal heir of the deceased fisherman must collect and fill out the application form.\n**Step 2:** The application along with the necessary documents should be submitted to the concerned district office.\n**Step 3:** Upon verification, financial assistance will be provided to the eligible beneficiary.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Name of Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Benefits**Death in Pakistan Jail ₹4,00,000/-Only once, after dead or lost declared as per rules.Lost in Sea₹2,00,000/-Only once, after dead or lost declared as per rules.Accidental death while fishing at sea₹2,00,000/-Only once, after dead or lost declared as per rules.<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "dc15c460bed194aa3b91a05d736643a22b2a5da2f9230002961e5b961a36a1b0",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Fishermen Accident Relief Scheme&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial assistance to the families of deceased fishermen in Gujarat in case of death in Pakistan Jail, lost in the sea, or accidental death while fishing at sea. The financial assistance varies based on the cause of death and is meant to help the legal heirs cope with the loss.\n",
+  "eligibility": "\n  - The applicant must be a legal heir of the deceased fisherman.\n  - The deceased must have been an active fisherman from Gujarat.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:53.612814+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:53.612814+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=mS3Bu6DbxKaTxdKVWXY5zA==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67e240e90aa19c6dc28a9cf1",
+      "en": {
+        "documentsRequired_md": "\n1. Identity of resident of  Gujarat State.\n1. Legal Heir Affidavit.\n1. Copy of Boat Call, License, and Movement Book.\n1. Inquest Panchnama &amp; FIR.\n1. Copy of Post-Mortem Report.\n1. Copy of Death Certificate.\n1. Copy of Bank Passbook of Legal Heir.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity of resident of  Gujarat State."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Legal Heir Affidavit."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Boat Call, License, and Movement Book."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Inquest Panchnama & FIR."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Post-Mortem Report."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Death Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook of Legal Heir."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67e240666e3110d98b539bb2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "67e240666e3110d98b539bb2",
+  "scheme_name": "Fishermen Accident Relief Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "FARS",
+  "slug": "fars",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Insurance",
+      "value": "Insurance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Insurance",
+    "Accidental Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,367 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The applicant may visit and apply online at the "
+            },
+            {
+              "children": [
+                {
+                  "text": "I-Khedut Portal"
+                }
+              ],
+              "link": "https://ikhedut.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Enter the 'Company Name' and Address if you have selected 'Institutional' or 'Except For the Farmer' as the Beneficiary Type. And for all select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Enter your Mobile Number and E-mail address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Login Process: ",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The applicant may visit and apply online at the "
+            },
+            {
+              "children": [
+                {
+                  "text": "I-Khedut Portal"
+                }
+              ],
+              "link": "https://ikhedut.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Click on the \"Apply New\" button and submit a new application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:"
+            },
+            {
+              "text": " Click on the \"Update Application\" button to add corrections to the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6:"
+            },
+            {
+              "text": " Once the application is done, confirm it."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7: "
+            },
+            {
+              "text": "Take a printout of the confirmed application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Contact Us: "
+            },
+            {
+              "children": [
+                {
+                  "text": "Click here"
+                }
+              ],
+              "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side, then click on &quot;Beneficiary Registration&quot; and select any one from the &#39;Farmer&#39; or &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type.\n**Step 3:** Enter the &#39;Company Name&#39; and Address if you have selected &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type. And for all select the District, Taluka, and Village, choose &#39;what type of account holder you are?&#39;, enter your Account Number and Name, solve the Captcha, and click &#39;Save and Next&#39;.\n**Step 4:** Enter your Mobile Number and E-mail address, click &#39;Send OTP&#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &#39;Submit&#39;.\n> **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &quot;Apply New&quot; button and submit a new application.\n**Step 5:** Click on the &quot;Update Application&quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n> **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "A trainee is paid a scholarship of ₹2,000/- per month for three months, amounting to a total of ₹6,000/-.\n> **Training Details**\n\n**Duration:** 3 months\n**Location:** Tribal area training centers run by the Fisheries Department at Khedbrahma, Kadana, Chhota Udepur, Rajpipla, Madhuban, and Ukai.\n**Conditions for Receiving Benefits:** A trainee is eligible for the scholarship only if they maintain a minimum of 60% attendance during the training period.\n**Validity:** The benefit is available once in a lifetime for each eligible trainee.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4c5d15ae6fe3730f910c7d6824135a1c9a1a49330b2fb3ae188c9c023cac70bf",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Training of Tribal Trainees” is a component under the “To Increase Fish Seed Production and Inland Fisheries Resources in Tribal Areas” scheme, introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. The scheme aims to provide training to Scheduled Tribe individuals involved in inland fisheries to enhance their capacity and skill set. The training is conducted at tribal area training centres run by the Fisheries Department, located in Khedbrahma, Kadana, Chhota Udepur, Rajpipla, Madhuban, and Ukai.\n> **Objectives:**\n\n\n- To increase fish production by rearing fish in reservoirs and provide employment to people involved in inland fisheries activities.\n- To boost fish farming or fishing activities in freshwater bodies.\n- Fishing in reservoirs, aquaculture in ponds, and catch from rivers increase fish production and boost inland fisheries.\n- The main objective is to provide employment opportunities to Scheduled Tribe fishermen in the state and increase fish production.\n\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be Individuals/societies/self-help groups/associations/reservoir monopolies/private units, etc., involved in inland fisheries activities can avail the benefits of inland schemes.\n1. The applicant must be from the Scheduled Tribe community.\n1. The applicant must be above 18 years.\n1. The beneficiary must have his/her own bank account.\n1. The applicant must have an Aadhaar Card/Voter ID/Ration Card/Passport as proof of identity.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:01:06.935473+00:00",
+  "implementing_agency": "Commissioner Of Fisheries",
+  "last_synced_at": "2026-08-26T14:01:06.935473+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=wiB0mG2hjcblY52frAvd0g==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ikhedut.gujarat.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68948f786c611d4368503523",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card/Voter ID/Ration Card/Passport (as proof of identity)\n1. Scheduled Tribe Certificate\n1. Bank Account Details\n1. Any other documents (as per requirements)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card/Voter ID/Ration Card/Passport (as proof of identity)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Scheduled Tribe Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents (as per requirements)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68948f686c611d43685034c5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68948f686c611d43685034c5",
+  "scheme_name": "To Increase Fish Seed Production and Inland Fisheries Resources in Tribal Areas: Training of Tribal Trainees - Gujarat",
+  "scheme_open_date": null,
+  "scheme_short_title": "IFPTRAININGUJ",
+  "slug": "ifptraininguj",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fish",
+    "Fish Activities",
+    "Fish Production",
+    "Scheduled Tribes",
+    "Fishermen",
+    "Training"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    },
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

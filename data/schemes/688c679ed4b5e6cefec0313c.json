@@ -1,0 +1,244 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The Taluka or District Cooperative Purchase and Sale Union must prepare a proposal for the intended project."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "The proposal is to be submitted to the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, through the Deputy Director and District Registrar Co-operative Societies of the respective district."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Upon approval from the Department of Agriculture, Farmers Welfare and Co-operation, the subsidy amount will be disbursed to the union via the District Registrar's office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "The assistance will be released in installments based on the level of work completed as per verified reports."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The Taluka or District Cooperative Purchase and Sale Union must prepare a proposal for the intended project.\n**Step 2:** The proposal is to be submitted to the Registrar of Co-operative Societies, Gujarat State, Gandhinagar, through the Deputy Director and District Registrar Co-operative Societies of the respective district.\n**Step 3:** Upon approval from the Department of Agriculture, Farmers Welfare and Co-operation, the subsidy amount will be disbursed to the union via the District Registrar&amp;#39;s office.\n**Step 4:** The assistance will be released in installments based on the level of work completed as per verified reports.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Financial Assistance:** Provides a 50% capital subsidy to cooperative unions, with a maximum limit of ₹20,00,000/-.  - **Improved Services for Farmers:** Enables unions to offer better and more diverse services to farmers, such as providing quality agricultural inputs, procuring produce at support prices, and offering modern processing and storage facilities.  - **Enhanced Infrastructure:** Supports the development of infrastructure like storage godowns, processing units, and marketing channels, which benefits the entire agricultural supply chain.  - **Increased Market Access:** Helps unions establish better marketing and branding of agricultural produce, potentially leading to better prices for farmers&amp;#39; products.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "971053a573ec270b13c41489794d8f2f76e2c7a2e04b6b91909e37a84161b7b4",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka &amp;amp; District Co-op. Purchase Sale Union&amp;quot; by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to strengthen the financial base of cooperative buying and selling unions in talukas and districts by providing 50% capital assistance with a maximum limit of ₹20,00,000/- for a wide range of agricultural projects. These projects include procurement of inputs like fertilizers and seeds, as well as infrastructure and service improvements such as processing, grading, cleaning, washing, shorting, packaging, branding, storage, and marketing of agricultural produce. By empowering these cooperative institutions, the scheme seeks to ensure better quality services and economic benefits for farmers and primary agricultural credit societies. \n<br>\n\n",
+  "eligibility": "\n1. Taluka or District Cooperative Purchase and Sale Associations are eligible under this scheme.\n1. Taluka and District Purchase and Sale Associations should have their own land.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:11:17.936321+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:11:17.936321+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rcs.gujarat.gov.in/Home/SchemesDetailsPage/gliVwGX8Ej94zJwViawMjA%E2%99%AC%E2%99%AC"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "688c67cf746baf0b8675b967",
+      "en": {
+        "documentsRequired_md": "\n1. Project Proposal Document.\n1. Land Ownership Proof.\n1. Identity Proof of Union Office Bearers.\n1. Registration Certificate of the Cooperative Union.\n1. Utilization Certificate (post-completion for fund release).\n1. Progress Report (for phased disbursement).\n1. Bank Account Details of the Union.\n1. Approval Letter from District Registrar (for forwarding the proposal).\n1. Any Other Document as Prescribed by the Concerned Authority.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal Document."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof of Union Office Bearers."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Registration Certificate of the Cooperative Union."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Utilization Certificate (post-completion for fund release)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Progress Report (for phased disbursement)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details of the Union."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Approval Letter from District Registrar (for forwarding the proposal)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other Document as Prescribed by the Concerned Authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "688c679ed4b5e6cefec0313c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "688c679ed4b5e6cefec0313c",
+  "scheme_name": "COP-37 (General Area) 50% Capital Subsidy Scheme for Project of Taluka & District Co-op. Purchase Sale Union",
+  "scheme_open_date": null,
+  "scheme_short_title": "CSSPTDCP",
+  "slug": "cssptdcp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Cooperative Union",
+    "Agriculture Subsidy",
+    "Sale Union"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

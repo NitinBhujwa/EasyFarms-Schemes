@@ -1,0 +1,204 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The interested applicant should visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Zonal Agriculture Officer"
+                }
+              ],
+              "link": "https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0",
+              "type": "link"
+            },
+            {
+              "text": " and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit the [Zonal Agriculture Officer](https://www.agri.goa.gov.in/ContactUs;jsessionid=8C0446B54FFF58D0E14D99C1661A85D6?0) and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Zonal Agriculture Officer.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "***Assistance for the use of Micronutrients***\n\n- Micronutrients like Zinc, Boron, Magnesium Sulphate, and other notified micronutrients would be provided a 75% subsidy limited to Rs. 7,500/-per ha for all categories of farmers and a maximum of 4 ha per farmer. \n- The subsidy would be released after the micronutrients are purchased and used by farmers.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "22e4f6f2e1af3e62d5ae696e88cddccd1b8d0cd941a927f2e580f4d6fc70ab74",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Development of Manures &amp; Fertilizers&quot; was launched by the Department of Agriculture, Government of Goa. The &quot;Assistance for use of Micronutrients&quot; component of the scheme aims to address micronutrient deficiencies in the soil that affect crop productivity and ensure healthy crop growth and production. The payment of the sanctioned subsidy is through Electronic Clearance System (ECS). The applications for this scheme are accepted offline via the Zonal Agriculture Officer.\n<br>\n\n",
+  "eligibility": "\n- Any farmer carrying out agricultural activities in the State of Goa and having a Krishi card.\n- The farmer should be cultivating a minimum of 0.1 ha in general. \n- Institutions and private limited companies involved in agricultural activities and having a Krishi card will also be assisted under this scheme.\n- Farmer should possess a Soil Health Card not older than a 2-year period, or a certificate to that extent may be furnished by the Assistant Chemist of Soil Testing Laboratory (North/South).\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:27.072529+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:27.072529+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 30000002
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://goaprintingpress.gov.in/downloads/2526/2526-22-SI-OG.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ed1bf58ba160c15f30d3fa",
+      "en": {
+        "documentsRequired_md": "\n- Krishi Card Abstract\n- Soil Health Card\n- Cash Invoice\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Krishi Card Abstract"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Soil Health Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cash Invoice"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ed19838ba160c15f30c47d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ed19838ba160c15f30c47d",
+  "scheme_name": "Development of Manures & Fertilizers: Assistance for use of Micronutrients",
+  "scheme_open_date": null,
+  "scheme_short_title": "DMF-AUM",
+  "slug": "dmf-bp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Soil health",
+      "value": "Soil health"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Crop",
+    "Soil",
+    "Plant"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

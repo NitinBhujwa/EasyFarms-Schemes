@@ -1,0 +1,699 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6869495b5b6f1357c83c86a5",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process on Antyodaya-SARAL Portal:"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Visit the Official Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal."
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Login to Apply for the Scheme:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Visit the Official Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal."
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Track Your Service Online:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Track Application/Appeal: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://status.saralharyana.nic.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Track Ticket: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Track Your Service Through SMS:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Registered Mobile Number:"
+                          },
+                          {
+                            "text": " Type SARAL and send to 9954699899 to track your application."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Other Mobile Number: "
+                          },
+                          {
+                            "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": " Helpline: "
+                      },
+                      {
+                        "text": "0172-3968400"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Email: "
+                      },
+                      {
+                        "text": "saral.haryana@gov.in"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Fees For Service:"
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "text": "Government Charges: ₹0 (No Fee)"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Service Charges: ₹10"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Atal Seva Kendra Charges: ₹10"
+                              }
+                            ],
+                            "type": "list_item"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&gt; **Contact Us:**\n\n **Helpline:** 0172-3968400\n**Email:** saral.haryana@gov.in\n&amp;gt; **Fees For Service:**\n\n\n  - Government Charges: ₹0 (No Fee)\n  - Service Charges: ₹10\n  - Atal Seva Kendra Charges: ₹10\n\n<br>\n\n"
+          },
+          {
+            "mode": "Online - via CSC",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Fisheries Department",
+            "value": 666678
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Pradhan Mantri Matsya Sampada Yojana: Medium Scale Ornamental Fish Rearing Unit (Fresh Water) - Haryana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "PMMSYMSOFRU",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "Fish Production",
+            "Fish",
+            "Fish Farmer",
+            "Subsidy",
+            "Ornamental Aquaculture",
+            "Fish Rearing Unit",
+            "Fresh Water"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Haryana."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should possess a valid Parivar Pehchan Patra (Family ID)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have at least 150 square meters of vacant land with adequate water supply."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should either own the land or possess a registered lease deed valid for at least 7 years."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a resident of Haryana.\n1. The applicant should possess a valid Parivar Pehchan Patra (Family ID).\n1. The applicant should have at least 150 square meters of vacant land with adequate water supply.\n1. The applicant should either own the land or possess a registered lease deed valid for at least 7 years.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Tangible Benefits:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Project Cost: ₹8,00,000/- per unit"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy will be limited to 40% of the project cost for General Category applicant."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy will be limited to 60% of the project cost for Scheduled Caste (SC)/Women beneficiaries."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Tangible Benefits:**\n\n- Project Cost: ₹8,00,000/- per unit\n- Subsidy will be limited to 40% of the project cost for General Category applicant.\n- Subsidy will be limited to 60% of the project cost for Scheduled Caste (SC)/Women beneficiaries.\n\n<br>\n\n",
+          "briefDescription": "Under this scheme, financial assistance in the form of a subsidy is provided to eligible beneficiaries for setting up infrastructure such as sheds, breeding units, and rearing and culture tanks for ornamental fish. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Subsidy for Medium Scale Ornamental Fish Rearing Unit (Fresh Water)” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This Centrally Sponsored Scheme aims to promote ornamental fish farming as a sustainable livelihood option."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, financial assistance in the form of a subsidy is provided to eligible beneficiaries for setting up infrastructure such as sheds, breeding units, and rearing and culture tanks for ornamental fish. The assistance will be provided to beneficiaries who own a minimum of 150 square meters of vacant land with an adequate fresh water facility."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Subsidy for Medium Scale Ornamental Fish Rearing Unit (Fresh Water)” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This Centrally Sponsored Scheme aims to promote ornamental fish farming as a sustainable livelihood option.\nUnder this scheme, financial assistance in the form of a subsidy is provided to eligible beneficiaries for setting up infrastructure such as sheds, breeding units, and rearing and culture tanks for ornamental fish. The assistance will be provided to beneficiaries who own a minimum of 150 square meters of vacant land with an adequate fresh water facility.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Scheme Details",
+              "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=EUqwCIPF9kVQCnOhG6Jqog=="
+            },
+            {
+              "title": "Official Website",
+              "url": "https://harfish.gov.in/technical-financial-assistance"
+            },
+            {
+              "title": "Scheme Details (Page No. 1)",
+              "url": "https://harfish.gov.in/sites/default/files/Scheme%20Brief.pdf?utm_source=chatgpt.com"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "msofru"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68694a6d5b6f1357c83c8a98",
+      "en": {
+        "documentsRequired_md": "\n   1. Agreement Letter-1: Agreement letter between the beneficiary and the department\n   1. Birth Certificate - Voter ID Card/Date of Birth Certificate/Aadhaar Card/Class 10th Certificate   1. Caste Certificate - Caste certificate issued by a First-Class Magistrate (Tehsildar)\n   1. Fisheries Training Certificate of the Applicant\n   1. Land Records: Land records from the Tehsil (land registry, copy of Aksasra Fard) or registered lease deed\n   1. Bill/Receipt/Voucher\n   1. Photograph of the beneficiary with the unit\n   1. Bank account and PAN card details\n   1. Detailed Project Report (DPR)/Self-Contained Proposal (SCP) as per the guidelines issued under the Centrally Sponsored Scheme PMMSY\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Agreement Letter-1: Agreement letter between the beneficiary and the department"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Birth Certificate - Voter ID Card/Date of Birth Certificate/Aadhaar Card/Class 10"
+                      },
+                      {
+                        "superscript": true,
+                        "text": "th"
+                      },
+                      {
+                        "text": " Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate - Caste certificate issued by a First-Class Magistrate (Tehsildar)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Fisheries Training Certificate of the Applicant"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land Records: Land records from the Tehsil (land registry, copy of Aksasra Fard) or registered lease deed"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bill/Receipt/Voucher"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Photograph of the beneficiary with the unit"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account and PAN card details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Detailed Project Report (DPR)/Self-Contained Proposal (SCP) as per the guidelines issued under the Centrally Sponsored Scheme PMMSY"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6869495b5b6f1357c83c86a5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:19.109221+00:00",
+  "scheme_id": "6869495b5b6f1357c83c86a5"
+}

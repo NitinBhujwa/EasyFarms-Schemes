@@ -1,0 +1,142 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "After contacting the nearest veterinary hospital, animal service center, or UPSA center, artificial insemination is carried out. The cattle rearer is not required to submit any documents."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "After contacting the nearest veterinary hospital, animal service center, or UPSA center, artificial insemination is carried out. The cattle rearer is not required to submit any documents.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme, a grant of ₹400 per dose is provided to cattle farmers for breed improvement through artificial insemination of cows and buffaloes using sex-sorted semen.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b4122c643a5a0fc95cec0750c7715da3788ef7abc743a288c0f5cd3666bc595d",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Grant for Sex-Sorted Semen to Livestock Farmers&amp;quot; was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote breed improvement and increase milk production by encouraging the use of sex-sorted semen for artificial insemination in cows and buffaloes.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be engaged in the rearing of cows and/or buffaloes.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:06.646620+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:06.646620+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 237)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68c94e64f2b9e7b2ee1956bc",
+      "en": {
+        "documentsRequired_md": "No documents are required to be submitted by the cattle rearer.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "No documents are required to be submitted by the cattle rearer."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68c94e5ef2b9e7b2ee19567c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68c94e5ef2b9e7b2ee19567c",
+  "scheme_name": "Grant for Sex-Sorted Semen to Livestock Farmers",
+  "scheme_open_date": null,
+  "scheme_short_title": "GSSSLF",
+  "slug": "slfsss",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Livestock",
+    "Buffalo",
+    "Cattle",
+    "Sex-Sorted Semen",
+    "Livestock",
+    "Artificial Insemination"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

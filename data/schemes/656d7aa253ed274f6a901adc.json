@@ -1,0 +1,326 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should take print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+            },
+            {
+              "bold": true,
+              "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+            },
+            {
+              "children": [
+                {
+                  "text": "BDO Office/ Sub-Offices"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": " of the Department of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Redressal"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+            },
+            {
+              "children": [
+                {
+                  "text": "Grievance Redressal Officer"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "text": ". The grievance can also be lodged on the link "
+            },
+            {
+              "bold": true,
+              "text": "dir-fish.goa@nic.in"
+            },
+            {
+              "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2023/01/F.R.P.-Application-forms.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Subsidy to the extent of **50% of the actual cost limited to ₹ 50,000/-** for the purchase of Singel Net/ Small Rampon Net and its accessories, after every five years.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c129d736f1c2c6f0f5c98d06fc00f9dafcde2deafb25a4428b0ec286f34efb22",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Financial Assistance To Purchase Singel Net / Small Rampon Net &amp; Its Accessories” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, a 50% subsidy is provided to the fishermen of Goa for the purchase of Singel Net/ Small Rampon Net and its accessories.\n",
+  "eligibility": "\n- The applicant should be a traditional fisherman by birth or profession.\n- The applicant should be a resident of Goa.\n- The Fishermen should belong to the OBC (Kharvi) Community.\n- The grandfather/grandmother of the fishermen should be resident(s) of Goa.\n- The fishermen shall not possess registered fishing canoes or fishing trawlers.\n- Only one household family member can avail of the benefit under this scheme.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:19.085062+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:53:19.085062+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 30000017
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Application Form, Inspection Report, And Self Declaration",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/Gill-Net-Application-Forms.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "656d7acc53ed274f6a901b02",
+      "en": {
+        "documentsRequired_md": "\n- Certificate of Vessel Registration, issued by the Directorate of Fisheries, Government of Goa, under the Merchant Shipping Act 1958.\n- Fishing Vessel License Certificate\n- Fishing Net License Certificate.\n- Copy of Fishing Netbook (Updated)\n- Original GST Bill from the Authorized Dealer towards the Construction of the Wooden / FRP Craft.\n- Caste Certificate (ST/ SC) if applicable.\n- Copy of Aadhar Card \n- Copy of Election Card \n- Copy of Bank Passbook/Statement (Aadhaar linked)\n- Bank letter (if bank financed)\n- Inspection Report along with photographs of Fishing Canoe, Net, and its Accessories by Fisheries Superintendent/ Fisheries Officer, Assistant Superintendent of Fisheries ([As per format](https://fisheries.goa.gov.in/wp-content/uploads/2023/01/Gill-Net-Application-Forms.pdf)).\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Certificate of Vessel Registration, issued by the Directorate of Fisheries, Government of Goa, under the Merchant Shipping Act 1958."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Fishing Vessel License Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Fishing Net License Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Fishing Netbook (Updated)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original GST Bill from the Authorized Dealer towards the Construction of the Wooden / FRP Craft."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (ST/ SC) if applicable."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhar Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Election Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook/Statement (Aadhaar linked)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank letter (if bank financed)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Inspection Report along with photographs of Fishing Canoe, Net, and its Accessories by Fisheries Superintendent/ Fisheries Officer, Assistant Superintendent of Fisheries ("
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "As per format"
+                      }
+                    ],
+                    "link": "https://fisheries.goa.gov.in/wp-content/uploads/2023/01/Gill-Net-Application-Forms.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ")."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "656d7aa253ed274f6a901adc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "656d7aa253ed274f6a901adc",
+  "scheme_name": "Financial Assistance To Purchase Singel Net / Small Rampon Net & Its Accessories",
+  "scheme_open_date": null,
+  "scheme_short_title": "FAPSNSRNA",
+  "slug": "fapsnsrna",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fishermen",
+    "Fish",
+    "Subsidy",
+    "Financial Assistance",
+    "Marine"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

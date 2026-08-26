@@ -1,0 +1,242 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The applicant should take print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/5.%20Input%20Assistance%20to%20Farmers%20for%20taking%20up%20Fish%20Farming%20in%20Farm%20Ponds.PDF",
+              "type": "link"
+            },
+            {
+              "text": " of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the Block Level Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant should take print of the [prescribed format](https://fard.odisha.gov.in/sites/default/files/2023-10/5.%20Input%20Assistance%20to%20Farmers%20for%20taking%20up%20Fish%20Farming%20in%20Farm%20Ponds.PDF) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Block Level Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n- One-day training and awareness programme will be conducted by the District Fisheries Officers for skill up-gradation of the beneficiaries.\n\n<br>\n\n> **Type of Farm Pond with Unit Cost and Pattern of Assistance**\n\nThe input assistance towards pisciculture on the unit cost of ₹4,00,000/- hectare shall be given to the farmer as a one-time support at 40% for General Category, and 60% for Scheduled Castes (SC)/ Scheduled Tribes (ST)/Women/Transgender/Person with Disability (PwD) Category of farmers.\n<br>\n\n**Model 1**\n\n- Specification of Farm Pond: 20m x 20m\n- Seed: 2400\n- Feed: 10800\n- Other Input: 2800\n- Unit Cost (₹): 16000\n- Subsidy Assistance (₹)\n- General (40%): 6400\n- SC/ST/Women/Transgender/PwD (60%): 9600\n\n**Model 2**\n\n- Specification of Farm Pond: 15m x 15m\n- Seed: 1350\n- Feed: 6075\n- Other Input: 1575\n- Unit Cost (₹): 9000\n- Subsidy Assistance (₹)\n- General (40%): 3600\n- SC/ST/Women/Transgender/PwD (60%): 5400\n\n**Model 3**\n\n- Specification of Farm Pond: 10m x 10m\n- Seed: 600\n- Feed: 2700\n- Other Input: 700\n- Unit Cost (₹): 4000\n- Subsidy Assistance (₹)\n- General (40%): 1600\n- SC/ST/Women/Transgender/PwD (60%): 2400\n\n****Other Inputs include fertiliser, lime, pro/pre/grow biotics, Vit-min mix, disinfectant, medicines, castnet, etc.***\n**NOTE 1:** Farmers are free to stock more seed as per their choice for seed raising purpose.\n**NOTE 2:** The assistance shall be limited to 0.5 acres of water spread area per beneficiary.\n<br>\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "3c4d7f7a7fc23fe2a86db4978d95d0158f17594c633e94ee9ee596da1f0d9915",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds&amp;quot; Component of the &amp;quot;Mukhyamantri Maschyajibi Kalyan Yojana&amp;quot; Scheme was launched by the Fisheries &amp;amp; Animal Resources Development Department, Government of Odisha. The objective of this scheme is to increase the inland fish production, and to enhance the income of farmers in the State though aquaculture. Input assistance is provided to the farmers who have excavated farm ponds under MGNREGA for facilitating the production of fingerling and fish. The scheme is implemented by the Directorate of Fisheries through its field functionaries in Odisha.\n",
+  "eligibility": "\n1. The applicant should be a resident of Odisha.\n1. The applicant must have a bank account in his/her name in Odisha.\n1. The farm pond should have been excavated by the applicant.\n1. The farm pond should have been excavated under the various Government schemes including Watershed Development Projects &amp; MGNREGA through the Directorate of Soil Conservation &amp; Watershed Development.\n1. The farm pond should have a minimum 5 feet water depth.\n1. The farm pond should have sufficient water retaining capacity for a minimum 5 months of culture period.\n1. While availing subsidy, the beneficiary family will be considered instead of individual member of the family.\n\n",
+  "exclusions": "\n- The applicant family should not be provided with multiple benefits under one particular scheme.\n- A family will not be eligible for subsidy under the same scheme if any of its members has got a subsidy during the last two years.\n\n",
+  "first_seen_at": "2026-08-26T13:59:27.822738+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:59:27.822738+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Animal Resources Development Department",
+    "value": 2111120
+  },
+  "references": [
+    {
+      "title": "Guidelines & Application Form",
+      "url": "https://fard.odisha.gov.in/sites/default/files/2023-10/5.%20Input%20Assistance%20to%20Farmers%20for%20taking%20up%20Fish%20Farming%20in%20Farm%20Ponds.PDF"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65d338a5cd96dc5e0759212a",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card (photocopy).\n- Identification &amp; Residential Proof (Aadhaar card).\n- A Mobile Number (Aadhaar linked Mandatory).\n- First page of Bank Passbook (photocopy).\n- Land Document.\n- Caste Certificate. \n- The certificate of identity as transgender person issued by the District Magistrate as per &quot;The Transgender persons (Protection of Rights) Act, 2019 will be accepted for transgender category.\n- For differently abled persons the certificate of disability issued by certifying authority/ competent authority indicating 40% or more disability as per &quot;The Rights of Persons with Disabilities Act, 2016 will be acceptable.&quot;\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card (photocopy)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identification & Residential Proof (Aadhaar card)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "A Mobile Number (Aadhaar linked Mandatory)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "First page of Bank Passbook (photocopy)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Document."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate. "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The certificate of identity as transgender person issued by the District Magistrate as per \"The Transgender persons (Protection of Rights) Act, 2019 will be accepted for transgender category."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "For differently abled persons the certificate of disability issued by certifying authority/ competent authority indicating 40% or more disability as per \"The Rights of Persons with Disabilities Act, 2016 will be acceptable.\""
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65d33864ed4030e118df8e17"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65d33864ed4030e118df8e17",
+  "scheme_name": "\"Input Assistance to Farmers for Taking up Fish Farming in Farm Ponds\" Component of the \"Mukhyamantri Maschyajibi Kalyan Yojana\" Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "IAFFFFP-MMKY",
+  "slug": "mmky-iaftufffp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Odisha",
+    "value": 21
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Fisheries",
+    "Seed",
+    "Subsidy",
+    "Fertilizer",
+    "Pond"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

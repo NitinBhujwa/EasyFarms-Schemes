@@ -1,0 +1,293 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "ServicesPlus"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/",
+              "type": "link"
+            },
+            {
+              "text": " website."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Click on the “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register” "
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+              "type": "link"
+            },
+            {
+              "text": "option on the homepage."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Review all details carefully and submit the registration form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Login",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+            },
+            {
+              "children": [
+                {
+                  "text": "“Login.”"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Enter your Email ID, Password, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Select the relevant service/scheme name."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Fill in the required details in the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: Submit the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. 50 % of cost of unit, subject to a maximum of ₹ 1,88,000/- per unit for General Category and 75% subject to maximum of ₹ 2,28,000/- per unit for NE/SC/ST &amp; 90% Spice Producer&#39;s Groups in Identified Clusters subjected to maximum of ₹ 3,38,000/-\n1. Individual farmers having a minimum of 0.40 ha - 8 ha under turmeric are eligible to benefit under the scheme.\n1. Assistance for groups/FPOs will be as in QGBG\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "d0ff618bd59034d88d786ffa9982a8661a966acbacb205241dff6cc581283754",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement – Turmeric Boiler (Nos.) is implemented by the Spices Board, India, under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage turmeric growers to adopt hygienic steam boiling units for processing turmeric, thereby improving the quality of the produce and making it suitable for export markets. By promoting modern post-harvest processing practices, the scheme helps enhance product quality, reduce contamination, and increase the export potential of Indian turmeric. The scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+  "eligibility": "1.All turmeric growing States and regions/UT in India.\n2. Designated Officials will conduct final inspection and recommend the eligible cases.\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:18.238646+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:18.238646+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.indianspices.com/export_oriented_prod.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/dbt/login.do"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6a338e1bda5ba83f4bd85b26",
+      "en": {
+        "documentsRequired_md": "a. Current year land tax receipt / Chitta Adangal / RTC / Parcha / Possession Certificate\nb. Aadhar copy\nc. Bank pass book first page\nd) Invoice and payment documents towards purchase from valid manufacturer of the equipment/device empaneled by Spices Board\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "a. Current year land tax receipt / Chitta Adangal / RTC / Parcha / Possession Certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "b. Aadhar copy"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "c. Bank pass book first page"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "d) Invoice and payment documents towards purchase from valid manufacturer of the equipment/device empaneled by Spices Board"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6a338e0c94d1574adaa9e555"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6a338e0c94d1574adaa9e555",
+  "scheme_name": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement: Turmeric boiler ( nos)",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISFEPQIISARADOCPHITBNOS",
+  "slug": "isfepqiisaradocphitbnos",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Turmeric Boiler",
+    "Farmer",
+    "Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

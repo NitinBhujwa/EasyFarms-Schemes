@@ -1,0 +1,250 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The applicant furnishes their Bank Account Number, Name of the Banker, Branch, and IFS code to the tea garden Manager. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " The applicant submits a claim application for Provident Fund settlement or advances through their employer. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " The employer verifies the claim and forwards it to the Inspectorate, Zonal Office, or Head Office for settlement. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Upon approval, the Board credits the payment directly into the beneficiary's bank account if the amount is ₹5,000/- or above."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant furnishes their Bank Account Number, Name of the Banker, Branch, and IFS code to the tea garden Manager. \n**Step 2:** The applicant submits a claim application for Provident Fund settlement or advances through their employer. \n**Step 3:** The employer verifies the claim and forwards it to the Inspectorate, Zonal Office, or Head Office for settlement. \n**Step 4:** Upon approval, the Board credits the payment directly into the beneficiary&#39;s bank account if the amount is ₹5,000/- or above.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Provident Fund Accumulation:** Members receive credit for their own contribution of 12% of wages and an equal 12% contribution from the employer.\n**Interest:** The accumulated deposits earn interest at a rate declared by the Board every year.\n**Final Settlement:** The total credit balance with interest is paid to the member or nominee upon retirement, resignation, death, or invalidity.\n**Refundable Advances:** Members can avail advances up to 25% of the balance or nine months&#39; pay (whichever is less) for marriage, death ceremonies, medical treatment, or children&#39;s higher education.\n**Housing Advance:** A non-refundable advance is available for constructing or purchasing a dwelling house, equal to 24 months&#39; wage, total contribution, or housing cost, whichever is less.\n**Hardship Relief:** A non-refundable advance is granted in cases of hardship due to natural calamities or the closure of a plantation.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "66073e5e94e7cd710fe3ae1f2d0e2c29c8179f27f59a7fa6feaea4b84bffc4db",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Assam Tea Plantations Provident Fund Scheme&quot; is a Social Security Scheme for the Plantation Workers in Assam. The scheme was launched by the Assam Tea Employees Provident Fund Organization, Government of Assam. The scheme aims to provide compulsory savings and social security to tea garden workers and employees in Assam against contingencies like old age, death, and invalidity. The scheme provides a provident fund where both the employee and employer contribute 12% of wages, which accumulates interest at a rate declared by the Board. The applicant must be a daily wage worker or an employee of a plantation or tea factory earning up to ₹6,500/- per month. The scheme is implemented by the Assam Tea Employees Provident Fund Organization and administered by a Board of Trustees. The applications for claims are accepted through the employer or garden management.\n<br>\n\n",
+  "eligibility": "\n- The applicant must be employed in a tea plantation or a tea factory in Assam.\n- The applicant must receive a monthly salary of up to ₹6,500/-.\n- The applicant must be a daily wage worker (eligible from the first day of work).\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:04.820463+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:04.820463+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Tea Tribes and Adivasi Welfare Department",
+    "value": 1800062
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://atppf.nic.in/about.html"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "698b1348b3c2d7b0a51ca314",
+      "en": {
+        "documentsRequired_md": "\n- **Bank Account Details:** A Bank Passbook or official bank document containing the Bank Account Number, Name of the Banker, Branch Name, and IFS Code.- **Proof of Employment:** An Employment Identity Card or Service Certificate issued by the Tea Garden Manager to substantiate that the applicant is an employee of a plantation or tea factory.- **Proof of Wages:** A Wage Slip or Salary Certificate to substantiate that the applicant&#39;s monthly salary is up to ₹6,500/- or that they are a daily wage worker.- **Nomination Details:** A Nomination Form or Declaration of Family Members to designate a beneficiary for the release of funds in the event of the member&#39;s death.- **Death Certificate:** A Death Certificate of the member (Required only for Family Pension or Deposit Linked Insurance claims by a nominee).- **Medical Certificate:** A Medical Certificate issued by a competent authority (Required only for Invalid Pension claims due to accident or invalidity).\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Bank Account Details:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A Bank Passbook or official bank document containing the Bank Account Number, Name of the Banker, Branch Name, and IFS Code."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Proof of Employment:",
+                    "underline": true
+                  },
+                  {
+                    "text": " An Employment Identity Card or Service Certificate issued by the Tea Garden Manager to substantiate that the applicant is an employee of a plantation or tea factory."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Proof of Wages:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A Wage Slip or Salary Certificate to substantiate that the applicant's monthly salary is up to ₹6,500/- or that they are a daily wage worker."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Nomination Details:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A Nomination Form or Declaration of Family Members to designate a beneficiary for the release of funds in the event of the member's death."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Death Certificate:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A Death Certificate of the member (Required only for Family Pension or Deposit Linked Insurance claims by a nominee)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Medical Certificate:",
+                    "underline": true
+                  },
+                  {
+                    "text": " A Medical Certificate issued by a competent authority (Required only for Invalid Pension claims due to accident or invalidity)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "698b1310b3c2d7b0a51ca163"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "698b1310b3c2d7b0a51ca163",
+  "scheme_name": "Assam Tea Plantations Provident Fund Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "ATPPFS",
+  "slug": "atppfs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Assam",
+    "value": 18
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Plantation",
+    "Worker",
+    "Provident Fund",
+    "Retirement",
+    "Employee"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

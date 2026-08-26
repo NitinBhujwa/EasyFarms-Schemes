@@ -1,0 +1,283 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The respective States and Union Territories complete the implementation of the National Scheme of Welfare of Fishermen.  The working and fund allocation processes are as follows."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Eligible fishermen have to visit their nearest FISHCOPFED office to apply for this Government scheme for fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Next, the President or Secretary of the Association will collect the contribution and forward it to the Nationalised bank accounts selected by the Director of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3:"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Then, the State and Central Government match the fishermen’s contributions as allotted for them."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4:"
+            },
+            {
+              "text": " "
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Once this scheme reaches maturity, the authorities will return funds with the total accrued interest."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "label": "Cash",
+    "value": "Cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a18bee64e8267fa564ad7da5f7cfb074366267d97ae03bebb6369176bacd7c3f",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The National Scheme of Welfare of Fishermen is a centrally sponsored scheme that provides financial assistance to fishermen. They can use these for constructing houses and community halls for both recreation and work purposes. Further, through the amount availed under this scheme, fishermen can install tube wells.\n<br>\n\n**Objectives-**\n<br>\n\n\n1. Provide fishermen with basic amenities such as housing, community halls, tube well for drinking water.\n1. Ensure Financial And Social Securities Of Fishermen And Their Families.\n1. Upgrade The Standard Of Living Of Fishermen.\n1. Educate And Train Fishermen In Advanced Technical Technologies So That They Can Learn Scientific Ways Of Fishing.\n\n",
+  "eligibility": "**Eligibility Criteria for Inland Fishermen**\n<br>\n\n\n1. Fishermen living in coastal areas and with whom the respective States and Union Territories have officially licensed are eligible for this scheme.\n1. The age of fishermen must be below 60 years old.\n1. Applicant fishermen must belong to the BPL (Below Poverty Line) category.\n1. They must be engaged in full-time activities inland.\n\n<br>\n\n**Eligibility Criteria for Marine Fishermen**\n<br>\n\nAll marine fishermen who operate under State, Union Territories, and FISHCOPFED are eligible for this government scheme for fishermen. However, there are other eligibility parameters marine fishermen must fulfill. These include -\n<br>\n\n\n1. Their respective States and Union Territories must officially license marine fishermen.\n1. They must involve themselves in full-time activities at sea.\n1. They must be a member of the Welfare Society or Federation or Cooperative Society.\n1. Please note that the fishermen under FISHCOPFED can avail of funds available under the insurance component only.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:31.392001+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:31.392001+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dahd.nic.in/related-links/centrally-sponsored-national-scheme-welfare-fishermen#:~:text=The%20Centrally%20Sponsored%20'National%20Scheme,period%20through%20saving%20cum%20relief"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "63025ca4b6cde9e76fff29a3",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application in the specific format"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph of the applicant with spouse (if married)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Vessel registration certificate (duly issued by Directorate of Fisheries)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Current net license payment receipt"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Professional cum residential certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6302596b09bb160a0610bc31"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6302596b09bb160a0610bc31",
+  "scheme_name": "National Scheme Of Welfare Of Fishermen",
+  "scheme_open_date": null,
+  "scheme_short_title": "NSWF",
+  "slug": "nswf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fisheries",
+    "Financial Assistance",
+    "Social Welfare"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

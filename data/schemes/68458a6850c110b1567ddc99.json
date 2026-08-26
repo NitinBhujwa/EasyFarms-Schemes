@@ -1,0 +1,240 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Women Self-Help Groups, Mahila Mangal Dals, and local women’s groups will be registered at the Divisional Forest Rights Office. Women farmers will be provided with a copy of the nursery manual and technical guidance for developing the nursery. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "For registration, the following documents are required: Khatauni of the proposed nursery site, proposal of the women’s group meeting, mobile number, Aadhaar card, and bank passbook. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Once the saplings in the nursery are ready, the Forest Department purchases them species-wise from the group as per the agreement between the Self-Help Group and the Forest Department. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "After the group purchases the necessary materials for establishing the nursery, the Department releases the grant in installments into the account of the Self-Help Group."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - Women Self-Help Groups, Mahila Mangal Dals, and local women’s groups will be registered at the Divisional Forest Rights Office. Women farmers will be provided with a copy of the nursery manual and technical guidance for developing the nursery. \n  - For registration, the following documents are required: Khatauni of the proposed nursery site, proposal of the women’s group meeting, mobile number, Aadhaar card, and bank passbook. \n  - Once the saplings in the nursery are ready, the Forest Department purchases them species-wise from the group as per the agreement between the Self-Help Group and the Forest Department. \n  - After the group purchases the necessary materials for establishing the nursery, the Department releases the grant in installments into the account of the Self-Help Group.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n  - Under this scheme, women’s groups are enabled to establish nurseries. High-quality seeds are procured from Silvahill or Silvasal, and the resources required for nursery operations are provided through a fixed grant. Technical support and training are also provided. \n  - Department purchases the plants grown by women in these nurseries on a contract basis.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Women and Child",
+      "value": "64f57d10ffb93104c7006c97"
+    }
+  ],
+  "content_hash": "cda1366c0ec66b6f7bd10f29a18f56d8a04f381373eaa6ee0b59703d4dc3656d",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Mahila Nursery Yojana&amp;quot; was launched by the Department of Forest, Government of Uttarakhand. The scheme aims to promote nursery establishment by providing women&amp;#39;s groups with high-quality seedlings or saplings from certified sources, along with a fixed grant, technical support, and training to ensure effective nursery operations. Department also purchases the plants grown by women in these nurseries on a contract basis.\n<br>\n\n",
+  "eligibility": "1. The applicant must be a Women Self-Help Group, Mahila Mangal Dal, or a Local Women’s Group from Uttarakhand.\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:33.168336+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:33.168336+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Uttarakhand Forest Department",
+    "value": 50000042
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 251)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68458aa450c110b1567ddcdf",
+      "en": {
+        "documentsRequired_md": "\n1. Group Registration Certificate (from Divisional Forest Officer)\n1. Khatauni of Proposed Nursery Site\n1. Proposal of Group Meeting (approving nursery project)\n1. Aadhaar Card\n1. Bank Passbook Copy\n1. Mobile Number\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Group Registration Certificate (from Divisional Forest Officer)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Khatauni of Proposed Nursery Site"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proposal of Group Meeting (approving nursery project)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook Copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68458a6850c110b1567ddc99"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "68458a6850c110b1567ddc99",
+  "scheme_name": "Mahila Nursery Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "MNY",
+  "slug": "mny",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Environmental grants",
+      "value": "Environmental grants"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    },
+    {
+      "label": "Financial Assistance",
+      "value": "Financial Assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Nursery",
+    "Women Group",
+    "Nursery",
+    "SHG",
+    "Mahila Mangal Dal"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

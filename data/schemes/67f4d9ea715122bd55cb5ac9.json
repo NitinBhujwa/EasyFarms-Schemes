@@ -1,0 +1,184 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Selection of beneficiaries will be made on a \"first come, first served\" basis."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Applicants must submit Aadhaar card, bank account details, and other documents related to criteria mentioned, along with their proposal."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - **Selection of beneficiaries will be made on a &amp;quot;first come, first served&amp;quot; basis.**\n  - Applicants must submit Aadhaar card, bank account details, and other documents related to criteria mentioned, along with their proposal.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme, one unit of goats (3 females and 1 male) aged 12 to 18 months is provided to eligible women. The entire cost of the scheme, ₹35,000, is borne by the State Government.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Women and Child",
+      "value": "64f57d10ffb93104c7006c97"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "f30b29e6c947d5c15ce50625a4bca85af0039e521acd110a9b243e13bce19644",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Mahila Bakri Palan&amp;quot; was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to empower women, especially abandoned, widowed, destitute, single, and disaster-affected women, by providing them support for goat rearing to generate livelihood and improve household income.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a woman.\n1. The applicant must be from one of the following categories:\n\n\n- Abandoned\n- Widow\n- Destitute\n- Single woman\n- Disaster-affected woman\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:02:52.123442+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:52.123442+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 237)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67f4ea110fec1352e0619602",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar card\n1. Bank account details\n1. Caste certificate\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67f4d9ea715122bd55cb5ac9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67f4d9ea715122bd55cb5ac9",
+  "scheme_name": "Mahila Bakri Palan",
+  "scheme_open_date": null,
+  "scheme_short_title": "MBP",
+  "slug": "mbp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Goat",
+    "Goat Rearing",
+    "Widow",
+    "Abandoned",
+    "Destitute",
+    "Disaster Affected Woman"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

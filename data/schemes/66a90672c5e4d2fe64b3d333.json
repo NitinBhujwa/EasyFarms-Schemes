@@ -1,0 +1,533 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Registration Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-01: "
+            },
+            {
+              "text": "The applicant visits the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://fisheries.bihar.gov.in/Default.aspx",
+              "type": "link"
+            },
+            {
+              "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+            },
+            {
+              "children": [
+                {
+                  "text": "click here"
+                }
+              ],
+              "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+              "type": "link"
+            },
+            {
+              "text": " to apply\". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-02:"
+            },
+            {
+              "text": " Select the \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Registration for Fisheries Schemes"
+                }
+              ],
+              "link": "https://misfisheries.bihar.gov.in/RegisterFisheries.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-03:"
+            },
+            {
+              "text": " Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-04:"
+            },
+            {
+              "text": " Enter a valid 10-digit mobile number and click to send OTP."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-05:"
+            },
+            {
+              "text": " An OTP will be sent to the provided mobile number."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-06:"
+            },
+            {
+              "text": " Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-07:"
+            },
+            {
+              "text": " Click on the \"Login\" and enter the Registration Number and Password"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Application Form Filling Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-01: "
+            },
+            {
+              "text": "The applicant visits the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://fisheries.bihar.gov.in/Default.aspx",
+              "type": "link"
+            },
+            {
+              "text": " and clicks the \"Applications are being invited for all the schemes of the financial year (2024-25), "
+            },
+            {
+              "children": [
+                {
+                  "text": "click here"
+                }
+              ],
+              "link": "https://fisheries.bihar.gov.in/Accordion.aspx",
+              "type": "link"
+            },
+            {
+              "text": " to apply\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-02:"
+            },
+            {
+              "text": " Click \"If your already register, "
+            },
+            {
+              "children": [
+                {
+                  "text": "login here"
+                }
+              ],
+              "link": "https://misfisheries.bihar.gov.in/login.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-03"
+            },
+            {
+              "text": ": Select \"Application form\" under the \"scheme name\" option on the top menu."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-04:"
+            },
+            {
+              "text": " Applicant need to provide the following details :"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Personal details."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Permanent address."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Bank account details."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Land details."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Financial availability of the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Agriculture, horticulture and agroforestry components"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-05"
+            },
+            {
+              "text": ": Upload the required documents"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Passport size photographs."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Aadhaar card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Land ownership certificate/revenue receipt or lease agreement, etc."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-06: "
+            },
+            {
+              "text": "Click on the submit button and a receipt will be generated."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> ***Registration Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;. \n**Step-02:** Select the &quot;[Registration for Fisheries Schemes](https://misfisheries.bihar.gov.in/RegisterFisheries.aspx)&quot;\n**Step-03:** Select the category: Individual and complete all basic details of the applicant for registration, including category, caste, applicant name, date of birth, address, bank details, etc.\n**Step-04:** Enter a valid 10-digit mobile number and click to send OTP.\n**Step-05:** An OTP will be sent to the provided mobile number.\n**Step-06:** Enter the OTP; after verification of the OTP, you will receive a Registration Number and Password.\n**Step-07:** Click on the &quot;Login&quot; and enter the Registration Number and Password\n<br>\n\n> ***Application Form Filling Process:***\n\n**Step-01:** The applicant visits the [official website](https://fisheries.bihar.gov.in/Default.aspx) and clicks the &quot;Applications are being invited for all the schemes of the financial year (2024-25), [click here](https://fisheries.bihar.gov.in/Accordion.aspx) to apply&quot;.\n**Step-02:** Click &quot;If your already register, [login here](https://misfisheries.bihar.gov.in/login.aspx)&quot;. \n**Step-03**: Select &quot;Application form&quot; under the &quot;scheme name&quot; option on the top menu.\n**Step-04:** Applicant need to provide the following details :\n\n\n  - Personal details.\n  - Permanent address.\n  - Bank account details.\n  - Land details.\n  - Financial availability of the scheme.\n  - Agriculture, horticulture and agroforestry components\n\n\n**Step-05**: Upload the required documents\n\n\n  - Passport size photographs.\n  - Aadhaar card.\n  - Land ownership certificate/revenue receipt or lease agreement, etc.\n\n\n**Step-06:** Click on the submit button and a receipt will be generated.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Beneficiary-based subsidy:**\n\n\n- 50% for other categories.\n- 70% for Most Backward Castes, Scheduled Castes, and Scheduled Tribes.\n- 40% Entrepreneur-based subsidy.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "a3845c5334a490801b7d61f86c529c2fdf808b397bb4c0fe6433eb5204364ef4",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Mukhyamantri Samekit Chaur Vikas Yojana&quot; was launched by the Animal and Fisheries Resources Department, Government of Bihar. under Seven Nishchay-2, aims to develop undeveloped and unutilized private land in Bihar for fish-based integrated aquaculture. With a budget of ₹2972.79 lakh, the scheme targets the sustainable development of 600 hectares of Chaur land\n<br>\n\n***Objective:***\n\n- Utilization of unutilized private land for fish farming.\n- Increase in fish production and productivity.\n- Groundwater level improvement, supporting the &quot;Jal-Jeevan-Hariyali&quot; campaign.\n- Additional employment opportunities for farmers.\n- Strengthening of the local economy.\n\n",
+  "eligibility": "\n1. The applicant should be an individual, family, group beneficiary, or entrepreneur.\n1. The applicant should be a private landowner or lessee in Chaur-dominated districts. \n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:30.877644+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:30.877644+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal & Fisheries Resources Department",
+    "value": 10111112
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.bihar.gov.in/docs/chaur23-24.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://fisheries.bihar.gov.in/Default.aspx"
+    },
+    {
+      "title": "Login",
+      "url": "https://misfisheries.bihar.gov.in/login.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66a90824c5e4d2fe64b3d502",
+      "en": {
+        "documentsRequired_md": "\n- Passport size photographs\n- Aadhaar card\n- Caste certificate \n- Land ownership certificate/revenue receipt or lease agreement\n- Consent letter for group work\n- Registration certificate (for entrepreneurs)\n- Audit and income tax returns (for entrepreneurs)\n- Bank consent letter\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport size photographs"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership certificate/revenue receipt or lease agreement"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consent letter for group work"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Registration certificate (for entrepreneurs)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audit and income tax returns (for entrepreneurs)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank consent letter"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "66a90672c5e4d2fe64b3d333"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "66a90672c5e4d2fe64b3d333",
+  "scheme_name": "Mukhyamantri Samekit Chaur Vikas Yojana",
+  "scheme_open_date": "2023-07-05",
+  "scheme_short_title": "MMSCVY",
+  "slug": "mmscvy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Bihar",
+    "value": 10
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Employment",
+    "Farmers",
+    "Fish Production"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    },
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

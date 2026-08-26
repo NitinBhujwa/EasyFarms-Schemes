@@ -1,0 +1,477 @@
+{
+  "detail": {
+    "data": {
+      "_id": "64105c13d58cf01bf7d09db5",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "The Applicant Should Submit the Application Along With the Relevant Papers in the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Prescribed Format"
+                      }
+                    ],
+                    "href": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " to the Concerned District Agricultural Officer, District Panchayat Within 150 Days From the Date of Death or Date of Accidental Disabilities. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "NOTE 1:"
+                  },
+                  {
+                    "text": " In Case of Accidental Death, the Applicant Will Be an Accidental Farmer's Successor and in the Case of Accidental Disability, the Applicant Will Be a Disabled Person Himself. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "NOTE 2:"
+                  },
+                  {
+                    "text": " Application Received After 150 Days Will Not Be Eligible."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "url": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": "Gujrat Comprehensive Community Accidental Insurance",
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Family",
+          "schemeName": "Janta Juth Accidental Insurance Scheme",
+          "schemeOpenDate": "1996-01-26",
+          "schemeShortTitle": "JJAIS",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Accident",
+            "Insurance",
+            "Farmer",
+            "Financial Assistance",
+            "Person With Disability"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Deceased or the Person with Permanent Disability Should Be a Registered Farmer (Have Individual or Joint Name Land) or Child of a Registered Farmer (Son or Daughter) or the Husband/ Wife."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Death or Permanent Disability Must Be Due to an Accident."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Deceased or the Person with Permanent Disability should be between the age of 5 to 70 years."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Application Should Be Made Within 150 Days to the Office of the Concerned District Agriculture Officer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "The sequence of the beneficiary under the scheme in chronological order:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Husband/Wife: In his/her absence"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Children Son/Daughter: In their absence"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Parent Father/Mother: In their absence"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Grandson/Grandaughter: In the absence of 1, 2, 3"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Unmarried/ Widow/ Exiled Sister who is dependent and living with the beneficiary"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Any heirs declared under the Heirs Act applied to the beneficiary involved in other than above mentioned cases and controversial case"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note:"
+                },
+                {
+                  "text": " Suicide or Natural Death Are Not Covered in This Scheme."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The Deceased or the Person with Permanent Disability Should Be a Registered Farmer (Have Individual or Joint Name Land) or Child of a Registered Farmer (Son or Daughter) or the Husband/ Wife.\n1. The Death or Permanent Disability Must Be Due to an Accident.\n1. The Deceased or the Person with Permanent Disability should be between the age of 5 to 70 years.\n1. The Application Should Be Made Within 150 Days to the Office of the Concerned District Agriculture Officer.\n\n<br>\n\n**The sequence of the beneficiary under the scheme in chronological order:**\n\n1. Husband/Wife: In his/her absence\n1. Children Son/Daughter: In their absence\n1. Parent Father/Mother: In their absence\n1. Grandson/Grandaughter: In the absence of 1, 2, 3\n1. Unmarried/ Widow/ Exiled Sister who is dependent and living with the beneficiary\n1. Any heirs declared under the Heirs Act applied to the beneficiary involved in other than above mentioned cases and controversial case\n\n<br>\n\n**Note:** Suicide or Natural Death Are Not Covered in This Scheme.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "In case of accidental death or permanent disability 100% assistance of ₹ 2,00,000."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "In case of accidental loss of two eyes / two limbs / hand and leg / one eye and one hand or leg 100% assistance of ₹ 2,00,000 (100% full sight loss in case of eye, In case of hand- loss of upper part of the wrist and in case of the leg- totally cut off from the knee)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "In case of accidental loss of one eye or one limb 50% assistance of ₹ 1,00,000."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "briefDescription": "\"Janta Juth\" is a Farmer's Accidental Insurance Scheme by the Govt. of Gujarat to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. The objective is to assist the successor of the farmer in case of death or disability due to an accident.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "\"Janta Juth\" is a Farmer's Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar. In case of accidental death or permanent disability, all registered farmers, any child (son/daughter) of the farmer and husband/wife of the farmer having age of 5 to 70 years are beneficiaries for the scheme."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "&amp;quot;Janta Juth&amp;quot; is a Farmer&amp;#39;s Accidental Insurance Scheme launched by the Govt. of Gujarat on 26th January 1996 to provide economic assistance of upto ₹ 2,00,000 to Farmers in case of Death or Disability. It is a 100% state-sponsored scheme. The main objective is to assist the successor of the farmer in case of death or disability due to an accident. In this scheme, insurance premium is paid by the State Government for all farmers. This scheme is implemented under the Gujarat Community Group-Janta Accidental Insurance Scheme from 01/04/08 through Director of Insurance, Gandhinagar. In case of accidental death or permanent disability, all registered farmers, any child (son/daughter) of the farmer and husband/wife of the farmer having age of 5 to 70 years are beneficiaries for the scheme.\n<br>\n\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": "Suicide or Natural death are not covered in this scheme."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/farmers-accidental-insurance-scheme.htm"
+            },
+            {
+              "title": "Amount Of Assistance",
+              "url": "https://dag.gujarat.gov.in/images/directorofagriculture/pdf/Janta-Juth-Accidental-Insurance-Scheme.pdf"
+            },
+            {
+              "title": "Guidelines (Gujarati) And Application Form",
+              "url": "https://dag.gujarat.gov.in/Portal/Document/12_4318_3_KKVY_FORM.pdf"
+            },
+            {
+              "title": "Check Application Status",
+              "url": "https://gsjjavy.gujarat.gov.in/claimsearch.php"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "jjais"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "64105c93e4c54a19af8263a9",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application in prescribed form Annexure -1, 2,3, 3(A),4,5"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "7/12, 8-A, Form No: 6 (certified extract after death date)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Post Mortem Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "F.I.R & Spot Panchnama Police Inquest Report or Court Order"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Death Certificate & Age Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Case Approval report of Sub Divisional Magistrate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability certificate of Medical board/Civil Surgeon in the case of permanent disability and Photograph of disablement shown."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Valid Driving License in case of Deceased was driving at the time of accident."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Indemnity Bond"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hereditary Report (Pedhinamu)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Hereditary Report (Pedhinamu) in Successor case (When the husband/wife are not Successor)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other proof asked by Director of Insurance"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64105c13d58cf01bf7d09db5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:07:49.143817+00:00",
+  "scheme_id": "64105c13d58cf01bf7d09db5"
+}

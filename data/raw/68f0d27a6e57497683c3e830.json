@@ -1,0 +1,293 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68f0d27a6e57497683c3e830",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant should contact the District Office of the Horticulture Department."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n- The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture and Food Processing Department",
+            "value": 2300018
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Hybrid Chilli Production Program",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "HCPP",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Hybrid Chilli Production",
+            "Financial Assistance",
+            "Horticulture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Madhya Pradesh."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must belong to the Scheduled Caste category."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must belong to the Below the Poverty Line (BPL) category."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must belong to the Scheduled Caste category.\n  - The applicant must belong to the Below the Poverty Line (BPL) category.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Financial Assistance: "
+                        },
+                        {
+                          "text": "Under the scheme, financial assistance ranging from ₹1,400/- to ₹7,000/- is provided per beneficiary."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Free Distribution of Inputs:"
+                        },
+                        {
+                          "text": " Beneficiaries are provided seeds, seed treatment chemicals, organic and chemical fertilizers, and insecticidal medicines free of cost."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - **Financial Assistance:** Under the scheme, financial assistance ranging from ₹1,400/- to ₹7,000/- is provided per beneficiary.  - **Free Distribution of Inputs:** Beneficiaries are provided seeds, seed treatment chemicals, organic and chemical fertilizers, and insecticidal medicines free of cost.\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide self-employment opportunities and increase income for Scheduled Caste farmers living below the poverty line by promoting hybrid chilli cultivation.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Hybrid Chilli Production Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to provide financial assistance and inputs for hybrid chilli cultivation to Scheduled Caste farmers, thereby enhancing crop quality, productivity, and farmers’ income."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Hybrid Chilli Production Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to provide financial assistance and inputs for hybrid chilli cultivation to Scheduled Caste farmers, thereby enhancing crop quality, productivity, and farmers’ income.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "hcpp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68f0d2a96e57497683c3e911",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Identity.\n   1. Residence Certificate.\n   1. BPL certificate\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Identity."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Residence Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "BPL certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f0d27a6e57497683c3e830"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:52.988541+00:00",
+  "scheme_id": "68f0d27a6e57497683c3e830"
+}

@@ -1,0 +1,242 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Step 01: The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Step 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Step 03: Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "District Agriculture Officers of the concerned districts"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Sub-Divisional Agricultural Officers of the concerned sub-divisions"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Training Officers, Tura/Shillong"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Agricultural Development Officers of the concerned Community and Rural Development Blocks"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\nStep 01: The eligible bonafide farmer can apply/write an application on plain paper.\nStep 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required).\nStep 03: Submit the duly filled and signed application along with the documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts\n   1. Sub-Divisional Agricultural Officers of the concerned sub-divisions\n   1. District Training Officers, Tura/Shillong\n   1. Agricultural Development Officers of the concerned Community and Rural Development Blocks\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\n\n- Adaptive research at farmers&#39; field.\n\n> **Type of Assistance And Entitlement (If Any):**\n\n\n- Training on Soil management, Providing Soil Health Cards, Conducting soil surveys, etc.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "92268a0fefecadb1f9b702941d5547fa6bb6bafb0d2dc28350dbbf28d4929b7c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Agriculture Research Stations and Laboratories Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to conduct adaptive research trials on different crops in the Research Farms and in Farmers&amp;#39; Fields for adaptability and use of bio-pesticides/bio-agents.\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:35.694420+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T13:53:35.694420+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=82"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65cdf11aed4030e118da88cf",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Documents proof of being a farmer\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of being a farmer"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65cdf09fcd96dc5e07541942"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65cdf09fcd96dc5e07541942",
+  "scheme_name": "Agriculture Research Stations and Laboratories Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "ARSLS",
+  "slug": "arsls",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Soil health",
+      "value": "Soil health"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Research Station",
+    "Laboratory",
+    "Farmer",
+    "Bio Pesticide",
+    "Bio Agent"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

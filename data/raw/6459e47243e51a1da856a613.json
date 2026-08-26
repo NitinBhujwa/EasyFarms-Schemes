@@ -1,0 +1,522 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6459e47243e51a1da856a613",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1: Gram Panchayat Resolution"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Gram Panchayat should pass a resolution expressing their intention to participate in the MVSSP competition."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: Application Form Submission"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Gram Panchayat fills out the application form provided by the MVSSP. The completed application form is submitted to the Block Development Officer (BDO) by 23rd April each year. The application form should be attested by the Gram Panchayat head and three other members."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: Scrutiny by Block Development Officer"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Block Development Officer (BDO) scrutinizes the received applications for completeness and eligibility."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4: Referral to District Rural Development Agency (DRDA)"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Block Development Officer refers the applications to the District Rural Development Agency (DRDA) for further processing."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5: Assessment and Decision"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Assessment Committees at different levels (block, district, division, and state) evaluate the eligible Gram Panchayats based on prescribed norms and marking criteria. The committees select the best/cleanest Gram Panchayats at each level, starting from the block level and progressing to the district, divisional, and state levels. The winners are announced and awarded prizes at the respective levels during Independence Day celebrations."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1: Gram Panchayat Resolution**\nThe Gram Panchayat should pass a resolution expressing their intention to participate in the MVSSP competition.\n**Step 2: Application Form Submission**\nThe Gram Panchayat fills out the application form provided by the MVSSP. The completed application form is submitted to the Block Development Officer (BDO) by 23rd April each year. The application form should be attested by the Gram Panchayat head and three other members.\n**Step 3: Scrutiny by Block Development Officer**\nThe Block Development Officer (BDO) scrutinizes the received applications for completeness and eligibility.\n**Step 4: Referral to District Rural Development Agency (DRDA)**\nThe Block Development Officer refers the applications to the District Rural Development Agency (DRDA) for further processing.\n**Step 5: Assessment and Decision**\nAssessment Committees at different levels (block, district, division, and state) evaluate the eligible Gram Panchayats based on prescribed norms and marking criteria. The committees select the best/cleanest Gram Panchayats at each level, starting from the block level and progressing to the district, divisional, and state levels. The winners are announced and awarded prizes at the respective levels during Independence Day celebrations.\n",
+            "url": ""
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Administrative Reforms Department, Himachal Pradesh",
+            "value": 21111111
+          },
+          "schemeCategory": [
+            {
+              "label": "Utility & Sanitation",
+              "value": "628ce97ad6d1a3bde468537d"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Himachal Pradesh Maharishi Valmiki Sampoorn Swachata Puraskar (state Sanitation Reward Scheme)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "HPMVSSPS",
+          "schemeSubCategory": [
+            {
+              "label": "Sanitation / Sewage",
+              "value": "Sanitation / Sewage"
+            },
+            {
+              "label": "Solid waste management",
+              "value": "Solid waste management"
+            }
+          ],
+          "state": {
+            "label": "Himachal Pradesh",
+            "value": 2
+          },
+          "tags": [
+            "Award",
+            "Sanitation",
+            "Panchayat",
+            "Competition"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Village",
+              "value": "village"
+            },
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Open Defecation-Free Gram Panchayat:"
+                        },
+                        {
+                          "text": " The Gram Panchayat should have achieved open defecation-free status. This means that the community within the Gram Panchayat has successfully eliminated the practice of open defecation by providing adequate toilet facilities for all households."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Previous Level Winners:"
+                        },
+                        {
+                          "text": " Gram Panchayats that have won an award at a particular level in the MVSSP competition are not eligible to participate in the same level for the next three years. However, they can compete at higher levels in the subsequent years."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "State-Level Winner:"
+                        },
+                        {
+                          "text": " The Gram Panchayat that has won the state-level award is not eligible to participate in the MVSSP competition for three years after winning the award."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. **Open Defecation-Free Gram Panchayat:** The Gram Panchayat should have achieved open defecation-free status. This means that the community within the Gram Panchayat has successfully eliminated the practice of open defecation by providing adequate toilet facilities for all households.   1. **Previous Level Winners:** Gram Panchayats that have won an award at a particular level in the MVSSP competition are not eligible to participate in the same level for the next three years. However, they can compete at higher levels in the subsequent years.   1. **State-Level Winner:** The Gram Panchayat that has won the state-level award is not eligible to participate in the MVSSP competition for three years after winning the award.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Block Level:"
+                        },
+                        {
+                          "text": " The Gram Panchayat that attains the first position at the block level receives a cash prize of 1 lakh rupees. This monetary reward serves as recognition for their exemplary efforts in maintaining cleanliness and sanitation within their community."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "District Level:"
+                        },
+                        {
+                          "text": " The prize amount increases to 3 lakh rupees at the district level. Two Gram Panchayats can receive the prize if a district has more than 300 Gram Panchayats. This encourages healthy competition among Gram Panchayats within the district, fostering a cleaner and more hygienic environment."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Division Level:"
+                        },
+                        {
+                          "text": " The winning Gram Panchayat at the division level is awarded a cash prize of 5 lakh rupees. This higher prize amount recognizes the exceptional cleanliness standards achieved by the Gram Panchayat within their division."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "State Level:"
+                        },
+                        {
+                          "text": " The highest recognition and incentives are reserved for the winning Gram Panchayat at the state level. The state-level winner receives a generous cash prize of 10 lakh rupees. This substantial reward serves as a testament to their outstanding commitment to cleanliness and sanitation practices."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n   1. **Block Level:** The Gram Panchayat that attains the first position at the block level receives a cash prize of 1 lakh rupees. This monetary reward serves as recognition for their exemplary efforts in maintaining cleanliness and sanitation within their community.   1. **District Level:** The prize amount increases to 3 lakh rupees at the district level. Two Gram Panchayats can receive the prize if a district has more than 300 Gram Panchayats. This encourages healthy competition among Gram Panchayats within the district, fostering a cleaner and more hygienic environment.   1. **Division Level:** The winning Gram Panchayat at the division level is awarded a cash prize of 5 lakh rupees. This higher prize amount recognizes the exceptional cleanliness standards achieved by the Gram Panchayat within their division.   1. **State Level:** The highest recognition and incentives are reserved for the winning Gram Panchayat at the state level. The state-level winner receives a generous cash prize of 10 lakh rupees. This substantial reward serves as a testament to their outstanding commitment to cleanliness and sanitation practices.\n",
+          "briefDescription": "The Maharishi Valmiki Sampoorn Swachata Puruskar (MVSSP) is a scheme under the Swachh Bharat Mission (G), Rural Development Department, H.P Government to identify and recognize the cleanest Gram Panchayat at various levels, including block, district, division, and state. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The "
+                    },
+                    {
+                      "bold": true,
+                      "text": "Maharishi Valmiki Sampoorn Swachata Puruskar"
+                    },
+                    {
+                      "text": " (MVSSP) is a scheme under the Swachh Bharat Mission (Grameen), Rural Development Department, Himachal Pradesh Government to identify and recognize the cleanest Gram Panchayat at various levels, including block, district, division, and state. The Government has implemented a comprehensive strategy to address the sanitation challenges prevalent in rural areas. The primary focus of this strategy is to encourage and motivate rural communities to abandon the traditional practice of open defecation and adopt safe sanitation practices. The Maharishi Valmiki Sampoorn Swachata Puruskar (MVSSP) has been introduced as part of this initiative. The MVSSP is an annual competition that aims to identify and recognize the cleanest Gram Panchayat at various levels, including block, district, division, and state. The competition serves as a platform to evaluate the cleanliness and hygiene conditions maintained by Gram Panchayats. Factors such as waste management, sanitation infrastructure, and active community participation are taken into consideration during the evaluation process. The winners of the MVSSP at the state and divisional levels are honored by the Honorable Chief Minister of Himachal Pradesh during the Independence Day celebrations each year. Similarly, the district and block-level winners receive prizes from senior dignitaries. This recognition incentivizes Gram Panchayats to maintain high cleanliness standards and continue their efforts towards improved sanitation."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "&lt;br&gt;\n\nThe **Maharishi Valmiki Sampoorn Swachata Puruskar** (MVSSP) is a scheme under the Swachh Bharat Mission (Grameen), Rural Development Department, Himachal Pradesh Government to identify and recognize the cleanest Gram Panchayat at various levels, including block, district, division, and state. The Government has implemented a comprehensive strategy to address the sanitation challenges prevalent in rural areas. The primary focus of this strategy is to encourage and motivate rural communities to abandon the traditional practice of open defecation and adopt safe sanitation practices. The Maharishi Valmiki Sampoorn Swachata Puruskar (MVSSP) has been introduced as part of this initiative. The MVSSP is an annual competition that aims to identify and recognize the cleanest Gram Panchayat at various levels, including block, district, division, and state. The competition serves as a platform to evaluate the cleanliness and hygiene conditions maintained by Gram Panchayats. Factors such as waste management, sanitation infrastructure, and active community participation are taken into consideration during the evaluation process. The winners of the MVSSP at the state and divisional levels are honored by the Honorable Chief Minister of Himachal Pradesh during the Independence Day celebrations each year. Similarly, the district and block-level winners receive prizes from senior dignitaries. This recognition incentivizes Gram Panchayats to maintain high cleanliness standards and continue their efforts towards improved sanitation.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Non-Open Defecation-Free Gram Panchayats:"
+                        },
+                        {
+                          "text": " Gram Panchayats that have not achieved the status of being open defecation-free are not eligible to participate in the MVSSP competition. This requirement ensures that participating Gram Panchayats have successfully eradicated the practice of open defecation within their communities."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Previous Level Winners:"
+                        },
+                        {
+                          "text": " Winning Gram Panchayats at any level are excluded from participating in the MVSSP competition for the same level for the next three years. For example, if a Gram Panchayat wins the Block level award in a specific year, they are not eligible to compete for the Block level award for the following three years. However, they can participate in the competition at a higher level. For instance, they can compete for the District, Division, or State level awards in the subsequent years."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "State-Level Winner:"
+                        },
+                        {
+                          "text": " The Gram Panchayat that wins the state-level award is not eligible to participate in the MVSSP competition for three years after the year of winning. This exclusion allows other Gram Panchayats to have an opportunity to showcase their cleanliness achievements and compete for the prestigious state-level award."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "\n   1. **Non-Open Defecation-Free Gram Panchayats:** Gram Panchayats that have not achieved the status of being open defecation-free are not eligible to participate in the MVSSP competition. This requirement ensures that participating Gram Panchayats have successfully eradicated the practice of open defecation within their communities.   1. **Previous Level Winners:** Winning Gram Panchayats at any level are excluded from participating in the MVSSP competition for the same level for the next three years. For example, if a Gram Panchayat wins the Block level award in a specific year, they are not eligible to compete for the Block level award for the following three years. However, they can participate in the competition at a higher level. For instance, they can compete for the District, Division, or State level awards in the subsequent years.   1. **State-Level Winner:** The Gram Panchayat that wins the state-level award is not eligible to participate in the MVSSP competition for three years after the year of winning. This exclusion allows other Gram Panchayats to have an opportunity to showcase their cleanliness achievements and compete for the prestigious state-level award.\n",
+          "references": [
+            {
+              "title": "Guidelines And Notification",
+              "url": "https://himachal.nic.in/WriteReadData/l892s/15_l892s/MVSSP-99936771.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "hpmvssp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6459e4cb3782f1556f2000c7",
+      "en": {
+        "documentsRequired_md": "The completed application form provided by the MVSSP, including the following information:\n\n   1. **Gram Panchayat Resolution:** A resolution passed by the Gram Panchayat expressing their intention to participate in the MVSSP competition.   1. Application Form\n   1. Name of the Gram Panchayat\n   1. Details of open defecation-free status\n   1. Contact information of Gram Panchayat head and members\n   1. Attestation by the Gram Panchayat head and three other members\n   1. **Proof of Open Defecation-Free Status:** Documents or certificates verifying that the Gram Panchayat has been open defecation-free.   1. **Supporting Documents:** Any additional documents or evidence that may be required to support the application, such as photographs, reports, or testimonials showcasing the sanitation efforts and initiatives undertaken by the Gram Panchayat.\n**Note:** \n\n   1. Depending on the specific requirements or guidelines of the MVSSP, additional documents may be requested to assess the eligibility or performance of the Gram Panchayat. \n   1. It is advisable to refer to the official guidelines or contact the relevant authorities for accurate information regarding the specific documents needed.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The completed application form provided by the MVSSP, including the following information:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Gram Panchayat Resolution:"
+                      },
+                      {
+                        "text": " A resolution passed by the Gram Panchayat expressing their intention to participate in the MVSSP competition."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Application Form"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Name of the Gram Panchayat"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Details of open defecation-free status"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Contact information of Gram Panchayat head and members"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Attestation by the Gram Panchayat head and three other members"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Proof of Open Defecation-Free Status:"
+                      },
+                      {
+                        "text": " Documents or certificates verifying that the Gram Panchayat has been open defecation-free."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Supporting Documents:"
+                      },
+                      {
+                        "text": " Any additional documents or evidence that may be required to support the application, such as photographs, reports, or testimonials showcasing the sanitation efforts and initiatives undertaken by the Gram Panchayat."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note: "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Depending on the specific requirements or guidelines of the MVSSP, additional documents may be requested to assess the eligibility or performance of the Gram Panchayat. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "It is advisable to refer to the official guidelines or contact the relevant authorities for accurate information regarding the specific documents needed."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "6459e47243e51a1da856a613"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:49.649944+00:00",
+  "scheme_id": "6459e47243e51a1da856a613"
+}

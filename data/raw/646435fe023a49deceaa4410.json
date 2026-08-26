@@ -1,0 +1,381 @@
+{
+  "detail": {
+    "data": {
+      "_id": "646435fe023a49deceaa4410",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "Step 1: Visit the official Madilu Programme website or the nearest Rural Development Office to obtain the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Fill out the application form with the required personal details, including contact information and relevant skills or areas of interest."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Attach any supporting documents or certificates related to previous skills or entrepreneurial experience, if applicable."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Submit the completed application form along with the supporting documents to the designated Rural Development Office or the specified submission location."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: The application will be reviewed by the selection committee, and eligible candidates will be shortlisted."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 6: Shortlisted candidates may be called for an interview or additional assessment to determine their suitability for the program."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 7: Successful applicants will be notified of their acceptance into the Madilu Programme and provided with further instructions on the program commencement and orientation."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "url": ""
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Rural Development and Panchayat Raj Department",
+            "value": 3000018
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Individual",
+          "schemeName": "Madilu Kit",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "Madilu",
+          "schemeSubCategory": null,
+          "schemeType": null,
+          "state": {
+            "label": "Karnataka",
+            "value": 29
+          },
+          "tags": [
+            "Skill Development",
+            "Entrepreneurship",
+            "Livelihoods",
+            "Poverty Reduction"
+          ],
+          "targetBeneficiaries": null
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Individuals residing in rural areas are eligible to participate."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Participants should have a willingness to learn and engage in skill development activities."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "There is no age restriction for participation in the program."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Both men and women are encouraged to apply."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Participants should demonstrate an interest in entrepreneurship and improving their livelihoods"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- Individuals residing in rural areas are eligible to participate.\n- Participants should have a willingness to learn and engage in skill development activities.\n- There is no age restriction for participation in the program.\n- Both men and women are encouraged to apply.\n- Participants should demonstrate an interest in entrepreneurship and improving their livelihoods\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Empowerment of rural communities through skill development and entrepreneurship."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Creation of sustainable livelihoods and reduction of poverty."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Enhancement of social and economic well-being in rural areas."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Increased income-generating opportunities for participants."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Access to micro-financing options and market linkages."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Promotion of gender equality and social inclusion."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Strengthening of rural economies and local industries."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "briefDescription": "The Madilu Programme is a government initiative focused on empowering rural communities through skill development and entrepreneurship opportunities.\nIt aims to create sustainable livelihoods, reduce poverty, and enhance social and economic well-being in rural areas.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The Madilu Programme is a comprehensive initiative implemented by the government to uplift rural communities by providing them with the necessary skills and resources to improve their livelihoods. The program primarily focuses on skill development, entrepreneurship, and capacity building. By equipping individuals with relevant skills, such as agricultural techniques, handicraft production, and small business management, the Madilu Programme aims to create sustainable income-generating opportunities within rural areas."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Through targeted training sessions, workshops, and mentorship programs, participants are empowered to harness their potential and establish small-scale enterprises. The Madilu Programme also facilitates access to micro-financing options and provides guidance on market linkages, enabling participants to establish viable businesses and gain financial independence. Additionally, the program emphasizes the importance of gender equality and social inclusion, ensuring that marginalized groups have equal access to opportunities and benefits."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The Madilu Programme is a comprehensive initiative implemented by the government to uplift rural communities by providing them with the necessary skills and resources to improve their livelihoods. The program primarily focuses on skill development, entrepreneurship, and capacity building. By equipping individuals with relevant skills, such as agricultural techniques, handicraft production, and small business management, the Madilu Programme aims to create sustainable income-generating opportunities within rural areas.\n<br>\n\nThrough targeted training sessions, workshops, and mentorship programs, participants are empowered to harness their potential and establish small-scale enterprises. The Madilu Programme also facilitates access to micro-financing options and provides guidance on market linkages, enabling participants to establish viable businesses and gain financial independence. Additionally, the program emphasizes the importance of gender equality and social inclusion, ensuring that marginalized groups have equal access to opportunities and benefits.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Urban areas are not eligible for participation in the Madilu Programme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The program does not provide direct financial grants or subsidies."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Large-scale commercial enterprises are excluded from the scope of the program."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://kmea.karnataka.gov.in/storage/pdf-files/Reports%20and%20other%20docs/Madilu%20Tor.PDF"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "madilu"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "646436118919dbd7e6f5b7a0",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Completed application form (obtained from the Madilu Programme website or Rural Development Office)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Personal identification documents (e.g., Aadhaar card, passport, or voter ID)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of residence (e.g., utility bill, ration card, or land ownership document)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Educational certificates or qualifications (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificates or documentation showcasing previous skills or entrepreneurial experience (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income certificate or proof of income (if required for specific program benefits)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other supporting documents relevant to the application or specific program requirements"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "646435fe023a49deceaa4410"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:53:10.968559+00:00",
+  "scheme_id": "646435fe023a49deceaa4410"
+}

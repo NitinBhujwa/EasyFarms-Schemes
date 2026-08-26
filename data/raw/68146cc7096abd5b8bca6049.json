@@ -1,0 +1,537 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68146cc7096abd5b8bca6049",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Click on \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6: "
+                      },
+                      {
+                        "text": "Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:"
+                      },
+                      {
+                        "text": " Take a print out of the confirmed application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:"
+                      },
+                      {
+                        "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Assistance for Planting Vegetable Crops for Raw and Ripe Mandap",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "APVCRRM",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Vegetable Crops",
+            "Farmer",
+            "Raw And Ripe Mandap"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be residing in Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a farmer.\n   1. The applicant must be residing in Gujarat.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Raw Mandap (Tomato/Chilli and other vegetables):"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "General Farmers: 50% subsidy, up to ₹26,000/ha."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "SC/ST Farmers: 75% subsidy, up to ₹39,000/ha."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Semi-ripe Mandap (Vine vegetables):"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "General Farmers: 50% subsidy, up to ₹40,000/ha."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "SC/ST Farmers: 75% subsidy, up to ₹60,000/ha."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Ripe Mandap (Vine vegetables):"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "General Farmers: 50% subsidy, up to ₹80,000/ha."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "SC/ST Farmers: 75% subsidy, up to ₹1,20,000/ha."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Other Support Details:"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "Maximum area eligible: 2 hectares per farmer."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Construction material: 1600 wooden/bamboo poles per hectare, 400 kg GI wire (12-18 gauge) or plastic wire."
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "Recommended spacing: 2.50 x 2.50 meters."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "&gt; **Raw Mandap (Tomato/Chilli and other vegetables):**\n\n\n\n    - General Farmers: 50% subsidy, up to ₹26,000/ha.\n    - SC/ST Farmers: 75% subsidy, up to ₹39,000/ha.\n\n\n&gt; **Semi-ripe Mandap (Vine vegetables):**\n\n\n\n    - General Farmers: 50% subsidy, up to ₹40,000/ha.\n    - SC/ST Farmers: 75% subsidy, up to ₹60,000/ha.\n\n\n&gt; **Ripe Mandap (Vine vegetables):**\n\n\n\n    - General Farmers: 50% subsidy, up to ₹80,000/ha.\n    - SC/ST Farmers: 75% subsidy, up to ₹1,20,000/ha.\n\n\n&gt; **Other Support Details:**\n\n\n\n    - Maximum area eligible: 2 hectares per farmer.\n    - Construction material: 1600 wooden/bamboo poles per hectare, 400 kg GI wire (12-18 gauge) or plastic wire.\n    - Recommended spacing: 2.50 x 2.50 meters.\n\n\n<br>\n\n",
+          "briefDescription": "The scheme provides financial assistance to farmers in Gujarat for setting up vegetable trellises (Mandap) for raw, semi-ripe, and ripe vegetables, with varying support for General, SC, and ST farmers.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Assistance for Planting Vegetable Crops for Raw and Ripe Mandap\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial support to farmers across Gujarat for constructing vegetable trellises (mandaps) using wooden/bamboo supports and GI/plastic wires."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Assistance for Planting Vegetable Crops for Raw and Ripe Mandap&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial support to farmers across Gujarat for constructing vegetable trellises (mandaps) using wooden/bamboo supports and GI/plastic wires.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 72)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            },
+            {
+              "title": "User Manual (Applicant Registration)",
+              "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "apvcrrm"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68146d2385d2610f324e6281",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate.\n1. Aadhaar Card.\n1. Bank Pass Book/Cancelled Cheque.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68146cc7096abd5b8bca6049"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:20.203627+00:00",
+  "scheme_id": "68146cc7096abd5b8bca6049"
+}

@@ -1,0 +1,316 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Click on \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 6: "
+                },
+                {
+                  "text": "Once the application is done, confirm it."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 7:"
+                },
+                {
+                  "text": " Take a print out of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 8:"
+                },
+                {
+                  "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:"
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Click here"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Component Name****Standard of Assistance**\t**Minimum Time Limit for Reclaiming Benefits**Fish Seed Rearing\t₹90/- per 1000 (spawn to fry) ₹260/- per 1000 (fry to fingerlings) ₹460/- per 1000 (spawn to fingerlings)\t1 YearFish Seed/Prawn Seed Stocking\t50% subsidy on cost and transportation\t1 YearBoat &amp;amp;amp;amp; Net Assistance\t50% subsidy up to ₹7,500/- for Tin Boat-Net, ₹15,000/- for FRP Boat-Net\t6 YearsAssistance to Backward Women for Fish Sale Equipment\t50% subsidy up to ₹7,500/-\tOnce in a LifetimePlastic Crates\t50% subsidy up to ₹600/- per unit\t5 YearsAerator Assistance\t50% subsidy up to ₹50,000/-\t5 YearsFish Collection cum Patrolling Boat\t50% subsidy up to ₹2,50,000/-\tOnce in a LifetimeInsulated Box\t50% subsidy, up to ₹15,000/-\t5 YearsFish Cage Culture\t40% subsidy (General) up to ₹1,20,000/- 60% subsidy (SC/ST) up to ₹1,80,000/-\t3 YearsAssistance to Pagadia Fishermen\t90% subsidy up to ₹13,500/-\t3 YearsNew Fish Pond Construction\t40% subsidy (General) up to ₹2,80,000/- 60% (SC/ST) up to ₹4,20,000/-\tOnce in a LifetimeInput Assistance\t40% subsidy (General) up to ₹60,000/- 60% (SC/ST) up to ₹90,000/-\tOnce in a LifetimeMobile Laboratory Van\t50% subsidy up to ₹5,00,000/-\tOnce in a LifetimeFish Seed Hatchery\t50% subsidy up to ₹12,50,000/-\tOnce in a Lifetime<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "34eea076ebb3dbd95cf0f46bbbc0b4b7938803b35b259706ae1ee3b8675cd5fa",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to enhance fish seed production and promote inland fisheries in non-tribal areas. It provides financial assistance for fish farming, fish seed rearing, and procurement of essential fisheries equipment, benefiting individuals, societies, and self-help groups involved in inland fisheries.\n",
+  "eligibility": "\n  - Individuals/ societies/ self-help groups/ associations/ reservoir monopolies/ private units etc. involved in inland fisheries activities can avail the benefits of inland schemes.\n  - The applicant should be a Fisherman.\n  - Applicant should be above 18 years of age.\n  - Applicant must have own private land/leased land to avail new pond construction assistance for fish farming (In case of two or more land holders consent form of other land holders must be submitted).\n  - The beneficiary fisherman must have his own bank account.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:11:09.390196+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:11:09.390196+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines 1",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=FDGZs8CO90JJ+6gbcYhjXw==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+    },
+    {
+      "title": "Guidelines 2",
+      "url": "https://mariyojana.gujarat.gov.in/MoreDetails.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67dd0a26d21dcebb22a45f57",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar card.\n- Land details.\n- Caste certificate.\n- Passport size photo.\n- Bank passbook/cancelled cheque.\n- Ration card.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook/cancelled cheque."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67dd09c582c4375970b137a2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67dd09c582c4375970b137a2",
+  "scheme_name": "To Increase Fish Seed Production and Inland Fisheries Equipment in Non-Tribal Areas",
+  "scheme_open_date": null,
+  "scheme_short_title": "IFSIFNTA",
+  "slug": "ifsifnta",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Fish Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

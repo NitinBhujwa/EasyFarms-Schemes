@@ -1,0 +1,379 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%2Fbx1MNs1L1wWQ%2FTPWqLi5TLS2A375JtcEMmpy5YeIvaIDiGXmaVxs3jWD%20a80RupQqTlzvXlUo%20YbOrymzTR8ZtOWUN80V9%20X3zA4S2XB8mqgetsbs%20UcMPdq622mczpsVlXyzWrSr2xeJ4wqnKmaRqmMbW1z%20C8%2FO%20qjrv65kx15XOadQXdjF7c7a7q79NIy6aBlA%20beqmQKsIL5K0%20EwP42WuLofhwgFKGeikfX%20YdxnMJppxTAb=",
+              "type": "link"
+            },
+            {
+              "text": " of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " If you are a first-time user, click on “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Registration for New User"
+                }
+              ],
+              "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D",
+              "type": "link"
+            },
+            {
+              "text": "” and complete the registration process to create your account."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Select your Authentication ID from the available options, such as"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "PDS (Ration Card) "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Election Photo ID Card (EPIC)."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Enter your card number, select your name from the displayed list, and click on “Next” to continue."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7:"
+            },
+            {
+              "text": " Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Sign In ",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Click on "
+            },
+            {
+              "children": [
+                {
+                  "text": "“Sign In"
+                }
+              ],
+              "link": "https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D",
+              "type": "link"
+            },
+            {
+              "text": "” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Enter your User ID and Password, then click on “Login” to access your account."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " After logging in, click on “Apply for Services/Scheme” to start your application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the [official website](https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%2Fbx1MNs1L1wWQ%2FTPWqLi5TLS2A375JtcEMmpy5YeIvaIDiGXmaVxs3jWD%20a80RupQqTlzvXlUo%20YbOrymzTR8ZtOWUN80V9%20X3zA4S2XB8mqgetsbs%20UcMPdq622mczpsVlXyzWrSr2xeJ4wqnKmaRqmMbW1z%20C8%2FO%20qjrv65kx15XOadQXdjF7c7a7q79NIy6aBlA%20beqmQKsIL5K0%20EwP42WuLofhwgFKGeikfX%20YdxnMJppxTAb=) of the scheme and click on the “Login to Apply” button to start the application process. Carefully read all the instructions provided on the website before proceeding.\n**Step 2:** If you are a first-time user, click on “[Registration for New User](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fj0VpCC5AKaBYOcVsO207ea%20qs40JOarPgwkZtFDg03EVeDNMjhzMNgt66jk7HLKmzLFayU0wTM0EjpeKCRqApCovt2efa%2F0KbydwrFt8QNtiK1L9FEGK0rwHWPMZNxfJ2oG84okmekHM%20w2UWsypPf7HznEGzXJ9yzUevH2GxeNY6GrVN64Nc5vLWhdycsyVT5gxYjOQ7aTLfMjvUcaNNg56%20lFH6Z87ejSfF5hcowpsYT63w1IVyMGXXLjTCwVX1J7zigJST3KvW3SAkeGKZbQ4pl9jSHq16%2FowHqRFwaSZ2hZHgvcAel7SmNx0C4xFN5oap8U%20rLA=%3D)” and complete the registration process to create your account.\n**Step 3:** Select your Authentication ID from the available options, such as\n\n- PDS (Ration Card) \n- Election Photo ID Card (EPIC).\n\n**Step 4:** Enter your card number, select your name from the displayed list, and click on “Next” to continue.\n**Step 5:** Your EPIC ID will appear on the screen. If the details are correct, click on “Accept.” If the details are incorrect or rejected, manually enter your EPIC number and proceed.\n**Step 6:** Click on “Validate” to verify the entered EPIC number, and then click on “Next” to move to the application form.\n**Step 7:** Fill in all required details in the application form, upload the necessary documents, carefully review all the information, and click on “Submit.” After successful submission, you will receive a unique application number for future reference.\n**Sign In** \n**Step 1:** Click on [“Sign In](https://meghalayaone.gov.in/meghalaya-one/citizen-login?U2FsdGVkX1%2Fdu5Z2a1hGWoNI9swJd%2F0ipy%2F8BIg8oHzgeQ8x8B%206kEL5r6nzjssTJEkSC6a%2FSWz7TWB3omsCH8BvMqNoVkXYB3r12F2IIJu4JPz98fEyQ9bC3ERAjVoMX%2FaXvBWvVd34iUrwhVjn5iB2jCAqiKeCkjFBb9FIzX%203uUzYAhHc35dE4aSDFDctKc13r1MR%2FNuq4idI8ilaZQ5JUjUgutxygxHcnRmHRuYW0dbzfMIpBADd90WhKa76ESANqQ4hUqAzhMpEd1WWAxerZ55GBq1cWB8NmElKfsgqW%20Go8qlNIhySwptuQ1imQF4xKBa437k7OlxbylI9ig=%3D)” and choose your preferred sign-in method from Mobile Number, PDS, EPIC, or Member ID.\n**Step 2:** Enter your User ID and Password, then click on “Login” to access your account.\n**Step 3:** After logging in, click on “Apply for Services/Scheme” to start your application.\n**Step 4:** Fill in all the required details in the application form, upload the necessary documents, carefully review the information, and click on “Submit.”\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. The subsidy is disbursed through approved financing partners.\n1. Loans are provided by selected partner banks with a repayment period of up to 15 years.\n1. There are no pre-closure penalties on the loan.\n1. The Government of Meghalaya pays 80% of the total project cost upfront.\n1. The remaining 20% is provided as a bank loan (5% paid by the entrepreneur and 75% by the government).\n1. Agriculture and Agri-allied Producer Groups (PGs) receive an annual cash benefit ranging from ₹50,000 to ₹1,00,000.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c7178bf457be43e0af4b53ed627c8bf2e9f62816f91d938deb500f98333eac45",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The **FOCUS Scheme** (Farmer’s Collectivization for Upscaling Production and Marketing Systems) is one of the flagship schemes of the Planning Department, Government of Meghalaya. Under the scheme, an annual cash benefit ranging from ₹50,000 to ₹1,00,000 is provided to Agriculture and Agri-allied Producer Groups (PGs). Each PG may consist of 10 to 20 members. The benefit amount is credited directly to the PG’s bank account through Direct Benefit Transfer (DBT).\n<br>\n\n",
+  "eligibility": "\n1. The Producer Group must consist of 10 to 20 producers from the same village.\n1. The members must be engaged in the same or similar agricultural or allied activities with high income-generation potential.\n1. The group must formally form a Producer Group (PG) under the scheme.\n1. Each member must hold a valid Family ID/Citizen ID of Meghalaya.\n1. All members must belong to different households.\n1. Each member must have a separate and unique Family ID of Meghalaya.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:29.004788+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:29.004788+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Planning Department",
+    "value": 1777803
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://meghalayaone.gov.in/meghalaya-one/view-detail?U2FsdGVkX1%2Fw5XWkzs2lYokmppxo6I18tFm6qR9v8cRs%20i8wMtUFGBYQPXe8qySN6lajfBPocg9EgTSE0mIRVfFYOcBbcLY8XK51wURiZq5v6pKpjHGSACeXalwOT%20yc2wJl13I9M0M2ZbMCkAlGscHMaj8DI4A8zRuLSWkQWVn22286uMwRyZchwrDXfQ5Ah8pDnQ3vrqPPpJAeTJb5sY8pCU%2Fi6Y0BpuyQlYK6YKY4s8A%20%2FZD%20uWpTbRtwZPQa="
+    },
+    {
+      "title": "Website",
+      "url": "https://mymeg.meghalaya.gov.in/scheme/9/?districtId=4&&blockId=44"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "69a020e3224e787bd85b1eb3",
+      "en": {
+        "documentsRequired_md": "\n1. FOCUS PG Details – PG Name, Members name, designation\n1. Family ID &amp; Citizen ID [Download](https://www.cmconnectadmin.meghalaya.gov.in/)1. Bank account details of the PG – Bank name, IFSC, Branch and Bank Account Number\n1. Memorandum of association [Download](https://drive.google.com/file/d/1Y-6E7LgkNGQRdWVMKe4VBa7D0zT-wMD9/view?usp=drive_link)\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "FOCUS PG Details – PG Name, Members name, designation"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Family ID & Citizen ID "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download"
+                      }
+                    ],
+                    "link": "https://www.cmconnectadmin.meghalaya.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details of the PG – Bank name, IFSC, Branch and Bank Account Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Memorandum of association "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download"
+                      }
+                    ],
+                    "link": "https://drive.google.com/file/d/1Y-6E7LgkNGQRdWVMKe4VBa7D0zT-wMD9/view?usp=drive_link",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69a0206a224e787bd85b1be9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "69a0206a224e787bd85b1be9",
+  "scheme_name": "FOCUS Scheme (Farmers Collectivization For Upscaling Production and Marketing System)",
+  "scheme_open_date": null,
+  "scheme_short_title": "FOCUSS",
+  "slug": "focuss",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmers",
+    "Farming",
+    "Agriculture",
+    "DBT"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

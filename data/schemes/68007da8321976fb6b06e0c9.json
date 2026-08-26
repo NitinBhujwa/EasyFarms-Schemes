@@ -1,0 +1,314 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The interested applicant should take a printout of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://dip.goa.gov.in/wp-content/uploads/2024/01/notification-e-v-bike.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and enclose the copies of all the mandatory documents (endorsed, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Director, Department of Information and Publicity, Udyog Bhavan, 3rd floor, Panaji."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Post-Application Processes",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " After approval of the application, the Beneficiary will have to provide purchased documents (Registration Certificate book and insurance) along with bank details to release the subsidy directly to the beneficiary."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " The Screening Committee, constituted under the Chairmanship of the Director of Information and Publicity, will scrutinize/sanction applications and may ask for additional documents if required."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " The subsidy will be disbursed in a single instalment upon purchase of the vehicle and production of the necessary documents."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should take a printout of the [prescribed format](https://dip.goa.gov.in/wp-content/uploads/2024/01/notification-e-v-bike.pdf) of the application form. \n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and enclose the copies of all the mandatory documents (endorsed, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the Director, Department of Information and Publicity, Udyog Bhavan, 3rd floor, Panaji.\n> **Post-Application Processes**\n\n**Step 1:** After approval of the application, the Beneficiary will have to provide purchased documents (Registration Certificate book and insurance) along with bank details to release the subsidy directly to the beneficiary.\n**Step 2:** The Screening Committee, constituted under the Chairmanship of the Director of Information and Publicity, will scrutinize/sanction applications and may ask for additional documents if required.\n**Step 3:** The subsidy will be disbursed in a single instalment upon purchase of the vehicle and production of the necessary documents.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Subsidy up to 50% of the value on quotation or ₹ 50,000/-, whichever is less, and the remaining 50% value shall be borne by the beneficiaries. \n- The payment shall be effected directly to the beneficiaries upon receipt of the purchase of the e-bike document. \n- The subsidy shall be disbursed in a single instalment to the beneficiary, i.e., 100% on the purchase of the vehicle and production of purchase documents, i.e., the Registration Certificate book and insurance by the Beneficiary.\n- Disbursement of subsidy for the purchase of e-bikes will be done on a first-come-first-served basis or a maximum of two for each organisation per meeting, also considering eligibility criteria.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Transport & Infrastructure",
+      "value": "628ce924d6d1a3bde4685354"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "872ba0b6a64145575423aa16911724de785eb7e1c1310868e659af22c822cabb",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Subsidy to Purchase E-Bike for Journalists” by the Department of Information and Publicity, Government of Goa, aims to provide journalists based in Goa with e-bikes at a subsidised rate, facilitating easier access to essential technology for their profession. This initiative acknowledges the crucial role of journalists in educating the public and the time they spend gathering news. Two significant benefits of the scheme are providing financial assistance for purchasing e-bikes and empowering journalists with better means to disseminate information vital for a democratic system. Two significant eligibility criteria include being a resident of Goa for at least 15 years and being a full-time working journalist for at least eight years. The scheme is implemented by the Department of Information and Publicity. Every year, the Government will grant subsidies to purchase 65 e-bikes to 65 beneficiaries based on their years of working.\n",
+  "eligibility": "\n- The applicant should be a journalist.\n- The sole livelihood of the applicant should be through journalistic activities.\n- The applicant should be residing in Goa for at least 15 years.\n- The applicant should be working for a Media organisation.\n- The applicant should not be more than 58 years of age.\n- The applicant should not have availed benefit to purchase an e-bike (two-wheeler) under any other Government scheme.\n\n",
+  "exclusions": "Beneficiaries who have availed the benefit from any other such Government schemes shall not be entitled to this scheme.\n",
+  "first_seen_at": "2026-08-26T13:54:17.877627+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:54:17.877627+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Information and Publicity Department",
+    "value": 30000026
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dip.goa.gov.in/wp-content/uploads/2024/01/notification-e-v-bike.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68007df2b8a72f8aa4d012d7",
+      "en": {
+        "documentsRequired_md": "\n- Birth Certificate.\n- Residence Certificate issued by the Mamlatdar.\n- Aadhaar Card.\n- Valid Driving License Number.\n- Experience Certificate from Editor/Head of Organisation.\n- Latest Payslip from the Organisation.\n- Quotation from a Reputed Dealer.\n- Purchased Documents for the E-bike.\n- Bank Details.\n- Two Passport Size Photographs.\n- Declaration.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Birth Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Certificate issued by the Mamlatdar."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Valid Driving License Number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Experience Certificate from Editor/Head of Organisation."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Latest Payslip from the Organisation."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Quotation from a Reputed Dealer."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Purchased Documents for the E-bike."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Two Passport Size Photographs."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "68007da8321976fb6b06e0c9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68007da8321976fb6b06e0c9",
+  "scheme_name": "Subsidy to Purchase E-Bike for Journalists",
+  "scheme_open_date": null,
+  "scheme_short_title": "SPEBJ",
+  "slug": "spebj",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Public transport and private vehicles",
+      "value": "Public transport and private vehicles"
+    },
+    {
+      "label": "Roads and road transport",
+      "value": "Roads and road transport"
+    },
+    {
+      "label": "Climate change",
+      "value": "Climate change"
+    },
+    {
+      "label": "Environmental grants",
+      "value": "Environmental grants"
+    },
+    {
+      "label": "Pollution and waste management",
+      "value": "Pollution and waste management"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Transport",
+    "Journalist",
+    "Environment",
+    "Pollution",
+    "Road"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

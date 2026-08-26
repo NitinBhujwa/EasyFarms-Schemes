@@ -1,0 +1,211 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Apply after the advertisement is published:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the District Secured Deposit Determination Committee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the Secured Deposit Determination Committee."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "***Apply after the advertisement is published:***\n**Step 1:** The interested applicant should visit (during office hours) the District Secured Deposit Determination Committee and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Secured Deposit Determination Committee.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Financial assistance of up to ₹1,22,680 for SC/ST/women beneficiaries. \n- Financial assistance of  ₹1,07,345 for other beneficiaries.\n- Financial assistance is provided in three installments:\n\n\n1. The first installment is released after approval.\n1. The second after verification of project setup. \n1. The third upon successful implementation and monitoring of the fish-duck farming unit.\n\n<br>\n\n**NOTE:** Financial assistance is disbursed in three installments via Direct Benefit Transfer (DBT).\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "6024e743e6a1c3156cc4e19727101415a2920e51985f0e8effd2e0abdf95c44a",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Integrated Fisheries Scheme&quot; by the Fisheries Division, Department of Agriculture, Animal Husbandry &amp; Cooperation, Government of Jharkhand, aims to promote fish-duck farming and enhance the income of fish farmers. Under this scheme, financial assistance covering up to 80% of the project cost is provided to Scheduled Tribes, Scheduled Castes, and women beneficiaries, while other categories receive up to 70% assistance.\n<br>\n\n***Objective:*** \n\n- Support for constructing duck houses and procuring ducklings.\n- Preference is given to one-acre or larger water bodies.\n- Encouragement for cluster-based implementation to enhance productivity.\n- Special priority for previously selected beneficiaries from 2022-23 who couldn&#39;t receive grants due to unforeseen reasons.\n\n",
+  "eligibility": "\n1. The applicant should be a fish farmer.\n1. The proposed site should be near a population center.\n1. The applicant should own or lease a pond (minimum one acre) for at least three years.\n1. Preference is given to applicants closer to district headquarters for better monitoring.\n1. The applicant near RFF (Resource Fisheries Facilities) should have an active bank account and be part of a functional beneficiary group.\n1. Applicants who were selected in 2022-23 but did not receive grants will be prioritized.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:10:22.670301+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:22.670301+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture, Animal Husbandry & Co-operative",
+    "value": 2000027
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jharkhandfisheries.org/orders/2023/Rajyadesh-letter-no.-04-RA-(VI)-dated-08.05.2023.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67a1b695c03a80a1ad0c5f7a",
+      "en": {
+        "documentsRequired_md": "\n- Land Ownership or Lease Agreement (minimum three years)\n- Bank Account Details\n- Caste Certificate (if applicable)\n- Residence Certificate\n- Declaration of cluster-based project implementation (if applicable)\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership or Lease Agreement (minimum three years)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration of cluster-based project implementation (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67a1b634c03a80a1ad0c5eaf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67a1b634c03a80a1ad0c5eaf",
+  "scheme_name": "Integrated Fisheries Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "IFS",
+  "slug": "ifs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Jharkhand",
+    "value": 20
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Fish Farmer",
+    "Scheduled Tribes",
+    "Scheduled Castes",
+    "Women"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

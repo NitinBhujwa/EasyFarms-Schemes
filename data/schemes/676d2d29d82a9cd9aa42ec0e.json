@@ -1,0 +1,335 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The interested applicant should visit (during office hours) the district forest division office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "OR"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The interested applicant downloads the "
+            },
+            {
+              "children": [
+                {
+                  "text": "application form"
+                }
+              ],
+              "link": "https://janvan.jharkhand.gov.in/doc/MUKHYAMANTRI-JAN-WAN-YOJNA14X21.pdf",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the district forest division office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the district forest division office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the district forest division office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe interested applicant downloads the [application form](https://janvan.jharkhand.gov.in/doc/MUKHYAMANTRI-JAN-WAN-YOJNA14X21.pdf). \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the district forest division office.\n**Step 4:** Request a receipt or acknowledgment from the district forest division office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+    },
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 01:"
+            },
+            {
+              "text": " Interested candidate visits the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://janvan.jharkhand.gov.in/jvhome.aspx",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 02:"
+            },
+            {
+              "text": " Click “Apply Now” and fill in the application form, and security code. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 03:"
+            },
+            {
+              "text": " Upload the required documents like an Aadhaar card, Bank Passbook, etc. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 04:"
+            },
+            {
+              "text": " Click on the “Submit” tab and will get the application ID."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 01:** Interested candidate visits the [official website](https://janvan.jharkhand.gov.in/jvhome.aspx). \n**Step 02:** Click “Apply Now” and fill in the application form, and security code. \n**Step 03:** Upload the required documents like an Aadhaar card, Bank Passbook, etc. \n**Step 04:** Click on the “Submit” tab and will get the application ID.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Incentive Amount Payable to Beneficiaries:**\n\n**If the beneficiary plants the trees themselves, they&#39;ll receive the following amount**\n**Plan Year****Incentive Payable Per Plant****Incentive Payable Per Plant****Wood Species****Fruitful**First Year (Two Parts)52.67 (1st Installments - 42.14 &amp;amp;amp;amp; 2nd Installments - 10.53)165.90 (1st Installments - 132.72 &amp;amp;amp;amp; 2nd Installments - 33.18)Second Year11.8918.30Third Year14.6425.43Total Amount79.20209.63<br>\n\n**If the Forest Department supplies the plants, the beneficiary will be entitled to the following incentive amount under this scheme:**\n**Plan Year****Incentive Payable Per Plant****Incentive Payable Per Plant****Wood Species****Fruitful Species**First Year37.67120.90Second Year11.8918.30Third Year14.6425.43Total Amount64.20164.63<br>\n\n**NOTE:** 75% of the cost incurred, as per the approved plantation rate for this scheme, will be given to the beneficiary as an incentive. \n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8eb18db5ca3267e7fa26d523612cf3cbd63cd2f1a97d29189a0ae86c17fb953a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Mukhyamantri Jan-Van Scheme” was launched by the Department of Forest, Environment and Climate Change, Government of Jharkhand. The scheme aims to promote tree plantation on private lands in Jharkhand to enhance farmers&#39; income, conserve the environment, and reduce pressure on notified forests. Farmers are encouraged to plant trees on their lands with incentives covering 75% of plantation and maintenance costs over three years.\n<br>\n\n> ***Objectives of the scheme:***\n\n\n- To increase the green cover in the state and maintain environmental balance.\n- To promote groundwater conservation through afforestation.\n- To encourage forest produce in private sectors, reducing pressure on notified forests.\n- To enhance farmers&#39; income by planting trees on their land.\n- To boost afforestation in the state with public participation.\n\n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a farmer.\n1. The landowners with verifiable land records (minimum 0.5 acres, maximum 50 acres).\n1. Individual or joint farmers are eligible for this scheme. \n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:38.257122+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:38.257122+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department of Forest, Environment and Climate Change",
+    "value": 2000029
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://janvan.jharkhand.gov.in/doc/MUKHYAMANTRI-JAN-WAN-YOJNA14X21.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://janvan.jharkhand.gov.in/jvhome.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "676d7977d82a9cd9aa4372eb",
+      "en": {
+        "documentsRequired_md": "\n- Passport-size Photo\n- Cancel Cheque\n- Land Ownership Proof\n- Circle Officer’s Report\n- Aadhaar Card \n- Bank Passbook\n- Consent Form for Joint Plantation\n\n<br>\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photo"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cancel Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Circle Officer’s Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Consent Form for Joint Plantation"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "676d2d29d82a9cd9aa42ec0e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "676d2d29d82a9cd9aa42ec0e",
+  "scheme_name": "Mukhyamantri Jan-Van Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "MMJVS",
+  "slug": "mmjvs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Jharkhand",
+    "value": 20
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Increased Income",
+    "Farmers",
+    "Trees"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,422 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65cddbfeed4030e118da6e07",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Agricultural Officers ("
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Uzhavar Udhaviyagam"
+                          }
+                        ],
+                        "link": "https://agri.py.gov.in/emailcontact.html",
+                        "type": "link"
+                      },
+                      {
+                        "text": ")."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Office "
+                          }
+                        ],
+                        "link": "https://agri.py.gov.in/emailcontact.html",
+                        "type": "link"
+                      },
+                      {
+                        "text": "of the Deputy Director of Agriculture (Inputs), Thattanchavady."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Office "
+                          }
+                        ],
+                        "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": "of the Deputy Director of Agriculture (T&V), Bahour, Villianur, Madagadipet."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Office"
+                          }
+                        ],
+                        "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " of the Joint Director of Agriculture (T&V), Bahour, Villianur."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": "OR"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The interested applicant should take print of the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "link": "https://wcd.py.gov.in/sites/default/files/wcdmarrigeofpoorbride.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": "of the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the prescribed format of the application form from the concerned authority.\n\n- Agricultural Officers ([Uzhavar Udhaviyagam](https://agri.py.gov.in/emailcontact.html)).- [Office ](https://agri.py.gov.in/emailcontact.html)of the Deputy Director of Agriculture (Inputs), Thattanchavady.- [Office ](https://agri.py.gov.in/sites/default/files/citchart/response.pdf)of the Deputy Director of Agriculture (T&amp;V), Bahour, Villianur, Madagadipet.- [Office](https://agri.py.gov.in/sites/default/files/citchart/response.pdf) of the Joint Director of Agriculture (T&amp;V), Bahour, Villianur.\nOR\nThe interested applicant should take print of the [prescribed format](https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department, Puducherry",
+            "value": 34000003
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "\"Subsidy for Cultivation of Fodder Crops\" Component of the \"Crop Production Technology\" Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SCFC-CPT",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Puducherry",
+            "value": 34
+          },
+          "tags": [
+            "Subsidy",
+            "Cultivation",
+            "Fodder",
+            "Farmer",
+            "Agriculture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident/native of Puducherry."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be residing in the Puducherry region."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a Farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be cultivating fodder in the Puducherry region."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The applicant should be a resident/native of Puducherry.\n- The applicant should be residing in the Puducherry region.\n- The applicant should be a Farmer.\n- The applicant should be cultivating fodder in the Puducherry region.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "Cash Incentives @ ₹12,500/hectare."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Cash Incentives @ ₹12,500/hectare.\n",
+          "briefDescription": "The \"Subsidy for Cultivation of Fodder Crops\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Subsidy for Cultivation of Fodder Crops\" component of the \"Crop Production Technology\" scheme was introduced by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Subsidy for Cultivation of Fodder Crops&quot; component of the &quot;Crop Production Technology&quot; scheme was introduced by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, cash incentives are distributed to Farmers and Self Help Groups for undertaking fodder cultivation in the Puducherry region.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Citizen's Charter",
+              "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+            },
+            {
+              "title": "Application Form",
+              "url": "https://agri.py.gov.in/sites/default/files/forms/Fodder.pdf"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://agri.py.gov.in/emailcontact.html"
+            },
+            {
+              "title": "Grievance Redressal",
+              "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "scfc-cpt"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65cddc0bcd96dc5e0753ff41",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card.\n- Ration Card.\n- Applicant&#39;s Photo.\n- Farmer&#39;s Identity Card.\n- Bank Passbook.\n- FMB (Field Measurement Book).\n- Residence-cum-Nativity Certificate, issued by the competent authority.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Applicant's Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Farmer's Identity Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FMB (Field Measurement Book)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence-cum-Nativity Certificate, issued by the competent authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65cddbfeed4030e118da6e07"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:02.331694+00:00",
+  "scheme_id": "65cddbfeed4030e118da6e07"
+}

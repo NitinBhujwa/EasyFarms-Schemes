@@ -1,0 +1,303 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " Visit the official website of the concerned department of the Government of Himachal Pradesh. ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://hpahdbt.hp.gov.in/Home/Index"
+                    }
+                  ],
+                  "link": "https://hpahdbt.hp.gov.in/Home/Index",
+                  "type": "link"
+                },
+                {
+                  "text": ")"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Look for the scheme for “Uttam Pashu Puraskar Yojana”."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Read the guidelines and eligibility criteria of the scheme carefully. Further, agree with the terms & conditions and click on ‘Proceed’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " Fill out the application form for the scheme, which is available online at ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://hpahdbt.hp.gov.in/Home/BeneficiariesRegistration"
+                    }
+                  ],
+                  "link": "https://hpahdbt.hp.gov.in/Home/BeneficiariesRegistration",
+                  "type": "link"
+                },
+                {
+                  "text": ")"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 05:"
+                },
+                {
+                  "text": " Attach all the necessary documents as required for the scheme, such as proof of BPL status, land documents, and bank account details."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 06:"
+                },
+                {
+                  "text": " For submitting the application form, click on ‘Submit’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 07:"
+                },
+                {
+                  "text": " Check the status & follow up with the concerned department to track the status of the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 01:"
+                },
+                {
+                  "text": " It is important for the beneficiary to keep a copy of the application form and documents submitted for future reference."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 02:"
+                },
+                {
+                  "text": " Beneficiaries should ensure that they comply with the guidelines and regulations of the scheme to ensure that they are eligible for the benefits of the scheme."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 01:** Visit the official website of the concerned department of the Government of Himachal Pradesh. ([https://hpahdbt.hp.gov.in/Home/Index](https://hpahdbt.hp.gov.in/Home/Index))\n**Step 02:** Look for the scheme for “Uttam Pashu Puraskar Yojana”.\n**Step 03:** Read the guidelines and eligibility criteria of the scheme carefully. Further, agree with the terms &amp;amp; conditions and click on ‘Proceed’.\n**Step 04:** Fill out the application form for the scheme, which is available online at ([https://hpahdbt.hp.gov.in/Home/BeneficiariesRegistration](https://hpahdbt.hp.gov.in/Home/BeneficiariesRegistration))\n**Step 05:** Attach all the necessary documents as required for the scheme, such as proof of BPL status, land documents, and bank account details.\n**Step 06:** For submitting the application form, click on ‘Submit’.\n**Step 07:** Check the status &amp;amp; follow up with the concerned department to track the status of the application.\n**Note 01:** It is important for the beneficiary to keep a copy of the application form and documents submitted for future reference.\n**Note 02:** Beneficiaries should ensure that they comply with the guidelines and regulations of the scheme to ensure that they are eligible for the benefits of the scheme.\n",
+      "url": "https://hpahdbt.hp.gov.in/Home/BeneficiariesRegistration"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. Livestock owners of Cattle/Buffaloes giving 15 liters or more milk per day will be awarded a cash prize of ₹1000/- per Cow/Buffalo.\n1. The prize will be admissible to a maximum of two animals per farmer.\n1. Prizes will be transferred to the bank account of the selected owners.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "6e56746295673fe3621d21192420c489c1b7e9bde49679b25e9150f84ebd55de",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Uttam Pashu Puraskar Yojana” was launched by the Department of Animal Husbandry, Government of Himachal Pradesh to provide incentives and encouragement to livestock Owners for rearing good quality high yielding animals.\n**Implementation Strategy:**\n\n  - Funds will be released to the Controlling Officers as per Physical Targets fixed for each district.\n  - Under the scheme, cattle/buffaloes yielding more than 15 Kg or more per day as peak yield will be recorded.\n  - Milk Recording will be done at the veterinary Hospital/Dispensaries of the Animal Husbandry Department.\n  - The Milk Recording can be carried out at any time during the lactation period.\n  - The prize will be admissible to a maximum of two animals per farmer.\n  - The recording of milk production would be done by a committee consisting of:\n\n        o\tVeterinary Officer of the area.\n        o\tVeterinary Pharmacist/GPVA of the concerned institution area.\n        o\tRepresentative of the local body to be verified by the concerned Senior Veterinary Officer.\n\n  - Milk production shall be recorded for four consecutive timings (Morning and Evening) and an average of three milkings would be counted for the calculation of the peak yield.\n  - Detail of all eligible animals duly verified by the Senior Veterinary Officer will be submitted to the concerned deputy Director (AH/B) for distribution of Prizes money.\n  - A cash prize of ₹1000/- per Cattle Buffaloes will be given to animals giving 15 liters or more milk per day. Prizes will be transferred to the bank account of the selected owners.\n  - Male calves born to these high-yielding dams can be procured and reared at sperm stations.\n\n",
+  "eligibility": "1.\tThe beneficiary should be a permanent resident of Himachal Pradesh.\n2.\tThe beneficiary/livestock owner of Cattle/Buffaloes giving 15 liters or more milk per day is eligible to apply under the scheme.\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:13.398652+00:00",
+  "implementing_agency": "Department Of Animal Husbandry, Himachal Pradesh",
+  "last_synced_at": "2026-08-26T13:53:13.398652+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry Department, Himachal Pradesh",
+    "value": 21111113
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://hpahdbt.hp.gov.in/Home/uttam_pashu_purskar_yojana"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6474553b9062e55967621aac",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof i.e. Aadhaar Card, PAN Card, Voter ID Card, etc.\n1. Copy of Bank Passbook\n1. Residence proof\n1. BPL Certificate\n1. Caste/Category certificate\n\n**Note:** Files size should be less than or equal to 200 KB and must be in pdf or jpg.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card, PAN Card, Voter ID Card, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "BPL Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste/Category certificate"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Note:"
+              },
+              {
+                "text": " Files size should be less than or equal to 200 KB and must be in pdf or jpg."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6474214d9062e5596761f25b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6474214d9062e5596761f25b",
+  "scheme_name": "Uttam Pashu Puraskar Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "UPPY",
+  "slug": "uppy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Himachal Pradesh",
+    "value": 2
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Livestock",
+    "Cattle",
+    "Buffaloes",
+    "Cash Prize",
+    "Milk"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

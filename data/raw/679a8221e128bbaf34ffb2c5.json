@@ -1,0 +1,633 @@
+{
+  "detail": {
+    "data": {
+      "_id": "679a8221e128bbaf34ffb2c5",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Registration",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:",
+                        "underline": true
+                      },
+                      {
+                        "text": " The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal. "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://saralharyana.gov.in/"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:",
+                        "underline": true
+                      },
+                      {
+                        "text": " If the applicant is not registered on the portal, he/she gets registered there. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:",
+                        "underline": true
+                      },
+                      {
+                        "text": " For registration, click “"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "New User"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/citizenRegistration.html",
+                        "type": "link"
+                      },
+                      {
+                        "text": "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Verify your mobile number and email ID through the received OTP and complete the registration process."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:",
+                        "underline": true
+                      },
+                      {
+                        "text": " To avail the benefits of the scheme, visit the Official "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": " and log in through the email ID used while registering."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:",
+                        "underline": true
+                      },
+                      {
+                        "text": " Enter Password & Captcha and click on ‘Login’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:",
+                        "underline": true
+                      },
+                      {
+                        "text": " After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:",
+                        "underline": true
+                      },
+                      {
+                        "text": " Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:",
+                        "underline": true
+                      },
+                      {
+                        "text": " Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 6:",
+                        "underline": true
+                      },
+                      {
+                        "text": " Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 7:",
+                        "underline": true
+                      },
+                      {
+                        "text": " Fill in all the mandatory details and upload all the mandatory documents."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 8:",
+                        "underline": true
+                      },
+                      {
+                        "text": " Preview the application form and click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Tracking of Application:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicants can track his/her application through the Official "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal"
+                          }
+                        ],
+                        "link": "https://status.saralharyana.nic.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": " by entering their Department Name, Scheme Name, and Application Reference ID. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "italic": true,
+                        "text": "*In case of loss, file a claim with supporting documents, including the post-mortem report."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_left"
+              }
+            ],
+            "process_md": "&gt; **Registration**\n\n**Step 1:** The eligible applicant may apply online through the Official Portal- Antyodaya-SARAL Portal. [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 2:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 3:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Application**\n\n**Step 1:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 2:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 3:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 4:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 5:** Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 6:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 7:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 8:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID. \n_*In case of loss, file a claim with supporting documents, including the post-mortem report._\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry & Dairying Department",
+            "value": 666663
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Health & Wellness",
+              "value": "628ce7a2d6d1a3bde46852b1"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Special Livestock Insurance Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SLISC",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Health Insurance",
+              "value": "Health Insurance"
+            },
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            }
+          ],
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "Liverstock",
+            "Insurance",
+            "Animal",
+            "Scheduled Caste",
+            "Employment",
+            "Sheep",
+            "Goat"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be from a Scheduled Caste family."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The livestock of the applicant should include milch buffaloes, milch cattle, sheep, goats, pigs, pack animals, or camels."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The animals must be owned by the applicant."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The animals should be reared within the State."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "italic": true,
+                  "text": "*Livestock units established under the “Scheme for Providing Employment Opportunities to Scheduled Castes” are automatically eligible."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be from a Scheduled Caste family.\n1. The livestock of the applicant should include milch buffaloes, milch cattle, sheep, goats, pigs, pack animals, or camels.\n1. The animals must be owned by the applicant.\n1. The animals should be reared within the State.\n\n_*Livestock units established under the “Scheme for Providing Employment Opportunities to Scheduled Castes” are automatically eligible._\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Free Insurance Coverage:",
+                      "underline": true
+                    },
+                    {
+                      "text": " For livestock owned by Scheduled Caste families, ensuring financial protection in case of animal loss."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Employment Support:",
+                      "underline": true
+                    },
+                    {
+                      "text": " Covers livestock units established under the “Scheme for Providing Employment Opportunities to Scheduled Castes (SCSP).”"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Wide Coverage:",
+                      "underline": true
+                    },
+                    {
+                      "text": " Includes dairy, piggery, sheep, goat units, milch buffalo, cattle, pack animals, and camels."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Publicity and Awareness:",
+                      "underline": true
+                    },
+                    {
+                      "text": " ₹5,50,000/- allocated for widespread publicity to ensure maximum participation."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Veterinary Support:",
+                      "underline": true
+                    },
+                    {
+                      "text": " Honorarium to Veterinary Surgeons for health and post-mortem certificates."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Cost-Free to Beneficiaries:",
+                      "underline": true
+                    },
+                    {
+                      "text": " Entire costs related to insurance premiums, publicity, and veterinary support are borne by the State Government."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "benefits_md": "\n1. **Free Insurance Coverage:** For livestock owned by Scheduled Caste families, ensuring financial protection in case of animal loss.1. **Employment Support:** Covers livestock units established under the “Scheme for Providing Employment Opportunities to Scheduled Castes (SCSP).”1. **Wide Coverage:** Includes dairy, piggery, sheep, goat units, milch buffalo, cattle, pack animals, and camels.1. **Publicity and Awareness:** ₹5,50,000/- allocated for widespread publicity to ensure maximum participation.1. **Veterinary Support:** Honorarium to Veterinary Surgeons for health and post-mortem certificates.1. **Cost-Free to Beneficiaries:** Entire costs related to insurance premiums, publicity, and veterinary support are borne by the State Government.\n",
+          "briefDescription": "\"Special Livestock Insurance Scheme\" is a welfare initiative targeting SC families engaged in livestock rearing. The scheme provides free insurance for livestock, enhancing the economic security of resource-poor SC families. The scheme covers milch animals, sheep, goats, pigs, camels, etc;",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "\"Special Livestock Insurance Scheme\" by the Animal Husbandry & Dairying Department, Government of Haryana is a continuation of a welfare initiative targeting scheduled caste families engaged in livestock rearing. The scheme is designed to provide free insurance for livestock, enhancing the economic security of resource-poor Scheduled Caste families. It has been allocated a budget of ₹3,00,00,000/- by the State Government and aims to cover various livestock species, including milch animals, sheep, goats, pigs, pack animals, and camels."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "&quot;Special Livestock Insurance Scheme&quot; by the Animal Husbandry &amp; Dairying Department, Government of Haryana is a continuation of a welfare initiative targeting scheduled caste families engaged in livestock rearing. The scheme is designed to provide free insurance for livestock, enhancing the economic security of resource-poor Scheduled Caste families. It has been allocated a budget of ₹3,00,00,000/- by the State Government and aims to cover various livestock species, including milch animals, sheep, goats, pigs, pack animals, and camels.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Livestock not owned by Scheduled Caste families."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Animals without a valid health certificate issued by Veterinary Surgeons."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Losses not covered under the insurance policy terms (e.g., negligence, willful harm)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Livestock not registered under the scheme or insured during the eligibility period."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Claims without proper documentation or post-mortem reports."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "exclusions_md": "\n- Livestock not owned by Scheduled Caste families.\n- Animals without a valid health certificate issued by Veterinary Surgeons.\n- Losses not covered under the insurance policy terms (e.g., negligence, willful harm).\n- Livestock not registered under the scheme or insured during the eligibility period.\n- Claims without proper documentation or post-mortem reports.\n\n",
+          "references": [
+            {
+              "title": "Guideline",
+              "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Schemes_17-18/6%20Special%20Livestock%20Insurance%20Scheme%20(SCSP)%20for%20the%20year.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "slisc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "679a8236c4ea5da14d01c8e6",
+      "en": {
+        "documentsRequired_md": "\n1. Proof of Scheduled Caste status.\n1. Livestock ownership documents (e.g., purchase receipt or ownership affidavit).\n1. Health certificate issued by a designated Veterinary Surgeon.\n1. Identification proof of the applicant.\n1. Address proof.\n1. Post-mortem report in case of claim filing.\n1. Application form duly filled and signed.\n1. Recent passport-sized photograph of the applicant.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Scheduled Caste status."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Livestock ownership documents (e.g., purchase receipt or ownership affidavit)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Health certificate issued by a designated Veterinary Surgeon."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identification proof of the applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Post-mortem report in case of claim filing."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application form duly filled and signed."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Recent passport-sized photograph of the applicant."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "679a8221e128bbaf34ffb2c5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:42.168923+00:00",
+  "scheme_id": "679a8221e128bbaf34ffb2c5"
+}

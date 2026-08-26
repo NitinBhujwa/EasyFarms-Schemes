@@ -1,0 +1,202 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit the Department of Animal Husbandry & Veterinary Services, Govt. of Goa, Pashusamvardhan Bhavan, MG Roa, Patto, Panaji, Goa 403001."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Take a print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "proforma"
+                }
+              ],
+              "link": "https://www.goa.gov.in/wp-content/uploads/2020/11/Gopal-Ratna-Award-scheme.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form, or request a hard copy from the Area Officer of the Department."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the Area Officer of the Department."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit the Department of Animal Husbandry &amp; Veterinary Services, Govt. of Goa, Pashusamvardhan Bhavan, MG Roa, Patto, Panaji, Goa 403001.\n**Step 2:** Take a print of the [proforma](https://www.goa.gov.in/wp-content/uploads/2020/11/Gopal-Ratna-Award-scheme.pdf) of the application form, or request a hard copy from the Area Officer of the Department.\n**Step 3:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across), and attach copies of all the mandatory documents (self-attest if required).\n**Step 4:** Submit the duly filled and signed application form along with the documents to the Area Officer of the Department.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n1. The selected dairy farmer shall be honoured with the “Gopal Ratna Award” constituting a Certificate of Appreciation, Memento and **cash prize of ₹ 1,00,000/-**.1. The award will be conferred upon the selected beneficiary on Independence Day i.e. 15th August at the hands of the Honourable Chief Minister of the State.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "556450dca68373b820910db3de3f4e29494f1e12f71eacf7dbc5968cb4ed3ad7",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&amp;quot;Gopal Ratna Award Scheme&amp;quot; by the Department of Animal Husbandry &amp;amp; Veterinary Services, Govt. of Goa. This scheme was introduced in order to honour the eminent personalities in the field of Dairy Farming. This scheme intends to appreciate the achievement of Dairy Farmers for the highest individual milk production by undertaking scientific Dairy Farming in the State of Goa and encouraging youth to take up the Dairy Business.\n&lt;br&gt;\n\n&gt; **Objectives**\n\n\n   1. To honour the eminent personalities in the field of Dairy Farming.\n   1. To felicitate and appreciate the dairy farmers for achieving the highest milk production by undertaking scientific Dairy Farming in the State.\n   1. To encourage the dairy farmers to undertake Dairy activities as a Business.\n   1. To make the State self-sufficient in milk production.\n\n",
+  "eligibility": "\n1. The applicant should be a dairy farmer.\n1. The applicant should have given extraordinary contributions in the field of dairy farming by achieving the highest milk production in the State.\n1. The applicant should be a member of the Dairy Co-operative Society/Bachat Gat/Self Help Group, registered with the concerned Department.\n1. The applicant has to register his dairy farm with the Department of Animal Husbandry and Veterinary Services through the respective Area Officers of Veterinary Dispensary/Hospital.\n1. The applicant should be a bonafide resident of Goa for at least the preceding five years, owning a cattle shed with milch animals in the State of Goa.\n1. The applicant shall produce and pour a minimum of 1,00,000 litres of milk in the preceding year (April to March) with a minimum average of 250 litres of milk per day, to the Dairy Co-operative Society/Bachat Gat/Self Help Group.\n\n",
+  "exclusions": "No Award shall be presented posthumously under this scheme. However, if the death of the applicant occurs after the submission\nof the application and if he/she qualifies for the award then the award may be considered for posthumous presentation to his/her legal\nheir.\n",
+  "first_seen_at": "2026-08-26T13:59:16.809572+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:59:16.809572+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry & Veterinary Services Department",
+    "value": 30000003
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.goa.gov.in/wp-content/uploads/2020/11/Gopal-Ratna-Award-scheme.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64f022e54c841e89deb3af4b",
+      "en": {
+        "documentsRequired_md": "\n1. Evidence of Membership from a registered Dairy Co-operative Society/ Bachat Gat/ Self Help Groups.\n1. Records showing details of the number of animals, stage of lactation of each animal, milk yield, date of calving, address of cattle shed etc.\n1. Residential Certificate.\n1. Proof of registration of dairy farm with the Department of Animal Husbandry and Veterinary Services.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Evidence of Membership from a registered Dairy Co-operative Society/ Bachat Gat/ Self Help Groups."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Records showing details of the number of animals, stage of lactation of each animal, milk yield, date of calving, address of cattle shed etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residential Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of registration of dairy farm with the Department of Animal Husbandry and Veterinary Services."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64f0200e8b9d77aaeb7dda31"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64f0200e8b9d77aaeb7dda31",
+  "scheme_name": "Gopal Ratna Award Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "GRAS",
+  "slug": "gras",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Milk",
+    "Animal",
+    "Husbandry",
+    "Award",
+    "Farming",
+    "Dairy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

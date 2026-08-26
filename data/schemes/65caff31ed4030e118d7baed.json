@@ -1,0 +1,495 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Uzhavar Udhaviyagam"
+                }
+              ],
+              "link": "https://agri.py.gov.in/emailcontact.html",
+              "type": "link"
+            },
+            {
+              "text": " (Farmers' Help Centres) and request the hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://agri.py.gov.in/sites/default/files/forms/horticrop.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the Agricultural Officer."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form and the documents to the Agricultural Officers of the respective Uzhavar Uthaviyagam."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Uzhavar Udhaviyagam](https://agri.py.gov.in/emailcontact.html) (Farmers&#39; Help Centres) and request the hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/forms/horticrop.pdf) of the application form from the Agricultural Officer.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the Agricultural Officers of the respective Uzhavar Uthaviyagam.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+    },
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Official Website"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " of the e-District Portal of the Government of Puducherry."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "At the top right corner of the home page, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Login"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/Login.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\". In the login screen, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Register a New Membership"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/User/Registration.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Official Website"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " of the e-District Portal of the Government of Puducherry."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "At the top right corner of the home page, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Login"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/Login.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7: "
+            },
+            {
+              "text": "Click on the scheme you wish to apply for. You will be taken to its online application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 8: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 9:"
+            },
+            {
+              "text": " Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for "
+            },
+            {
+              "children": [
+                {
+                  "text": "tracking your application"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/User/TrackApplication.aspx",
+              "type": "link"
+            },
+            {
+              "text": ". The application number will also be received on your Registered Mobile Number / Registered Email ID."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "*Track Your Application"
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "here"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/User/TrackApplication.aspx",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "* Access the User Manual for Online Application"
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "here"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/Help.rar",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **One Time Assistance**  \n\n\n- Mango: ₹ 12,250.\n- Guava: ₹ 5,830.                \n- Sapota: ₹ 2,300.\n- Other fruits (not covered under the NHM scheme): ₹ 25,000.\n\n<br>\n\n> **Bi‐annual Assistance (Two Seasons Per Year) - Thai and Aadi Pattams**\n\n\n- Hybrid vegetables: ₹ 5,000.\n- Country Vegetables: ₹ 12,500.\n- Winter Vegetables: ₹ 18,750.\n\n<br>\n\n> **Annual Assistance**\n\n\n- Coconut: ₹ 7,500.\n- Tapioca: ₹ 12,500.            \n- Betel Vine: ₹ 1,500/‐, not exceeding ₹ 50,000/‐ Ha.\n\n_*The eligible subsidy amount shall be released to the beneficiary&#39;s account on DBT (Direct Benefit Transfer) mode after obtaining expenditure sanction as per norms._\n_*The final list of the beneficiaries would be displayed on the notice board of Uzhavar Uthaviyagams._\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "1878e3aa36b07f0c537c0cd6cc35a0ebd6b959387c50dd8d78c23d7923c11c06",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Production Incentive / Back-Ended Subsidy for Cultivation of Horticulture Crops&quot; was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. _Through this scheme, the farmers who possess farmer&#39;s identity cards / authenticated land records/documents are provided with One-Time Assistance/ Bi‐Annual Assistance/ Annual Assistance for the Cultivation of Horticulture Crops such as Mango, Guava, and Sapota._\n",
+  "eligibility": "All categories of farmers with farmer&#39;s identity cards / authenticated land records/documents are eligible.\n_*The Agricultural Officers (Horticulture) shall conduct periodic field inspections to verify the progress of the cultivation in coordination with the Agricultural Officers of the respective Uzhavar Uthaviyagams._\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:03.756243+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:03.756243+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department, Puducherry",
+    "value": 34000003
+  },
+  "references": [
+    {
+      "title": "Standard Operating Procedure",
+      "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/forms/horticrop.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    },
+    {
+      "title": "Track Your Application",
+      "url": "https://edistrict.py.gov.in/User/TrackApplication.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65caff55ed4030e118d7bb19",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card.\n- Cultivable Land Details (Own / Lease).\n- Farmer Identity Card.\n- FMB Field Map.\n- In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form.\n- If no identity card is issued to the farmer to date, a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted.  \n- The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department.\n- Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cultivable Land Details (Own / Lease)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Farmer Identity Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FMB Field Map."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If no identity card is issued to the farmer to date, a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted.  "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65caff31ed4030e118d7baed"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65caff31ed4030e118d7baed",
+  "scheme_name": "Production Incentive / Back-Ended Subsidy for Cultivation of Horticulture Crops",
+  "scheme_open_date": null,
+  "scheme_short_title": "PIBESCHC",
+  "slug": "pibeschc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Horticulture",
+    "Crop",
+    "Incentive",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

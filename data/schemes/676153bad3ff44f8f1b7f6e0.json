@@ -1,0 +1,392 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Visit the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "application page"
+                    }
+                  ],
+                  "link": "https://mwrd.bih.nic.in/mnny/openApplication.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " After entering your personal information, verify your mobile number and Aadhaar number."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Upload relevant documents (in JPEG/PNG format)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "Read the declaration given below carefully and tick the points."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Once the application is submitted, no changes will be made."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Claim Process:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "After approval, it will be mandatory for the farmer to dig a borewell at the applied site within 60 days and upload the subsidy claim on the "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "portal"
+                        }
+                      ],
+                      "link": "https://mwrd.bih.nic.in/mnny/ApplyClaim.aspx",
+                      "type": "link"
+                    },
+                    {
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Notes:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Beneficiary farmers can claim for boring and motor pumps as per their convenience on different dates or on a single date within the prescribed period."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Before digging the boring, during digging and after digging the boring, the farmer will have to take photographs of the site where water is flowing, which will be mandatory to upload on the portal at the time of submitting the claim."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Photos of the installation of the motor pump and of the water flow after the installation of the pump must be uploaded on the portal."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Only after physical verification and depth measurement with the representatives of the department, the work of installation of the motor pump will be done by the farmer and the photo will be uploaded on the portal."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "All the materials used in the tube-well should be manufactured in the country and their quality should be as per Indian standards."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\n**Step 1:** Visit the [application page](https://mwrd.bih.nic.in/mnny/openApplication.aspx).\n**Step 2:** After entering your personal information, verify your mobile number and Aadhaar number.\n**Step 3:** Upload relevant documents (in JPEG/PNG format).\n**Step 4:** Read the declaration given below carefully and tick the points.\n**Step 5:** Once the application is submitted, no changes will be made.\n&gt; **Claim Process:**\n\n\n  - After approval, it will be mandatory for the farmer to dig a borewell at the applied site within 60 days and upload the subsidy claim on the [portal](https://mwrd.bih.nic.in/mnny/ApplyClaim.aspx).\n&gt; **Notes:**\n\n\n  - Beneficiary farmers can claim for boring and motor pumps as per their convenience on different dates or on a single date within the prescribed period.\n  - Before digging the boring, during digging and after digging the boring, the farmer will have to take photographs of the site where water is flowing, which will be mandatory to upload on the portal at the time of submitting the claim.\n  - Photos of the installation of the motor pump and of the water flow after the installation of the pump must be uploaded on the portal.\n  - Only after physical verification and depth measurement with the representatives of the department, the work of installation of the motor pump will be done by the farmer and the photo will be uploaded on the portal.\n  - All the materials used in the tube-well should be manufactured in the country and their quality should be as per Indian standards.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Subsidy for Borewell Construction:**\n\n<br>\n\n**Category****Subsidy Amount (Per Meter)**\t**Depth Allowed**General ₹600/-15-70 metersBackward/Most Backward Classes\t₹840/-15-70 metersScheduled Caste/Tribe Category\t₹900/-15-70 meters<br>\n\n> **Subsidy for Motor Pump Installation:**\n\n<br>\n\n\n- The amount of subsidy will be payable to General Category, Backward/Extremely Backward Classes and Scheduled Caste/Tribe Classes at the rate of 50%, 70% and 80% respectively on the cost of 2HP, 3HP, 5HP motor pump at the rate of maximum ₹20000/-, ₹25000/- and ₹30,000/- respectively.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "318babb7ea73676cde6a3599ffa9892e321ef0b73a81b7d62fde0581c31cb006",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Mukhyamantri Nijee Nalkup Yojana” launched by the Minor Water Resources Department, Bihar, aims to provide financial support to farmers for borewell construction and motor pump installation to ensure water availability for irrigation purposes. It focuses on helping farmers in underprivileged regions with limited irrigation infrastructure.\n&lt;br&gt;\n\n",
+  "eligibility": "\n   1. Farmers identified under the Saat Nischay-2 &amp;quot;Irrigation Water to Every Field&amp;quot; after a joint technical survey are eligible.\n   1. Farmers must own at least 0.40 acre (40 decimal) of land. Priority will be given to small and marginal farmers.\n   1. There should not be an existing borewell at the site.\n   1. No previous grants or financial assistance have been taken for borewell construction at the same site by the Farmer.\n   1. The grant is valid for one borewell and one motor pump set per farmer.\n   1. Borewell must be dug to a depth of 15-70 meters and with 4-6 inch diameter to qualify for the grant.\n\n&lt;br&gt;\n\n",
+  "exclusions": "\n  - Applications from over-exploited and critical blocks/panchayats identified by the Central Ground Water Board will not be considered.\n\n<br>\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T13:56:54.381288+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:56:54.381288+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Minor Water Resources Department",
+    "value": 10111135
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mwrd.bih.nic.in/mnny/pdf_file/karyanwayananudeshfinal.pdf"
+    },
+    {
+      "title": "Declaration Form",
+      "url": "https://mwrd.bih.nic.in/mnny/pdf_file/GhoshanaPatraAsahmati.pdf"
+    },
+    {
+      "title": "Physical Verification Form",
+      "url": "https://mwrd.bih.nic.in/mnny/pdf_file/BhautikStyapanPatra.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67615415d3ff44f8f1b7f748",
+      "en": {
+        "documentsRequired_md": "&gt; **For Application:**\n\n\n   1. Aadhaar Card\n   1. Land Holding Certificate (LPC) which is not earlier than 01/01/2023.\n   1. Caste certificate issued by the competent authority.\n   1. Photograph (of self and the marked location).\n   1. [Declaration Form](https://mwrd.bih.nic.in/mnny/pdf_file/GhoshanaPatraAsahmati.pdf).\n&gt; **For Claim:**\n\n\n   1. GST voucher of the motor pump.\n   1. GST Voucher of Pipe.\n\n&lt;br&gt;\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "For Application:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land Holding Certificate (LPC) which is not earlier than 01/01/2023."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste certificate issued by the competent authority."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Photograph (of self and the marked location)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Declaration Form"
+                          }
+                        ],
+                        "link": "https://mwrd.bih.nic.in/mnny/pdf_file/GhoshanaPatraAsahmati.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "For Claim:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "GST voucher of the motor pump."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "GST Voucher of Pipe."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "676153bad3ff44f8f1b7f6e0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "676153bad3ff44f8f1b7f6e0",
+  "scheme_name": "Mukhyamantri Nijee Nalkup Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "MNNY",
+  "slug": "mnny",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Bihar",
+    "value": 10
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Irrigation",
+    "Borewell",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

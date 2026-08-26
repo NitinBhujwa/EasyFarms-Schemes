@@ -1,0 +1,349 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6773d4935fe21d75995ba8b7",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Initial Approval",
+                    "underline": true
+                  },
+                  {
+                    "text": " by the beneficiaries in Gram Sabha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Secondary Approval",
+                    "underline": true
+                  },
+                  {
+                    "text": " by the Janpad Panchayat for Gram Sabha-approved beneficiaries."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Final Approval",
+                    "underline": true
+                  },
+                  {
+                    "text": " by the Agriculture Standing Committee of the District Panchayat."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Initial Approval** by the beneficiaries in Gram Sabha.\n**Secondary Approval** by the Janpad Panchayat for Gram Sabha-approved beneficiaries.\n**Final Approval** by the Agriculture Standing Committee of the District Panchayat.\n<br>\n\nThe interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Advanced Animal Breeding Scheme (Supply of Breedable Pedigree Murrah Bull on Subsidy)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "AABSSOBPMBOS",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Animal",
+            "Subsidy",
+            "Cow",
+            "Breed"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a progressive cattle breeder or a trained cow-helper."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be willing to maintain and breed the Murrah bull."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a progressive cattle breeder or a trained cow-helper.\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be willing to maintain and breed the Murrah bull.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Subsidized Murrah Bull",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Total unit cost: ₹62,000"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Bull cost: ₹60,000"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Transportation and insurance: ₹2,000"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Government grant: 75% of total cost"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Beneficiary contribution: 25% of total cost"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Additional Support",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Transportation assistance included"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Insurance coverage included"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "**Subsidized Murrah Bull**\n\n- Total unit cost: ₹62,000\n- Bull cost: ₹60,000\n- Transportation and insurance: ₹2,000\n- Government grant: 75% of total cost\n- Beneficiary contribution: 25% of total cost\n\n**Additional Support**\n\n- Transportation assistance included\n- Insurance coverage included\n\n",
+          "briefDescription": "\"Advanced Animal Breeding Scheme (Supply of Breedable Pedigree Murrah Bulls on Subsidy)\" aims to improve cattle breeding by supplying pedigreed breedable Murrah bulls to progressive cattle rearers and trained cow servants. Murrah bulls are provided with a 75% subsidy to animal keepers.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "\"Advanced Animal Breeding Scheme (Supply of Breedable Pedigree Murrah Bulls on Subsidy)\" by the Animal Husbandry Department, Madhya Pradesh aims to improve cattle breeding by supplying pedigreed breedable Murrah bulls to progressive cattle rearers and trained cow servants. Through this scheme, Murrah bulls are provided with a 75% subsidy to animal keepers of all categories. The applications for this scheme are processed through a multi-level approval system starting from Gram Sabha. The scheme is applicable in all districts of the state."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "&quot;Advanced Animal Breeding Scheme (Supply of Breedable Pedigree Murrah Bulls on Subsidy)&quot; by the Animal Husbandry Department, Madhya Pradesh aims to improve cattle breeding by supplying pedigreed breedable Murrah bulls to progressive cattle rearers and trained cow servants. Through this scheme, Murrah bulls are provided with a 75% subsidy to animal keepers of all categories. The applications for this scheme are processed through a multi-level approval system starting from Gram Sabha. The scheme is applicable in all districts of the state.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://mpdah.gov.in/schemes/view/MmtKQWJCbTN3VGFXME5sTGw1bkFvUT09"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "aabssobpmbos"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6773d4a85fe21d75995ba8d8",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size Photograph\n1. Aadhaar card\n1. Domicile certificate of Madhya Pradesh\n1. Caste certificate \n1. Samagra ID\n1. Bank account details/Bank Passbook\n1. Other necessary documents if required \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Domicile certificate of Madhya Pradesh"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Samagra ID"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details/Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other necessary documents if required "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6773d4935fe21d75995ba8b7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:58.049548+00:00",
+  "scheme_id": "6773d4935fe21d75995ba8b7"
+}

@@ -1,0 +1,282 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Farmers need to apply on the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "official portal."
+                    }
+                  ],
+                  "link": "https://pacsonline.bih.nic.in/fsy/Login.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "First Farmers need to log in with their registration details. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "If Farmes does have a registration number then they have to complete the registration process on "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://dbtagriculture.bihar.gov.in/"
+                    }
+                  ],
+                  "link": "https://dbtagriculture.bihar.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "After the registration, farmers can get/search for their Registration Number on "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://pacsonline.bih.nic.in/fsy/Register.aspx"
+                    }
+                  ],
+                  "link": "https://pacsonline.bih.nic.in/fsy/Register.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "After login on "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Official Portal"
+                    }
+                  ],
+                  "link": "https://pacsonline.bih.nic.in/fsy/Login.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ",  a new form will open."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Here applicants have to enter the required information. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "And submit the application."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "process_md": "\n1. Farmers need to apply on the [official portal.](https://pacsonline.bih.nic.in/fsy/Login.aspx)1. First Farmers need to log in with their registration details. \n1. If Farmes does have a registration number then they have to complete the registration process on [https://dbtagriculture.bihar.gov.in/](https://dbtagriculture.bihar.gov.in/)1. After the registration, farmers can get/search for their Registration Number on [https://pacsonline.bih.nic.in/fsy/Register.aspx](https://pacsonline.bih.nic.in/fsy/Register.aspx)1. After login on [Official Portal](https://pacsonline.bih.nic.in/fsy/Login.aspx),  a new form will open.1. Here applicants have to enter the required information. \n1. And submit the application.\n\n",
+      "url": "https://pacsonline.bih.nic.in/fsy/Login.aspx"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. In case of a reduction in the actual yield rate by 20% as compared to the threshold yield rate, total assistance of Rs. 15,000 is estimated at the rate of Rs. 7,500 per hectare up to a maximum of two (02) hectares.\n1. In the event of more than a 20% reduction in the actual yield rate as compared to the threshold yield rate, total assistance of Rs. 20,000 is estimated at the rate of Rs. 10,000 per hectare up to a maximum of two (02) hectares.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0363af8d92af353c9385d1bbe2db6e2d5a46804d20e401562dd897d6c474ad32",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Bihar State Crop Assistance Scheme has been started by the State Government of Bihar to protect the crops of farmers cultivating in Bihar from natural calamities such as floods, drought, etc. Is. Under this Bihar State Crop Assistance Scheme, if there is any damage to the farming of farmers due to any natural calamity, then they will be provided financial assistance by the Government of Bihar under the Bihar State Crop Assistance Scheme.\n- Covered crop: \n\n1. Aghani paddy crop: is notified in all gram panchayats of a total of 527 (except Navgachia, Bihpur, Gopalpur, Narayanpur, Ismailpur, Rangrachowk and Kharik circles of Bhagalpur) in 38 districts of the state.\n1. Bhadai - Maize crop:  is notified in all gram panchayats of a total of 534 of 38 districts of the state. \n1. The soybean crop is notified as a district-level crop for Begusarai, Samastipur, and Khagaria districts.\n\nClauses (1) and (2) are also notified in the Nagar Panchayat and Nagar Parishad located in the concerned district.\n",
+  "eligibility": "\n1. All such farmers cultivate their own land. \n1. All such farmers cultivate the land of others.\n1. Such farmers do farming on their own land as well as on the land of others.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:48.643998+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:48.643998+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Co-Operative Department",
+    "value": 10111117
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://govtschemes.in/sites/default/files/2023-02/Bihar%20Rajya%20Fasal%20Sahayta%20Yojana%20Guidelines.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://pacsonline.bih.nic.in/fsy/Public/BothSelfDeclaration_rabi.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "647f1b6f481f59106a676b4a",
+      "en": {
+        "documentsRequired_md": "\n1. Land Possession Certificate / Revenue Receipt of land should be after 31-03-2022.\n1. Self-declaration certificate should be attested by ward member/farmer advisor.\n1. Aadhaar card.\n1. Bank passbook.\n1. Farmland papers.\n1. The applicant applying should have a mobile number.\n1. Passport-size photo.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land Possession Certificate / Revenue Receipt of land should be after 31-03-2022."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self-declaration certificate should be attested by ward member/farmer advisor."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Farmland papers."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The applicant applying should have a mobile number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "647f13bd481f59106a676a2d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "647f13bd481f59106a676a2d",
+  "scheme_name": "Bihar Rajya Fasal Sahayata Yojna",
+  "scheme_open_date": "2021-04-08",
+  "scheme_short_title": "BRFSY",
+  "slug": "brfsy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Bihar",
+    "value": 10
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Natural Disaster",
+    "Farmer Welfare",
+    "Crop Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

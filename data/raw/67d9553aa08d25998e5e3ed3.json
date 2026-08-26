@@ -1,0 +1,498 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67d9553aa08d25998e5e3ed3",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The successor of the deceased or disabled farmer must submit an application within 150 days of the accident."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " The application must be submitted to the concerned "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "District Agriculture Officer"
+                      }
+                    ],
+                    "link": "https://dag.gujarat.gov.in/Home/FieldOffice",
+                    "type": "link"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      },
+                      {
+                        "text": " "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Click here"
+                          }
+                        ],
+                        "link": "https://dag.gujarat.gov.in/Home/FieldOffice",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The successor of the deceased or disabled farmer must submit an application within 150 days of the accident.\n**Step 2:** The application must be submitted to the concerned [District Agriculture Officer](https://dag.gujarat.gov.in/Home/FieldOffice).\n&gt; **Contact Us:** [Click here](https://dag.gujarat.gov.in/Home/FieldOffice).\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Banking,Financial Services and Insurance",
+              "value": "628ce7f6d6d1a3bde46852d0"
+            }
+          ],
+          "schemeFor": "Family",
+          "schemeName": "Farmers Accidental Insurance Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "FAIS",
+          "schemeSubCategory": [
+            {
+              "label": "Insurance",
+              "value": "Insurance"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Accidental Insurance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant or their parent must have a registered land record before the date of the accident."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The death or disability must be caused by an accident."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The deceased/disabled person must be the registered farmer, their spouse, or any legal heir (son/daughter)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must possess a valid driving license in case of death/injury (For vehicular accident)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must be between 5 to 70 years of age (For accidental death or permanent disability)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Application should be made in the office of the concerned District Agriculture Officer within 150 days."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant or their parent must have a registered land record before the date of the accident.\n  - The death or disability must be caused by an accident.\n  - The deceased/disabled person must be the registered farmer, their spouse, or any legal heir (son/daughter).\n  - The applicant must possess a valid driving license in case of death/injury (For vehicular accident).\n  - The beneficiary must be between 5 to 70 years of age (For accidental death or permanent disability).\n  - Application should be made in the office of the concerned District Agriculture Officer within 150 days.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Particular"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Benefit (₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1. Accidental death/ 100% permanent Disability"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,00,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2. In case of Accidently Loss of two eyes or two limbs or Hand and leg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,00,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3. In case of Accidently Loss of one eye and one limb"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,00,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "4. In case of Accidently Loss of one eye or one limb"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,00,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Particular****Benefit (₹)**1. Accidental death/ 100% permanent Disability₹2,00,000/-2. In case of Accidently Loss of two eyes or two limbs or Hand and leg₹2,00,000/-3. In case of Accidently Loss of one eye and one limb₹2,00,000/-4. In case of Accidently Loss of one eye or one limb₹2,00,000/-<br>\n\n",
+          "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Dept., Gujarat. It aims to provide financial assistance to the families of registered farmers in the event of accidental death or disability.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Farmers Accidental Insurance Scheme\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to the successors of registered farmers in case of accidental death or disability. The scheme does not cover natural or suicidal deaths."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Farmers Accidental Insurance Scheme&quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to provide financial aid to the successors of registered farmers in case of accidental death or disability. The scheme does not cover natural or suicidal deaths.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Incidence of Natural & suicidal death are excluded."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "\n  - Incidence of Natural &amp;amp; suicidal death are excluded.\n\n<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/Bu2wc90IXRdJKrcfHJ%E2%9C%A49ew%E2%99%AC%E2%99%AC"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "fais"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67d955fbcd5d5424e5eca7c5",
+      "en": {
+        "documentsRequired_md": "\n   1. Application in prescribed form Annexure -1, 2,3, 3(A),4,5\n   1. Copy of 7/12, 8-A &amp;amp; hack Patrak (Form no: 6).\n   1. Copy of Post Mortem report\n   1. I.R &amp;amp; spot Panchami Police Inquest Report or Court Order\n   1. Proof of death (Death Certificate) &amp;amp; age from competent authority as the case may be.\n   1. Disability certificate form competent authority, in the case of disablement.\n   1. Sub Divisional Magistrate report and Police tapas report\n   1. Baydhari patrak in prescribe Performa.\n   1. Valid driving licence (in case deceaseddrive the vehicle)\n   1. In case of first legal heir (son/daughter) Death or disability produce Registered farmer’s (his father or mother) Pedhinamu or successive generations proof.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Application in prescribed form Annexure -1, 2,3, 3(A),4,5"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of 7/12, 8-A & hack Patrak (Form no: 6)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of Post Mortem report"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "I.R & spot Panchami Police Inquest Report or Court Order"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of death (Death Certificate) & age from competent authority as the case may be."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Disability certificate form competent authority, in the case of disablement."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Sub Divisional Magistrate report and Police tapas report"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Baydhari patrak in prescribe Performa."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Valid driving licence (in case deceaseddrive the vehicle)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "In case of first legal heir (son/daughter) Death or disability produce Registered farmer’s (his father or mother) Pedhinamu or successive generations proof."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67d9553aa08d25998e5e3ed3"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:04.912932+00:00",
+  "scheme_id": "67d9553aa08d25998e5e3ed3"
+}

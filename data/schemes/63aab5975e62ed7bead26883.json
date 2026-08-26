@@ -1,0 +1,138 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Bona fide farmers can apply to the District Agriculture Officer of the concerned districts/Agriculture Development Officer of C&RD Block/ Agriculture Circle, by submitting copies of the required documents."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4c3f3af67c209eea362f8c55b2b4c56b2ddc35ccfa1f52c44a5b28a852e2c5a0",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Sub Mission on Seed and Planting Material (SMSP)&quot; is a centrally sponsored scheme under the umbrella scheme of &quot;Green Revolution – Krishonnati Yojana&quot;.\n<br>\n\n&quot;Green Revolution – Krishonnati Yojana&quot; is an Umbrella Scheme for the agriculture sector that has been implemented since 2016-17 by clubbing several schemes/missions under one umbrella scheme. The Umbrella scheme comprises 11 Schemes/Missions. These schemes look to develop the agriculture and allied sector holistically and scientifically to increase the income of farmers by enhancing production, productivity, and better returns on produce.\n<br>\n\nThe Sub-Mission on Seeds and Planting Material (SMSP) aims to increase the production of certified / quality seed, increase SRR, upgrade the quality of farm-saved seeds, strengthen the seed multiplication chain, promote new technologies and methodologies in seed production, processing, testing, etc., to strengthen and modernizing infrastructure for seed production, storage, certification, and quality, etc.\n<br>\n\n**Objectives of SMSP -** \n\n1. Increasing production of certified/ quality seed\n1. Increasing Seed Replacement rate (SRR) more particularly to achieve higher SRR in crops like paddy, gram, groundnut, cotton, etc. as recommended by the Consultative Group of the Ministry of Agriculture \n1. Upgrading the quality of farm-saved seeds with a specific objective to cover 60,000 villages and produce 100 lakh quintals of seed each year through farmers&#39; participatory seed production.\n1. Creation of Seed Infrastructure facilities in the Public Sector.\n1. Encouraging seed treatment, particularly for farm-saved seed.\n1. Strengthening the seed multiplication chain through assistance to the public and private sectors.\n1. Popularizing new varieties to encourage varietal replacement.\n1. Promoting new technologies and methodologies in seed production, processing, testing, etc.\n1. Strengthening and modernizing infrastructure for seed production, storage, certification, and quality control particularly to ensure compliance with the provisions of the Seeds Bill 2004/ISTA standards, and OECD certification.\n1. Facilitating the movement of seed from India in international trade and increasing its share to 10% by 2020 as envisaged in the new policy on seed development.\n1. Assisting and supporting public and private seed-producing organizations in the seed sector and encouraging partnerships.\n1. Ensuring availability of seed in contingent situations.\n1. Facilitating the dissemination of seed-related information through information, education, and communication. \n1. To provide an effective system for the protection of plant varieties, the rights of farmers as well as plant breeders and to encourage the development of new varieties of plants, through PPVFRA.\n\n<br>\n\n**Components of SMSP -** \n1. Strengthening for Seed Quality Control \n2. Strengthening of Grow Out Test(GOT) facilities \n3. Support to seed certification agencies \n4. Seed Village Programme\n5. Certified seed production through seed villages\n6. Seed Processing Facilities \n7. Seed Storage Facilities \n8. Transport subsidy on the movement of Seed to North Eastern States etc.\n9. National Seed Reserve \n10. Application of Biotechnology in agriculture \n11. Public Private Partnership in the seed sector \n12. Assistance for boosting seed production in the Private Sector \n13. Support to Sub-Mission Director and Survey / Studies \n14. Protection of Plant Varieties and Farmer’s Rights Authority (PPVFRA) \n",
+  "eligibility": "The applicant must be a Small or Marginal Farmer.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:32.809249+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:32.809249+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture & Farmers Welfare",
+    "value": 121226
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://diragrijmu.nic.in/cssguidelines/smsp.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "63aac490d54475df53c8b07e",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of farmer B1 khasra / loan book"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aaadhaar Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "63aab5975e62ed7bead26883"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "63aab5975e62ed7bead26883",
+  "scheme_name": "Krishonnati Yojana - Sub Mission On Seed And Planting Material (SMSP)",
+  "scheme_open_date": "2005-01-01",
+  "scheme_short_title": "KY-SMSP",
+  "slug": "ky-smsp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Agriculture",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

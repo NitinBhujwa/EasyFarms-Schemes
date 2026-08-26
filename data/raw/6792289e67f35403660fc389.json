@@ -1,0 +1,390 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6792289e67f35403660fc389",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " The interested applicant should connect to the Office of the Chief Executive Officer District Panchayat and request the hard copy of the prescribed format of the application form from the concerned authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "NOTE:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Ensure that the application is submitted within the prescribed period."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should connect to the Office of the Chief Executive Officer District Panchayat and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Gopal Incentive Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "GIS",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Cows",
+            "Animal",
+            "Awards",
+            "Farmers"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a breeder or livestock farmer with Indian high-breed cattle."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have access to advanced breed cows."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a breeder or livestock farmer with Indian high-breed cattle.\n1. The applicant should have access to advanced breed cows.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Development Block Level Awards",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "First Prize: ₹10,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Second Prize: ₹7,500/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Third Prize: ₹5,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "₹10,000/- for organizing competition programs, arranging animal fodder and water, transportation, and herders."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "District Level Awards",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "First Prize: ₹50,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Second Prize: ₹25,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Third Prize: ₹15,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Consolation Prize: ₹5,000/- (Total ₹35,000/-, seven awards of ₹5,000/- each)"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "₹50,000/- for organizing publicity camps, arranging fodder, and water for animals, and supporting cattle keepers."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "State Level (Directorate Level) Awards",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "First Prize: ₹2,00,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Second Prize: ₹1,00,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Third Prize: ₹50,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Consolation Prize: ₹10,000/- (Total ₹70,000/-, seven awards of ₹10,000/- each)"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "**Development Block Level Awards**\n\n- First Prize: ₹10,000/-\n- Second Prize: ₹7,500/-\n- Third Prize: ₹5,000/-\n- ₹10,000/- for organizing competition programs, arranging animal fodder and water, transportation, and herders.\n\n**District Level Awards**\n\n- First Prize: ₹50,000/-\n- Second Prize: ₹25,000/-\n- Third Prize: ₹15,000/-\n- Consolation Prize: ₹5,000/- (Total ₹35,000/-, seven awards of ₹5,000/- each)\n- ₹50,000/- for organizing publicity camps, arranging fodder, and water for animals, and supporting cattle keepers.\n\n**State Level (Directorate Level) Awards**\n\n- First Prize: ₹2,00,000/-\n- Second Prize: ₹1,00,000/-\n- Third Prize: ₹50,000/-\n- Consolation Prize: ₹10,000/- (Total ₹70,000/-, seven awards of ₹10,000/- each)\n\n",
+          "briefDescription": "The \"Gopal Incentive Scheme\" by the Animal Husbandry Department, Government of Madhya Pradesh, promotes the rearing of Indian high-breed cattle and boosts milk production, benefiting animal breeders and livestock farmers with access to Indian advanced breed cows.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Gopal Incentive Scheme\" by the Animal Husbandry Department, Government of Madhya Pradesh, aims to promote the rearing of Indian high-breed cattle and encourage increased milk production. The scheme is open to animal breeders and livestock farmers of all categories who have access to Indian advanced breed cows. A reward program is proposed to incentivize the rearing of Indian high-breed bovine animals. This will not only provide additional income for cattle breeders but also ensure that male calves from high-breed cows are available for farming purposes. Additionally, the scheme is designed to boost milk production and increase the population of productive Indian high-breed bovine animals."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Gopal Incentive Scheme&quot; by the Animal Husbandry Department, Government of Madhya Pradesh, aims to promote the rearing of Indian high-breed cattle and encourage increased milk production. The scheme is open to animal breeders and livestock farmers of all categories who have access to Indian advanced breed cows. A reward program is proposed to incentivize the rearing of Indian high-breed bovine animals. This will not only provide additional income for cattle breeders but also ensure that male calves from high-breed cows are available for farming purposes. Additionally, the scheme is designed to boost milk production and increase the population of productive Indian high-breed bovine animals.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Scheme Details",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=200"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "gis"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67922930fbf96e4dd88eff10",
+      "en": {
+        "documentsRequired_md": "\n1. Identity Proof \n1. Proof of Residence \n1. Cattle Ownership Proof\n1. Photographs\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Residence "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cattle Ownership Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photographs"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6792289e67f35403660fc389"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:02:41.514854+00:00",
+  "scheme_id": "6792289e67f35403660fc389"
+}

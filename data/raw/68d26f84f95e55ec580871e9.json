@@ -1,0 +1,421 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68d26f84f95e55ec580871e9",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The information must be submitted in writing to the local forest officer within two days of the incident. Following this, the Tehsildar/Patwari and the local forest officer of the area will jointly verify and assess the crop damage. The investigation report will then be forwarded to the concerned Assistant Conservator of Forests/Wildlife Warden through the Range Officer."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The Assistant Conservator of Forests/Wildlife Warden is required to submit the final investigation report to the Divisional Forest Officer/Deputy Director within two months of the incident. Upon receiving the final report, the Divisional Forest Officer/Deputy Director has full authority to approve and disburse the ex-gratia compensation. The Divisional Forest Officer/Deputy Director will also ensure that complete details of the case are communicated to the Chief Wildlife Warden."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Note: The Forest Department has issued a toll-free number – 1800-890-9715. Anyone can use this number to report wildlife incidents, including accidents involving humans or the presence of wildlife in populated areas anywhere in the state."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - The information must be submitted in writing to the local forest officer within two days of the incident. Following this, the Tehsildar/Patwari and the local forest officer of the area will jointly verify and assess the crop damage. The investigation report will then be forwarded to the concerned Assistant Conservator of Forests/Wildlife Warden through the Range Officer.\n  - The Assistant Conservator of Forests/Wildlife Warden is required to submit the final investigation report to the Divisional Forest Officer/Deputy Director within two months of the incident. Upon receiving the final report, the Divisional Forest Officer/Deputy Director has full authority to approve and disburse the ex-gratia compensation. The Divisional Forest Officer/Deputy Director will also ensure that complete details of the case are communicated to the Chief Wildlife Warden.\n\n***Note: The Forest Department has issued a toll-free number – 1800-890-9715. Anyone can use this number to report wildlife incidents, including accidents involving humans or the presence of wildlife in populated areas anywhere in the state.***\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Uttarakhand Forest Department",
+            "value": 50000042
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Compensation for Loss of Life and Property Caused by Wild Animals in and around Forest Areas: Assistance for Crop Losses Due to Wild Animal Attacks",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ACLWAA",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Crop Losses",
+            "Wild Animal Attacks",
+            "Compensation For Crop Losses",
+            "Wild Animal",
+            "Farmer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Uttarakhand. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The compensation is applicable for crop damage caused by wild elephants, wild boars, nilgai, kakar, sambar, chital, and monkeys."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand. \n   1. The compensation is applicable for crop damage caused by wild elephants, wild boars, nilgai, kakar, sambar, chital, and monkeys.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "At present, the following compensation amounts are provided in the event of crop damage caused by wild animal attacks:"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Type of Agricultural Crop"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Total Amount Payable (per Acre)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Share of Human Wildlife Conflict Relief Distribution Fund"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Sugarcane (Entire Crop)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹25,000/- per acre"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹25,000/- per acre"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Paddy/Wheat/Oilseeds (Entire Crop)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/- per acre"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/- per acre"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "In case of damage to all types of crops other than those mentioned above (Entire Crop)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹8,000/- per acre"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹8,000/- per acre"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**At present, the following compensation amounts are provided in the event of crop damage caused by wild animal attacks:**\n**Type of Agricultural Crop****Total Amount Payable (per Acre)****Share of Human Wildlife Conflict Relief Distribution Fund**Sugarcane (Entire Crop)₹25,000/- per acre₹25,000/- per acrePaddy/Wheat/Oilseeds (Entire Crop)₹15,000/- per acre₹15,000/- per acreIn case of damage to all types of crops other than those mentioned above (Entire Crop)₹8,000/- per acre₹8,000/- per acre<br>\n\n",
+          "briefDescription": "The scheme aims to provide financial assistance to farmers for crop losses caused by wild animals in forest areas and their surrounding regions, thereby mitigating economic losses and supporting farmers’ livelihoods.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Assistance for Crop Losses Due to Wild Animal Attacks” is a sub-component of the umbrella scheme “Compensation for Loss of Life and Property Caused by Wild Animals in and Around Forest Areas”, which is implemented by the Department of Forest, Government of Uttarakhand. The scheme aims to provide financial assistance to farmers for crop losses caused by wild animals in forest areas and their surrounding regions, thereby mitigating economic losses and supporting farmers’ livelihoods."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Assistance for Crop Losses Due to Wild Animal Attacks” is a sub-component of the umbrella scheme “Compensation for Loss of Life and Property Caused by Wild Animals in and Around Forest Areas”, which is implemented by the Department of Forest, Government of Uttarakhand. The scheme aims to provide financial assistance to farmers for crop losses caused by wild animals in forest areas and their surrounding regions, thereby mitigating economic losses and supporting farmers’ livelihoods.\n<br>\n\n<br>\n\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 252)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "cllpwaafadcebnbds"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68d26ff2f95e55ec580874df",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof of applicant/farmer\n1. Crop damage assessment report\n1. Bank account details of the applicant\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof of applicant/farmer"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Crop damage assessment report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details of the applicant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68d26f84f95e55ec580871e9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:21.971746+00:00",
+  "scheme_id": "68d26f84f95e55ec580871e9"
+}

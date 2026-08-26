@@ -1,0 +1,221 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "First farmer have to visit the official "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "website"
+                    }
+                  ],
+                  "link": "https://kisan.cg.nic.in/",
+                  "type": "link"
+                },
+                {
+                  "text": " and download the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "application form"
+                    }
+                  ],
+                  "link": "https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fill out the application form with required details."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Attach required documents (1. Loan Book,  2. B-1, 3. Bank Passbook, 4. Aadhaar)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Submit the application to Rural Agriculture Extension Officer (RAEO) for verification."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "RAEO forward the application for registration. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Information about acceptance/rejection of application will be given to the farmer through SMS. After registration each farmer will be given a unique ID."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "process_md": "\n1. First farmer have to visit the official [website](https://kisan.cg.nic.in/) and download the [application form](https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf).1. Fill out the application form with required details.\n1. Attach required documents (1. Loan Book,  2. B-1, 3. Bank Passbook, 4. Aadhaar).\n1. Submit the application to Rural Agriculture Extension Officer (RAEO) for verification.\n1. RAEO forward the application for registration. \n1. Information about acceptance/rejection of application will be given to the farmer through SMS. After registration each farmer will be given a unique ID.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Maximum amount of 10000/- per acre will be paid to the farmers planting paddy and maize through debit in installments.\n- The fixed FRP amount for sugarcane crop will be paid through DBT to farmers at the rate of Rs. 93.75 /- quintal i.e. maximum amount of 355 /- per quintal.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d8c994a1d1c6b9bda33cb96d64f01941eb8db75b2ed337bf79e010080f231341",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Rajiv Gandhi Kisan Nyay Yojana is a scheme of the Government of Chhattisgarh for the farmers and launched on May 21, 2020, on the death anniversary of Rajiv Gandhi.\nThe main objective of this scheme is to increase the agricultural area by encouraging the farmers for crop production.\nUnder this scheme, financial benefits will be transferred to the farmers. This amount will be transferred to the accounts of the farmers in 4 instalments. This scheme started during the Corona period has provided great relief to the farmers. In the initial year of the scheme, only paddy, maize and sugarcane crops were included but after that, few more types of following crops have been included in it.\n\n1. Kodo Kutki.\n1. Sugarcane.\n1. Arhar.\n1. Maize.\n1. Soybean.\n1. Pulses.\n1. Oilseeds.\n1. Fragrant paddy.\n1. Other fortified rice.\n1. Banana.\n1. Papaya.\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Chhattisgarh state.\n1. The applicant should be a marginal farmer, small farmer or large farmer.\n1. The age of the applicant should be above 18 years.\n1. Farmers of all categories of landowners and forest lease holders are eligible to get the benefits of the scheme.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:01:54.431124+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:54.431124+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department",
+    "value": 2200001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriportal.cg.nic.in/agridept/StateScheme/Rajiv_Gandhi_Kisan_Nyay_Yojana_Guideline_.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://kisan.cg.nic.in/assets/files/FarmerRegistrationForm_UFP.pdf"
+    },
+    {
+      "title": "Official Portal",
+      "url": "https://kisan.cg.nic.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64e44ea2d74267d9a4fcb866",
+      "en": {
+        "documentsRequired_md": "\n1. Loan Book.\n1. B-1.\n1. Bank Passbook.\n1. Aadhaar.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Loan Book."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "B-1."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64e34c1cd74267d9a4fc1bb4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64e34c1cd74267d9a4fc1bb4",
+  "scheme_name": "Rajiv Gandhi Kisan Nyay Yojana",
+  "scheme_open_date": "2020-05-21",
+  "scheme_short_title": "Rgkny",
+  "slug": "rgkny",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Chhattisgarh",
+    "value": 22
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmers",
+    "Paddy",
+    "Maize"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

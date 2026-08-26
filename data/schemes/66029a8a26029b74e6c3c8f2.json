@@ -1,0 +1,593 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2: "
+            },
+            {
+              "text": "Click on the option “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/register",
+              "type": "link"
+            },
+            {
+              "text": "”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3:"
+            },
+            {
+              "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "  Citizen"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4: "
+            },
+            {
+              "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Select your name, the name of the head of the family and all the other members and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Enter the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "A new link appear on screen, now click on the new SSO link."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "SSO id will appear on the screen, now create the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Enter Mobile number, click on registration."
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5"
+            },
+            {
+              "text": ": Submit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Apply",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " After login, "
+            },
+            {
+              "children": [
+                {
+                  "text": "dashboard "
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/dashboard",
+              "type": "link"
+            },
+            {
+              "text": "will open."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3: "
+            },
+            {
+              "text": "Click on “ RAJ-KISAN ” option. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4:"
+            },
+            {
+              "text": " In \"Farmer\", click on \"Application Entry Request\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-6:"
+            },
+            {
+              "text": " Select the person name and scheme name. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-7:"
+            },
+            {
+              "text": " Complete the Aadhaar Authentication and click on Get details. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-8:"
+            },
+            {
+              "text": " Provide the required details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Pensioner Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Bank Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Disability Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Verification Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Upload Documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-9:"
+            },
+            {
+              "text": " Submit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "After the application, administrative approval for the construction of water tank will be issued by the Agriculture Department."
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Information about this will be received through mobile message/agriculture supervisor."
+            }
+          ],
+          "type": "block_quote"
+        }
+      ],
+      "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n<br>\n\n> **After the application, administrative approval for the construction of water tank will be issued by the Agriculture Department.**\n\n<br>\n\n> **Information about this will be received through mobile message/agriculture supervisor.**\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Grant for all farmers: 60% of the cost or max ₹90,000/-\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "f7436c8ff5476ae24e9641ac115efa4aafda45be5dfecfa0fa38446cd79b5659",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "A Jal Hauj scheme under the Agriculture Department of Rajasthan Provides the benefit of subsidy on Jal Hauj.  According to this scheme, farmers have to construct a Jal Hauj on the elevated part of their land. Which can be filled with borewell water overnight and in the morning crops can be irrigated with the water collected in the Hauj. The department is providing financial assistance to the farmers. After filling the Jal Hauj with water, farmers can easily irrigate their crops through the pipeline. \n<br>\n\n> **Important points**\n\n\n1. The department will do spot verification before and after the construction of the water tank.\n1. The grant amount will be deposited directly into the farmer&#39;s account.\n\n",
+  "eligibility": "\n1. The applicant must be a native of Rajasthan.\n1. The applicant should be a Farmer.\n1. The farmer should have a minimum cultivable land of half a hectare on his name.\n1. The applicant should be a source and means of irrigation.\n1. Water tank size should be 100 cubic meters or one lakh liter capacity\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:16.843216+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:16.843216+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 8000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66029b4e26029b74e6c3c9f8",
+      "en": {
+        "documentsRequired_md": "\n1. Copy of Aadhar Card / Janadhar Card\n1. Jamabandi\n1. Bank Account Number\n1. Identification Proof\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhar Card / Janadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Jamabandi"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identification Proof"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "66029a8a26029b74e6c3c8f2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66029a8a26029b74e6c3c8f2",
+  "scheme_name": "Jal Hauj",
+  "scheme_open_date": null,
+  "scheme_short_title": "JH",
+  "slug": "jh",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Rajasthan",
+    "value": 8
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Jal Hauj",
+    "Agriculture",
+    "Farming",
+    "Tube Well"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

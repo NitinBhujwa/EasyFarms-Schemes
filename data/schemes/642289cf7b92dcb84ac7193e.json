@@ -1,0 +1,317 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The applicant needs to get the application form from the District Agriculture Officer and fill in all the mandatory fields of the scheme application form in a prescribed format. The specified proofs are to be submitted along with the CMSGUY application form. After completing, attach the mandatory (self-attested) documents along with the application form. The concerned official will process the request further."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "The DAO will present applications received from the farmer's groups before the DLC. The beneficiary groups already selected by the DLC need not be re-selected."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "The DLC will select one eligible group in each village having a deposit of at least 10% of the total price of the tractor unit in the bank account of the group in the branch concerned if bank finance is opted for. The DLC will select one eligible group in each village provided that the selected group should have a deposit of beneficiary share (total price of the tractor unit minus admissible subsidy) in the bank account of the group in the branch concerned if the bank finance/ loan is not opted for. "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "The Member Secretary will notify the names of the selected groups."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5: "
+                },
+                {
+                  "text": "The Bank branch will directly transfer the amount of subsidy to the group of beneficiary farmers' accounts on completion of the period of hypothecation."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "NOTE:"
+                },
+                {
+                  "italic": true,
+                  "text": " A group must have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "url": "https://mmscmsguy.assam.gov.in/sites/default/files/swf_utility_folder/departments/mmscmsguy_webcomindia_org_oid_2/menu/document/revised-application-format.pdf"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c283a6a0871c9d03be1dea1a53820e60369f5e0c7291a022f1346a0cdec31be1",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Distribution of Tractor Unit&amp;quot; Scheme is a Component under the Umbrella Scheme of &amp;quot;Chief Minister Samagra Gramya Unnayan Yojna (CMSGUY)&amp;quot; by the Govt. of Assam. CMSGUY is a village development scheme launched by Hon&amp;#39;ble Chief Minister Sarbananda Sonowal on 5th February 2017 in Guwahati. The scheme is being implemented in a mega mission mode in all villages of Assam. CMSGUY will be implemented through a saturation model by covering each revenue village through focused interventions in direct economic activities, logistic support including market linkages, and community support.\n&lt;br&gt;\n\nThe main objective of the &amp;quot;Distribution of Tractor Unit&amp;quot; scheme is to revive the agricultural sector and help in doubling the farmer’s income by 2022. Under the new revised tractor scheme, the government will provide one tractor along with some necessary accessories in each revenue village at subsidized rates. The state govt. will distribute approx 10,109 tractors in the first phase. This tractor distribution scheme will cover all 26,000 villages of the entire state in a phase-wise manner. A group of 8-10 people who are actual adult farmers can apply to this scheme. The state govt. has allotted ₹ 1,000 Crore for the successful implementation of this scheme.\n",
+  "eligibility": "\n1. A group of 8-10 members who are the actual adult farmers of the same village.\n1. The group should have a common bank account and will apply jointly with the signatures of each member on the application form preferably along with particulars of land and crops cultivated.\n1. The applicant group should not have more than one member from one family.\n\n<br>\n\n***NOTE: The scheme benefits cannot be availed by individuals.***\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:10:12.691138+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:12.691138+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Panchayat and Rural Development Department",
+    "value": 1800031
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mmscmsguy.assam.gov.in/sites/default/files/swf_utility_folder/departments/mmscmsguy_webcomindia_org_oid_2/menu/document/Revised%20Guidelines%2019.04.2018.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://mmscmsguy.assam.gov.in/sites/default/files/swf_utility_folder/departments/mmscmsguy_webcomindia_org_oid_2/menu/document/revised-application-format.pdf"
+    },
+    {
+      "title": "Scheme Description As On Assam State Portal",
+      "url": "https://assam.gov.in/scheme-page/446"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64228f5f7b92dcb84ac71ad9",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card of all members of the Group "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residential Certificate of all members of the Group "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Card of all members of the Group "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN Card of all members of the Group "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Voter ID Cards of all members of the Group "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Group’s Bank Account Passbook and Bank Statement "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "KCC of Members (if any) "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Power of Attorney for Authorized Signatory in the form of an Affidavit"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Land Holding of all members of the Group "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (if applicable) of all members of the Group"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "642289cf7b92dcb84ac7193e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "642289cf7b92dcb84ac7193e",
+  "scheme_name": "Distribution Of Tractor Unit Under CMSGUY",
+  "scheme_open_date": null,
+  "scheme_short_title": "DTU-CMSGUY",
+  "slug": "dtu-cmsguy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Assam",
+    "value": 18
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Agriculture",
+    "Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    },
+    {
+      "label": "Joint Liability Groups (JLGS)",
+      "value": "joint-liability-groups"
+    }
+  ]
+}

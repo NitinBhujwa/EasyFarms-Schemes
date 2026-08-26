@@ -1,0 +1,286 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68ee271eed2c57f57c3f5585",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Application Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Upon receiving information regarding shop allotment (through notices published in newspapers and displayed at public places), the applicant must obtain the application form from the committee office by paying the prescribed fee."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Complete the form with the required information and submit it to the committee office within the stipulated time."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Selection Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Allotment of commercial shops is carried out by the Shop Allotment Committee."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Traders are selected based on the available shops and the applications received, giving priority in descending order to those who have deposited the highest market fees in the last three years."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "***Application Process:***\n\n  - Upon receiving information regarding shop allotment (through notices published in newspapers and displayed at public places), the applicant must obtain the application form from the committee office by paying the prescribed fee.\n  - Complete the form with the required information and submit it to the committee office within the stipulated time.\n\n***Selection Process:***\n\n  - Allotment of commercial shops is carried out by the Shop Allotment Committee.\n  - Traders are selected based on the available shops and the applications received, giving priority in descending order to those who have deposited the highest market fees in the last three years.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Uttarakhand Agricultural Production & Marketing Board",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Business & Entrepreneurship",
+              "value": "628ce733d6d1a3bde4685278"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Allotment of Commercial Shops",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ACSUK",
+          "schemeSubCategory": null,
+          "schemeType": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Commercial Shop",
+            "Business",
+            "Trader",
+            "Shop Allotment"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Uttarakhand."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must hold a valid trader’s license issued by the Mandi Committee."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a resident of Uttarakhand.\n   1. The applicant must hold a valid trader’s license issued by the Mandi Committee.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "The scheme facilitates ease of doing business for traders by allotting them with commercial shops."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "The scheme facilitates ease of doing business for traders by allotting them with commercial shops.\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote ease of doing business for licensed traders by providing them with well-located commercial shops in market yards (mandis).",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme “Allotment of Commercial Shops” is implemented by the Uttarakhand Agricultural Production & Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote ease of doing business for licensed traders by providing them with well-located commercial shops in market yards (mandis)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Allotment of Commercial Shops” is implemented by the Uttarakhand Agricultural Production &amp; Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote ease of doing business for licensed traders by providing them with well-located commercial shops in market yards (mandis).\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 167)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "acsuk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68ee278a8ba160c15f34de47",
+      "en": {
+        "documentsRequired_md": "\n1. Valid trader’s license issued by the Mandi Committee\n1. Other documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Valid trader’s license issued by the Mandi Committee"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ee271eed2c57f57c3f5585"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:56.254910+00:00",
+  "scheme_id": "68ee271eed2c57f57c3f5585"
+}

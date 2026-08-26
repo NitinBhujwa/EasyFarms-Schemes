@@ -1,0 +1,362 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://gtkdconline.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " of the Gujarat Thakor and Koli Vikas Nigam."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " On the top menu bar, click on \"Apply Now\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Click on the loan scheme name. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Select the loan category and fill in the loan amount."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Fill out the Application Form, enter the following details:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Personal Information: Name, gender, date of birth, caste, etc."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Address Information: Permanent and correspondence address"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Income Details: Monthly family income and source"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Bank Account Details: For loan disbursement"
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7:"
+            },
+            {
+              "text": " Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 8: "
+            },
+            {
+              "text": "Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the [official website](https://gtkdconline.gujarat.gov.in/) of the Gujarat Thakor and Koli Vikas Nigam.\n**Step 2:** On the top menu bar, click on &quot;Apply Now&quot;.\n**Step 3:** Click on the loan scheme name. \n**Step 4:** Select the loan category and fill in the loan amount.\n**Step 5:** Fill out the Application Form, enter the following details:\n\n- Personal Information: Name, gender, date of birth, caste, etc.\n- Address Information: Permanent and correspondence address\n- Income Details: Monthly family income and source\n- Loan Requirement: Amount needed, proposed use (e.g., business, self-employment)\n- Bank Account Details: For loan disbursement\n\n**Step 6:** Upload scanned copies of the Caste certificate, Income certificate, Aadhaar card, Passport-size photo, Bank passbook (first page), and Residence proof.\n**Step 7:** Double-check all details. Click on “Preview” to verify. If all details are correct, click “Submit”.\n**Step 8:** Applicant will receive an Application ID/Reference Number. Save or print the acknowledgement for future tracking.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- The maximum loan limit under this scheme is up to ₹1,00,000/-. \n- The loan is provided for animal husbandry activities such as dairy farming, boosting rural self-employment.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "7aa27decbe33e759eb10c86a606653fb35053ad44c5b762582f8bfb7b4377fd6",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Pashu Palan Yojana&amp;quot; is implemented by the Gujarat Thakor and Koli Vikas Nigam (GTKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to strengthen the livelihoods of the Thakor and Koli communities by providing financial support for animal husbandry activities, such as dairy farming with cows and buffaloes. Under this scheme, loans are offered to purchase milch animals like cows and buffaloes, thereby promoting sustainable self-employment in agriculture-related sectors.\n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a resident of Gujarat.\n1. The applicant should belong to Thakor or Koli community.\n1. The applicant’s annual family income should not exceed ₹3,00,000/-.\n1. The applicant&#39;s age should be between 21 to 50 years.\n1. The applicant should intend to purchase cows, buffaloes, or related dairy equipment for self‑employment.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:20.443892+00:00",
+  "implementing_agency": "Gujarat Thakor And Koli Vikas Nigam",
+  "last_synced_at": "2026-08-26T14:07:20.443892+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Social Justice and Empowerment Department",
+    "value": 2444464
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "687a05f93b8a10e048e042bf",
+      "en": {
+        "documentsRequired_md": "\n1. Caste certificate\n1. Annual income certificate\n1. Proof of age\n1. Aadhaar card\n1. Ration card \n1. Certificate if the applicant is a BPL beneficiary, disabled, widow \n1. Experience/training certificate \n1. Milk association certificate (for animal husbandry)\n1. Any other documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Annual income certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of age"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate if the applicant is a BPL beneficiary, disabled, widow "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Experience/training certificate "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Milk association certificate (for animal husbandry)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "687a05cb3b8a10e048e041c7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "687a05cb3b8a10e048e041c7",
+  "scheme_name": "Pashu Palan Yojana (GTKVN)",
+  "scheme_open_date": null,
+  "scheme_short_title": "PSGTKVN",
+  "slug": "pgtkvn",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    },
+    {
+      "label": "Setting up / start-up / entrepreneurship",
+      "value": "Setting up / start-up / entrepreneurship"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Loan",
+    "Thakor Caste",
+    "Koli Caste",
+    "Animal Husbandry",
+    "Self-employment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,414 @@
+{
+  "detail": {
+    "data": {
+      "_id": "69f855e2bfe1457afe83c9aa",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 1: The applicant should visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "ServicesPlus"
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/",
+                    "type": "link"
+                  },
+                  {
+                    "text": " website."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Click on the “"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Register” "
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+                    "type": "link"
+                  },
+                  {
+                    "text": "option on the homepage."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Review all details carefully and submit the registration form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Login",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "“Login.”"
+                      }
+                    ],
+                    "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 2: Enter your Email ID, Password, and Captcha."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 3: Select the relevant service/scheme name."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 4: Fill in the required details in the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 5: Submit the application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": null,
+          "nodalMinistryName": {
+            "label": "Ministry Of Commerce And Industry",
+            "value": 1565
+          },
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Promotion of Exportable surplus of identified spices in NE: Cultivation of Lakadong turmeric (Ha) ",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "POESOISINCOLTHA",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": {
+            "label": "Centrally Sponsored Scheme",
+            "value": "centrally-sponsored-scheme"
+          },
+          "state": null,
+          "tags": [
+            "Lakadong Turmeric",
+            "Farmer",
+            "Farming",
+            "Agriculture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicable to turmeric growers in Sikkim, Darjeeling & Kalimpong district of West Bengal, and other North Eastern States."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Eligible cases will be finalized based on inspection and recommendation by designated officials."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicable to turmeric growers in Sikkim, Darjeeling &amp; Kalimpong district of West Bengal, and other North Eastern States.\n1. Eligible cases will be finalized based on inspection and recommendation by designated officials.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "50% of cost of planting material subject to maximum of ₹ 30,000 per Ha"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Turmeric growers of NE having land holding size of 0.10 Ha to 8 Ha"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n1. 50% of cost of planting material subject to maximum of ₹ 30,000 per Ha\n1. Turmeric growers of NE having land holding size of 0.10 Ha to 8 Ha\n\n<br>\n\n",
+          "briefDescription": "To promote the cultivation of Lakadong turmeric for exports by providing 50% of the cost of planting material, subject to a maximum of ₹ 30,000 per Ha, to turmeric growers of the North East having land holding size of 0.10 Ha to 8 Ha.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme “Promotion of Exportable Surplus of Identified Spices in the North East: Cultivation of Lakadong Turmeric (Ha)” under the Spices Board, India, Ministry of Commerce and Industry, Government of India, aims to promote the cultivation of Lakadong turmeric for exports by providing 50% of the cost of planting material, subject to a maximum of  ₹30,000 per Ha, to turmeric growers of the North East having land holdings of 0.10 Ha to 8 Ha, as per the modalities and scheme guidelines approved by the Competent Authority for implementation of the “Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom” during the 15th Finance Commission period (2021–22 to 2025–26), under the component Export Oriented Production."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Promotion of Exportable Surplus of Identified Spices in the North East: Cultivation of Lakadong Turmeric (Ha)” under the Spices Board, India, Ministry of Commerce and Industry, Government of India, aims to promote the cultivation of Lakadong turmeric for exports by providing 50% of the cost of planting material, subject to a maximum of  ₹30,000 per Ha, to turmeric growers of the North East having land holdings of 0.10 Ha to 8 Ha, as per the modalities and scheme guidelines approved by the Competent Authority for implementation of the “Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom” during the 15th Finance Commission period (2021–22 to 2025–26), under the component Export Oriented Production.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.indianspices.com/export_oriented_prod.html"
+            },
+            {
+              "title": "Application Portal",
+              "url": "https://serviceonline.gov.in/dbt/login.do"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "poesoisincoltha"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "69f8560cbfe1457afe83ca53",
+      "en": {
+        "documentsRequired_md": "Parcha copy / Possession certificate\nSelf-attested land sketch map\nAadhar card\nCopy of Bank Passbook\nNo Objection Certificate from panchayats if the Land is not in the beneficiary’s name\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Parcha copy / Possession certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Self-attested land sketch map"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Aadhar card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Copy of Bank Passbook"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "No Objection Certificate from panchayats if the Land is not in the beneficiary’s name"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69f855e2bfe1457afe83c9aa"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:58:44.269717+00:00",
+  "scheme_id": "69f855e2bfe1457afe83c9aa"
+}

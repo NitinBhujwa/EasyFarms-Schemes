@@ -1,0 +1,1320 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6666d2a96cbcc7300493a716",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process on Antyodaya-SARAL Portal:"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01: "
+                      },
+                      {
+                        "text": "Any eligible owner having true to breed Murrah buffalo/Indigenous cattle (Hariana, Sahiwal and Belahi) and desirous of participating under the scheme would have to apply online on the Official Portal- Antyodaya-SARAL Portal. "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://saralharyana.gov.in/"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " If the applicant is not registered on the portal, he/she gets registered there. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " For registration, click “"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "New User"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/citizenRegistration.html",
+                        "type": "link"
+                      },
+                      {
+                        "text": "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Verify your mobile number and email ID through the received OTP and complete the registration process."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Login to apply for the scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " To avail the benefits of the scheme, visit the Official "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": " and log in through the email ID used while registering."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Enter Password & Captcha and click on ‘Login’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 05:"
+                      },
+                      {
+                        "text": " Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 06:"
+                      },
+                      {
+                        "text": " Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 07:"
+                      },
+                      {
+                        "text": " Fill in all the mandatory details and upload all the mandatory documents."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 08:"
+                      },
+                      {
+                        "text": " Preview the application form and click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Tracking of Application:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicants can track his/her application through the Official "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal"
+                          }
+                        ],
+                        "link": "https://status.saralharyana.nic.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": " by entering their Department Name, Scheme Name, and Application Reference ID. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Post application Procedures:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Once the applicant has applied online on the SARAL Portal, the application would stand submitted to the Sub-Divisional Officer (Animal Husbandry) of the concerned Sub-Division who would examine the application and if found not in order the same would be rejected. However, if application is found in order then the Sub Divisional Officer (Animal Husbandry) would accept the application online and the print-outs of the same would be taken along with enclosures."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Within three working days of acceptance of the online application of the applicant, the Sub Divisional Officer (Animal Husbandry) would intimate and ask the concerned Veterinary Surgeon, I/C Government Veterinary Hospital for verification of the breed of buffalo (hurrah)/Indigenous cattle (Hariana, Sahiwal and Belahi) of the applicant in the format annexed at "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Annexure-I"
+                              }
+                            ],
+                            "link": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "After receipt of which the Veterinary Surgeon would report to Sub Divisional Officer (Animal Husbandry) within three working days in the format annexed as "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Annexure-II"
+                              }
+                            ],
+                            "link": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "After receipt of the breed verification report from the Veterinary Surgeon; the Sub Divisional Officer (Animal Husbandry) will inform the Deputy Director of the concerned district and request for fixing dates of Milking (through SARAL Portal Only). The Date of Milking for applications received from 1-15 of any month may be provided in 16-30 of the same month and for applications received from 16-30 of any month may be provided in 1-15 of the next month or as per local circumstances by keeping in view the RTS time limit."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Thereafter Deputy Director of the concerned district would write to the Committee and the applicants for recording milk intimating date and venue of Milk Recording in the format annexed as "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Annexure-III"
+                              }
+                            ],
+                            "link": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note:"
+                      },
+                      {
+                        "text": " The scheme is under the Right to Service Act, with a time limit of 30 days."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** Any eligible owner having true to breed Murrah buffalo/Indigenous cattle (Hariana, Sahiwal and Belahi) and desirous of participating under the scheme would have to apply online on the Official Portal- Antyodaya-SARAL Portal. [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Enter your Parivar Pehchan Patra number - Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 08:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID. \n&gt; **Post application Procedures:**\n\n\n  - Once the applicant has applied online on the SARAL Portal, the application would stand submitted to the Sub-Divisional Officer (Animal Husbandry) of the concerned Sub-Division who would examine the application and if found not in order the same would be rejected. However, if application is found in order then the Sub Divisional Officer (Animal Husbandry) would accept the application online and the print-outs of the same would be taken along with enclosures.\n  - Within three working days of acceptance of the online application of the applicant, the Sub Divisional Officer (Animal Husbandry) would intimate and ask the concerned Veterinary Surgeon, I/C Government Veterinary Hospital for verification of the breed of buffalo (hurrah)/Indigenous cattle (Hariana, Sahiwal and Belahi) of the applicant in the format annexed at [Annexure-I](https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf).  - After receipt of which the Veterinary Surgeon would report to Sub Divisional Officer (Animal Husbandry) within three working days in the format annexed as [Annexure-II](https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf).  - After receipt of the breed verification report from the Veterinary Surgeon; the Sub Divisional Officer (Animal Husbandry) will inform the Deputy Director of the concerned district and request for fixing dates of Milking (through SARAL Portal Only). The Date of Milking for applications received from 1-15 of any month may be provided in 16-30 of the same month and for applications received from 16-30 of any month may be provided in 1-15 of the next month or as per local circumstances by keeping in view the RTS time limit.\n  - Thereafter Deputy Director of the concerned district would write to the Committee and the applicants for recording milk intimating date and venue of Milk Recording in the format annexed as [Annexure-III](https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf).\n**Note:** The scheme is under the Right to Service Act, with a time limit of 30 days.\n"
+          },
+          {
+            "mode": "Online - via CSC",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicant may submit the application through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres, etc."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "The applicant may submit the application through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres, etc.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry & Dairying Department",
+            "value": 666663
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Scheme for Conservation and Development of Indigenous Cattle and Murrah Development",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SCDICMD",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "Indigenous Cattle",
+            "Murrah",
+            "Animal Husbandry",
+            "Dairying",
+            "Cows",
+            "Buffaloes",
+            "Cash Incentive"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Haryana."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be of the age of 18 - 55 years."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A Cow or Buffalo eligible to be recorded must be between 05 to 75 days of the date of its Calving as on date of application."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "A maximum of two milch animals (two Cows or Two Buffaloes or One Cow and One Buffalo) per applicant/beneficiary would be eligible for the incentive money under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The cows must be true to Hariana, Sahiwal, or Belahi breed and buffalo must be of Murrah Breed only."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Incentive for a particular animal could be provided only twice in its life span i.e. if the incentive is provided to a beneficiary for a particular animal twice, such beneficiary would stand debarred for receiving an incentive for that animal in its subsequent calving in the future."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The scheme is individual beneficiary-oriented."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 01: "
+                    },
+                    {
+                      "text": "A maximum of two milch animals per applicant will be eligible for the incentive money under this scheme. However, the recordings of more than two buffaloes/Cows of an applicant may be carried out for collecting data of the top quality Murrah buffaloes/Indigenous cattle (Hariana, Sahiwal, and Belahi). But incentive money would be provided only for two animals (in the highest slabs) of that applicant in a particular year."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 02:"
+                    },
+                    {
+                      "text": " In case an applicant lives at a place other than where the animals are kept or intended to be kept, than the jurisdiction area will be the place where animals are kept (Within state of Haryana only). "
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a resident of Haryana.\n   1. The applicant must be of the age of 18 - 55 years.\n   1. A Cow or Buffalo eligible to be recorded must be between 05 to 75 days of the date of its Calving as on date of application.\n   1. A maximum of two milch animals (two Cows or Two Buffaloes or One Cow and One Buffalo) per applicant/beneficiary would be eligible for the incentive money under this scheme.\n   1. The cows must be true to Hariana, Sahiwal, or Belahi breed and buffalo must be of Murrah Breed only.\n   1. Incentive for a particular animal could be provided only twice in its life span i.e. if the incentive is provided to a beneficiary for a particular animal twice, such beneficiary would stand debarred for receiving an incentive for that animal in its subsequent calving in the future.\n   1. The scheme is individual beneficiary-oriented.\n\n**Note 01:** A maximum of two milch animals per applicant will be eligible for the incentive money under this scheme. However, the recordings of more than two buffaloes/Cows of an applicant may be carried out for collecting data of the top quality Murrah buffaloes/Indigenous cattle (Hariana, Sahiwal, and Belahi). But incentive money would be provided only for two animals (in the highest slabs) of that applicant in a particular year.\n**Note 02:** In case an applicant lives at a place other than where the animals are kept or intended to be kept, than the jurisdiction area will be the place where animals are kept (Within state of Haryana only). \n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "1. Cash incentives at the following rates in different slabs would be provided to the owners of the recorded Murrah Buffaloes as below:"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Slabs of Lactation yield in Kg  (Peak Yield in Kg)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Incentive Money (₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "18 to 22 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ">22 to 25 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹20,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Above 25 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹30,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "2. Cash incentives at the following rates in different slabs would be provided to the owners of the recorded Cows of different Indigenous breeds as below: (Hariana Cows)"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Slabs of peak Yield in Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Incentive Money (₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "8 to 10 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹10,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ">10 to 12 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Above 12 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹20,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "3.  Sahiwal Cows"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Slabs of peak Yield in Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Incentive Money (₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "10 to 12 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹10,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ">12 to 15 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Above 15 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹20,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "4.  Belahi Cows"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Slabs of peak Yield in Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Incentive Money (₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "5 to 8 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹5,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ">8 to 10 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹10,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Above 10 Kg"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹15,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "In lieu of the cash incentive provided, the owner would be under obligation not to sell the recorded Indigenous Cow/Murrah Buffalo and its male progeny at least for one year. The beneficiary would be further bound to look after the male calf properly and the Department will have the first right to purchase it. In case, the beneficiary does not abide by the contract i.e. disposes of the identified Indigenous Cow/Murrah Buffalo and/or its male calf, he would not be eligible for the cash incentive. The owners of the recorded cows/buffaloes would be required to breed their animals through artificial insemination by the Government."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "**1. Cash incentives at the following rates in different slabs would be provided to the owners of the recorded Murrah Buffaloes as below:**\n**Sl. No.****Slabs of Lactation yield in Kg  (Peak Yield in Kg)****Incentive Money (₹)**118 to 22 Kg₹15,000/-2&amp;amp;amp;gt;22 to 25 Kg₹20,000/-3Above 25 Kg₹30,000/-**2. Cash incentives at the following rates in different slabs would be provided to the owners of the recorded Cows of different Indigenous breeds as below: (Hariana Cows)**\n**Sl. No.****Slabs of peak Yield in Kg****Incentive Money (₹)**18 to 10 Kg₹10,000/-2&amp;amp;amp;gt;10 to 12 Kg₹15,000/-3Above 12 Kg₹20,000/-**3.  Sahiwal Cows**\n**Sl. No.****Slabs of peak Yield in Kg****Incentive Money (₹)**110 to 12 Kg₹10,000/-2&amp;amp;amp;gt;12 to 15 Kg₹15,000/-3Above 15 Kg₹20,000/-**4.  Belahi Cows**\n**Sl. No.****Slabs of peak Yield in Kg****Incentive Money (₹)**15 to 8 Kg₹5,000/-2&amp;amp;amp;gt;8 to 10 Kg₹10,000/-3Above 10 Kg₹15,000/-In lieu of the cash incentive provided, the owner would be under obligation not to sell the recorded Indigenous Cow/Murrah Buffalo and its male progeny at least for one year. The beneficiary would be further bound to look after the male calf properly and the Department will have the first right to purchase it. In case, the beneficiary does not abide by the contract i.e. disposes of the identified Indigenous Cow/Murrah Buffalo and/or its male calf, he would not be eligible for the cash incentive. The owners of the recorded cows/buffaloes would be required to breed their animals through artificial insemination by the Government.\n",
+          "briefDescription": "The scheme is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana with the objective of encouraging the farmers for conservation and development of the indigenous breeds of cows and buffaloes. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Scheme for Conservation and Development of Indigenous Cattle and Murrah Development” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana with the objective of encouraging the farmers for conservation and development of the Indigenous breeds of cows and buffaloes. "
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Long-term objectives: ",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Conservation and up-gradation of valuable indigenous germplasm available in the State of Haryana."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Increase in milk production and overall productivity."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Medium-term objectives (5 years Horizon):",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Identification of top-quality germplasm of indigenous breeds of Cow and buffalo and their insemination with high-quality semen for sustainable genetic improvement."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Encouraging the farmers to rear and breed high-yielding animals of genetic merit."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Description of Scheme:",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Murrah buffaloes meeting the benchmark of 18 kg daily peak yield would be properly identified (with ear tags) along with their progeny. Cash incentives ranging from ₹15,000/- to ₹30,000/- would be provided to owners of these buffaloes."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Haryana, Sahiwal and Belahi cows, meeting the benchmark of 8 kg, 10 kg, and 5 Kg peak yield respectively would be properly identified (with ear tags) along with their progeny. The cash incentives ranging from ₹5,000/- to ₹20,000/- would be provided to owners of these cows."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiaries will be under obligation not to sell the buffalo/cow and its progeny for at least one year as the main objective of scheme is to conserve the indigenous breeds of Cow and buffalo."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The identified animals would be insured and part of insurance premium will be borne under the prevailing insurance scheme if any, and rest will be paid by the beneficiary as per insurance scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "If no Livestock Insurance Scheme is in operation then the beneficiary would have to arrange for the insurance of the animals on its own and the insurance premium shall be paid by the beneficiary."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Scheme for Conservation and Development of Indigenous Cattle and Murrah Development” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana with the objective of encouraging the farmers for conservation and development of the Indigenous breeds of cows and buffaloes. \n&gt; **Long-term objectives:** \n\n\n  - Conservation and up-gradation of valuable indigenous germplasm available in the State of Haryana.\n  - Increase in milk production and overall productivity.\n\n&gt; **Medium-term objectives (5 years Horizon):**\n\n\n  - Identification of top-quality germplasm of indigenous breeds of Cow and buffalo and their insemination with high-quality semen for sustainable genetic improvement.\n  - Encouraging the farmers to rear and breed high-yielding animals of genetic merit.\n\n&gt; **Description of Scheme:**\n\n\n  - Murrah buffaloes meeting the benchmark of 18 kg daily peak yield would be properly identified (with ear tags) along with their progeny. Cash incentives ranging from ₹15,000/- to ₹30,000/- would be provided to owners of these buffaloes.\n  - Haryana, Sahiwal and Belahi cows, meeting the benchmark of 8 kg, 10 kg, and 5 Kg peak yield respectively would be properly identified (with ear tags) along with their progeny. The cash incentives ranging from ₹5,000/- to ₹20,000/- would be provided to owners of these cows.\n  - The beneficiaries will be under obligation not to sell the buffalo/cow and its progeny for at least one year as the main objective of scheme is to conserve the indigenous breeds of Cow and buffalo.\n  - The identified animals would be insured and part of insurance premium will be borne under the prevailing insurance scheme if any, and rest will be paid by the beneficiary as per insurance scheme.\n  - If no Livestock Insurance Scheme is in operation then the beneficiary would have to arrange for the insurance of the animals on its own and the insurance premium shall be paid by the beneficiary.\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Any group/firm/organization would not be permitted to apply under the Scheme."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "Any group/firm/organization would not be permitted to apply under the Scheme.\n",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://pashudhanharyana.gov.in?"
+            },
+            {
+              "title": "Guidelines",
+              "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/Milk%20Recording%20scheme.pdf"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=4RWS5LK4Q8mIFQYpata7iw%3d%3d"
+            },
+            {
+              "title": "Antyodaya-SARAL Portal",
+              "url": "https://saralharyana.gov.in/"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "scdicmd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6666d2ba6cbcc7300493a739",
+      "en": {
+        "documentsRequired_md": "1.\tPrivaar Pahchan Patra (PPP ID)\n2.\tCopy of Aadhaar Card\n3.\tCopy of PAN Card\n4.\tCopy of Bank Passbook or Cancelled Cheque\n5.\tTag No. of Animal\n6.\tAny other documents as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPrivaar Pahchan Patra (PPP ID)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tCopy of Aadhaar Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tCopy of PAN Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tCopy of Bank Passbook or Cancelled Cheque"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tTag No. of Animal"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6.\tAny other documents as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6666d2a96cbcc7300493a716"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:31.519822+00:00",
+  "scheme_id": "6666d2a96cbcc7300493a716"
+}

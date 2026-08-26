@@ -1,0 +1,475 @@
+{
+  "detail": {
+    "data": {
+      "_id": "645cd1c898ef11ad5f052078",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "First of all, the beneficiary will have to register on the "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "portal "
+                          }
+                        ],
+                        "link": "https://rggbkmny.cg.nic.in/info.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": "of Rajiv Gandhi Rural Landless Agricultural Laborer Justice Scheme to avail the benefits."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Attaching the photocopy of the Aadhaar card, and bank passbook along with the application form will be presented before the secretary of the Gram Panchayat."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "It is mandatory to mention the mobile number in the application form."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "After submitting the application, the panchayat secretary will provide the acknowledgment of contribution to the applicant."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The said application will be submitted by the Gram Panchayat Secretary to the other concerned office."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The said application will be entered into the portal. The said application will be scrutinized by the concerned revenue officers."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "In case the application form is found correct, the applicant will be informed through SMS And as per the rules, the scheme amount will be transferred to the applicant's account."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "url": "https://rggbkmny.cg.nic.in/info.aspx"
+          },
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Download the "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": ""
+                              }
+                            ],
+                            "link": "https://rggbkmny.cg.nic.in/downloads/Rggbkmny_Form.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "application form."
+                              }
+                            ],
+                            "link": "https://rggbkmny.cg.nic.in/info.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": ""
+                              }
+                            ],
+                            "link": "https://rggbkmny.cg.nic.in/downloads/Rggbkmny_Form.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": ""
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": ""
+                              }
+                            ],
+                            "link": "https://rggbkmny.cg.nic.in/downloads/Rggbkmny_Form.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": "Application "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "form "
+                              }
+                            ],
+                            "link": "https://rggbkmny.cg.nic.in/downloads/RGGBKMNY_Baiga_Form.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": "priest / Baiga / Guniya / Manjhi / Haat Paharia / Baja Mahoria of the scheduled area. "
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The beneficiary family will have to submit the application along with necessary documents like an Aadhaar number, and a photocopy of the bank passbook to the Secretary of Gram Panchayat in Gram Panchayat areas and Chief Municipal Officer of Nagar Panchayat in Nagar Panchayat areas. "
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The persons worshiping in the place of worship of the tribals, who are known by the names of Pujari / Baiga / Gunia / Manjhi etc., located in the municipality under the Scheduled Area, and the applications of Haat Pahariya and Baja Moharia of the place of worship of the tribals, to the Chief Municipal Officer, Will apply before the Municipality / Nagar Panchayat. "
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The mobile number also mentioned in the application."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ol_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "url": "https://rggbkmny.cg.nic.in/info.aspx"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Revenue and Disaster Department",
+            "value": 2200028
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Family",
+          "schemeName": "Rajiv Gandhi Gramin Bhoomihin Krishi Majdoor Nyay Yojana",
+          "schemeOpenDate": "2021-04-01",
+          "schemeShortTitle": "RGGBKMNY",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Chhattisgarh",
+            "value": 22
+          },
+          "tags": [
+            "Financial Assistance",
+            "Agricultural",
+            "Landless",
+            "Laborer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Original residents of Chhattisgarh."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Landless agricultural laborer families residing in Gram Panchayat and Nagar Panchayat areas "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Under the landless agricultural laborer families of Gram Panchayat / Nagar Panchayat area, such as shepherd, carpenter, blacksmith, cobbler, barber, washerman, priest - families associated with Pauni - Pasari system, forest produce collectors and other categories will also be eligible, if that family does not have agricultural land."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Persons who worship in the places of worship of tribals in rural and urban areas of Scheduled Areas, who are known by the names of Pujari / Baiga / Guniya / Manjhi etc. Baja Moharia will be eligible under the scheme despite holding agricultural land. But those families of this class who are receiving periodic allowance/financial assistance from the government in other schemes will not be eligible."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Original residents of Chhattisgarh.\n   1. Landless agricultural laborer families residing in Gram Panchayat and Nagar Panchayat areas \n   1. Under the landless agricultural laborer families of Gram Panchayat / Nagar Panchayat area, such as shepherd, carpenter, blacksmith, cobbler, barber, washerman, priest - families associated with Pauni - Pasari system, forest produce collectors and other categories will also be eligible, if that family does not have agricultural land.\n   1. Persons who worship in the places of worship of tribals in rural and urban areas of Scheduled Areas, who are known by the names of Pujari / Baiga / Guniya / Manjhi etc. Baja Moharia will be eligible under the scheme despite holding agricultural land. But those families of this class who are receiving periodic allowance/financial assistance from the government in other schemes will not be eligible.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under the scheme, an amount of Rs.7000/- per year will be provided as a grant-in-aid in installments to the head of the eligible identified beneficiary family. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The grant-in-aid amount will be made by Direct Benefit Transfer (DBT) directly into the bank account of the head of the identified empaneled household. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "briefDescription": "The state government has started the \"Rajiv Gandhi Landless Agricultural Laborer Justice Scheme\" with a view to providing strength to farmers. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The objective of the scheme:-"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "To identify landless agricultural laborer families in Gram Panchayat and Nagar Panchayat and provide financial grants to landless agricultural laborer families on an annual basis."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To increase the net income of landless agricultural labor families through financial grants."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The objective of the scheme:-\n\n   1. To identify landless agricultural laborer families in Gram Panchayat and Nagar Panchayat and provide financial grants to landless agricultural laborer families on an annual basis.\n   1. To increase the net income of landless agricultural labor families through financial grants.\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://rggbkmny.cg.nic.in/downloads/RGGBKMNY_Disha_Nirdesh_2023.pdf"
+            },
+            {
+              "title": "Application Form-1",
+              "url": "https://rggbkmny.cg.nic.in/downloads/Rggbkmny_Form.pdf"
+            },
+            {
+              "title": "Application Form-2",
+              "url": "https://rggbkmny.cg.nic.in/downloads/RGGBKMNY_Baiga_Form.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "rggbkmny"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "645cd1dc98ef11ad5f052082",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Permanent residence certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "645cd1c898ef11ad5f052078"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:01.283587+00:00",
+  "scheme_id": "645cd1c898ef11ad5f052078"
+}

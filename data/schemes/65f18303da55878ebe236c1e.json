@@ -1,0 +1,580 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2: "
+            },
+            {
+              "text": "Click on the option “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/register",
+              "type": "link"
+            },
+            {
+              "text": "”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3:"
+            },
+            {
+              "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "  Citizen"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4: "
+            },
+            {
+              "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Select your name, the name of the head of the family and all the other members and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Enter the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "A new link appear on screen, now click on the new SSO link."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "SSO id will appear on the screen, now create the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Enter Mobile number, click on registration."
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5"
+            },
+            {
+              "text": ": Submit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "APPLY"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " After login, "
+            },
+            {
+              "children": [
+                {
+                  "text": "dashboard "
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/dashboard",
+              "type": "link"
+            },
+            {
+              "text": "will open."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3: "
+            },
+            {
+              "text": "Click on “ RAJ-KISAN ” option. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4:"
+            },
+            {
+              "text": " In \"Farmer\", click on \"Application Entry Request\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-6:"
+            },
+            {
+              "text": " Select the person name and scheme name. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-7:"
+            },
+            {
+              "text": " Complete the Aadhaar Authentication and click on Get details. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-8:"
+            },
+            {
+              "text": " Provide the required details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Pensioner Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Bank Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Disability Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Verification Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Upload Documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-9:"
+            },
+            {
+              "text": " Submit."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **APPLY**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- The farmer must purchase a permanent container with a minimum filling capacity of 4 lakh liters and above.\n- The state government will provide a 75% to 85% subsidy.\n- Farmer will be provided a grant amount of up to ₹ 3,00,000/- to ₹ 3,40,000/- by the government for making a dig in fields.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "f92bf2b11568ecbf78fce9f2bd3bb65b08da72560552f71992a0114d1a468f17",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "In Agriculture Department, Rajasthan Government has started the Diggy Scheme to provide subsidies to the farmers of Rajasthan for making dig for irrigation. Under the scheme, farmers can prepare ways in their fields collect water in one place, and do more irrigation with the help of sprinklers. By providing this grant amount to the farmers, the government will encourage the farmers to grow good crops by building dig and irrigating the crops without any financial pressure. This scheme is to help farmers improve their farming by using more water resources and encourage them to grow good crops.\n<br>\n\n> **Other Important Points**\n\n\n- Start the construction of the dig only after the administrative approval of the Agriculture Department.\n- Verification will be done by the department before and after construction.\n- Installation of drip/sprinkler set on dig is mandatory.\n- The grant amount will be deposited directly into the farmer&#39;s account.\n\n",
+  "eligibility": "\n1. The applicant should have a native of Rajasthan.\n1. The applicant should be a farmer.\n1. A farmer must have at least 0.5 (half) hectares of irrigated agricultural land.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:56:20.550124+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:56:20.550124+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 8000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Log In",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65f184ccda55878ebe236f99",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhar card.\n1. Address proof.\n1. Identity card.\n1. Land related documents.\n1. Ration card.\n1. Mobile number.\n1. Passport size photo\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land related documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photo"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65f18303da55878ebe236c1e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65f18303da55878ebe236c1e",
+  "scheme_name": "Diggy",
+  "scheme_open_date": null,
+  "scheme_short_title": "DR",
+  "slug": "dr",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Rajasthan",
+    "value": 8
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farming",
+    "Farmer",
+    "Development"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,500 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "DBT Registration Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "registration page"
+                }
+              ],
+              "link": "https://dbtagriculture.bihar.gov.in/RegFarmer/",
+              "type": "link"
+            },
+            {
+              "text": " of the DBT portal. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3: "
+            },
+            {
+              "text": "Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4:"
+            },
+            {
+              "text": " Enter the OTP. Click on “Validate OTP”. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-6:"
+            },
+            {
+              "text": " In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-7: "
+            },
+            {
+              "text": "Validate with OTP. Click on “Register” to generate the Registration Id."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Note:"
+            },
+            {
+              "text": "  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number."
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Online Application of the Scheme:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Visit the official "
+            },
+            {
+              "children": [
+                {
+                  "text": "website"
+                }
+              ],
+              "link": "https://horticulture.bihar.gov.in/HortMIS/AreaExpansionStateScheme/OnlineAppStrawberryState.aspx",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3:"
+            },
+            {
+              "text": " In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4: "
+            },
+            {
+              "text": "Fill in the required details i.e. Address, Land Details, etc, and upload documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Confirm the checkbox and then click on “Submit”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-6:"
+            },
+            {
+              "text": " An “Application Number” will be generated. Keep this for future reference."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-7:"
+            },
+            {
+              "text": " Printout of the filled in application also can be taken using the Print option."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **DBT Registration Process:**\n\n**Step-1:** Visit the [registration page](https://dbtagriculture.bihar.gov.in/RegFarmer/) of the DBT portal. \n**Step-2:** Select Aadhaar verification type: OTP/ BIO-AUTH/ IRIS.\n**Step-3:** Enter your Aadhaar number and Name as per Aadhaar. Click on “Authentication”.\n**Step-4:** Enter the OTP. Click on “Validate OTP”. \n**Step-5:** Now confirm the details about the “Kisan Credit Card (KCC)” Details. Click on “Farmer Registration”.\n**Step-6:** In the Registration Page, fill in all the details properly i.e. Farmer details, Land information, Bank account details and click on “Submit”.\n**Step-7:** Validate with OTP. Click on “Register” to generate the Registration Id.\n> **Note:**  After 48 hours of registration, farmers can apply for the scheme with the help of 13 digit registration number.\n\n<br>\n\n> **Online Application of the Scheme:**\n\n**Step-1:** Visit the official [website](https://horticulture.bihar.gov.in/HortMIS/AreaExpansionStateScheme/OnlineAppStrawberryState.aspx). \n**Step-2:** Scroll to bottom and confirm the checkbox. Click on “Proceed to apply”.\n**Step-3:** In the next page select the “Type of Applicant” and enter the “DBT Registration Number of Kisan”. Click on “Get details”.\n**Step-4:** Fill in the required details i.e. Address, Land Details, etc, and upload documents.\n**Step-5:** Confirm the checkbox and then click on “Submit”.\n**Step-6:** An “Application Number” will be generated. Keep this for future reference.\n**Step-7:** Printout of the filled in application also can be taken using the Print option.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n   1. **Financial Assistance:** Farmers receive a subsidy of ₹3,36,000/- per hectare to support strawberry farming.   1. **Subsidized Packaging Materials:** \n    - 40% subsidy on wooden boxes for packaging (₹4.40/- per piece, unit cost ₹11/-).\n    - 40% subsidy on small plastic boxes (₹1/-per piece, unit cost ₹2.50/-).\n\n   1. **Provision of Quality Seedlings:** High-quality strawberry seedlings are provided for cultivation.\n&lt;br&gt;\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "ab6686a9259e77c1939458bc96808e91b477d0405e9cb69d1ef337637644e8f8",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Strawberry Vikas Yojana” a component of the umbrella scheme “Mukhyamantri Bagwani Mission”, launched by the Department of Agriculture, Bihar. The main objective of the scheme is to promote the commercial cultivation of horticultural crops in the state of Bihar.\nThis component focuses on expanding strawberry farming through providing subsidies on seedlings, wooden packaging boxes, and plastic containers.\n",
+  "eligibility": "\n   1. The applicant should be a resident of Bihar.\n   1. The applicant should be a farmer.\n   1. The applicant must belong to any of the following district: Gopalganj, Jehanabad, Lakhisarai, Saran, Supaul, Aurangabad, Begusarai, Bhagalpur, Gaya, Katihar, Kishanganj, Munger, Muzaffarpur, Nalanda, West Champaran, Patna, East Champaran, Purniyan, Samastipur and Vaishali.\n   1. The applicant must have agricultural land a minimum of 0.25 acres (0.1 ha) and a maximum of 5 acres (2 ha).\n   1. The applicant must be registered on the DBT portal.\n\n&amp;gt; **Note 1:  Beneficiary allocation:**\n\n\n\n    - General Category: 78.56%.\n    - Scheduled Castes: 20%.\n    - Scheduled Tribes: 1.44%.\n    - Women Participation: 30%.\n\n\n&amp;gt; **Note 2:** The benefits of this scheme can be taken by ryot farmers on the basis of land documents and non-ryot farmers on the basis of contract form.\n\n&amp;gt; **Note 3:** Beneficiaries will be selected on first come first serve basis.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:02:34.186311+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:34.186311+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 10111111
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://horticulture.bihar.gov.in/MainSite/Documents/SOP/1.0_2024-07-16.pdf"
+    },
+    {
+      "title": "Online Application",
+      "url": "https://horticulture.bihar.gov.in/HortMIS/AreaExpansionStateScheme/OnlineAppStrawberryState.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6746fb98805235502a7cfc71",
+      "en": {
+        "documentsRequired_md": "&amp;gt; **For DBT Registration Process:**\n\n\n\n      1. Aadhaar Details (Should be linked with mobile number).\n      1. Passport Size Photo.\n      1. Farmer details.\n      1. Land information.\n      1. Bank account.\n\n\n&amp;gt; **For the Online Application of the Scheme:**\n\n\n\n      1. Passport Size Photo.\n      1. [Contract form](https://horticulture.bihar.gov.in/HortMIS/AreaExpansionStateScheme/Documents/SchemeDocuments/Ekrarnama.pdf) ( for non-ryot farmers).      1. Land-ownership/ revenue receipt (If applicable).\n\n\n&amp;gt; **Note:** If the applicant&amp;amp;#39;s name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For DBT Registration Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Aadhaar Details (Should be linked with mobile number)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Passport Size Photo."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Farmer details."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Land information."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Bank account."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ol_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "ol_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For the Online Application of the Scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Passport Size Photo."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": ""
+                                      },
+                                      {
+                                        "children": [
+                                          {
+                                            "text": "Contract form"
+                                          }
+                                        ],
+                                        "link": "https://horticulture.bihar.gov.in/HortMIS/AreaExpansionStateScheme/Documents/SchemeDocuments/Ekrarnama.pdf",
+                                        "type": "link"
+                                      },
+                                      {
+                                        "text": " ( for non-ryot farmers)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  },
+                                  {
+                                    "children": [
+                                      {
+                                        "text": "Land-ownership/ revenue receipt (If applicable)."
+                                      }
+                                    ],
+                                    "type": "list_item"
+                                  }
+                                ],
+                                "type": "ol_list"
+                              }
+                            ],
+                            "type": "align_justify"
+                          }
+                        ],
+                        "type": "align_justify"
+                      }
+                    ],
+                    "type": "ol_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note:"
+                      },
+                      {
+                        "text": " If the applicant's name is not clear in the land-ownership/ revenue receipt, it will be mandatory to attach the genealogy along with the land-ownership/ revenue receipt."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "6746fb75805235502a7cfc3a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6746fb75805235502a7cfc3a",
+  "scheme_name": "Mukhyamantri Bagwani Mission: Strawberry Vikas Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "MBYSVY",
+  "slug": "mbysvy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Bihar",
+    "value": 10
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Subsidy",
+    "Plant Supply",
+    "Financial Assistance",
+    "Strawberry Development"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The school manager/principal shall apply to the Divisional Forest Officer in the prescribed form (available at the office of the Forest Range Officer) along with details of the trees previously planted or or currently available in the school and information about the area available for new plantation. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Forest Department purchases saplings from Mahila Nurseries,  horticulture department nurseries, etc., and distributes them free of charge to schools."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The school manager/principal shall apply to the Divisional Forest Officer in the prescribed form (available at the office of the Forest Range Officer) along with details of the trees previously planted or or currently available in the school and information about the area available for new plantation. \n  - The Forest Department purchases saplings from Mahila Nurseries,  horticulture department nurseries, etc., and distributes them free of charge to schools.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "Under this scheme, free saplings are provided for tree plantation in all government and non-government schools, and after the plantation, certificates are issued to the schools by the Forest Department.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0d7d1bcd6ba55aa12fcf84246e8564e6a068f972bab40188d560ac7bc3941a6a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Hamara School Hamara Vriksh” has been launched by the Department of Forest, Government of Uttarakhand. The aim of the scheme is to encourage tree plantation and environmental awareness among students by providing free saplings to all government and non-government schools for planting within their premises.\n<br>\n\n",
+  "eligibility": "\n1. All government and non-government schools in Uttarakhand are eligible to avail the benefits under the scheme.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:55.956066+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:55.956066+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Uttarakhand Forest Department",
+    "value": 50000042
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 251)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68cfd4c56e1aaee61b345a53",
+      "en": {
+        "documentsRequired_md": "\n1. Details of trees already planted or existing within the school premises\n1. Details of the area available for new plantation \n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Details of trees already planted or existing within the school premises"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of the area available for new plantation "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cfd3b22fa88b5343d45fcd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "68cfd3b22fa88b5343d45fcd",
+  "scheme_name": "Hamara School Hamara Vriksh",
+  "scheme_open_date": null,
+  "scheme_short_title": "HSHV",
+  "slug": "hshv",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Plantation",
+    "Free Plants",
+    "School",
+    "Tree Plantation"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "University / Institution",
+      "value": "institution"
+    }
+  ]
+}

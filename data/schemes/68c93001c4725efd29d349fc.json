@@ -1,0 +1,150 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme:\n\n  - ₹8,500/- per hectare is provided for Agriculture, Horticulture, and Annual Crops in unirrigated areas. A minimum of ₹1,000/- is payable.\n  - ₹17,000/- per hectare is provided for Areas with Assured Irrigation. The minimum amount of assistance payable to any farmer will be ₹2,000/-.\n  - For Evergreen Crops - ₹22,500/- per hectare is admissible for all types of evergreen crops. The minimum amount payable is ₹2,500/-.\n  - ₹6,000/- per hectare is payable to Sericulture Farmers.\n  - ₹7,000/- per hectare is payable for eri, mulberry and tussar crops.\n  - A minimum assistance of ₹1,000/- is payable for Munga crops.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "dfc0166928f5e15162f627517f28a578e37428426d830f416da425d5a9e3a003",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Agricultural Investment Subsidy (in Case of Crop Damage of 33% or More)” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to farmers who suffer crop losses of 33% or more due to natural calamities such as floods, heavy rainfall, drought, hailstorms, or other notified disasters.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident farmer of Uttarakhand engaged in agricultural activities within the state.\n1. The financial assistance will be applicable only for the area actually sown with crops.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:06:57.474012+00:00",
+  "implementing_agency": "Uttarakhand State Disaster Management Authority",
+  "last_synced_at": "2026-08-26T14:06:57.474012+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Disaster Management",
+    "value": 50000007
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 305)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68c9300ef4e8b9fdbbef3708",
+      "en": {
+        "documentsRequired_md": "\n1. Form P-20 Entry Confirmation (recorded by the concerned Patwari)\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Form P-20 Entry Confirmation (recorded by the concerned Patwari)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68c93001c4725efd29d349fc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68c93001c4725efd29d349fc",
+  "scheme_name": "Agricultural Investment Grant (in Case of Crop Damage of 33% or More)",
+  "scheme_open_date": null,
+  "scheme_short_title": "AIGCD",
+  "slug": "aiguk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Agricultural",
+    "Crop Loss",
+    "Investment Subsidy",
+    "Crop Damage"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

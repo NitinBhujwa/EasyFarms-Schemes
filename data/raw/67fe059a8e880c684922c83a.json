@@ -1,0 +1,392 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67fe059a8e880c684922c83a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1: "
+                      },
+                      {
+                        "text": "Selection of eligible PACS is done by the District Level Implementation and Monitoring Committee (DLIMC)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "The consolidated selection list from all districts is sent to the State Level Implementation and Monitoring Committee (SLIMC)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " SLIMC forwards the approved list to the Project Monitoring Unit (PMU) of NABARD through the Gujarat State Co-operative Bank Ltd."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " After approval by NLIMC at the central level, support equipment is provided to the selected PACS."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** Selection of eligible PACS is done by the District Level Implementation and Monitoring Committee (DLIMC).\n**Step 2:** The consolidated selection list from all districts is sent to the State Level Implementation and Monitoring Committee (SLIMC).\n**Step 3:** SLIMC forwards the approved list to the Project Monitoring Unit (PMU) of NABARD through the Gujarat State Co-operative Bank Ltd.\n**Step 4:** After approval by NLIMC at the central level, support equipment is provided to the selected PACS.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Finance Assistant to PACS for Computerization and Integration of PACS through Core Banking System with District Cooperative Banks",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "FACIPCD",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Computerization",
+            "Management Information System",
+            "Digital Infrastructure"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The benefit of this scheme will be available only to Primary Agricultural Credit Co-operative Societies (Including PACS, LAMP, and FSS)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The statutory audit of the Primary Agricultural Credit Co-operative Societies (PACS) up to the last financial year should have been completed."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The Primary Agricultural Credit Co-operative Societies (PACS) benefiting from this scheme should have their own or leased premises."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The Secretary of the Primary Agricultural Credit Cooperative Societies (PACS) should be a salaried employee."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Primary Agricultural Credit Cooperative Societies (PACS) benefiting from this scheme should have telecom data network facility."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "There should be computer literate staff at Primary Agricultural Credit Cooperative Societies (PACS) for smooth implementation of the scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "PACS should be selected in the District Level Implementation and Monitoring Committee (DLIMC) at the district level."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The PACS selected in the State Level Implementation and Monitoring Committee (SLIMC) of the State level in the District Level Implementation and Monitoring Committee (DLIMC) should have been approved in the SLIMC."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The benefit of this scheme will be available only to Primary Agricultural Credit Co-operative Societies (Including PACS, LAMP, and FSS).\n   1. The statutory audit of the Primary Agricultural Credit Co-operative Societies (PACS) up to the last financial year should have been completed.\n   1. The Primary Agricultural Credit Co-operative Societies (PACS) benefiting from this scheme should have their own or leased premises.\n   1. The Secretary of the Primary Agricultural Credit Cooperative Societies (PACS) should be a salaried employee.\n   1. Primary Agricultural Credit Cooperative Societies (PACS) benefiting from this scheme should have telecom data network facility.\n   1. There should be computer literate staff at Primary Agricultural Credit Cooperative Societies (PACS) for smooth implementation of the scheme.\n   1. PACS should be selected in the District Level Implementation and Monitoring Committee (DLIMC) at the district level.\n   1. The PACS selected in the State Level Implementation and Monitoring Committee (SLIMC) of the State level in the District Level Implementation and Monitoring Committee (DLIMC) should have been approved in the SLIMC.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Remarks"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Year) for Reclaiming Benefits)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "the cost is estimated at ₹ 3,91,369/- per PACS, out of which the Central Government's contribution is 60% at ₹1,85,441/- and State Government's contribution as per 40% per PACS ₹1,23,627/- will be incurred."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The agency empaneled by NABARD on behalf of the Government of India for the performance of software training while the procurement of hardware is to be done by the state government."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "There is no provision regarding re-benefit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Standard of Assistance****Remarks****Minimum Time Limit (in Year) for Reclaiming Benefits)**the cost is estimated at ₹ 3,91,369/- per PACS, out of which the Central Government&amp;amp;amp;#39;s contribution is 60% at ₹1,85,441/- and State Government&amp;amp;amp;#39;s contribution as per 40% per PACS ₹1,23,627/- will be incurred.The agency empaneled by NABARD on behalf of the Government of India for the performance of software training while the procurement of hardware is to be done by the state government.There is no provision regarding re-benefit.<br>\n\n",
+          "briefDescription": "The scheme provides financial assistance to Primary Agricultural Credit Societies (PACS) for computerization and integration with District Cooperative Banks (DCCBs) through a Core Banking System (CBS), enhancing rural banking infrastructure and digital access.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Finance Assistant to PACS for Computerization and Integration of PACS through Core Banking System with District Cooperative Banks\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat,  aims to bring transparency, accuracy, and consistency in PACS accounts using a common accounting and management information system. By enabling PACS to be digitally connected with District and State Cooperative Banks through CBS, this scheme also boosts rural financial inclusion and ensures seamless banking facilities in remote areas."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Finance Assistant to PACS for Computerization and Integration of PACS through Core Banking System with District Cooperative Banks&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat,  aims to bring transparency, accuracy, and consistency in PACS accounts using a common accounting and management information system. By enabling PACS to be digitally connected with District and State Cooperative Banks through CBS, this scheme also boosts rural financial inclusion and ensures seamless banking facilities in remote areas.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=wiB0mG2hjcblY52frAvd0g==&domain=v4lc2tu73R/9lWYKO76SRg=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "facipcd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67fe05ef8e880c684922c8b8",
+      "en": {
+        "documentsRequired_md": "\n1. Copy of completed statutory audit report for the last financial year.\n1. Proof of ownership or lease of premises.\n1. Employment proof of salaried Secretary.\n1. Documentation of telecom/data network facility.\n1. Proof of computer literacy of PACS staff.\n1. Approval/selection proof from DLIMC and SLIMC.\n1. Any other document as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of completed statutory audit report for the last financial year."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of ownership or lease of premises."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Employment proof of salaried Secretary."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documentation of telecom/data network facility."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of computer literacy of PACS staff."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Approval/selection proof from DLIMC and SLIMC."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67fe059a8e880c684922c83a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:09:32.767276+00:00",
+  "scheme_id": "67fe059a8e880c684922c83a"
+}

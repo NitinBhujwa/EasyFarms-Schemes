@@ -1,0 +1,241 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 01:"
+                    },
+                    {
+                      "text": " To avail the benefits of the scheme, applicants should visit the Deputy Director's office in their district and collect the application form."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 02:"
+                    },
+                    {
+                      "text": " Fill out the application form and attach all the relevant documents."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 03:"
+                    },
+                    {
+                      "text": " Submit the completely filled application form and attached documents to the concerned official in the office."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 04: "
+                    },
+                    {
+                      "text": "The Deputy Director of the concerned district will examine the applications on a first-come, first-served basis and process them accordingly."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 01:** To avail the benefits of the scheme, applicants should visit the Deputy Director&amp;amp;#39;s office in their district and collect the application form.\n**Step 02:** Fill out the application form and attach all the relevant documents.\n**Step 03:** Submit the completely filled application form and attached documents to the concerned official in the office.\n**Step 04:** The Deputy Director of the concerned district will examine the applications on a first-come, first-served basis and process them accordingly.\n"
+    },
+    {
+      "mode": "Online - via CSC",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The applicant may submit the application through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres or any other such centre."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "The applicant may submit the application through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres or any other such centre.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "&gt; **Financial Assistance under the Scheme:**\n\n**Establishment of 10+1 Piggery units:** \n\n  - 25% subsidy on the cost of livestock which has been availed as a loan by the beneficiary for establishment of a 10+1 Piggery unit. A maximum amount of ₹25,000/- will be provided as financial assistance in form of a subsidy.\n\n**Establishment of 15+1 Sheep/Goat units:**\n\n  - 25% subsidy on the cost of livestock which has been availed as a loan by the beneficiary for establishment of 15+1 Sheep/Goat unit. A maximum amount of ₹24,500/- will be provided as financial assistance in form of a subsidy.\n\n&gt; **Financial Assistance for Insurance under the Scheme:**\n\n\n  - Insurance assistance will be provided as per the available departmental scheme if operational during the year; otherwise, the beneficiaries will have to arrange for insurance of animals and shall pay the insurance premium. \n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4c6f855e9bcfcaab2fdd0767e92c570de4c137f9cb7719d30df7b1598f2080e2",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Scheme for Providing Employment Opportunities by Establishing Piggery, Sheep and Goat Units (General) under Mukhya Mantri Antyodaya Parivaar Utthan Yojana” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana.  Under this scheme, an unemployed resident of Haryana who is between 18 and 60 years of age can avail a 25% subsidy on the cost of livestock, provided they have taken a loan for establishing a 10+1 Piggery unit or a 15+1 Sheep/Goat unit.\n",
+  "eligibility": "\n   1. The applicant should be 18 to 60 years of age and a resident of Haryana.\n   1. The applicant must be unemployed.\n   1. There would be no mandatory educational qualifications or training requirements.\n   1. The applicant should have a space/shed for keeping animals.\n   1. The applicant would have to submit a Self-Declaration for being unemployed and for undertaking to abide by other conditions as required under the Scheme.\n\n",
+  "exclusions": "\n   1. Any group/firm/organization will not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented.\n\n",
+  "first_seen_at": "2026-08-26T14:05:23.701550+00:00",
+  "implementing_agency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+  "last_synced_at": "2026-08-26T14:05:23.701550+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry & Dairying Department",
+    "value": 666663
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 6)",
+      "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/PSGU%20Scheme.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=aQUnJHi2MBs4j7htWkoJyw%3d%3d"
+    },
+    {
+      "title": "Antyodaya-SARAL Portal",
+      "url": "https://saralharyana.gov.in/"
+    },
+    {
+      "title": "Utthan Portal",
+      "url": "https://parivarutthan.haryana.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6669467a21d7c2ac0d854c5c",
+      "en": {
+        "documentsRequired_md": "1.\tPrivaar Pahchan Patra (PPP ID)\n2.\tCopy of Aadhaar Card\n3.\tCopy of PAN Card\n4.\tCopy of Bank Passbook or Cancelled Cheque\n5.\tProof of availability of shed/space for keeping animals\n6.\tAny other documents as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPrivaar Pahchan Patra (PPP ID)"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tCopy of Aadhaar Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tCopy of PAN Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tCopy of Bank Passbook or Cancelled Cheque"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tProof of availability of shed/space for keeping animals"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6.\tAny other documents as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "66694668ebb262eb5dbdd5d6"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66694668ebb262eb5dbdd5d6",
+  "scheme_name": "Scheme for Providing Employment Opportunities by Establishing Piggery, Sheep and Goat Units (General) under Mukhya Mantri Antyodaya Parivaar Utthan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "SPEOEPSGUGMMAPUY",
+  "slug": "speoepsgugmmapuy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Antodayay",
+    "Piggery Unit",
+    "Sheep Unit",
+    "Goat Unit",
+    "Financial Assistance",
+    "Subsidy",
+    "Subsidy",
+    "Unemployed",
+    "Animal Husbandry"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

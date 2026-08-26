@@ -1,0 +1,934 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65b0ef2266a1d73a2183f20a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Applying for Insurance:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Application form"
+                          }
+                        ],
+                        "link": "https://coconutboard.gov.in/docs/Appl-Kerasuraksha.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " duly filled in and countersigned by Agriculture officer/Panchayath President/CPF office bearers/CPC Directors along with premium share and age proof needs to be sent to Chairman, Coconut Development Board, Kera Bhavan, SRVHS Road, Kochi - 682011, Kerala."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Procedure for applying claim:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "All claim-related documents/correspondence have to be forwarded to the office of the Coconut Development Board given below:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Headquarters: PB No. 1021, KERA BHAVAN, SRV Road, Kochi, Kerala - 682011,"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Tel: 0484 - 2376265, Fax: 0484 - 2377902,"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Contact person: Statistical Officer"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Email: ho-stats@coconutboard.gov.in ("
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Application Forms"
+                          }
+                        ],
+                        "link": "https://coconutboard.gov.in/ApplicationForms.aspx#suraksha",
+                        "type": "link"
+                      },
+                      {
+                        "text": ")"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "For any discrepancies/queries on claim settlement, you may contact:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Office of The New India Assurance Company Limited for implementation of KESRI:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The New India Assurance Company Ltd, Divisional Office – I(730900), Jerome Building, 2nd Floor, Fort Station Road, Trichy -620 002"
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Applying for Insurance:**\n\n[Application form](https://coconutboard.gov.in/docs/Appl-Kerasuraksha.pdf) duly filled in and countersigned by Agriculture officer/Panchayath President/CPF office bearers/CPC Directors along with premium share and age proof needs to be sent to Chairman, Coconut Development Board, Kera Bhavan, SRVHS Road, Kochi - 682011, Kerala.\n&gt; **Procedure for applying claim:**\n\nAll claim-related documents/correspondence have to be forwarded to the office of the Coconut Development Board given below:\nHeadquarters: PB No. 1021, KERA BHAVAN, SRV Road, Kochi, Kerala - 682011,\nTel: 0484 - 2376265, Fax: 0484 - 2377902,\nContact person: Statistical Officer\nEmail: ho-stats@coconutboard.gov.in ([Application Forms](https://coconutboard.gov.in/ApplicationForms.aspx#suraksha))\n&gt; **For any discrepancies/queries on claim settlement, you may contact:**\n\nOffice of The New India Assurance Company Limited for implementation of KESRI:\nThe New India Assurance Company Ltd, Divisional Office – I(730900), Jerome Building, 2nd Floor, Fort Station Road, Trichy -620 002\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Coconut Development Board",
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department of Agriculture & Farmers Welfare",
+            "value": 121226
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Agriculture and Farmers Welfare",
+            "value": 498
+          },
+          "schemeCategory": [
+            {
+              "label": "Banking,Financial Services and Insurance",
+              "value": "628ce7f6d6d1a3bde46852d0"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kera Suraksha Insurance Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "KSIS",
+          "schemeSubCategory": [
+            {
+              "label": "Insurance",
+              "value": "Insurance"
+            }
+          ],
+          "schemeType": {
+            "label": "Central Sector Scheme",
+            "value": "central-sector-scheme"
+          },
+          "tags": [
+            "Coconut Tree Climber",
+            "Insurance",
+            "Neera Technician",
+            "Coconut Harvester"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a Coconut Tree Climber/Neera Technician/Coconut Harvester/Trainee."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The age of the applicant should be between 18 to 65 years."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Responsibilities of Climbers /Harvesters/Neera Technicians/Trainees(Beneficiaries):"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Submit applications for insurance under the insurance scheme in the prescribed format with all mandatory documents. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Payment of his/her/their share of premium prescribed by the Board by way of demand draft/ online mode. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Safe custody of policy document/ policy number received from the Board "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Intimation of accident within 72 hours of its occurrence to Board. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Submission of claim form along with mandatory documents to Board, in case of accidents-related hospital expenses/death, for getting benefits under the scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "table_cell"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be a Coconut Tree Climber/Neera Technician/Coconut Harvester/Trainee.\n   1. The age of the applicant should be between 18 to 65 years.\n\n&gt; **Responsibilities of Climbers /Harvesters/Neera Technicians/Trainees(Beneficiaries):**\n\n\n   1. Submit applications for insurance under the insurance scheme in the prescribed format with all mandatory documents. \n   1. Payment of his/her/their share of premium prescribed by the Board by way of demand draft/ online mode. \n   1. Safe custody of policy document/ policy number received from the Board \n   1. Intimation of accident within 72 hours of its occurrence to Board. \n   1. Submission of claim form along with mandatory documents to Board, in case of accidents-related hospital expenses/death, for getting benefits under the scheme.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "1. "
+                },
+                {
+                  "bold": true,
+                  "text": "Components under the scheme and present compensation",
+                  "underline": true
+                },
+                {
+                  "text": ":",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Benefits available - due to accidents only"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sum insured"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Death/Permanent Total disability"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹7,00,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Permanent Partial Disablement "
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹3,50,000/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Hospital expenses reimbursement (minimum 24 hours hospitalization)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹2,00,000/- "
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "4"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Ambulance charges"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹3,500/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "5"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Weekly Compensation in case of TTD"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹21,000/-  (Maximum 1 claim in a year for a maximum of six weeks @₹3,500/- per week)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "6"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Bystander expenses in case of hospitalization"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹3,000/- (Maximum for 15 days @ ₹200 per day)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "7"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Funeral expenses in case of accidental death (subject to production of bills)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹5,500/-"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "2. For the trainees ongoing the skill development training of the Board viz. Friends of Coconut Tree (FoCT)/Neera Technician Training Programme, the first-year premium is fully borne by the Board from the date of commencement of training."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "**1.** **Components under the scheme and present compensation**:\n**Sl. No.****Benefits available - due to accidents only****Sum insured**1Death/Permanent Total disability₹7,00,000/-2Permanent Partial Disablement ₹3,50,000/-3Hospital expenses reimbursement (minimum 24 hours hospitalization)₹2,00,000/- 4Ambulance charges₹3,500/-5Weekly Compensation in case of TTD₹21,000/-  (Maximum 1 claim in a year for a maximum of six weeks @₹3,500/- per week)6Bystander expenses in case of hospitalization₹3,000/- (Maximum for 15 days @ ₹200 per day)7Funeral expenses in case of accidental death (subject to production of bills)₹5,500/-2. For the trainees ongoing the skill development training of the Board viz. Friends of Coconut Tree (FoCT)/Neera Technician Training Programme, the first-year premium is fully borne by the Board from the date of commencement of training.\n",
+          "briefDescription": "The ‘Kera Suraksha Insurance Scheme’ is a comprehensive Group Personal Accident Insurance Scheme, implemented by Coconut Development Board in association with Public Insurance companies for Coconut Tree Climbers/Neera Technicians/Coconut Harvesters. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Kera Suraksha Insurance Scheme,\" under the Ministry of Agriculture and Farmers Welfare and implemented by the Coconut Development Board, provides coverage for Coconut Tree Climbers (CTC), Neera Technicians, and Coconut Harvesters in all coconut-growing states. The scheme offers a sum assured of ₹7.00 lakhs for 24-hour accident-related risks, including death. The annual premium is ₹956, with ₹717 covered by the Board and ₹239 paid by the beneficiary via DD or online mode."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Objective:"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The aim is to attract unemployed youth to show more interest in the agriculture sector."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To overcome the shortage of coconut tree climbers, the Board launched a skill development program called 'Friends of Coconut Tree (FoCT)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Interested youths were imparted training on coconut tree climbing with a machine specially developed for the purpose as well as on scientific management of the palm, plant protection techniques, and other related activities."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Kera Suraksha Insurance Scheme,&amp;quot; under the Ministry of Agriculture and Farmers Welfare and implemented by the Coconut Development Board, provides coverage for Coconut Tree Climbers (CTC), Neera Technicians, and Coconut Harvesters in all coconut-growing states. The scheme offers a sum assured of ₹7.00 lakhs for 24-hour accident-related risks, including death. The annual premium is ₹956, with ₹717 covered by the Board and ₹239 paid by the beneficiary via DD or online mode.\n&gt; **Objective:**\n\n\n   1. The aim is to attract unemployed youth to show more interest in the agriculture sector.\n   1. To overcome the shortage of coconut tree climbers, the Board launched a skill development program called &amp;#39;Friends of Coconut Tree (FoCT).\n   1. Interested youths were imparted training on coconut tree climbing with a machine specially developed for the purpose as well as on scientific management of the palm, plant protection techniques, and other related activities.\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Scheme Guideline",
+              "url": "https://coconutboard.gov.in/docs/kesri-guidelines.pdf"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://pib.gov.in/PressReleasePage.aspx?PRID=1880306"
+            },
+            {
+              "title": "Application Form",
+              "url": "https://coconutboard.gov.in/docs/Appl-Kerasuraksha.pdf"
+            },
+            {
+              "title": "Application Form - Malayalam",
+              "url": "https://coconutboard.gov.in/docs/Appl-Kerasuraksha-malayalam.pdf"
+            },
+            {
+              "title": "Accident Claim Form - Oriental Insurance Co.Ltd.",
+              "url": "https://coconutboard.gov.in/docs/Appl-Claim-Kerasuraksha.pdf"
+            },
+            {
+              "title": "Accident Claim Form - New India Assurance Co.Ltd.",
+              "url": "https://coconutboard.gov.in/docs/Claim-Form-New-India-Assurance-Co-Ltd.pdf"
+            },
+            {
+              "title": "Amendment",
+              "url": "https://coconutboard.gov.in/docs/operationalguidelines-kesri.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ksis"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65b0f05c66a1d73a2183f2f3",
+      "en": {
+        "documentsRequired_md": "> **Documents required to apply under the scheme;**\n\n\n1. Aadhaar card\n1. Proof of age\n1. Caste certificate, if applicable\n1. Declaration for Assignment\n1. Declaration Form\n1. Certificate issued by competent authority stating that the applicant is currently engaged in skilled labour as a Coconut Tree Climber/Neera Technician/Harvester\n1. Payment details\n1. Any other document, as required\n\n> **In case of Accident:**\n\n\n1. Original Discharge summary/ OP Ticket\n1. Original Medical Bills ( duly certified by a doctor)\n1. Original Lab reports(if any)\n1. Immobilizations Certificate (Minimum 5 days continuous disablement is required)\n1. Fitness Certificate\n1. Disability Certificate (In case of disablement due to accident)\n1. FIR/GD Entry/CSR/Police Report (In case of road accident)\n1. NEFT details (Bank name, Branch, Account Number and IFSC)\n1. Duly signed claim voucher \n\n> **In case of Death:**\n\n\n1. Original Medical Reports\n1. Original Death Certificate\n1. Legal Heirship certificate\n1. Post Mortem Report\n1. FIR\n1. Newspaper cutting\n1. Viscera Report (if any)\n1. Inquest Report\n1. NEFT details (Bank name, Branch, Account Number and IFSC)\n1. Duly signed claim voucher \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Documents required to apply under the scheme;",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of age"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate, if applicable"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration for Assignment"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration Form"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate issued by competent authority stating that the applicant is currently engaged in skilled labour as a Coconut Tree Climber/Neera Technician/Harvester"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Payment details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document, as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "In case of Accident:",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Original Discharge summary/ OP Ticket"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original Medical Bills ( duly certified by a doctor)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original Lab reports(if any)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Immobilizations Certificate (Minimum 5 days continuous disablement is required)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Fitness Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate (In case of disablement due to accident)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FIR/GD Entry/CSR/Police Report (In case of road accident)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "NEFT details (Bank name, Branch, Account Number and IFSC)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Duly signed claim voucher "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "In case of Death:",
+                "underline": true
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Original Medical Reports"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original Death Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Legal Heirship certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Post Mortem Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FIR"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Newspaper cutting"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Viscera Report (if any)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Inquest Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "NEFT details (Bank name, Branch, Account Number and IFSC)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Duly signed claim voucher "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65b0ef2266a1d73a2183f20a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:01:58.363889+00:00",
+  "scheme_id": "65b0ef2266a1d73a2183f20a"
+}

@@ -1,0 +1,253 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should request the prescribed format of the application form from the department."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+            },
+            {
+              "bold": true,
+              "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+            },
+            {
+              "children": [
+                {
+                  "text": "BDO Office/ Sub-Offices"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": " of the Department of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Redressal"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+            },
+            {
+              "children": [
+                {
+                  "text": "Grievance Redressal Officer"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "text": ". The grievance can also be lodged on the link "
+            },
+            {
+              "bold": true,
+              "text": "dir-fish.goa@nic.in"
+            },
+            {
+              "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should request the prescribed format of the application form from the department.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Financial assistance to the extent of ₹50,000 as a grant-in-aid.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "daaac490a92ca6bfa6353d194206aa7e17c3d339a122bb262ab06cc4a9b71bac",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "“Financial Assistance for Registered Fishermen Society” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, the fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies, having more than 25 members, will be eligible for financial assistance to the extent of ₹50,000 as a grant-in-aid. The applications are accepted only in offline mode.\n",
+  "eligibility": "1. The applicant should be fisheries co-operative societies/associations registered with the Fisheries Co-operative Societies.\n2. The society should produce an audited statement of accounts.\n3. The society should employ at least one personnel for the maintenance of records.\n4. The society&#39;s books of accounts shall be produced before department authorities for inspection when called for.\n5. The society should have more than 25 members.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:11.793311+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:11.793311+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 30000017
+  },
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6570640a53ed274f6a92c672",
+      "en": {
+        "documentsRequired_md": "1. Application in the prescribed form.\n2. Registration certificate.\n3. Bye-laws of the society.\n4. Mandate form.\n5. Membership details of the society/association.\n6. Audit statement of the last year.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1. Application in the prescribed form."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2. Registration certificate."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3. Bye-laws of the society."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4. Mandate form."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5. Membership details of the society/association."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6. Audit statement of the last year."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6570640153ed274f6a92c650"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6570640153ed274f6a92c650",
+  "scheme_name": "Financial Assistance for Registered Fishermen Society",
+  "scheme_open_date": null,
+  "scheme_short_title": "FARFS",
+  "slug": "farfs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Society",
+    "Fishermen",
+    "Fish",
+    "Financial Assistance",
+    "Grant"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

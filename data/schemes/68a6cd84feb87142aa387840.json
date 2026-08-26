@@ -1,0 +1,436 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website of"
+                }
+              ],
+              "link": "https://dsagsahay.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": " "
+                }
+              ],
+              "link": "https://dsagsahay.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "Development Support Agency of Gujarat (D-SAG)"
+                }
+              ],
+              "link": "https://dsagsahay.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": ", "
+            },
+            {
+              "children": [
+                {
+                  "text": "Tribal Development Department"
+                }
+              ],
+              "link": "https://dsagsahay.gujarat.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Click on Beneficiary Registration. A new page will appears. Select \"New beneficiary registration\" if you are registering for the first time."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Register by entering your Ration Card Number and Mobile Number, then click GET OTP."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Enter the One Time Password (OTP) received on your mobile number and click Register."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Upon successful registration, a Success pop-up will appear."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6:"
+            },
+            {
+              "text": " Select your Applicant Type from the available options: Livestock Keeper, Farmer and Livestock Keeper, or Student/Trainee. Click Save."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7: "
+            },
+            {
+              "text": "Fill in the General Details, Personal Details, Bank Details, as required, and click the Proceed button. Confirm by clicking OK on the pop-up."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 8:"
+            },
+            {
+              "text": " Upload the required documents by clicking Choose File and then Upload File."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 9: "
+            },
+            {
+              "text": "After uploading all documents, a window will appear. Click View to check each document. If any document was uploaded incorrectly, click Delete and re-upload it."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 10:"
+            },
+            {
+              "text": " Once all documents are verified, click the Proceed button. Confirm by clicking OK on the pop-up."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 11: "
+            },
+            {
+              "text": "After completing these steps, your profile will be created, and the portal dashboard will be displayed."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Tracking Process:",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://dsagsahay.gujarat.gov.in/#",
+              "type": "link"
+            },
+            {
+              "text": " of Development Support Agency of Gujarat (D-SAG), Tribal Development Department."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Click on \"Application Status\". A pop-up window will appear."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Select the \"Scheme name\" from the options provided."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Enter your application number in the designated field."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Click on \"Application Status\" again to view the status of your application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Application Process:**\n\n**Step 1:** Visit the [official website of](https://dsagsahay.gujarat.gov.in/)[ ](https://dsagsahay.gujarat.gov.in/)[Development Support Agency of Gujarat (D-SAG)](https://dsagsahay.gujarat.gov.in/), [Tribal Development Department](https://dsagsahay.gujarat.gov.in/).\n**Step 2:** Click on Beneficiary Registration. A new page will appears. Select &quot;New beneficiary registration&quot; if you are registering for the first time.\n**Step 3:** Register by entering your Ration Card Number and Mobile Number, then click GET OTP.\n**Step 4:** Enter the One Time Password (OTP) received on your mobile number and click Register.\n**Step 5:** Upon successful registration, a Success pop-up will appear.\n**Step 6:** Select your Applicant Type from the available options: Livestock Keeper, Farmer and Livestock Keeper, or Student/Trainee. Click Save.\n**Step 7:** Fill in the General Details, Personal Details, Bank Details, as required, and click the Proceed button. Confirm by clicking OK on the pop-up.\n**Step 8:** Upload the required documents by clicking Choose File and then Upload File.\n**Step 9:** After uploading all documents, a window will appear. Click View to check each document. If any document was uploaded incorrectly, click Delete and re-upload it.\n**Step 10:** Once all documents are verified, click the Proceed button. Confirm by clicking OK on the pop-up.\n**Step 11:** After completing these steps, your profile will be created, and the portal dashboard will be displayed.\n> **Tracking Process:**\n\n**Step 1:** Visit the [official website](https://dsagsahay.gujarat.gov.in/#) of Development Support Agency of Gujarat (D-SAG), Tribal Development Department.\n**Step 2:** Click on &quot;Application Status&quot;. A pop-up window will appear.\n**Step 3:** Select the &quot;Scheme name&quot; from the options provided.\n**Step 4:** Enter your application number in the designated field.\n**Step 5:** Click on &quot;Application Status&quot; again to view the status of your application.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Financial Assistance Structure:**\n\n\n- Total unit cost: ₹90,000\n- GTDC Loan (Gujarat Tribal Development Corporation): ₹29,000\n- Government of India Subsidy: ₹29,000\n- State Government Assistance: ₹29,000\n- Beneficiary Contribution: ₹3,000\n- Milch cattle and dairy equipment provided to tribal women beneficiaries.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0c67d89e3cc1cc77213d44158f0cb946bf02bb9afc48235d45d0a3fe0302ea16",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Integrated Dairy Development Scheme” was launched by the Tribal Development Department, Government of Gujarat. It aims to uplift tribal families living below the poverty line by providing sustainable livelihood opportunities through dairy farming. Under this scheme, tribal women beneficiaries receive milch cattle along with essential dairy equipment. \n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a woman. \n1. The applicant should belong to Scheduled Tribes (ST).\n1. The applicant should belong to a Below Poverty Line (BPL) family.\n1. The applicant should be a farmer, livestock keeper (Pashu Palak), or self-employed woman in tribal or forest areas.\n1. The applicant should be interested in self-employment through dairy farming.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:08.463792+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:08.463792+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Tribal Development Department",
+    "value": 2444467
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68a6cdfcfeb87142aa387b7f",
+      "en": {
+        "documentsRequired_md": "\n- Passport-size Photo\n- BPL Card\n- Caste Certificate\n- Bank Passbook or Cancelled Cheque\n- Age Proof\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photo"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "BPL Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook or Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Age Proof"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a6cd84feb87142aa387840"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68a6cd84feb87142aa387840",
+  "scheme_name": "Integrated Dairy Development Scheme Gujarat",
+  "scheme_open_date": null,
+  "scheme_short_title": "IDDSG",
+  "slug": "iddsg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Women",
+    "Animal Husbandry",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

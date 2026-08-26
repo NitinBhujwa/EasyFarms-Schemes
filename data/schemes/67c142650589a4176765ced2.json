@@ -1,0 +1,205 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The interested applicant should visit (during office hours) the office of the Rural Agriculture Extension Officer and request the hard copy of the prescribed format of the application form from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "NOTE:",
+              "underline": true
+            },
+            {
+              "text": " Ensure that the application is submitted within the prescribed period, if any."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the office of the Rural Agriculture Extension Officer and request the hard copy of the prescribed format of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the authority.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n**NOTE:** Ensure that the application is submitted within the prescribed period, if any.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**(A) Field Preparation Expenditure per Hectare:**\n\n- Field Ploughing (5 hours @ ₹700 per hour): ₹3,500/-\n- Field Weeding (6 hours with Rotavator @ ₹700 per hour): ₹4,200/-\n- Total Field Preparation Cost: ₹7,700/-\n\n**(B) Expenditure for Seedling Preparation per Hectare:**\n\n- Plastic Sheet for Nursery (15 Kg @ ₹100 per Kg): ₹1,500/-\n- Field Weeding (6 hours with Rotavator @ ₹500 per hour): ₹3,000/-\n- Other Expenses (Soil, Manure, Sand, Water - arranged by the farmer): Not Included\n- Additional Contingencies: ₹500/-\n- Total Seedling Preparation Cost: ₹5,000/-\n\n**Total Expenditure per Hectare:**\n\n- Field Preparation (A) + Seedling Preparation (B): ₹7,700 + ₹5,000 = ₹12,500/- per hectare\n- Cost per Acre: ₹5,080/-\n\n**Subsidy Details:**\n\n- Subsidy Amount: 75% of the cost\n- Maximum Subsidy Limit: ₹3,800/- per acre\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4c7aed02568d54316e37d4ceafddb6894a96b6a7946abd83d293ce545693f1e9",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme was launched on December 26, 2014, The Paddy Transplanter Machine Se Dhan Ropayee Par Anudan, under the Agriculture Development and Farmer Welfare and Biotechnology Department, Chhattisgarh. The scheme aims to promote paddy transplantation using advanced technology, expand the area under transplantation, and improve efficiency in rice cultivation.\nThe scheme is applicable across the entire state, benefiting farmers by providing financial assistance for land preparation. A grant of ₹3,000 per acre will be given for activities such as ploughing and weeding, up to a maximum limit of 2 hectares. This assistance covers the preparation of a mat-type nursery and the transplantation of paddy using a paddy transplanter machine, ensuring improved efficiency and higher yields.\n",
+  "eligibility": "\n1. The applicant should be a farmer residing in the Chhattisgarh.\n1. The applicant should be engaged in paddy cultivation.\n1. The applicant should be willing to use a paddy transplanter machine for transplantation.\n1. The applicant should be preparing a mat-type nursery for paddy transplantation.\n1. The applicant should have suitable land for ploughing and weeding.\n1. The applicant should have a cultivable area of up to 2 hectares to be eligible for the grant.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:11:47.306445+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:11:47.306445+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department",
+    "value": 2200001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriportal.cg.nic.in/agridept/StateScheme/1.4%20Paddy%20transStateScheme%20.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://agriportal.cg.nic.in/PortHi/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67c1438cbc7b1cbfd2f54371",
+      "en": {
+        "documentsRequired_md": "\n1. ID Proof\n1. Agriculture land Document\n1. Bank Account Details/Bank Passbook\n1. Other Necessary Documents if Required \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "ID Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Agriculture land Document"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details/Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other Necessary Documents if Required "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67c142650589a4176765ced2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": null,
+  "scheme_id": "67c142650589a4176765ced2",
+  "scheme_name": "Paddy Transplantor Machine se Dhan Ropayee par Anudan",
+  "scheme_open_date": "2014-12-26",
+  "scheme_short_title": "PTMSDRPA",
+  "slug": "ptmsdrpa",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Chhattisgarh",
+    "value": 22
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farming",
+    "Farmer",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

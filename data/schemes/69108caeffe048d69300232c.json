@@ -1,0 +1,163 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "For the selection of roads under this scheme, proposals are first discussed with public representatives during the Gram Sabha meeting at the village level. Following this, the road proposals are submitted to the department and subsequently forwarded to the concerned District Magistrates through the Assistant Sugarcane Commissioner. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "After obtaining the approval of the District Magistrates, and subject to the availability of matching grants in the Sugarcane Development Councils, 75% of the expenditure on the selected roads is borne by the government grant, while the remaining 25% is contributed by the Sugarcane Development Councils. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Funds are released from the government level only after receiving the finalized list of roads from the Assistant Sugarcane Commissioner. Roads falling under the Special Component Plan and Tribal Sub-Plan will be selected as per the norms issued by the Social Welfare Department."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - For the selection of roads under this scheme, proposals are first discussed with public representatives during the Gram Sabha meeting at the village level. Following this, the road proposals are submitted to the department and subsequently forwarded to the concerned District Magistrates through the Assistant Sugarcane Commissioner. \n  - After obtaining the approval of the District Magistrates, and subject to the availability of matching grants in the Sugarcane Development Councils, 75% of the expenditure on the selected roads is borne by the government grant, while the remaining 25% is contributed by the Sugarcane Development Councils. \n  - Funds are released from the government level only after receiving the finalized list of roads from the Assistant Sugarcane Commissioner. Roads falling under the Special Component Plan and Tribal Sub-Plan will be selected as per the norms issued by the Social Welfare Department.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "Under the scheme, efforts are made to facilitate the transportation of sugarcane from farms to purchasing centers for farmers and to ensure the supply of fresh sugarcane to sugar mills. Of the total expenditure on the selected routes, 75% is borne through a government grant, while the remaining 25% is contributed by the beneficiary institutions.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "bf89636b3336e47970e09870a7ac3596a2d81c02dfad381f1b6f262b69f499a7",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Inter-Village Road Construction Scheme on Contributory Basis” is a sub-component of the District Plan, implemented by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to facilitate the easy and timely transportation of sugarcane from farms to purchasing centers and sugar mills by improving inter-village road connectivity in sugarcane-growing areas.\n<br>\n\n",
+  "eligibility": "\n   1. The beneficiaries of the scheme shall be farmers, sugarcane societies, and sugar mills involved in the transportation of sugarcane within Uttarakhand.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:54:59.315190+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:54:59.315190+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Sugarcane Development And Sugar Industries",
+    "value": 50000039
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 257)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "691092e7ffe048d693003819",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the department’s guidelines prescribed for this scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Documents are required as per the department’s guidelines prescribed for this scheme."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69108caeffe048d69300232c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "69108caeffe048d69300232c",
+  "scheme_name": "District Plan: Inter-Village Road Construction Scheme on Contributory Basis",
+  "scheme_open_date": null,
+  "scheme_short_title": "DPIVRCSCB",
+  "slug": "dpivrcscb",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Road Construction",
+    "Sugar Transportation",
+    "Sugarcane",
+    "Farmer",
+    "Sugar Mill"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme will initially operate offline. Once the departmental portal becomes operational, beneficiaries will be required to apply and register through the portal."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Applicants must submit their applications to the District Level Implementation Unit (DLIA) at the district level, along with the bank’s consent letter for loan approval. After scrutiny of the applications received by the DLIA, a list of eligible applicants will be prepared. Upon completion of all formalities, final approval will be granted. The approved applications, along with the beneficiaries’ forms, will then be submitted through the concerned bank for further scrutiny and loan recommendation."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The bank will provide information on the amount of interest subsidy granted by the state government to the DLIA each quarter, corresponding to the beneficiaries’ approved loans. The DLIA will prepare a bill for the said amount and submit it to the treasury for payment."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The State Monitoring Committee will be established within the Animal Husbandry Directorate, Dehradun. The committee, under the control of the Director of Animal Husbandry, will monitor the progress of the scheme and ensure its proper implementation by issuing necessary instructions to district-level officers."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The scheme will initially operate offline. Once the departmental portal becomes operational, beneficiaries will be required to apply and register through the portal.\n  - Applicants must submit their applications to the District Level Implementation Unit (DLIA) at the district level, along with the bank’s consent letter for loan approval. After scrutiny of the applications received by the DLIA, a list of eligible applicants will be prepared. Upon completion of all formalities, final approval will be granted. The approved applications, along with the beneficiaries’ forms, will then be submitted through the concerned bank for further scrutiny and loan recommendation.\n  - The bank will provide information on the amount of interest subsidy granted by the state government to the DLIA each quarter, corresponding to the beneficiaries’ approved loans. The DLIA will prepare a bill for the said amount and submit it to the treasury for payment.\n  - The State Monitoring Committee will be established within the Animal Husbandry Directorate, Dehradun. The committee, under the control of the Director of Animal Husbandry, will monitor the progress of the scheme and ensure its proper implementation by issuing necessary instructions to district-level officers.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**For promoting self-employment at the local level, 90% of the interest subsidy on the bank loan taken by the applicant for setting up the following units is borne by the State Government:**\n***Dairy Entrepreneurship Development Scheme:***\n\n- 5 cow units\n- 10 cow units\n- 2 buffalo units\n- 5 buffalo units\n\n***Load Carrier Entrepreneurship Development Scheme:***\n\n- 1 mule unit\n- 2 mule unit\n\n***Sheep and Goat Entrepreneurship Development Scheme:***\n\n- Sheep/Goat (5 female + 1 male)\n- Sheep/Goat (10 female + 1 male)\n\n***Pig Entrepreneurship Development Scheme:***\n\n- Pig (5 female + 1 male)\n- Pig (10 female + 1 male)\n\n***Poultry Entrepreneurship Development Scheme:***\n\n- Commercial broiler farm for 1,000 birds\n- Small commercial layer farm for 250 birds\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "15bab6470f141684892c2859df270368eae160c3c964e3ef2d71c7fa6344f7b7",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Livestock Mission Scheme – Interest Payment on Loan” scheme has been introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote self-employment opportunities at the local level by encouraging livestock-based entrepreneurship and reducing the financial burden on beneficiaries through payment of 90% of the bank loan interest by the State Government.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be an interested livestock farmer.\n1. The livestock farmer must be eligible to avail a bank loan.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:49.365965+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:49.365965+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 194)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "690afebe5b0d198c2c61fb2d",
+      "en": {
+        "documentsRequired_md": "\n1. Consent Letter of Loan Approval – From the concerned bank\n1. Other necessary documents as specified by the District Level Implementation Unit (DLIA) for the scheme.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Consent Letter of Loan Approval – From the concerned bank"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other necessary documents as specified by the District Level Implementation Unit (DLIA) for the scheme."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "690afbfef4de30fd14a4f009"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "690afbfef4de30fd14a4f009",
+  "scheme_name": "Livestock Mission Scheme - Interest Payment on Loan",
+  "scheme_open_date": null,
+  "scheme_short_title": "LMSIPL",
+  "slug": "lmsipl",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Livestock Mission",
+    "Interest Payment",
+    "Loan",
+    "Animal Husbandry",
+    "Buffalo",
+    "Cow",
+    "Sheep",
+    "Goat",
+    "Poultry",
+    "Pig"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

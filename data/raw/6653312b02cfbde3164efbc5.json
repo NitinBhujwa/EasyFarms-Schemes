@@ -1,0 +1,386 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6653312b02cfbde3164efbc5",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the Special Tahsildar/Village Administrative Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "OR"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The"
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "interested applicant should apply scheme with a white paper. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Special Tahsildar/Village Administrative Officer."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the Special Tahsildar/Village Administrative Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the Special Tahsildar/Village Administrative Officer and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe**** interested applicant should apply scheme with a white paper. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Special Tahsildar/Village Administrative Officer.\n**Step 4:** Request a receipt or acknowledgment from the Special Tahsildar/Village Administrative Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Social Welfare and Nutritious Meal Programme Department",
+            "value": 3333358
+          },
+          "schemeCategory": [
+            {
+              "label": "Social welfare & Empowerment",
+              "value": "628ce87cd6d1a3bde4685312"
+            },
+            {
+              "label": "Women and Child",
+              "value": "64f57d10ffb93104c7006c97"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Destitute Agricultural Labourers Pension Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DALPS",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Citizen empowerment",
+              "value": "Citizen empowerment"
+            }
+          ],
+          "state": {
+            "label": "Tamil Nadu",
+            "value": 33
+          },
+          "tags": [
+            "Destitute",
+            "Farmer",
+            "Financial Assistance",
+            "Labour",
+            "Senior Citizen",
+            "Clothes"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be destitute agricultural labour."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The age of the applicant should be 60 years and above. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should not have any source of income or means of subsistence to support."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should not be a habitual beggar."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should not possess property valued at more than ₹5000/-."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should not be supported by a son or son's son aged 20 years or above."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_left"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be destitute agricultural labour.\n   1. The age of the applicant should be 60 years and above. \n   1. The applicant should not have any source of income or means of subsistence to support.\n   1. The applicant should not be a habitual beggar.\n   1. The applicant should not possess property valued at more than ₹5000/-.\n   1. The applicant should not be supported by a son or son&amp;#39;s son aged 20 years or above.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pension: "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "₹1,000/- per month."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Free Clothes during Pongal and Deepavali:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "One free dhoti to a male pensioner."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "One free saree to a female pensioner."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Free Rice in Anganwadi Centres:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "2kg/month to those who are taking nutritious meal."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "4kg/month to those who are not taking nutritious meal."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "**Pension:** \n\n- ₹1,000/- per month.\n\n**Free Clothes during Pongal and Deepavali:**\n\n- One free dhoti to a male pensioner.\n- One free saree to a female pensioner.\n\n**Free Rice in Anganwadi Centres:**\n\n- 2kg/month to those who are taking nutritious meal.\n- 4kg/month to those who are not taking nutritious meal.\n\n",
+          "briefDescription": "The \"Destitute Agricultural Labourers Pension Scheme\" was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to give pensions of ₹1,000/- to destitute agricultural labourers of 60 years and above and dhoti, saree supplied on festivals. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Destitute Agricultural Labourers Pension Scheme\" was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to give pensions of ₹1,000/- to destitute agricultural labourers of 60 years. The scheme also provides one free saree to females, one free dhoti to males during Pongal and Deepavali, and free rice in the Anganwadi Centres. "
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Destitute Agricultural Labourers Pension Scheme&amp;quot; was launched by the Social Welfare and Nutritious Meal Programme Department, Government of Tamil Nadu. The scheme aims to give pensions of ₹1,000/- to destitute agricultural labourers of 60 years. The scheme also provides one free saree to females, one free dhoti to males during Pongal and Deepavali, and free rice in the Anganwadi Centres. \n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Citizen’s Charter (2011)",
+              "url": "https://cms.tn.gov.in/sites/default/files/whatsnew/socialwelfare.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dalps"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "66533a0402cfbde3164f041c",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card.\n- Proof of age.\n- Bank Passbook.\n- Any other document if required. \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of age."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document if required. "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6653312b02cfbde3164efbc5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:02:19.675962+00:00",
+  "scheme_id": "6653312b02cfbde3164efbc5"
+}

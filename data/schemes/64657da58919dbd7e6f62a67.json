@@ -1,0 +1,172 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Step 1: Contact District Authority: Interested individuals should contact the respective district authority, such as the office of the MLA or the Deputy Commissioner, to express their intention to participate in the Cluster Nutritional Kitchen Garden Scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Obtain Application Form: The district authority will provide the applicants with the necessary application form and guidelines for the scheme. Applicants should carefully fill out the form with accurate information."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Submission of Application: The completed application form, along with the required documents, should be submitted to the designated authority within the specified timeline. The applicants may need to make multiple copies of the application form and documents for record-keeping."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "fccca5c0a26b58a55e5a78b171f8b6a62441b0378b4b5d5413bbe145ced0b71e",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Cluster Nutritional Kitchen Garden Scheme (CNKGS) aims to empower marginal farmers and the general public by promoting the cultivation of vegetables and the rearing of livestock within their own households. The scheme seeks to enhance self-sufficiency and improve nutritional requirements by enabling individuals to grow their own fresh and healthy produce. This initiative will be implemented at the district level under the guidance of the respective MLAs (Members of Legislative Assembly) and Deputy Commissioners.\n",
+  "eligibility": "\n- Resident of Arunachal Pradesh: Applicants must be permanent residents of Arunachal Pradesh, possessing valid residential proof such as ration card, electricity bill, or driving license.\n- Marginal Farmers: The scheme is open to marginal farmers who own or lease small areas of agricultural land suitable for kitchen gardening. Land ownership documents or lease agreements may be required as proof.\n- General Public: Individuals from the general public who are interested in establishing a kitchen garden and meet the eligibility criteria are also eligible to apply for the scheme.\n- Availability of Space: Applicants must have sufficient space within their premises to establish a kitchen garden. Adequate land or open space is necessary for growing vegetables and rearing livestock.\n- Commitment and Capability: Eligible individuals should demonstrate the commitment and capability to maintain and sustain the kitchen garden. This includes dedicating time and effort for regular care, watering, and management of the garden.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:36.457570+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:36.457570+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture and Marketing Department",
+    "value": 12111112
+  },
+  "references": [
+    {
+      "title": "Official Notification",
+      "url": "https://changlang.nic.in/scheme/cluster-nutritional-kitchen-garden-scheme/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "646580818919dbd7e6f62b1f",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Identity: Valid identity proof documents such as Aadhaar card, voter ID, or PAN card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Residence: Documents verifying the residential address, such as ration card, electricity bill, or driving license."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Documents or Lease Agreement: If the applicant owns the land, relevant land ownership documents should be provided. If the land is on lease, a lease agreement may be required."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details: Information regarding the applicant's bank account, including the account number and IFSC code, for financial transactions related to the scheme."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other Documents: The district authority may specify additional documents during the application process, if deemed necessary for verification purposes."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "64657da58919dbd7e6f62a67"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64657da58919dbd7e6f62a67",
+  "scheme_name": "Cluster Nutritional Kitchen Garden Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "CNKGS",
+  "slug": "cnkgs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Arunachal Pradesh",
+    "value": 12
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Malnutrition",
+    "Vegetable Cultivation",
+    "Livestock Rearing"
+  ],
+  "target_beneficiaries": null
+}

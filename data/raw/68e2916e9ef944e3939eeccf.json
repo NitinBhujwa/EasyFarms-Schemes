@@ -1,0 +1,617 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68e2916e9ef944e3939eeccf",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Visit the Official Website:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Go to "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://samast.mponline.gov.in/portal/"
+                          }
+                        ],
+                        "link": "https://samast.mponline.gov.in/portal/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Create Your Profile:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Click on “"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Create Profile"
+                          }
+                        ],
+                        "link": "https://samast.mponline.gov.in/portal/register",
+                        "type": "link"
+                      },
+                      {
+                        "text": ".”"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Fill in the required basic details such as Name, Mobile Number, Gender, Email ID, Date of Birth, etc."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Click on “Next.”"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Verify Basic Details:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Re-enter your Date of Birth and Mobile Number."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Enter the Captcha Code and click on “Profile Banaye.”"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "An OTP will be sent to your registered mobile number. Enter the OTP to verify your profile."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Complete Aadhaar e-KYC:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Enter your Aadhaar Number, Registered Mobile Number, and Captcha Code."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Click on “Send OTP” and verify using the Aadhaar OTP to complete the e-KYC process."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Application Fill Process"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Fill Application Form:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Select the \"Scheme Name\""
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Enter your Samagra ID, Mobile Number, Address, and Business/Personal Details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Upload the required documents."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Click on “Save & Next.”"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Pay Application Fee:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proceed to Online Payment and complete the fee payment securely."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Submit & Print:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "After successful submission, note down your Application ID."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Download and print the Application Form for future reference."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Registration Process**\n\n**Visit the Official Website:**\n\n- Go to [https://samast.mponline.gov.in/portal/](https://samast.mponline.gov.in/portal/)\n**Create Your Profile:**\n\n- Click on “[Create Profile](https://samast.mponline.gov.in/portal/register).”- Fill in the required basic details such as Name, Mobile Number, Gender, Email ID, Date of Birth, etc.\n- Click on “Next.”\n\n**Verify Basic Details:**\n\n- Re-enter your Date of Birth and Mobile Number.\n- Enter the Captcha Code and click on “Profile Banaye.”\n- An OTP will be sent to your registered mobile number. Enter the OTP to verify your profile.\n\n**Complete Aadhaar e-KYC:**\n\n- Enter your Aadhaar Number, Registered Mobile Number, and Captcha Code.\n- Click on “Send OTP” and verify using the Aadhaar OTP to complete the e-KYC process.\n\n> **Application Fill Process**\n\n**Fill Application Form:**\n\n- Select the &quot;Scheme Name&quot;\n- Enter your Samagra ID, Mobile Number, Address, and Business/Personal Details.\n- Upload the required documents.\n- Click on “Save &amp; Next.”\n\n**Pay Application Fee:**\n\n- Proceed to Online Payment and complete the fee payment securely.\n\n**Submit &amp; Print:**\n\n- After successful submission, note down your Application ID.\n- Download and print the Application Form for future reference.\n\n<br>\n\n"
+          },
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the banks, district nodal officers, or dairy cooperatives office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the banks, district nodal officers, or dairy cooperatives office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the banks, district nodal officers, or dairy cooperatives office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the banks, district nodal officers, or dairy cooperatives office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the banks, district nodal officers, or dairy cooperatives office.\n**Step 4:** Request a receipt or acknowledgment from the banks, district nodal officers, or dairy cooperatives office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Banking,Financial Services and Insurance",
+              "value": "628ce7f6d6d1a3bde46852d0"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kisan Credit Card (Pashupalan)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "KCCP",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Loan",
+              "value": "Loan"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Loan",
+            "Livestock",
+            "Cooperative Society",
+            "Interest Rate",
+            "Farmer",
+            "Agriculture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a livestock farmer or a member of a primary agricultural credit cooperative society."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should require short-term working capital for livestock activities, including dairy production."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh.\n1. The applicant must be a livestock farmer or a member of a primary agricultural credit cooperative society.\n1. The applicant should require short-term working capital for livestock activities, including dairy production.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Short-term working capital loan for livestock activities through the Kisan Credit Card system."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Interest subsidy is provided on loans sanctioned under the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Expected Time of Disbursement: Typically within 15 days of application approval."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- Short-term working capital loan for livestock activities through the Kisan Credit Card system.\n- Interest subsidy is provided on loans sanctioned under the scheme.\n- Expected Time of Disbursement: Typically within 15 days of application approval.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide short-term working capital loans for livestock activities by offering eligible livestock farmers interest-subsidized loans for operational purposes through banks.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Kisan Credit Card (Pashupalan)\" scheme is launched by the Animal Husbandry and Dairy Department, Government of Madhya Pradesh. The schheme provides short-term working capital loans to livestock farmers at subsidized interest rates. Eligible livestock farmers, dairy producers, and members of primary agricultural credit cooperative societies can avail financial support for operational purposes through banks."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Kisan Credit Card (Pashupalan)&quot; scheme is launched by the Animal Husbandry and Dairy Department, Government of Madhya Pradesh. The schheme provides short-term working capital loans to livestock farmers at subsidized interest rates. Eligible livestock farmers, dairy producers, and members of primary agricultural credit cooperative societies can avail financial support for operational purposes through banks.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=914"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "kccp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68e2a4989ef944e3939f4ea1",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof (Voter ID card/Driving License/PAN card/Aadhaar card/Passport/Self-attested copy of photo identity issued by a government institution) \n- Proof of Residence (Latest telephone / electricity bill / property tax receipt (not older than two months) / Voter ID card / Aadhaar card / Passport / Certificate issued by a government institution / local panchayat / municipal body, etc.\n- Bank Related Information (Name of the applicant&#39;s bank and branch / Account number / IFSC code. If the applicant already has a KCC, then self-attested copies of documents related to the KCC account number and bank &amp; branch name) \n- Two Recent photographs of the applicant (not older than six months)\n- Land Related Documents (if required).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof (Voter ID card/Driving License/PAN card/Aadhaar card/Passport/Self-attested copy of photo identity issued by a government institution) "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Residence (Latest telephone / electricity bill / property tax receipt (not older than two months) / Voter ID card / Aadhaar card / Passport / Certificate issued by a government institution / local panchayat / municipal body, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Related Information (Name of the applicant's bank and branch / Account number / IFSC code. If the applicant already has a KCC, then self-attested copies of documents related to the KCC account number and bank & branch name) "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Two Recent photographs of the applicant (not older than six months)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Related Documents (if required)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e2916e9ef944e3939eeccf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:34.899262+00:00",
+  "scheme_id": "68e2916e9ef944e3939eeccf"
+}

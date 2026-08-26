@@ -1,0 +1,224 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " To avail benefits under this scheme, the applicant should Visit the respective District Horticulture Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Collect the scheme application form and attach all necessary documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the completed application form along with the required documents at the concerned office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " After verification, the applicant will receive confirmation of registration."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** To avail benefits under this scheme, the applicant should Visit the respective District Horticulture Office.\n**Step 2:** Collect the scheme application form and attach all necessary documents.\n**Step 3:** Submit the completed application form along with the required documents at the concerned office.\n**Step 4:** After verification, the applicant will receive confirmation of registration.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n  - Under this scheme, Scheduled Caste farmers receive 90% subsidy on components like Mushroom Trays, Bamboo Stacking in vegetable crops, Protected Structures (Poly House/Net House/Walk-in-Tunnels), Cultivation of High Value vegetables/ flowers under Protected Structures and other cultivation technologies in Haryana.\n  - Training will be provided on various aspects of horticultural crops cultivation technologies.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "662a6d81049a39d5994a49631d4fba7c27d24e4cbaf5a849dce590b304b72bec",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Integrated Horticulture Development Plan Scheme for Scheduled Caste Families”, implemented by the Department of Horticulture, Government of Haryana, aims to promote diversification into horticultural crops to improve the income and livelihood of scheduled castes farmers who have small landholdings. Under this scheme, Scheduled Caste farmers will be provided with quality planting material and other inputs for mushroom cultivation, bamboo stacking in vegetables, and protected cultivation with a subsidy of up to 90%. Additionally, training will be offered on various aspects of these practices.\n**Objectives:**\n\n  - To encourage the SC farmers to take horticultural crops as diversification option.\n  - To acquaint the SC farmers about the latest technologies in the field of horticulture.\n  - To increase the income of the land of SC families by way of increasing output by adopting various horticultural crops.\n\n",
+  "eligibility": "\n   1. The applicant should be a farmer.\n   1. The farmer should be a resident of Haryana.\n   1. The applicant should belong to the Scheduled Caste community.\n   1. The applicant should own or lease agricultural land.\n\n**Note:** The scheme targets Scheduled Caste families with small landholdings in the state.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:59:54.870105+00:00",
+  "implementing_agency": "Department Of Horticulture, Haryana",
+  "last_synced_at": "2026-08-26T13:59:54.870105+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 666715
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://hortharyana.gov.in/sites/default/files/SCSP%20Scheme%20draft%202018-19.pdf"
+    },
+    {
+      "title": "Scheme Details (Page No. 2)",
+      "url": "https://hkkp.org.in/Other_Files/Details%20of%20scheme%20of%20Horticulture%20Dept%20eng.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://hortharyana.gov.in/en/plan-scheme-for-schedule-caste-sb-no-98-integrated-horticulture-development-plan-scheme-for"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67d5c4f65ba8cb935dd9310b",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof \n1. Recent passport-sized photograph.\n1. Caste Certificate \n1. Haryana Domicile Certificate\n1. Land ownership/lease documents\n1. Bank account details linked to Aadhaar\n1. Any other documents if required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Recent passport-sized photograph."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Haryana Domicile Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership/lease documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details linked to Aadhaar"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents if required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67d5c45173f10c9c2c1d1d45"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67d5c45173f10c9c2c1d1d45",
+  "scheme_name": "Integrated Horticulture Development Plan Scheme for Scheduled Caste Families",
+  "scheme_open_date": null,
+  "scheme_short_title": "IHDPSSCF",
+  "slug": "ihdpsscf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Horticulture",
+    "Scheduled Caste",
+    "Farmer",
+    "Subsidy",
+    "Vegetable Cultivation",
+    "Mushroom Cultivation",
+    "Crop Husbandary"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

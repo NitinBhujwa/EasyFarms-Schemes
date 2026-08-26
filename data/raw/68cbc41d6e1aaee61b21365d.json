@@ -1,0 +1,257 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68cbc41d6e1aaee61b21365d",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Members who supply milk to the cooperative society are paid ₹3.00 per litre for the prescribed standard (7.50% to 7.99% fat-free solids) and ₹4.00 per litre for 8.00% or higher fat-free solids. "
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The incentive is credited to the milk society members through Direct Benefit Transfer (DBT) into their bank accounts. For this purpose, milk suppliers must provide their bank account details to the cooperative society."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - Members who supply milk to the cooperative society are paid ₹3.00 per litre for the prescribed standard (7.50% to 7.99% fat-free solids) and ₹4.00 per litre for 8.00% or higher fat-free solids. \n  - The incentive is credited to the milk society members through Direct Benefit Transfer (DBT) into their bank accounts. For this purpose, milk suppliers must provide their bank account details to the cooperative society.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Dairy Development Department",
+            "value": 50000068
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Dugdh Mulya Protsahan Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DMPY",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Financial Assistance",
+            "Milk",
+            "Cooperative Society",
+            "Milk Production",
+            "Cattle"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a member of a milk-producing cooperative society supplying milk to the society."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a member of a milk-producing cooperative society supplying milk to the society.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, in addition to paying the price of milk to cattle farmers who supply milk to milk cooperative societies, an incentive of ₹4.00 per litre or ₹3.00 per litre is also paid, as per the prescribed standards."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme, in addition to paying the price of milk to cattle farmers who supply milk to milk cooperative societies, an incentive of ₹4.00 per litre or ₹3.00 per litre is also paid, as per the prescribed standards.\n<br>\n\n",
+          "briefDescription": "The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Dugdh Mulya Protsahan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Dugdh Mulya Protsahan Yojana” was launched by the Department of Dairy Development, Government of Uttarakhand. The scheme aims to encourage milk production and ensure fair remuneration to cattle farmers by providing financial incentives based on the quality of milk supplied to cooperative societies.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 241)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dmpy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68cbc49189d250875d367755",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof\n1. Bank account details\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cbc41d6e1aaee61b21365d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:46.681052+00:00",
+  "scheme_id": "68cbc41d6e1aaee61b21365d"
+}

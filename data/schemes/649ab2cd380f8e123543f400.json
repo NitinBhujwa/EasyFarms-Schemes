@@ -1,0 +1,262 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Applicants have to visit "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "official portal."
+                    }
+                  ],
+                  "link": "https://rajkisan.rajasthan.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Click on login."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "On new page applicant can login with their Jan-Aadhaar Number OR"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Applicants can also login with their SSO ID on "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "sso portal."
+                    }
+                  ],
+                  "link": "https://sso.rajasthan.gov.in/signin",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "link": "https://sso.rajasthan.gov.in/signin",
+                  "type": "link"
+                },
+                {
+                  "text": "Now students can log in with their Jan-Aadhaar ID. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fill out the application form."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Attach the required documents."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Submit."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "process_md": "\n1. Applicants have to visit [official portal.](https://rajkisan.rajasthan.gov.in/)1. Click on login.\n1. On new page applicant can login with their Jan-Aadhaar Number OR\n1. Applicants can also login with their SSO ID on [sso portal.](https://sso.rajasthan.gov.in/signin)1. Now students can log in with their Jan-Aadhaar ID. 1. Fill out the application form.\n1. Attach the required documents.\n1. Submit.\n\n",
+      "url": "https://rajkisan.rajasthan.gov.in/"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- ₹15,000/- per annum: To the girl students studying in senior secondary by taking agriculture subjects in 11th and 12th classes \n- ₹25,000/- per annum: To girl students studying in Agricultural graduate education like Horticulture, Dairy, Agricultural Engineering, Food Processing and Shri Karan Narendra Business Management College, Jobner in 4/5 years course\n- ₹25,000/- per annum: To the girl students studying in Post Graduate Agriculture (M.Sc. Agriculture) in the 2-year course.\n- ₹40,000/- per annum: To the girl students studying for a maximum of 3 years PhD.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Women and Child",
+      "value": "64f57d10ffb93104c7006c97"
+    }
+  ],
+  "content_hash": "4d20f5f978c213f9a73841fd120f14bc17c63269f84b8096ab919550ded734d3",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Rajasthan State government initiated a scheme &quot;Incentive for Girls&quot; to provide financial assistance. Under this scheme, to the all those girls students who are pursuing Senior Secondary, Graduation in Agriculture and Post Graduation in Agriculture, financial support will be provided. \n",
+  "eligibility": "\n1. The student should be a native of Rajasthan.\n1. Schools, Colleges, and Universities are recognized by the state and state government.\n1. Girl Students should not have failed in the last year. \n1. The incentive amount is not payable to the girl students who leave school, college, or university in the middle of the class session.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:17.866501+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:53:17.866501+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 8000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://schemes.rajasthan.gov.in/scheme/detail/488"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "649bcbc3481f59106a6eb85d",
+      "en": {
+        "documentsRequired_md": "\n1. Jan-Aadhaar.\n1. Applicant Photograph.\n1. Age and Address Proof.\n1. Copy of Education Qualification Marksheet/Certificate: Certificate of HOD\n1. Copy of Educational Qualification Marksheet/Certificate: Final Examination. pass mark sheet.\n1. Copy of Bank Passbook.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Jan-Aadhaar."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Applicant Photograph."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Age and Address Proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Education Qualification Marksheet/Certificate: Certificate of HOD"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Educational Qualification Marksheet/Certificate: Final Examination. pass mark sheet."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "649ab2cd380f8e123543f400"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "649ab2cd380f8e123543f400",
+  "scheme_name": "Incentive To Girls",
+  "scheme_open_date": null,
+  "scheme_short_title": "ITG",
+  "slug": "itg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Rajasthan",
+    "value": 8
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Girl Education",
+    "Empowerment",
+    "Higher Education"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

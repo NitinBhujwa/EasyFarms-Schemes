@@ -1,0 +1,252 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a Community Development Block/Horticulture Circle/District Horticulture Officer."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Bonafide and progressive farmers on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "1. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Horticulture Officer"
+                    }
+                  ],
+                  "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2. Assistant Director of Horticulture (Mushroom) Upper Shillong"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a Community Development Block/Horticulture Circle/District Horticulture Officer.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nBonafide and progressive farmers on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Assistant Director of Horticulture (Mushroom) Upper Shillong\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\nSupply of spawns at 50% subsidy and compost at 50% subsidy.\n> **Type of Assistance and Entitlement (If any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1Sale of Button, Oyster spawns, and compost to Mushroom growers at Mushroom Development Centre.50% subsidy sale to the growers.2Construction of compost shed under Assistant Director of Horticulture, Mushroom Development Centre, Upper Shillong.50% assistance3Financial assistance to Mushroom growers @ ₹22,000/- per unit under District Horticulture Officer, West Garo Hills.50% assistance",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "e107ab8d0fd78f248ec04719f945da6e9bee164175631614fbfe5ced5bfe80f8",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Regional Centre for Training and Production of Mushroom” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to train farmers in the method of mushroom cultivation and to supply quality spawn and pasteurised compost to farmers.\n",
+  "eligibility": "\n   1. The applicant/farmer should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture, possessing own or leased land of at least 0.2 (hectares) or more.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:57.021093+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:04:57.021093+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=107"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65ca50e8cd96dc5e0750e0e1",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Bank passbook/account details\n1. Documents proof of possessing own or leased land\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook/account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of possessing own or leased land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65ca50c6ed4030e118d74c96"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65ca50c6ed4030e118d74c96",
+  "scheme_name": "Regional Centre for Training and Production of Mushroom",
+  "scheme_open_date": null,
+  "scheme_short_title": "RCTPM",
+  "slug": "rctpm",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Mushroom Production",
+    "Financial Assistance",
+    "Training"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

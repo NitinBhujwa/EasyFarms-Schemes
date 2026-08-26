@@ -1,0 +1,467 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65ca5f57ed4030e118d75cb7",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Step 01: The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Step 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Step 03: Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Mode of Selection of Beneficiary(s):",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Whom to Contact:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": ""
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "District Horticulture Officer"
+                              }
+                            ],
+                            "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Sectoral Officer, Department of Horticulture"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Horticulture Development Officer"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ol_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Application Process:**\n\nStep 01: The eligible bonafide farmer can apply/write an application on plain paper.\nStep 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required).\nStep 03: Submit the duly filled and signed application along with the required documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)   1. Sectoral Officer, Department of Horticulture\n   1. Horticulture Development Officer\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Development of Strawberry Cultivation",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DSC",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Strawberry Cultivation",
+            "Horticulture",
+            "Farmer",
+            "Agriculture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a permanent resident of Meghalaya."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a bonafide farmer engaged in agriculture, possessing own or leased land of at least 200 sqms."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note: ",
+                      "underline": true
+                    },
+                    {
+                      "text": "The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture, possessing own or leased land of at least 200 sqms.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Assistance to the selected government-run farm and also a scale of 50% subsidies to the strawberry spokes."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Type of Assistance and Entitlement (If any):",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Entitlement"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Owantum of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To promote the production of strawberry fruits by purchasing good quality materials of strawberry runners."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "100% assistance to the selected beneficiaries."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": " Purchase of mulching for demonstration."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "100% assistance."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Purchase of drip irrigation sprayers."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "100% assistance."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            }
+          ],
+          "benefits_md": "> **Pattern of Assistance:**\n\nAssistance to the selected government-run farm and also a scale of 50% subsidies to the strawberry spokes.\n**Type of Assistance and Entitlement (If any):**\n**Sl. No.****Entitlement****Owantum of Assistance**1To promote the production of strawberry fruits by purchasing good quality materials of strawberry runners.100% assistance to the selected beneficiaries.2 Purchase of mulching for demonstration.100% assistance.3Purchase of drip irrigation sprayers.100% assistance.",
+          "briefDescription": "The objective of the scheme is to provide farmers with quality and improved varieties of strawberry planting materials so as to encourage area expansion under this crop such that commercialization horticulture under this crop is achieved.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Development of Strawberry Cultivation” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to provide farmers with quality and improved varieties of strawberry planting materials so as to encourage area expansion under this crop such that commercialization horticulture under this crop is achieved."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Development of Strawberry Cultivation” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to provide farmers with quality and improved varieties of strawberry planting materials so as to encourage area expansion under this crop such that commercialization horticulture under this crop is achieved.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=118"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dsc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65ca5f73ed4030e118d75cdc",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65ca5f57ed4030e118d75cb7"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:04:54.186166+00:00",
+  "scheme_id": "65ca5f57ed4030e118d75cb7"
+}

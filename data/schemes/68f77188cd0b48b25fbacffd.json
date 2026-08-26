@@ -1,0 +1,167 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should contact the District Office of the Horticulture Department."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - Grant Assistance: A grant of 50% of the project cost up to a maximum of ₹2,00,00,000/- for cold storage facilities up to 5,000 metric tons capacity.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b0e87ab28e98c7f600cf7dd32f5a72b2fb59954dbf871582f90de2828186b303",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Special Scheme for Increasing the Storage Capacity of Perishable Products” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to increase cold storage capacity through providing 50% grant assistance to all eligible farmers.\n<br>\n\n",
+  "eligibility": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:47.118882+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:47.118882+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture and Food Processing Department",
+    "value": 2300018
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f77191a4de653fd43ae1de",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Identity.\n   1. Residence Certificate.\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Identity."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Residence Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f77188cd0b48b25fbacffd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f77188cd0b48b25fbacffd",
+  "scheme_name": "Special Scheme for Increasing the Storage Capacity of Perishable Products",
+  "scheme_open_date": null,
+  "scheme_short_title": "SSISCPP",
+  "slug": "ssiscpp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Cold Storage",
+    "Perishable Products",
+    "Storage Capacity",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2: "
+            },
+            {
+              "text": "Click on the option “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/register",
+              "type": "link"
+            },
+            {
+              "text": "”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3:"
+            },
+            {
+              "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "  Citizen"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4: "
+            },
+            {
+              "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Select your name, the name of the head of the family and all the other members and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Enter the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "A new link appear on screen, now click on the new SSO link."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "SSO id will appear on the screen, now create the password."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Enter Mobile number, click on registration."
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ul_list"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5"
+            },
+            {
+              "text": ": Submit."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Apply",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-1:"
+            },
+            {
+              "text": " Applicant have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal"
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/signin",
+              "type": "link"
+            },
+            {
+              "text": ". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-2:"
+            },
+            {
+              "text": " After login, "
+            },
+            {
+              "children": [
+                {
+                  "text": "dashboard "
+                }
+              ],
+              "link": "https://sso.rajasthan.gov.in/dashboard",
+              "type": "link"
+            },
+            {
+              "text": "will open."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-3: "
+            },
+            {
+              "text": "Click on “ RAJ-KISAN ” option. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-4:"
+            },
+            {
+              "text": " In \"Farmer\", click on \"Application Entry Request\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-5: "
+            },
+            {
+              "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-6:"
+            },
+            {
+              "text": " Select the person name and scheme name. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-7:"
+            },
+            {
+              "text": " Complete the Aadhaar Authentication and click on Get details. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-8:"
+            },
+            {
+              "text": " Provide the required details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Pensioner Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Bank Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Disability Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Verification Details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "            - Upload Documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step-9:"
+            },
+            {
+              "text": " Submit."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **Apply**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **The following financial assistance will be provided by the government to farmers and people doing agriculture related work:-**\n\n<br>\n\nSituationRelief fundIn case of death in an accident₹2,00,000/-.By cutting off any part of both hands, both legs, or both eyes separately.₹50,000/-In case of coma due to spinal cord fracture and head injury.₹50,000/-De-scalping of hair on the head of a man or woman₹40,000/-In case of partial de-scalping (small part) of hair on the head of a man or a woman.₹25,000/-In case of amputation of a body part like a hand, leg, eye, paw, arm etc.₹25,000/-Having four fingers amputated (completely or partially)₹20,000/-Three fingers cut₹15,000/-Two fingers were cut off₹10,000/-Having a finger cut₹5,000/-Hammal/Paledar/Laborer working in the market premises gets fractured in an accident while doing agricultural/marketing work in the market premises.₹10,000/-One testicle is severed₹25,000/-When two testicles are separated₹40,000/- <br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "719989111618f6f1e706c8eee2cae61ae364a80417822110ec0b9f3daf721fe3",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Rajasthan government&#39;s Rajiv Gandhi Krishak Sathi Sahayta Yojana is a critical safety net for those who keep our food system running smoothly.  Farmers, farmworkers, and market staff face inherent risks in their daily activities.  This program acknowledges those risks and provides much-needed financial assistance in times of crisis.  If an accident occurs while they&#39;re tending to crops, raising livestock, or selling their produce at market, the Yojana can help soften the financial blow.  This can mean the difference between a family being able to afford medical care and essential needs, or facing devastating hardship.\n",
+  "eligibility": "\n1. The Farmers/agricultural laborers of the state.\n1. The workers hold licenses from the market committee.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:15.559792+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:15.559792+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 8000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan#"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://rlsa.gov.in/povertyScheme/10.PDF"
+    },
+    {
+      "title": "Registration",
+      "url": "https://sso.rajasthan.gov.in/register"
+    },
+    {
+      "title": "Login",
+      "url": "https://sso.rajasthan.gov.in/signin"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6603cc0ac90f6c809875eb8f",
+      "en": {
+        "documentsRequired_md": "\n1. A medical officer&#39;s certificate required\n1. FIR Report\n1. Death Report\n1. Post-mortem report\n1. Certificate from the government doctor in case of a poisonous animal bite or camel bite.\n1. Provision for payment to be made on the Panchnama also under the signature of the Government Doctor.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "A medical officer's certificate required"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FIR Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Death Report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Post-mortem report"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate from the government doctor in case of a poisonous animal bite or camel bite."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Provision for payment to be made on the Panchnama also under the signature of the Government Doctor."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6603cb6aa8333243438904b5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6603cb6aa8333243438904b5",
+  "scheme_name": "Rajiv Gandhi Krishak Sathi Sahayta Yojana",
+  "scheme_open_date": "1994-08-30",
+  "scheme_short_title": "RGKSSY",
+  "slug": "rgkssy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Rajasthan",
+    "value": 8
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Accident",
+    "Financial Support"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

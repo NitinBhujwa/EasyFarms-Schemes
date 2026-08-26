@@ -1,0 +1,155 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Bonafide farmers can apply in plain paper through the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        }
+      ],
+      "url": "https://meghalaya.gov.in/index.php/schemes/content/22201"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "576d6b4e80f74fe3a3dc456f1f1bf6a41465052ca2fb485e4d432c19f9d457aa",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "**Description**\n\n- Soil Testing Lab - For analysing soil samples preceding the application of fertilizer in the correct dosage in farmers&#39; field.\n\n**Objectives**\n\n- The analysis is free of cost of soil samples preceding application of fertilizers/ liming etc. for farmers along with distribution of Soil Health Card (SHC).\n\n**Mode of Selection of Beneficiary(s)**\n\n- Bonafide farmers have sufficient available cultivable land on a first come first served basis.\n\n",
+  "eligibility": "\n- Bonafide farmers engaged in Agriculture\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:23.707870+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:23.707870+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Details",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=30"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64535a5d390d50b6173ee383",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Farmer’s Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Verification Form by the Agriculture Development Officer of a CD Block/Agriculture Circle."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Details (Account No., IFSC Code) of the applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Number (or alternative identification documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "645356438f2d75c8cacd7782"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "645356438f2d75c8cacd7782",
+  "scheme_name": "Soil Testing Laboratory",
+  "scheme_open_date": "2013-04-01",
+  "scheme_short_title": "STL",
+  "slug": "stl",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Soil health",
+      "value": "Soil health"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmers",
+    "Agriculture",
+    "Soil Health"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

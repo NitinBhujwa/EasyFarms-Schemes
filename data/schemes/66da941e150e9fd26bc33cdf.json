@@ -1,0 +1,230 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Collect the application form from the nearest Agricultural Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Submit the form to the concerned office:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Village Level:"
+                },
+                {
+                  "text": " Submit the application to the Assistant Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Block Level:"
+                },
+                {
+                  "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "District Level: "
+                },
+                {
+                  "text": "Submit to the Joint Director of Agriculture."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n&lt;br&gt;\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Office Equipment:** ₹5,000/- per group for purchasing office equipment, technical bulletins, and setting up a library.  - **Training and Skill Acquisition:** ₹4000/- per group for training and skill acquisition by farmer members.  - **ID Cards:** ₹400/- per group for issuing ID cards to members.  - **District-Level Meetings:** ₹20,000/- per group for conducting district-level meetings.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c10fea5c9175816a611e939a5222a9442e039185630643fe7018676a27918c56",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Farmers Interest Group (FIG)” scheme, by the Agriculture-Farmers Welfare Department, Tamil Nadu, supports every group of 15 farmers with grants for agricultural development. The scheme offers financial assistance for purchasing office equipment, training, ID cards, and district-level meetings.\n&lt;br&gt;\n\n",
+  "eligibility": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be part of a Farmer’s group of 15 farmers.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:20.003356+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:20.003356+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 3333332
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/6850"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66da9434150e9fd26bc33d05",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Identity (Aadhar Card, Voter ID, etc.).\n   1. Proof of Land Ownership.\n   1. Group registration details.\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Identity (Aadhar Card, Voter ID, etc.)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Land Ownership."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Group registration details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "66da941e150e9fd26bc33cdf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "66da941e150e9fd26bc33cdf",
+  "scheme_name": "Farmers Interest Group (FIG)",
+  "scheme_open_date": null,
+  "scheme_short_title": "FIG",
+  "slug": "fig",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Farmers Interest Group",
+    "FIG"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    },
+    {
+      "label": "Joint Liability Groups (JLGS)",
+      "value": "joint-liability-groups"
+    }
+  ]
+}

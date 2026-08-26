@@ -1,0 +1,332 @@
+{
+  "detail": {
+    "data": {
+      "_id": "688c9a84746baf0b8676ddfc",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should prepare the application on plain paper."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Scheduled Castes Unsalaried Credit Co-operative Society and Credit and Supply Co-operative Scheme for Providing Managerial Assistance and Computer–Furniture to the Society",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SCUCCOCSC",
+          "schemeSubCategory": [
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Scheduled Caste",
+            "Co-operative Societies",
+            "Computer And Furniture Grant",
+            "Agriculture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The society must be registered under the Co-operative Act."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The society must be a Scheduled Caste Savings and Credit Co-operative Society."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The society should be formed exclusively by members belonging to the Scheduled Castes."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant society must be registered within the last three financial years prior to the application year."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The society must be registered under the Co-operative Act.\n  - The society must be a Scheduled Caste Savings and Credit Co-operative Society.\n  - The society should be formed exclusively by members belonging to the Scheduled Castes.\n  - The applicant society must be registered within the last three financial years prior to the application year.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Managerial Assistance:"
+                    },
+                    {
+                      "text": " A maximum of ₹8,000/- per month is provided for an employee's salary, totaling Rs. 0.96 lakh per society on an annual basis."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Computer and Furniture Assistance: "
+                    },
+                    {
+                      "text": "A maximum of Rs. 0.62 lakh per society is provided for the purchase of computers and furniture."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Managerial Assistance:** A maximum of ₹8,000/- per month is provided for an employee&#39;s salary, totaling Rs. 0.96 lakh per society on an annual basis.- **Computer and Furniture Assistance:** A maximum of Rs. 0.62 lakh per society is provided for the purchase of computers and furniture.\n<br>\n\n",
+          "briefDescription": "The scheme aims to uplift Scheduled Castes by providing managerial salary and computer–furniture assistance to eligible cooperative societies.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Scheduled Castes Unsalaried Credit Co-operative Society and Credit and Supply Co-operative Scheme for Providing Managerial Assistance and Computer–Furniture to the Society” by the Agriculture and Co-operation Department, Government of Gujarat, aims to promote the financial inclusion and operational efficiency of Scheduled Caste Savings and Credit Co-operative Societies by offering managerial support and necessary infrastructure. These societies, formed to serve members of the Scheduled Castes through loan and credit services, often lack resources to appoint qualified managers or procure essential office furniture and computer systems. Through this scheme, the government offers financial assistance to help societies pay managerial salaries and purchase basic office infrastructure. "
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Scheduled Castes Unsalaried Credit Co-operative Society and Credit and Supply Co-operative Scheme for Providing Managerial Assistance and Computer–Furniture to the Society” by the Agriculture and Co-operation Department, Government of Gujarat, aims to promote the financial inclusion and operational efficiency of Scheduled Caste Savings and Credit Co-operative Societies by offering managerial support and necessary infrastructure. These societies, formed to serve members of the Scheduled Castes through loan and credit services, often lack resources to appoint qualified managers or procure essential office furniture and computer systems. Through this scheme, the government offers financial assistance to help societies pay managerial salaries and purchase basic office infrastructure. \n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 518)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "scuccocsc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "688c9abad4b5e6cefec1575c",
+      "en": {
+        "documentsRequired_md": "\n   1. Certificate of Registration under the Co-operative Act.\n   1. Proof of Scheduled Caste Membership of Society Members.\n   1. Society&amp;#39;s Financial Records (for verification of operational status).\n   1. Quotation/Estimate for Computer and Furniture Procurement (if applying for infrastructure support).\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Certificate of Registration under the Co-operative Act."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Scheduled Caste Membership of Society Members."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Society's Financial Records (for verification of operational status)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Quotation/Estimate for Computer and Furniture Procurement (if applying for infrastructure support)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "688c9a84746baf0b8676ddfc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:19.160489+00:00",
+  "scheme_id": "688c9a84746baf0b8676ddfc"
+}

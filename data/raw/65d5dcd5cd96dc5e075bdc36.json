@@ -1,0 +1,362 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65d5dcd5cd96dc5e075bdc36",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Application Process:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01: "
+                      },
+                      {
+                        "text": "The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Mode of Selection of Beneficiary(s):",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Whom to Contact:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "District Agriculture Officers of the concerned districts."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Sub-divisional Officers of the concerned sub-divisions."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Agriculture Development Officers of the concerned Community and Rural Development Blocks."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Assistant Agriculture Engineer (Mechanical) of the concerned districts."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ol_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "> **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-divisional Officers of the concerned sub-divisions.\n   1. Agriculture Development Officers of the concerned Community and Rural Development Blocks.\n   1. Assistant Agriculture Engineer (Mechanical) of the concerned districts.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Agriculture Engineering (Mechanical) Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "AE(M)S",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Agriculture",
+            "Engineering",
+            "Mechanical",
+            "Agricultural Machinery",
+            "Farmer",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Meghalaya."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Providing a 60% subsidy for the purchase of improved farm machinery and equipment (Proposed for Power Tiller and Diesel Water Pumpset)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Type of Assistance and Entitlement (If any):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy for hiring of farm machinery and equipment."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "> **Pattern of Assistance:**\n\n\n- Providing a 60% subsidy for the purchase of improved farm machinery and equipment (Proposed for Power Tiller and Diesel Water Pumpset).\n\n> **Type of Assistance and Entitlement (If any):**\n\n\n- Subsidy for hiring of farm machinery and equipment.\n\n",
+          "briefDescription": "The objective of the scheme is to provide agricultural machinery such as power tillers/ bulldozers/ tractors etc. on hiring at subsidised rate.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Agriculture Engineering (Mechanical) Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide agricultural machinery such as power tillers/bulldozers/tractors etc. on hiring at subsidised rate."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Agriculture Engineering (Mechanical) Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide agricultural machinery such as power tillers/bulldozers/tractors etc. on hiring at subsidised rate.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=58"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://meghalaya.gov.in/schemes/content/35875"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "aems"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65d5dd36cd96dc5e075bdccf",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Bank account details\n1. Documents proof of being a farmer\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of being a farmer"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65d5dcd5cd96dc5e075bdc36"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:06.189804+00:00",
+  "scheme_id": "65d5dcd5cd96dc5e075bdc36"
+}

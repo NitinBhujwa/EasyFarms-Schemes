@@ -1,0 +1,190 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Veterinary Officer/Livestock Extension Officer will identify eligible beneficiaries and collect their applications."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Applicants must submit their Aadhaar card, bank account details, and land records along with the application form."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Veterinary Officer will prepare a project report, which the livestock owner will submit to the bank. All applications will be forwarded to the Chief Veterinary Officer’s office. The District Executive Committee will conduct the verification, select the beneficiaries, and disburse the subsidy."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The Veterinary Officer/Livestock Extension Officer will identify eligible beneficiaries and collect their applications.\n  - Applicants must submit their Aadhaar card, bank account details, and land records along with the application form.\n  - The Veterinary Officer will prepare a project report, which the livestock owner will submit to the bank. All applications will be forwarded to the Chief Veterinary Officer’s office. The District Executive Committee will conduct the verification, select the beneficiaries, and disburse the subsidy.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "Under this scheme:\n\n  - A subsidy of ₹15/- per bird is provided for 6 batches, amounting to a total subsidy of ₹45,000/- per beneficiary.\n  - An additional grant of ₹15,000/- per beneficiary is provided for fence construction, making the total subsidy ₹60,000/- per beneficiary.\n  - With a minimum of 500 broiler birds, the total unit cost is approximately ₹3.05 lakh.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "db648255d6ad974abbabcde2d58078ad29f5461f860e43e08959487d54e0e0e3",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Establishment of Broiler Farms” was introduced by the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to promote commercial broiler rearing by providing financial assistance in the form of subsidies for poultry rearing and infrastructure development, thereby enhancing income generation and employment opportunities, especially for women and self-help groups (SHGs).\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant may belong to any caste.\n1. Preference will be given to women and self-help groups (SHGs).\n1. The applicant must own land or have land on lease.\n1. The applicant must have a KYC-certified bank account.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:09:33.998203+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:33.998203+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 237)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68449170ed4abe56e7454c5e",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Bank Account Details\n1. Land Records\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Records"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6844913cf3864db2fbe7c666"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6844913cf3864db2fbe7c666",
+  "scheme_name": "Establishment of Broiler Farms",
+  "scheme_open_date": null,
+  "scheme_short_title": "EBFUK",
+  "slug": "ebfuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Broiler Farms",
+    "Subsidy",
+    "Yard Construction",
+    "Broiler Birds",
+    "Self Help Group"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

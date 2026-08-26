@@ -1,0 +1,412 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Visit the"
+            },
+            {
+              "children": [
+                {
+                  "text": " Official Website"
+                }
+              ],
+              "link": "https://www.serviceonline.gov.in/login.do",
+              "type": "link"
+            },
+            {
+              "text": " of ServicePlus. In the top right corner of the homepage, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Register"
+                }
+              ],
+              "link": "https://www.serviceonline.gov.in/citizenRegistration.html",
+              "type": "link"
+            },
+            {
+              "text": "\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the Registration Form, the following fields are mandatory: Full Name, Email ID, Mobile Number, Password, State, and Captcha Code."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Fill in all the mandatory fields. If required, verify your Email ID and Mobile Number via OTP."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " When creating the password, ensure the password meets security requirements."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "text": " Agree to abide by the Terms of Use outlined by ServicePlus, then click \"Submit\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "NOTE 1:",
+              "underline": true
+            },
+            {
+              "text": " The password should be at least '9' characters with at least one special character (!@#$%^&*), one numeric, one small case and one upper case letter."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "NOTE 2:",
+              "underline": true
+            },
+            {
+              "text": " Don't repeat the same character more than 2 times consecutively, and don't enter in alphabetical order."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Official Website"
+                }
+              ],
+              "link": "https://www.serviceonline.gov.in/login.do",
+              "type": "link"
+            },
+            {
+              "text": " of ServicePlus. In the top right corner of the homepage, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Login"
+                }
+              ],
+              "link": "https://www.serviceonline.gov.in/loginWindow.do",
+              "type": "link"
+            },
+            {
+              "text": "\". "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Provide the Login ID & Password, agree to abide by the Terms of Use outlined by ServicePlus, then click on ‘Login’."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " After login, expand the left pane, click on ‘Apply for Services', then click \"View all available services\". A list of all the available services will be displayed. Filter the services by State/UT and/or by Name of the Scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Click on the scheme you intend to apply for. You will be taken to the online application form of the scheme. In the form, fill in all the mandatory fields, fill in the captcha code, and click \"Submit\" to submit the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*Remit the beneficiary contribution of ₹6,575/- per unit in advance along with the application through online mode"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Post-Application Processes",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: ",
+              "underline": true
+            },
+            {
+              "text": "The State Horticulture Mission-Kerala will select beneficiaries based on the priority order of application submission. The selected beneficiaries will be notified."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " The beneficiary must be present at the installation site when the Arka Vertical Garden structure is delivered. Submit the duly filled application form with Aadhar Number at the time of installation. The structure will be installed and set up at the beneficiary's premises"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*Applications will be prioritized based on their order of submission."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*The beneficiary must cooperate with periodic inspections conducted by the State Horticulture Mission."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*The structure must be used only for the purposes outlined in the project guidelines."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*Any misuse may result in the beneficiary having to refund the subsidy amount."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration Process**\n\n**Step 1:** Visit the[ Official Website](https://www.serviceonline.gov.in/login.do) of ServicePlus. In the top right corner of the homepage, click &quot;[Register](https://www.serviceonline.gov.in/citizenRegistration.html)&quot;.\n**Step 2:** In the Registration Form, the following fields are mandatory: Full Name, Email ID, Mobile Number, Password, State, and Captcha Code.\n**Step 3:** Fill in all the mandatory fields. If required, verify your Email ID and Mobile Number via OTP.\n**Step 4:** When creating the password, ensure the password meets security requirements.\n**Step 5:** Agree to abide by the Terms of Use outlined by ServicePlus, then click &quot;Submit&quot;.\n**NOTE 1:** The password should be at least &#39;9&#39; characters with at least one special character (!@#$%^&amp;*), one numeric, one small case and one upper case letter.\n**NOTE 2:** Don&#39;t repeat the same character more than 2 times consecutively, and don&#39;t enter in alphabetical order.\n> **Application Process**\n\n**Step 1:** Visit the [Official Website](https://www.serviceonline.gov.in/login.do) of ServicePlus. In the top right corner of the homepage, click &quot;[Login](https://www.serviceonline.gov.in/loginWindow.do)&quot;. \nProvide the Login ID &amp; Password, agree to abide by the Terms of Use outlined by ServicePlus, then click on ‘Login’.\n**Step 2:** After login, expand the left pane, click on ‘Apply for Services&#39;, then click &quot;View all available services&quot;. A list of all the available services will be displayed. Filter the services by State/UT and/or by Name of the Scheme.\n**Step 3:** Click on the scheme you intend to apply for. You will be taken to the online application form of the scheme. In the form, fill in all the mandatory fields, fill in the captcha code, and click &quot;Submit&quot; to submit the application.\n_*Remit the beneficiary contribution of ₹6,575/- per unit in advance along with the application through online mode_\n> **Post-Application Processes**\n\n**Step 1:** The State Horticulture Mission-Kerala will select beneficiaries based on the priority order of application submission. The selected beneficiaries will be notified.\n**Step 2:** The beneficiary must be present at the installation site when the Arka Vertical Garden structure is delivered. Submit the duly filled application form with Aadhar Number at the time of installation. The structure will be installed and set up at the beneficiary&#39;s premises\n_*Applications will be prioritized based on their order of submission._\n_*The beneficiary must cooperate with periodic inspections conducted by the State Horticulture Mission._\n_*The structure must be used only for the purposes outlined in the project guidelines._\n_*Any misuse may result in the beneficiary having to refund the subsidy amount._\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Total Cost of One Unit of Arka Vertical Garden:** ₹22,100/-.\n**Subsidy Amount per Unit:** ₹15,525/-.\n**Beneficiary Contribution:** ₹6,575/- per unit.\nThe beneficiaries are also provided with the following - \n\n- One unit of Arka Vertical Garden structure of one square meter area that can be installed.\n- The structure includes 4 tiers with 16 pots, and 80 kilograms of enriched planting medium (coir pith).\n- Seeds of various crops like spinach, chilli, palak, amaranthus, brinjal, cluster beans, etc..\n- Plant nutrition and protection materials.\n- Water storage facility with 25-litre capacity.\n- Drip irrigation system.\n- The structure has wheels attached, allowing it to be moved according to sunlight availability.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "67d57478128a2d1d0c9e52189b6ba06fbca1c5d72c96a78e8b0dc2e6a11ba361",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Arka Vertical Garden&quot; by the State Horticulture Mission-Kerala aims to popularize user-friendly vertical garden structures designed and developed by the Indian Council of Agricultural Research (ICAR) - Indian Institute of Horticultural Research, Bengalaru under Rashtriya Krishi Vikas Yojana (RKVY). The scheme helps in attaining self-sufficiency in the production of safe-to-eat vegetables ensuring food and nutritional security for families. It is open to residents of Kerala State who can apply for a single unit of Arka Vertical Garden structure. The scheme is implemented by the State Horticulture Mission-Kerala.\n",
+  "eligibility": "\n- The applicant must be a resident of Kerala.\n- The applicant must not have availed Arka Vertical Garden structure during the previous year.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:45.624711+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:45.624711+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Development and Farmers Welfare Department",
+    "value": 32000001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://shm.kerala.gov.in/arka-vertical-garden/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67d7e6e35ba8cb935ddb3f01",
+      "en": {
+        "documentsRequired_md": "\n- Proof of Residence in Kerala\n- Aadhaar Number (to be submitted at the time of installation)\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Residence in Kerala"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Number (to be submitted at the time of installation)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67d79d6f622d293942a39814"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67d79d6f622d293942a39814",
+  "scheme_name": "Arka Vertical Garden",
+  "scheme_open_date": null,
+  "scheme_short_title": "AVG",
+  "slug": "avg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Kerala",
+    "value": 32
+  },
+  "subcategories": [
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Garden",
+    "Environment",
+    "Plant",
+    "Irrigation",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,230 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The interested applicant should visit (during office hours) the office of the District Fisheries Officer/Assistant Fisheries Officer and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "OR"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The interested applicant should take print of the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "prescribed format"
+                    }
+                  ],
+                  "link": "https://fard.odisha.gov.in/sites/default/files/2023-03/07.%20Excavation%20of%20New%20Ponds%20under%20Machha%20Chasa%20Pain%20Nua%20Pokhari%20Khola%20Yojana%20%28Matsya%20Pokhari%20Yojana%29%20Guideline%202022-23.PDF",
+                  "type": "link"
+                },
+                {
+                  "text": " (Annexure-ll) of the application form."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application form along with the documents to the Assistant Fisheries Officer."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Request a receipt or acknowledgment from the Assistant Fisheries Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_left"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the office of the District Fisheries Officer/Assistant Fisheries Officer and request the hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe interested applicant should take print of the [prescribed format](https://fard.odisha.gov.in/sites/default/files/2023-03/07.%20Excavation%20of%20New%20Ponds%20under%20Machha%20Chasa%20Pain%20Nua%20Pokhari%20Khola%20Yojana%20%28Matsya%20Pokhari%20Yojana%29%20Guideline%202022-23.PDF) (Annexure-ll) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Assistant Fisheries Officer.\n**Step 4:** Request a receipt or acknowledgment from the Assistant Fisheries Officer to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "***The following tank model/ models shall be executed by the beneficiary:***\n**Model****Specification of Tank/Pond****Unit Cost (₹)****Subsidy Assistance (₹) General (40%)****Subsidy Assistance (₹) SC/ST/Women (50%)**A.Capital Cost1.New tank of excavated area of 0.20 ha having 6 Feet depth₹1,40,000/-₹56,000/-₹70,000/-2.New tank of excavated area of 0.30 ha having 6 Feet depth₹2,10,000/-₹84,000/-₹1,05,000/-3.New tank of excavated area of 0.40 ha having 6 Feet depth₹2,80,000/-₹1,12,000/-₹1,40,000/-4. New tank of excavated area of 0.50 ha having 6 Feet depth₹3,50,000/-₹1,40,000/-₹1,75,000/-5.New tank of excavated area of 0.60 ha having 6 Feet depth₹4,00,000/-₹1,68,000/-₹2,10,000/-6.New tank of excavated area of 0.70 ha having 6 Feet depth₹4,90,000/-₹1,96,000/-₹2,45,000/-7.New tank of excavated area of 0.80 ha having 6 Feet depth₹5,60,000/-₹2,24,000/-₹2,80,000/-8.New tank of excavated area of 0.90 ha having 6 Feet depth₹6,30,000/-₹2,52,000/-₹3,15,000/-9.New tank of excavated area of 1.00 ha having 6 Feet depth₹7,00,000/-₹2,80,000/-₹3,50,000/-**B.****Input Costs**&amp;lt;br&amp;gt;\n\n1.Input cost for one crop cycle (seed, feed, fertilizer, medicine, etc.) for 1.00 Ha water area (Annexure-I)₹1,50,000/-₹60,000/-₹75,000/-**Total (1.00 ha tank)****₹8,00,000**/-**₹3,40,000**/-**₹4,25,000**/-<br>\n\n**NOTE:** \n\n- 40% subsidy shall be provided to the General category and 50% to SC/ST/Woman categories of beneficiaries as per the scheme.\n- The subsidy was released in two installments to the beneficiary&#39;s bank account through DBT, by the DFO. Fifty percent (50%) of e the tank excavation work is completed and the remaining 50% of the subsidy shall be released after stocking advanced-sized fingerlings.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "f41c454204b982d1f12b8e0687e966c570e228b0a9bebcf525ea8aed4cf6a9e3",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Machha Chasa Pain Nua Pokhari Khola Yojana (Matsya Pokhari Yojana)&quot; was launched by the Fisheries and Animal Resources Development Department, Government of Odisha. The scheme aims to create additional water bodies for intensive aquaculture in inland sector through excavation of new tanks/ponds and income and employment generation through promotion of freshwater aquaculture.\n<br>\n\n> ***Implementation Target and Area of Operation:***\n\nThe scheme was implemented in the State of Odisha. The district wise annual target shall be communicated by the Director of Fisheries at the beginning of the financial year. The target is interchangeable depending on the progress made by the DLOs.\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Odisha.  \n1. The applicant should possess identity and residential proof including an Aadhar card.\n1. The applicant should have a bank account in his/her name in the State of Odisha.\n1. The applicant should have requisite land free from all encumbrances. \n1. The pond area must be between 0.2 to 2.00 hectares with a minimum water depth of 6 feet.\n1. Previous beneficiaries of similar subsidies are eligible for additional subsidies up to a total of 2 hectares.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:26.138846+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:26.138846+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Animal Resources Development Department",
+    "value": 2111120
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fard.odisha.gov.in/sites/default/files/2023-03/07.%20Excavation%20of%20New%20Ponds%20under%20Machha%20Chasa%20Pain%20Nua%20Pokhari%20Khola%20Yojana%20%28Matsya%20Pokhari%20Yojana%29%20Guideline%202022-23.PDF"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66ab8c777f9d2a95af7487bf",
+      "en": {
+        "documentsRequired_md": "\n- Passport-size Photo.\n- Land Document.\n- Aadhaar Card.\n- Passbook Photograph (1st page).\n- Caste Certificate for Affirmative Action.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Document."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passbook Photograph (1st page)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate for Affirmative Action."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "66ab8ad97f9d2a95af74858b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66ab8ad97f9d2a95af74858b",
+  "scheme_name": "Matsya Pokhari Yojana",
+  "scheme_open_date": "2022-04-12",
+  "scheme_short_title": "MPY-MCPNPKY",
+  "slug": "mpy-mcpnpky",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Odisha",
+    "value": 21
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fish Farmer",
+    "Pond",
+    "Subsidy",
+    "Aquaculture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

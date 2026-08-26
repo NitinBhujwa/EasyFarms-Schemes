@@ -1,0 +1,278 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should take print of the prescribed format of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+            },
+            {
+              "bold": true,
+              "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+            },
+            {
+              "children": [
+                {
+                  "text": "BDO Office/ Sub-Offices"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "bold": true,
+              "text": " of the Department of Fisheries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Grievance Redressal"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+            },
+            {
+              "children": [
+                {
+                  "text": "Grievance Redressal Officer"
+                }
+              ],
+              "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+              "type": "link"
+            },
+            {
+              "text": ". The grievance can also be lodged on the link "
+            },
+            {
+              "bold": true,
+              "text": "dir-fish.goa@nic.in"
+            },
+            {
+              "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should take print of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Financial Assistance for Construction &amp; Renovation of Farm**\n\n25% subsidy, limited to ₹2,00,000 per hectare.\n> **Financial Assistance for Purchase of Farming Equipment**\n\n50% subsidy, limited to ₹1,00,000 per hectare.\n> **Financial Assistance for the Purchase of Feed**\n\n25% subsidy of the cost of feed, limited to ₹30,000 per crop per hectare for 2 crops in a year.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "e9688c2a1e4cc4b728de49b364ac0f2333c9354fa8787bb9b16cf6bbdebeb22a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "“Financial Assistance to Brackish Water Aquaculture Farms” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to eligible fishermen for the construction and renovation of the Farm, for the purchase of farming equipment, and for the purchase of feed. Only the farmers having a water spread area of 2 hectares or less can apply to this scheme. The applications are accepted only in offline mode.\n",
+  "eligibility": "\n- The applicant should be a farmer having a water spread area of 2 hectares or less.\n- The farms owned by the applicant should be licensed by the Coastal Aquaculture Authority. \n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:53.935166+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:53.935166+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 30000017
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.goa.gov.in/schemes-services/"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+    },
+    {
+      "title": "Application Form For Construction And Renovation Of Farm",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Const-1.pdf"
+    },
+    {
+      "title": "Application Form For Purchase Of Feed",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Feed-1.pdf"
+    },
+    {
+      "title": "Application Form For Purchase Of Farming Equipment",
+      "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/08/BW-Equip-1.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "656ee8a7f2dded0c809581e4",
+      "en": {
+        "documentsRequired_md": "\n- Joint Photograph of Applicant With Spouse.\n- Aadhaar Card/ration Card.\n- CAA License Copy.\n- Mandate Form.\n- Copy of Estimate of Work.\n- Work Completion Certificate of the Farm.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Joint Photograph of Applicant With Spouse."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card/ration Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "CAA License Copy."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mandate Form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Estimate of Work."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Work Completion Certificate of the Farm."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "656ee89853ed274f6a9182fa"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "656ee89853ed274f6a9182fa",
+  "scheme_name": "Financial Assistance to Brackish Water Aquaculture Farms",
+  "scheme_open_date": null,
+  "scheme_short_title": "FABWAF",
+  "slug": "fabwaf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Goa",
+    "value": 30
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fishermen",
+    "Fish",
+    "Farming",
+    "Aquaculture",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,243 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65cb1158ed4030e118d7d3e5",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Uzhavar Udhaviyagam (Farmers' Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)"
+                      }
+                    ],
+                    "link": "https://agri.py.gov.in/emailcontact.html",
+                    "type": "link"
+                  },
+                  {
+                    "text": " and request the hard copy of the prescribed format of the application form from the Agricultural Officer."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Uzhavar Udhaviyagam (Farmers&#39; Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)](https://agri.py.gov.in/emailcontact.html) and request the hard copy of the prescribed format of the application form from the Agricultural Officer.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department, Puducherry",
+            "value": 34000003
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeName": "Distribution of Horticulture Kit to Urban and Rural Areas",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DHKURA",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "state": {
+            "label": "Puducherry",
+            "value": 34
+          },
+          "tags": [
+            "Horticulture",
+            "Agriculture",
+            "Farmer",
+            "Subsidy",
+            "DBT"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "text": "All horticulture growers of rural & urban areas are eligible."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "All horticulture growers of rural &amp; urban areas are eligible.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "75% subsidy, i.e. distribution of horticulture kit worth ₹ 3,000 per kit to urban and rural areas (homestead/backyards), through the Additional Director of Agriculture (Horticulture), during Aadipattam/Thaipattam seasonality."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "75% subsidy, i.e. distribution of horticulture kit worth ₹ 3,000 per kit to urban and rural areas (homestead/backyards), through the Additional Director of Agriculture (Horticulture), during Aadipattam/Thaipattam seasonality.\n",
+          "briefDescription": "Through this scheme, all the horticulture growers in rural & urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture).",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme “Distribution of Horticulture Kit to Urban and Rural Areas\" was launched by the Department of Agriculture and Farmer's Welfare, Union Territory of Puducherry. Through this scheme, all the horticulture growers in rural & urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Distribution of Horticulture Kit to Urban and Rural Areas&quot; was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, all the horticulture growers in rural &amp; urban areas are provided with a horticulture kit worth ₹ 3,000 per kit to urban and rural areas, during Aadipattam/Thaipattam, through the Additional Director of Agriculture (Horticulture).\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Standard Operating Procedure",
+              "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://agri.py.gov.in/emailcontact.html"
+            },
+            {
+              "title": "Citizen's Charter",
+              "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+            },
+            {
+              "title": "Grievance Redressal",
+              "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dhkura"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65cb1165ed4030e118d7d3fb",
+      "en": {
+        "documentsRequired_md": "\n- In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form.\n- If no identity card is issued to the farmer to date a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted.  \n- The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department.\n- Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If no identity card is issued to the farmer to date a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted.  "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65cb1158ed4030e118d7d3e5"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:46.090156+00:00",
+  "scheme_id": "65cb1158ed4030e118d7d3e5"
+}

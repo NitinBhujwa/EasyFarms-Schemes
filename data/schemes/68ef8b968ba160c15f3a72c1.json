@@ -1,0 +1,134 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Based on the demand of farmers, villagers, and village heads or public representatives, and on the proposal approved by the Mandi Committee from the Mandi Vikas Nidhi, as well as the consent granted by the Marketing Board from the Central Mandi Fund, the hand pump project/estimate is prepared by the respective branch and submitted to the Managing Director of the Uttarakhand Agricultural Produce Marketing Board for administrative and financial approval."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Based on the demand of farmers, villagers, and village heads or public representatives, and on the proposal approved by the Mandi Committee from the Mandi Vikas Nidhi, as well as the consent granted by the Marketing Board from the Central Mandi Fund, the hand pump project/estimate is prepared by the respective branch and submitted to the Managing Director of the Uttarakhand Agricultural Produce Marketing Board for administrative and financial approval.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "The scheme provides drinking water facilities through the installation of hand pumps in areas facing water scarcity.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Utility & Sanitation",
+      "value": "628ce97ad6d1a3bde468537d"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4d03079ecabc32c8e556f180bd364eb68c56fdc93cb44750bf80d4b731e35e91",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Hand Pump” is implemented by the Uttarakhand Agricultural Production &amp;amp; Marketing Board under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide reliable and accessible drinking water facilities to farmers and villagers through the installation of hand pumps.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a farmer, villager, village head, or public representative from Uttarakhand.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:37.274945+00:00",
+  "implementing_agency": "Uttarakhand Agricultural Production & Marketing Board",
+  "last_synced_at": "2026-08-26T14:09:37.274945+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 173)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ef8bb28ba160c15f3a7367",
+      "en": {
+        "documentsRequired_md": "Documents are required in accordance with the Mandi Committee/ Mandi Board.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required in accordance with the Mandi Committee/ Mandi Board."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ef8b968ba160c15f3a72c1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "68ef8b968ba160c15f3a72c1",
+  "scheme_name": "Hand Pump Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "HPY",
+  "slug": "hpy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Hand Pump",
+    "Villager",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Village",
+      "value": "village"
+    }
+  ]
+}

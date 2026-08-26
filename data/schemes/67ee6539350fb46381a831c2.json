@@ -1,0 +1,162 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Contact the nearest Veterinary Dispensaries and attach the documents as per the instruction of the Veterinary Officer."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n- Contact the nearest Veterinary Dispensaries and attach the documents as per the instruction of the Veterinary Officer.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Details of Animal****Compensation Per Animal****Compensation Limit For One Family**Large Dairy animals (Cow/Buffalo/Camel)₹37,500/-maximum for 3 animalsSmall Dairy animals (Sheep/Goat)₹4,000/-maximum for 30 animalsLarge Non-milch Animals (Horse, Camel, Bullock)₹32,000/-maximum for 3 animalsSmall non-milch animals (Calf, Buffalo calf, Heifer, Donkey) ₹20,000/-maximum for 3 animalsPoultry-Ducks (Adult)₹100/-maximum for 100 birds (within a limit of ₹10,000/-)<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "51e66bbced4cdb67c7a3b8833e2c11243e834044f8d1e71c3150f65c0b9c82cd",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Compensation in Animal Death&amp;quot; scheme introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, supports livestock owners whose animals die due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu, poisoning, including food poisoning, snake bites, and chemical poisoning. The compensation is provided through Direct Benefit Transfer (DBT) to eligible beneficiaries.\n",
+  "eligibility": "\n  - The applicant must be a registered livestock owner or breeder.\n  - The animal’s death must be due to natural disasters such as floods, droughts, earthquakes, or cyclones; diseases like anthrax and bird flu; poisoning, including food poisoning, snake bites, and chemical poisoning.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:57:15.574496+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:57:15.574496+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=VxDfHxqoZD+rj49hgDNCyg==&domain=12ewfiAgGqKRe600IL5Z/w=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67ee65814f405f25875d52e4",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar Card or other identity proof of the applicant.\n   1. Bank account details for DBT.\n   1. Any other documents as specified by the Veterinary Officer.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card or other identity proof of the applicant."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details for DBT."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as specified by the Veterinary Officer."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67ee6539350fb46381a831c2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67ee6539350fb46381a831c2",
+  "scheme_name": "Compensation in Animal Death",
+  "scheme_open_date": null,
+  "scheme_short_title": "CIAD",
+  "slug": "ciad",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal Husbandry",
+    "Animal Insurance",
+    "Death Compensation"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

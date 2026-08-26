@@ -1,0 +1,164 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "To avail the benefits of the scheme, the beneficiary may contact a nearby "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Veterinary dispensary"
+                    }
+                  ],
+                  "link": "https://farmer.gov.in/vetcentres.aspx?scode=04",
+                  "type": "link"
+                },
+                {
+                  "text": " or First Aid Veterinary Centre."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "To avail the benefits of the scheme, the beneficiary may contact a nearby [Veterinary dispensary](https://farmer.gov.in/vetcentres.aspx?scode=04) or First Aid Veterinary Centre.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n   1. Under this scheme, the fodder seed minikit of 3 Kg, 7 Kg, or 10 Kg is given to the eligible beneficiary.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0ffe97f1ff95ffd9c3d12c174887428e6c8d84653aa12bc301d4e9b4103ec9c7",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Fodder Minikits under Integrated Fodder Development Scheme” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat.  Under this scheme, improved varieties of fodder seeds are provided to beneficiaries for widespread publicity, demonstration, and adaptation by farmers.\n",
+  "eligibility": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. Any beneficiary of the General category can avail the benefits under the scheme.\n   1. The beneficiary should possess 10 Guntha of land to his or her name.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:18.404384+00:00",
+  "implementing_agency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+  "last_synced_at": "2026-08-26T14:05:18.404384+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://doah.gujarat.gov.in/fodder-development.htm"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/1-fooder-eng-1818.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "660e8725ff0ffe4f91cb77b9",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof\n1. Proof of Residence\n1. Proof of possessing10 Guntha of land\n1. Any other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Residence"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of possessing10 Guntha of land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "660e86f5d7abbe47ee1e1361"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "660e86f5d7abbe47ee1e1361",
+  "scheme_name": "Fodder Minikits under Integrated Fodder Development Scheme (General Category)",
+  "scheme_open_date": null,
+  "scheme_short_title": "FMUIFDS(GC)",
+  "slug": "fmuifdsgc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fodder Minikits",
+    "Farmer",
+    "Seed"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

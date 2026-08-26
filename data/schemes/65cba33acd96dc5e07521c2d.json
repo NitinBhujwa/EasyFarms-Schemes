@@ -1,0 +1,316 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Office of the Additional Director of Agriculture (Horticulture) "
+                }
+              ],
+              "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+              "type": "link"
+            },
+            {
+              "text": "and request a hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Deputy Director of Agriculture (Horti-NHM)"
+                }
+              ],
+              "link": "https://agri.py.gov.in/emailcontact.html",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "OR"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The interested applicant should take print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format "
+                }
+              ],
+              "link": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "link": "https://wcd.py.gov.in/sites/default/files/wcdmarrigeofpoorbride.pdf",
+              "type": "link"
+            },
+            {
+              "text": "of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Office of the Additional Director of Agriculture (Horticulture) ](https://agri.py.gov.in/sites/default/files/citchart/response.pdf)and request a hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf) of the application form from the [Deputy Director of Agriculture (Horti-NHM)](https://agri.py.gov.in/emailcontact.html).\nOR\nThe interested applicant should take print of the [prescribed format ](https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf)of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the Deputy Director of Agriculture (Chemistry).\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Poly House:** Naturally Ventilated system (Tubular structure) – Subsidized Cost of ₹467.50/- per square meter.- **Shade Net House (Tubular Structure):** Subsidized Cost of ₹355/- per square meter. Maximum of 4000 square meters per beneficiary.- **Plastic Mulching:** ₹10,000/- per hectare as a subsidy (maximum of 2 hectares per beneficiary).\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "acc1931302bf994447ece0d630c90e3d19320df5ab3a42f7357f24718b422fd8",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&quot;Protected Cultivation&quot; component of the &quot;Establishment of New Gardens (Area Expansion)&quot; scheme under the &quot;National Horticulture Mission (NHM)&quot;, a Centrally Sponsored Scheme by the Ministry of Agriculture and Farmers Welfare, Govt. of India. In Puducherry, this scheme is implemented by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the farmers are provided Poly House, Shade Net House (Tubular Structure), and Plastic Mulching at subsidised rates for practising Protected Cultivation.\n",
+  "eligibility": "\n- The applicant should be a resident/native of Puducherry.\n- The applicant should be a Farmer.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:06.064378+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:06.064378+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department, Puducherry",
+    "value": 34000003
+  },
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/pdf/Application_Shade_Net.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65cba345ed4030e118d88855",
+      "en": {
+        "documentsRequired_md": "1. Farmer Identity Card.\n2. Family Food Ration Card.\n3. Voter ID Card.\n4. Residence-cum-Nativity Certificate, issued by the Revenue Department.\n5. Detailed Project Statement.\n6. Soil and Water Test Certificate.\n7. Detailed Drawing of the Shade Net/ Green Hut Set Up.\n8. Map of Land.\n9. Electricity Bill Receipt.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1. Farmer Identity Card."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2. Family Food Ration Card."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3. Voter ID Card."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4. Residence-cum-Nativity Certificate, issued by the Revenue Department."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5. Detailed Project Statement."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6. Soil and Water Test Certificate."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "7. Detailed Drawing of the Shade Net/ Green Hut Set Up."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "8. Map of Land."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "9. Electricity Bill Receipt."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65cba33acd96dc5e07521c2d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65cba33acd96dc5e07521c2d",
+  "scheme_name": "\"Protected Cultivation\" Component of \"Establishment of New Gardens (Area Expansion)\" Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "PCCENGAES",
+  "slug": "pccengaes",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Cultivation",
+    "Farmer",
+    "Subsidy",
+    "Garden",
+    "Horticulture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

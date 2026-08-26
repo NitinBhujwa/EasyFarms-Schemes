@@ -1,0 +1,305 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68ef45f38ba160c15f38f334",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The applicant should contact the District Office of the Horticulture Department."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture and Food Processing Department",
+            "value": 2300018
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Top Working Program",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TWP",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Horticulture",
+            "Farmer",
+            "Training",
+            "Unemployed Youth",
+            "Tool Kit",
+            "Financial Assistance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a resident of Madhya Pradesh."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must belong to rural area."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be an unemployed youth."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must belong to rural area.\n  - The applicant must be an unemployed youth.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Training Benefit:"
+                        },
+                        {
+                          "text": " Provision of 20-day training on top working techniques to rural unemployed youth."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Tool Kit Distribution: "
+                        },
+                        {
+                          "text": "Each trainee is provided with a tool kit worth up to ₹400/- during the training period."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Financial Incentive for Successful Grafting:"
+                        },
+                        {
+                          "text": " A payment of ₹10/- per successfully grafted tree is provided once the branches reach approximately 2 feet in length."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - **Training Benefit:** Provision of 20-day training on top working techniques to rural unemployed youth.  - **Tool Kit Distribution:** Each trainee is provided with a tool kit worth up to ₹400/- during the training period.  - **Financial Incentive for Successful Grafting:** A payment of ₹10/- per successfully grafted tree is provided once the branches reach approximately 2 feet in length.\n<br>\n\n",
+          "briefDescription": "The scheme aims to transform local varieties of Mango, Ber, Amla, and other indigenous plants into improved varieties. It also provides 20 days of Top Working training to unemployed rural youth.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Top Working Program” launched by the Horticulture and Food Processing Department, Madhya Pradesh, aims to enhance horticultural productivity by training rural unemployed youth to convert local fruit plant species into improved varieties and providing financial assistance for grafting activities."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Top Working Program” launched by the Horticulture and Food Processing Department, Madhya Pradesh, aims to enhance horticultural productivity by training rural unemployed youth to convert local fruit plant species into improved varieties and providing financial assistance for grafting activities.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "twp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68ef46328ba160c15f38f55f",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Identity.\n   1. Residence Certificate.\n   1. Age Proof.\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Identity."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Residence Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Age Proof."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ef45f38ba160c15f38f334"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:29.727450+00:00",
+  "scheme_id": "68ef45f38ba160c15f38f334"
+}

@@ -1,0 +1,315 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The beneficiary has to apply online at I-Khedut Portal. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Click on the \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03: "
+                },
+                {
+                  "text": "Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " Click on the \"Upload Document\" button to upload all the relevant documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 05:"
+                },
+                {
+                  "text": " Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 06:"
+                },
+                {
+                  "text": " The application must be signed and submitted along with the supporting documents to the office address mentioned on the application” or “Application confirmed within seven days from the date of saving the online application Scanned copy of the application and other documents can be uploaded after confirming the application"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 07:"
+                },
+                {
+                  "text": " Take a printout of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 01:"
+                },
+                {
+                  "text": " The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 02:"
+                },
+                {
+                  "text": " If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 03:"
+                },
+                {
+                  "text": " Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 01:** The beneficiary has to apply online at I-Khedut Portal. [https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx)\n**Step 02:** Click on the &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 03:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 04:** Click on the &amp;quot;Upload Document&amp;quot; button to upload all the relevant documents.\n**Step 05:** Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application.\n**Step 06:** The application must be signed and submitted along with the supporting documents to the office address mentioned on the application” or “Application confirmed within seven days from the date of saving the online application Scanned copy of the application and other documents can be uploaded after confirming the application\n**Step 07:** Take a printout of the confirmed application.\n&lt;br&gt;\n\n**Note 01:** The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary.\n**Note 02:** If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents to the concerned office within seven days of application.\n**Note 03:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n",
+      "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n   1. The beneficiary can purchase 1 to 20 Milch animals (Any dairy animal cow &amp;amp; buffalo) at a subsidized rate as per their need and capacity to maintain.\n   1. The beneficiary can get an interest subsidy up to a maximum of 12% on the unit cost of the animal or the unit loan advanced by the bank for the purchase of the animal, whichever is lower, will be available for a period of five years.\n\n**Note 01:** The amount of interest subvention will be deposited in the beneficiary&amp;#39;s loan account in the form of a Direct Benefit Transfer (DBT) in installments. There will be no cash assistance for any of the beneficiaries.\n**Note 02:** The interest calculated on the actual interest, subject to a maximum of 12% interest, whichever is less, shall be payable under the said scheme at the rate fixed by the State Government on the price of the animal or on the interest paid by the bank on the animal, whichever is less.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "ff3e1ebf03c6733f2d0e38c9193dec213e0e4ad3053fda9aaf9097da8dba8764",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Scheme for Subsidy on Interest for Establishment of 1 to 20 Milch Animal Farm for the State Cattle Breeders” was started by the Dept. of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat. Under the scheme, all the eligible farmers/cattle breeders of Gujarat State can purchase 1 to 20 animals as per their need and capacity to maintain. The eligible beneficiary can get an interest subsidy @ 12 % interest on a bank loan amount for 5 years if he/she has obtained a loan for setting up the unit in the current financial year 2023-24 through a nationalized bank or a financial institution approved by the Reserve Bank of India.\n            It also provides good-quality organic manure for improving crop fertility &amp;amp; crop yields. Dung is also used as fuel for domestic purposes. The surplus fodder agricultural by-products are utilized by animals &amp;amp; converted into value-added products viz. Milk, Meat, etc.\n",
+  "eligibility": "\n   1. The applicant should be a permanent resident of Gujarat State.\n   1. Only one member of the family should be the beneficiary of the scheme.\n   1. The benefit of this scheme will be available to all the farmers of Gujarat State.\n   1. The applicant will be eligible for assistance only if he has obtained a loan for setting up the unit in the current financial year 2023-24 through a nationalized bank or a financial institution approved by the Reserve Bank of India.\n\n**Note 01:** The land should be owned by a member of the family or a beneficiary of the scheme.\n**Note 02:** The grant made under this Act may not be used for any other purpose and shall be paid annually.\n**Note 03:** The scheme shall provide for the establishment of a unit of livestock (cows and buffaloes) by obtaining a certificate from the Animal Husbandry Authority.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:14.211199+00:00",
+  "implementing_agency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+  "last_synced_at": "2026-08-26T13:53:14.211199+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://doah.gujarat.gov.in/scheme-int-ani-farm.htm"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_GhataksWithGroupAndMainScheme.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "647f3260481f59106a677fc1",
+      "en": {
+        "documentsRequired_md": "\n1. Government-approved photo ID i.e. Aadhaar Card, Voter ID Card\n1. Basis (evidence) for land (if applicable)\n1. Disability Certificate from Competent Authority (only for disabled) (if applicable)\n1. Ration Card (if applicable)\n1. Bank account details\n1. Beneficiary&#39;s Undertaking/Consent Form\n1. Loan account passbook or bank disbursement certificate\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Government-approved photo ID i.e. Aadhaar Card, Voter ID Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Basis (evidence) for land (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate from Competent Authority (only for disabled) (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Beneficiary's Undertaking/Consent Form"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Loan account passbook or bank disbursement certificate"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "647f2e98481f59106a677f1b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": "2023-06-15",
+  "scheme_for": "Individual",
+  "scheme_id": "647f2e98481f59106a677f1b",
+  "scheme_name": "Scheme For Subsidy On Interest For Establishment Of 1 To 20 Milch Animal Farm",
+  "scheme_open_date": null,
+  "scheme_short_title": "SSIEEMAF",
+  "slug": "ssieemaf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal Husbandry",
+    "Subsidy",
+    "Farmer",
+    "Cattle Farming",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

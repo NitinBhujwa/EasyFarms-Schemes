@@ -1,0 +1,305 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "ServicesPlus"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/",
+              "type": "link"
+            },
+            {
+              "text": " website."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Click on the “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register” "
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+              "type": "link"
+            },
+            {
+              "text": "option on the homepage."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Review all details carefully and submit the registration form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Login",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+            },
+            {
+              "children": [
+                {
+                  "text": "“Login.”"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Enter your Email ID, Password, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Select the relevant service/scheme name."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Fill in the required details in the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: Submit the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. 50 % of cost of equipments subject to maximum of ₹ 5000 (Gen) and, ₹11250 (SC/ST) for Gravity; ₹15,000 (Gen) and ₹45,000 (SC/ST) for IP set and ₹ 32,000/- (Gen) and ₹ 95,000/- (SC/ST) for Sprinkler/ micro sprinkler sets.\n1. Registered cardamom growers having land holding size of 0.10 Ha to 8 Ha are eligible for Gravity and Irrigation pump set (IP Set).\n1. Registered cardamom growers having land holding size of 0.4 Ha to 8 Ha are eligible for Sprinklers / Drip / Microirrigation equipments.\n\n**Note:** Any farmer who has availed this benefit earlier is not eligible to avail the benefit.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4b047e3c39293d1250a6d0101b4d3486dca5a49ca1d44c49ef5ce3814f5182b8",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme for Irrigation Equipment (Nos.) implemented by the Spices Board under the Ministry of Commerce and Industry, and as per the modalities and scheme guidelines approved by the Competent Authority for the implementation of the “Integrated Scheme for Export Promotion and Quality Improvement in Spices and Research and Development of Cardamom” during the 15th Finance Commission period (2021–22 to 2025–26), financial assistance is provided to motivate growers to bring more area under irrigation and land development. The scheme aims to increase productivity and improve the quality of small cardamom through the adoption of different irrigation methods. \n**Assistance is provided for the installation of the following equipment:** \n(a) Gravity Irrigation Equipment, \n(b) Irrigation Pump Sets (IP Sets), and \n(c) Sprinkler, Drip, and Micro-sprinkler Sets.\n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a small cardamom grower from the states of Kerala, Tamil Nadu, or Karnataka.\n1. The applicant should install the approved irrigation equipment, and the installation must be inspected and recommended as eligible by the designated officials.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:14.778213+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:14.778213+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.indianspices.com/export_oriented_prod.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/dbt/login.do"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6a0c10b24b58867f4f3cd40e",
+      "en": {
+        "documentsRequired_md": "a) Document of ownership or legal possession of land viz. patta\nb) Current year land tax receipt / RTC /Chitta adangal\nc) CR /ACR /CDRC endorsement\nd) Aadhaar card\ne) Bank Pass Book\nf) a quotation from authorized dealer or three competitive quotations if there is no authorized dealer.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "a) Document of ownership or legal possession of land viz. patta"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "b) Current year land tax receipt / RTC /Chitta adangal"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "c) CR /ACR /CDRC endorsement"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "d) Aadhaar card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "e) Bank Pass Book"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "f) a quotation from authorized dealer or three competitive quotations if there is no authorized dealer."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6a0c10994b58867f4f3cd34a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6a0c10994b58867f4f3cd34a",
+  "scheme_name": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom:  Small Cardamom Irrigation Land Development : Irrigation equipment (Nos.)",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISFEPQIISARADOCSCILDIE",
+  "slug": "isfepqiisaradocscildie",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Gravity Equipments",
+    "Irrigation Pump",
+    "Micro Sprinkler Sets",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,639 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6891f74b413293aab1c4f1b3",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process:"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:"
+                  },
+                  {
+                    "text": " The applicant may visit and apply online at the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "I-Khedut Portal"
+                      }
+                    ],
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Enter the 'Company Name' and Address if you have selected 'Institutional' or 'Except For the Farmer' as the Beneficiary Type. And for all select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Enter your Mobile Number and E-mail address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Login Process: "
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The applicant may visit and apply online at the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "I-Khedut Portal"
+                      }
+                    ],
+                    "link": "https://ikhedut.gujarat.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Click on the \"Apply New\" button and submit a new application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5:"
+                  },
+                  {
+                    "text": " Click on the \"Update Application\" button to add corrections to the application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 6:"
+                  },
+                  {
+                    "text": " Once the application is done, confirm it."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 7: "
+                  },
+                  {
+                    "text": "Take a printout of the confirmed application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Contact Us: "
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Click here"
+                      }
+                    ],
+                    "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "bold": true,
+                    "text": "."
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side, then click on &quot;Beneficiary Registration&quot; and select any one from the &#39;Farmer&#39; or &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type.\n**Step 3:** Enter the &#39;Company Name&#39; and Address if you have selected &#39;Institutional&#39; or &#39;Except For the Farmer&#39; as the Beneficiary Type. And for all select the District, Taluka, and Village, choose &#39;what type of account holder you are?&#39;, enter your Account Number and Name, solve the Captcha, and click &#39;Save and Next&#39;.\n**Step 4:** Enter your Mobile Number and E-mail address, click &#39;Send OTP&#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &#39;Submit&#39;.\n> **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut Portal](https://ikhedut.gujarat.gov.in/).\n**Step 2:** Click on &#39;Login&#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &quot;Apply New&quot; button and submit a new application.\n**Step 5:** Click on the &quot;Update Application&quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n> **Contact Us:** [**Click here**](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)**.**\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "To Increase Fish Seed Production and Inland Fisheries Resources in Tribal Areas: Boat Net - Gujarat",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "IFSPTBNGUJ",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Fish",
+            "Fish Activities",
+            "Fish Production",
+            "Scheduled Tribes",
+            "Fishermen",
+            "Boat Net"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Business Entity",
+              "value": "business-entity"
+            },
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be Individuals/societies/self-help groups/associations/reservoir monopolies/private units, etc., involved in inland fisheries activities can avail the benefits of inland schemes."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be from the Scheduled Tribes."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be above 18 years."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must have his/her own bank account."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must have an Aadhaar Card/Voter ID/Ration Card/Passport as proof of identity."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be Individuals/societies/self-help groups/associations/reservoir monopolies/private units, etc., involved in inland fisheries activities can avail the benefits of inland schemes.\n   1. The applicant must be from the Scheduled Tribes.\n   1. The applicant must be above 18 years.\n   1. The beneficiary must have his/her own bank account.\n   1. The applicant must have an Aadhaar Card/Voter ID/Ration Card/Passport as proof of identity.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Financial Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Tin Boat with Net:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "50% assistance of the unit cost, amounting to ₹19,000/-, which includes:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Tin Boat: ₹10,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Net: ₹5,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Lifesaving appliance: ₹4,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "F.R.P. Boat with Net:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "50% assistance of the unit cost, amounting to ₹34,000/-, which includes:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "FRP Boat: ₹25,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Net: ₹5,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Lifesaving appliance: ₹4,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Frequency of Disbursement:"
+                },
+                {
+                  "text": " The benefits can be reclaimed after a minimum of 6 year."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "> ***Financial Assistance:***\n\n***Tin Boat with Net:***\n**50% assistance of the unit cost, amounting to ₹19,000/-, which includes:**\n\n- Tin Boat: ₹10,000/-\n- Net: ₹5,000/-\n- Lifesaving appliance: ₹4,000/-\n\n***F.R.P. Boat with Net:***\n**50% assistance of the unit cost, amounting to ₹34,000/-, which includes:**\n\n- FRP Boat: ₹25,000/-\n- Net: ₹5,000/-\n- Lifesaving appliance: ₹4,000/-\n\n> **Frequency of Disbursement:** The benefits can be reclaimed after a minimum of 6 year.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to boost fish production and provide employment to people involved in inland fisheries activities. It offers financial assistance for purchase of boats and nets to eligible Scheduled Tribe beneficiaries.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Boat Net” is a component under the “To Increase Fish Seed Production and Inland Fisheries Resources in Tribal Areas” scheme, introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. The scheme aims to boost fish production and provide employment to people involved in inland fisheries activities. Under this scheme, financial assistance for boats and nets is provided to individuals, societies, self-help groups, associations, reservoir monopolies, private units, and particularly Scheduled Tribe beneficiaries engaged in inland fisheries."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Objectives:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To increase fish production by rearing fish in reservoirs and provide employment to people involved in inland fisheries activities."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To boost fish farming or fishing activities in fresh water bodies."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Fishing in reservoirs, aquaculture in ponds and catch from rivers increase fish production and boost inland fisheries."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The main objective is to provide employment opportunities to Scheduled Tribe fishermen in the state and increase fish production."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Boat Net” is a component under the “To Increase Fish Seed Production and Inland Fisheries Resources in Tribal Areas” scheme, introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. The scheme aims to boost fish production and provide employment to people involved in inland fisheries activities. Under this scheme, financial assistance for boats and nets is provided to individuals, societies, self-help groups, associations, reservoir monopolies, private units, and particularly Scheduled Tribe beneficiaries engaged in inland fisheries.\n> **Objectives:**\n\n\n- To increase fish production by rearing fish in reservoirs and provide employment to people involved in inland fisheries activities.\n- To boost fish farming or fishing activities in fresh water bodies.\n- Fishing in reservoirs, aquaculture in ponds and catch from rivers increase fish production and boost inland fisheries.\n- The main objective is to provide employment opportunities to Scheduled Tribe fishermen in the state and increase fish production.\n\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cms.myscheme.gov.in/agriculture-farmers-welfare-and-cooperation-department/schemes/6891b9484eb6c107080377ef"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ifsptbnguj"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6891f754413293aab1c4f1e0",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card/Voter ID/Ration Card/Passport (as proof of identity)\n1. Scheduled Tribe Certificate\n1. Bank Account Details\n1. Any other documents (as per requirement)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card/Voter ID/Ration Card/Passport (as proof of identity)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Scheduled Tribe Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents (as per requirement)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6891f74b413293aab1c4f1b3"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:08.242684+00:00",
+  "scheme_id": "6891f74b413293aab1c4f1b3"
+}

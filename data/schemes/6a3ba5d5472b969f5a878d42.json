@@ -1,0 +1,306 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "ServicesPlus"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/",
+              "type": "link"
+            },
+            {
+              "text": " website."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Click on the “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register” "
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+              "type": "link"
+            },
+            {
+              "text": "option on the homepage."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Review all details carefully and submit the registration form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Login",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+            },
+            {
+              "children": [
+                {
+                  "text": "“Login.”"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Enter your Email ID, Password, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Select the relevant service/scheme name."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Fill in the required details in the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: Submit the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- 33.33 % of cost of unit, subject to a maximum of ₹ 1,50,000/- per unit for General Category and 75% subject to maximum of ₹ 3,37,500, per unit for SC/ST &amp; 90% Spice Producer&#39;s Groups in Identified Clusters subject to maximum of ₹ 4,00,000/-\n- Registered cardamom growers having a land holding size of 0.40 ha to 8 ha Assistance for groups/FPOs will be as in QGBG\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "656fb8f9a6dc22927425cb670088c27269ced2b536068572fbbc50683a886d4e",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research &amp; Development of Cardamom: Post-Harvest Improvement – Improved Cardamom Curing Devices (ICCD) for Small Cardamom (Nos.) is implemented by the Spices Board India under the Ministry of Commerce and Industry, Government of India. The scheme aims to encourage cardamom growers to adopt Improved Cardamom Curing Devices (ICCD) for drying small cardamom, thereby improving the quality of the produce and making it more suitable for export. It is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research &amp; Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+  "eligibility": "1. The applicant should belong to Kerala, Tamil Nadu &amp; Karnataka.\n2. Designated Officials will conduct final inspection and recommend the eligible cases.\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:32.870878+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:32.870878+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.indianspices.com/export_oriented_prod.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/dbt/login.do"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6a3ba5e9da5ba83f4b019ae4",
+      "en": {
+        "documentsRequired_md": "a) Aadhaar Card\nb) Current year land tax receipt / chitta adangal\nc) Bank Pass book\nd) CR/ACR\nd) Invoice and payment documents towards purchase from valid manufacturer of the equipment/device empaneled by Spices Board\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "a) Aadhaar Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "b) Current year land tax receipt / chitta adangal"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "c) Bank Pass book"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "d) CR/ACR"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "d) Invoice and payment documents towards purchase from valid manufacturer of the equipment/device empaneled by Spices Board"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6a3ba5d5472b969f5a878d42"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6a3ba5d5472b969f5a878d42",
+  "scheme_name": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: Post-Harvest Improvement: ICCD for Small Cardamom (nos) (Improved Cardamom Curing Devices)",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISFEPQIISARADOCPHICDSCNOSICCD",
+  "slug": "isfepqiisaradocphicdscnosiccd",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Small Cardamom",
+    "Spices Board",
+    "Agriculture",
+    "Farming",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

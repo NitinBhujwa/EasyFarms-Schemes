@@ -1,0 +1,195 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Collect the plain paper application form from the District Registrar's office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " Fill in all required details in the application form and attach the necessary documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the completed application to the District Registrar."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Collect the plain paper application form from the District Registrar&amp;#39;s office.\n**Step 2:** Fill in all required details in the application form and attach the necessary documents.\n**Step 3:** Submit the completed application to the District Registrar.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n  - **Financial Assistance:** 75% subsidy on capital cost for installation of solar systems ranging from 1KW to 40KW.\n<br>\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b9006611076168f5ce30725418a2987b3f86a1afb61f21745d89aa7038040178",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Scheme of Capital Assistance for Setting Up Solar Plants in Milk Cooperative Societies in the State of Gujarat (Tribal Areas)&amp;quot; by the Department of Agriculture, Farmers Welfare and Cooperation, Government of Gujarat aims to promote renewable energy and reduce electricity expenses. Through this scheme, a 75% subsidy is provided for setting up solar plants (1KW to 40KW) in milk cooperative societies in tribal areas.\n<br>\n\n",
+  "eligibility": "\n   1. A registered milk cooperative society located in the tribal areas of Gujarat shall be eligible under this scheme.\n   1. The society must extensively use electricity for milk collection, cooling, and processing.\n   1. The society must be willing to install a solar power plant with a capacity between 1KW and 40KW.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:13.888097+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:13.888097+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 103)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    },
+    {
+      "title": "User Manual (Applicant Registration)",
+      "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68189b3749682aad75cd9784",
+      "en": {
+        "documentsRequired_md": "\n   1. Copy of Society Registration Certificate.\n   1. Proof of electricity usage (bills or related documents).\n   1. Details of proposed solar plant (capacity, cost estimate).\n   1. Bank account details of the cooperative society.\n   1. Any other documets as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of Society Registration Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of electricity usage (bills or related documents)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Details of proposed solar plant (capacity, cost estimate)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details of the cooperative society."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documets as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "68189ae749682aad75cd96d1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68189ae749682aad75cd96d1",
+  "scheme_name": "Capital Subsidy Scheme for Setting Up Solar Plant in Milk Cooperatives in Gujarat State (Tribal Area)",
+  "scheme_open_date": null,
+  "scheme_short_title": "CSSSSPG",
+  "slug": "csssspg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Solar Subsidy",
+    "Milk Cooperatives",
+    "Renewable Energy",
+    "Electricity Saving"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

@@ -1,0 +1,210 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The interested applicant should collect the application form by visiting the Primary Cooperative Agriculture and Rural Development Bank."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application form along with the documents to the concerned authority."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should collect the application form by visiting the Primary Cooperative Agriculture and Rural Development Bank.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Access to Loan:** ₹3,30,000/- per hectare.  - **Interest Rate:** 11% to 12% (subject to change).\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "053438f66d9d96ffae9f676967ff0ef7f5a90f5a8b9ad7e3b5fb9a8fb94657f4",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Primary Cooperative Agriculture and Rural Development Bank: For Inland Fishing&amp;quot; scheme launched by the Co-operation, Food and Consumer Protection Department, Tamil Nadu, aims to support farmers interested in inland fishing by providing financial assistance up to ₹3,30,000/- per hectare. The loan has an interest rate of 11% - 12%, which is subject to change. This financial aid aims to empower farmers to establish or expand inland fishing operations and increase their income.\n&lt;br&gt;\n\n",
+  "eligibility": "\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should be a farmer.\n  - The beneficiary should be engaged in inland fishing.\n  - The beneficiary should be interested in availing the loan for Inland Fishing.\n  - The beneficiary should have the intention to use the loan specifically for Inland Fishing activities.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:59:50.367434+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:59:50.367434+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Co-operation, Food and Consumer Protection Department",
+    "value": 3333335
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/3566"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "672da7d283693094f71e331e",
+      "en": {
+        "documentsRequired_md": "\n   1. Identity proof (Aadhaar, PAN card, etc.).\n   1. Address proof.\n   1. Proof of land ownership or lease documents for the land used in inland fishing.\n   1. Any other documents (if required).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity proof (Aadhaar, PAN card, etc.)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Address proof."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of land ownership or lease documents for the land used in inland fishing."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "672da7b6cef677932c639206"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "672da7b6cef677932c639206",
+  "scheme_name": "Primary Cooperative Agriculture and Rural Development Bank: For Inland Fishing",
+  "scheme_open_date": null,
+  "scheme_short_title": "PCARDBIF",
+  "slug": "pcardbif",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Loan",
+      "value": "Loan"
+    },
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Inland Fishing",
+    "Loan",
+    "Farmer",
+    "Agriculture And Rural Development Bank"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

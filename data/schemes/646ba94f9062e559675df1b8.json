@@ -1,0 +1,172 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The Beneficiaries are requested to contact their own district Community Canning and Training Centers."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "OR"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Director of Agriculture (F.P) Assam, Ulubari, Guwahati-07."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The Beneficiaries are requested to contact their own district Community Canning and Training Centers.\nOR\nThe Director of Agriculture (F.P) Assam, Ulubari, Guwahati-07.\n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. To forward facilities to the public, in particular to ladies and housewives, throughout the state, for preservation of fruits and vegetables.\n1. Home scale preservation and canning of seasonal fruits and vegetables under expert technical supervision and guidance for consumption in lean periods.\n1. To encourage the preparation of value added produce such as Jam, Jelly, Squash, Juice, Sauce, Chutney, Pickles etc. at nominal charges.\n1. To impart training on home scale preservation of fruits and vegetables for 1 days, 3 days and 6 days to the ladies, housewives through various organization like Mahila samity, SHG, College girls etc. specially in rural areas (Dairly processing comes under 1 day training). \n1. To train personals to start small scale cottage industries in fruits and vegetables for self employment. The duration of these training will be of 7 to 15 days. \n1. To provide certificates to the trained personals so that they can start their own enterprise.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "b34b36b8856061703f7f8352e7a223d8a502b764fb4d47195b001f04f1838546",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The office of the Deputy Director of Agriculture (Fruit Preservation) Assam runs under the scheme of Community Canning and Training in fruit preservation with a view to disseminate to the people specially the women section about the\ntechniques of preparation of various preserved items such as Jam, Jelly, Pickles, Squash, Sauce, Chutney etc. from locally available seasonal fruits and vegetables. For this purpose trainings are conducted both at field levels and also in the centers itself with active guidance by staffs in the centers. At present there are 21 (Twenty one) Community Canning and Training Centers covering 19 (Nineteen) districts (The Diphu center is under the control of District council). Each of these centers are headed by one officer in the rank of Sub- Divisional Agricultural Officer (SDAO).\n        Since inception these Community Canning and Training Centers have gained considerable popularity among public who have received the benefits on fruits and vegetable preservation in their respective areas. Apart from forwarding the facilities for preparation of various preserved items training programs are also undertaken by this centers and various ladies group, organization and N.G.O’s have been immensely benefited from such functions of the centers. Out of the activities of these centers some revenue is also earned and which is deposited to Govt. account at time to time.\n",
+  "eligibility": "\n- To impart training on home scale preservation of fruits and vegetables for 1 days, 3 days and 6 days to the ladies, housewives through various organization like Mahila samity, SHG, College girls etc. specially in rural areas (Dairly processing comes under 1 day training). \n- To train personals to start small scale cottage industries in fruits and vegetables for self employment. The duration of these training will be of 7 to 15 days. \n- To provide certificates to the trained personals so that they can start their own enterprise.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:53:12.181839+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:53:12.181839+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 1800021
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dirhorti.assam.gov.in/schemes/detail/community-canning-training-on-fruit-preservation"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://www.kiran.nic.in/pdf/Industry/Market%20Details/FPO.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "646babbc527a0d6debd0c4fe",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card.\n- Voter Card.\n- Pan Card.\n- A valid Bank Account. \n\nAnd Rests as per own district Community Canning and Training Centers.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Voter Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Pan Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "A valid Bank Account. "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": "And Rests as per own district Community Canning and Training Centers."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "646ba94f9062e559675df1b8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "646ba94f9062e559675df1b8",
+  "scheme_name": "Community Canning & Training On Fruit Preservation",
+  "scheme_open_date": null,
+  "scheme_short_title": "CCTOFP",
+  "slug": "cctofp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Assam",
+    "value": 18
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fruit Preservation",
+    "Community Canning",
+    "Training"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "All",
+      "value": "All"
+    }
+  ]
+}

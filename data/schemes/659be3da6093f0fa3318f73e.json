@@ -1,0 +1,269 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit the office of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "concerned authority"
+                }
+              ],
+              "link": "https://fisheries.py.gov.in/sub-offices",
+              "type": "link"
+            },
+            {
+              "text": " i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Marketing Union, Karaikal/The Assistant Director of Fisheries and Fishermen Welfare, Mahe/The Assistant Director of Fisheries and Fishermen Welfare, Yanam of the respective regions. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should request the hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://fisheries.py.gov.in/sites/default/files/ban-relief-application003.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit the office of the [concerned authority](https://fisheries.py.gov.in/sub-offices) i.e. Pondicherry State Fishermen Co-operative Federation Limited, Puducherry/The Karaikal Fishermen Co-operative Marketing Union, Karaikal/The Assistant Director of Fisheries and Fishermen Welfare, Mahe/The Assistant Director of Fisheries and Fishermen Welfare, Yanam of the respective regions. \n**Step 1:** The interested applicant should request the hard copy of the [prescribed format](https://fisheries.py.gov.in/sites/default/files/ban-relief-application003.pdf) of the application form from the concerned authority.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "100 kgs. of rice and a cash dole at ₹ 750/- per fishermen&#39;s family during the period of ban on fishing during the year. \n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "f24b1ef929ef4e1a5282e8a5ad2406a90cfebd5af8ad2e8cc6cc474481f64707",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Fishing Ban Period Assistance&quot; is a Sub-Component under the scheme &quot;Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme&quot;. The scheme is extended to all the regions of the Union territory of Puducherry. The scheme is introduced with the objective to assist fishermen families who are deprived of income during natural calamities and fishing ban periods, and to conserve the fishery wealth in sea during breeding season.\n",
+  "eligibility": "\n- The applicant should be an ordinarily resident of the Union territory of Puducherry.\n- The applicant should be a fisherman.\n- The applicant should belong to a group designated to be &quot;Below Poverty Line&quot;.\n- *Beneficiary shall also be considered based on the decisions taken periodically by the Governing Body of the Pondicherry Fishermen Welfare and Distress Relief Society.\n- The applicant should not be ordinarily residing in any foreign nation during the natural calamity, lean season, or ban on the fishing period for which relief assistance is issued.\n- The beneficiary or any other members of the ration card should not be in regular service in the Government/Quasi Government/Government undertakings/Retired Government Pensioner.\n\n*** The benefit under this scheme shall not be denied only on the ground that the head of the family or family member is a recipient of Old Age Pension (OAP);**\n*** The benefit under this scheme shall not be restricted on the ground that the fisherman is in possession of mechanized or motorized or traditional fishing boats or is not in possession of the said fishing boats.**\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:07:58.466108+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:07:58.466108+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Fishermen Welfare Department, Puducherry",
+    "value": 34000015
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://fisheries.py.gov.in/sites/default/files/ban2020lean20notification.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://fisheries.py.gov.in/sites/default/files/ban-relief-application003.pdf"
+    },
+    {
+      "title": "State Plan Schemes",
+      "url": "https://fisheries.py.gov.in/sites/default/files/fisheries-state-plan-schemes.pdf"
+    },
+    {
+      "title": "List Of Sub-Offices",
+      "url": "https://fisheries.py.gov.in/sub-offices"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://fisheries.py.gov.in/contact-us"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "659be3ea6093f0fa3318f755",
+      "en": {
+        "documentsRequired_md": "\n- Aadhar Card\n- Copy of the First Page of the Passbook of the Bank Account.\n- Red Ration Card Issued by the Department of Civil Supplies and Consumer Affairs, Puducherry.\n- Identity Card Issued by the Director of Fisheries and Fishermen Welfare. \n- Membership Certificate as Proof Obtained From Fishermen Co-operative Society of the Village Concerned in the Union Territory of Puducherry. \n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the First Page of the Passbook of the Bank Account."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Red Ration Card Issued by the Department of Civil Supplies and Consumer Affairs, Puducherry."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Card Issued by the Director of Fisheries and Fishermen Welfare. "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Membership Certificate as Proof Obtained From Fishermen Co-operative Society of the Village Concerned in the Union Territory of Puducherry. "
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "659be3da6093f0fa3318f73e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "659be3da6093f0fa3318f73e",
+  "scheme_name": "\"Fishing Ban Period Assistance\" under \"Welfare and Relief for Fishermen During Lean Seasons and Natural Calamities Scheme\"",
+  "scheme_open_date": null,
+  "scheme_short_title": "WRFLSNCS-FBPS",
+  "slug": "wrflsncs-fbps",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Crisis/Disaster/Accident",
+      "value": "Crisis/Disaster/Accident"
+    },
+    {
+      "label": "Aids/Appliances",
+      "value": "Aids/Appliances"
+    },
+    {
+      "label": "Food Security / Public Distribution System",
+      "value": "Food Security / Public Distribution System"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Welfare",
+    "Relief",
+    "Clothes",
+    "Fisheries",
+    "Fisherman"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

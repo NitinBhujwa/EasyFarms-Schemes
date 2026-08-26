@@ -1,0 +1,956 @@
+{
+  "detail": {
+    "data": {
+      "_id": "690044ae0b4f3268f53484b4",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Primary Selection of Beneficiaries"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Rural Agricultural Extension Officer will conduct the primary selection of small and marginal Scheduled Caste and Scheduled Tribe farmers who are willing to participate in the Seed Production Programme. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The officer must select up to 1.5 times the physical target number of beneficiaries and prepare a list."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Submission and Approval of the Beneficiary List"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Rural Agricultural Extension Officer will submit the list of selected beneficiaries to the Senior Agricultural Development Officer or the Farm Superintendent. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Senior Agricultural Development Officer or Farm Superintendent will examine the received list and obtain the necessary approval from the Sub-Divisional Agricultural Officer."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Provision of Improved Seeds and Initial Distribution"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Director of Agriculture will issue directions for various entities, including Government Agricultural Farms, State Seed Corporation, National Seed Corporation, State Farm Corporation of India, and Agricultural Universities, to supply Foundation/Certified Grade I seeds directly to the Deputy Director of Agriculture. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Deputy Director of Agriculture will then arrange for the supply of seeds to the Farm Superintendent."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Seed Distribution to Farmers and Field Implementation"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Farm Superintendent will distribute the Foundation/Certified Grade I seeds to the selected farmers based on the Sub-Divisional Agricultural Officer's approval."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The farmer must sow the seed within the prescribed area, which should be a minimum of 0.2 hectares (1/2 acre) up to a maximum of 1 hectare. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Farmers must adopt the complete package of agricultural practices for higher production and remove unwanted plants to maintain seed purity."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Mandatory Registration for Seed Certification"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Rural Agricultural Extension Officer must submit the registration application form to the Farm Superintendent within 20 days of sowing or before the final date fixed by the government. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "It is mandatory for the Farm Superintendent to present this application to the Seed Certification Agency within the stipulated time frame."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 6:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Payment of Certification Fees"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Sub-Divisional Agricultural Officer will draw the necessary amount (application fee, registration fee, inspection fee, and sample fee) from the scheme budget. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Sub-Divisional Agricultural Officer must ensure that this amount is remitted to the Seed Certification Agency before the prescribed deadline."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 7:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Procurement, Processing, and Storage of Produced Seed"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Following successful field-level certification, the produced raw seed will be procured at fixed rates by the Seed Production Committee or the Farm Superintendent. "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The Farm Superintendent must arrange for the grading, processing, stocking, and packing of the raw seed under the supervision of the Seed Certification Agency, adhering to the schedule fixed by the government."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 8:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Financial Management and Final Payment"
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The Deputy Director of Agriculture will cover the expenditure for grading, processing, stocking, and packing of the raw seeds from the scheme budget."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "The remaining amount, after deducting the processing expenses from the fixed price of the supplied seed, must be deposited by challan into the government treasury under the payment head for the Government Agricultural Farm."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Application Deadlines",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Selection of beneficiaries must be completed by May 25 for Kharif and August 31 for Rabi/Summer."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Seed availability at the Farm/Cooperative Society/Lamps/Development Block must be completed by June 10 for Kharif and September 30 for Rabi/Summer."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Seed supply to farmers must be completed by June 15 for Kharif and October 10 for Rabi/Summer."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Grievance Redressal / Help & Support",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Technical advice, guidance, and supervision regarding the operation of the program will be provided by the Agriculture Department."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "##### **Step 1:****** ***Primary Selection of Beneficiaries***\n\n- The Rural Agricultural Extension Officer will conduct the primary selection of small and marginal Scheduled Caste and Scheduled Tribe farmers who are willing to participate in the Seed Production Programme. \n- The officer must select up to 1.5 times the physical target number of beneficiaries and prepare a list.\n\n##### **Step 2:****** ***Submission and Approval of the Beneficiary List***\n\n- The Rural Agricultural Extension Officer will submit the list of selected beneficiaries to the Senior Agricultural Development Officer or the Farm Superintendent. \n- The Senior Agricultural Development Officer or Farm Superintendent will examine the received list and obtain the necessary approval from the Sub-Divisional Agricultural Officer.\n\n##### **Step 3:****** ***Provision of Improved Seeds and Initial Distribution***\n\n- The Director of Agriculture will issue directions for various entities, including Government Agricultural Farms, State Seed Corporation, National Seed Corporation, State Farm Corporation of India, and Agricultural Universities, to supply Foundation/Certified Grade I seeds directly to the Deputy Director of Agriculture. \n- The Deputy Director of Agriculture will then arrange for the supply of seeds to the Farm Superintendent.\n\n##### **Step 4:****** ***Seed Distribution to Farmers and Field Implementation***\n\n- The Farm Superintendent will distribute the Foundation/Certified Grade I seeds to the selected farmers based on the Sub-Divisional Agricultural Officer&#39;s approval.\n- The farmer must sow the seed within the prescribed area, which should be a minimum of 0.2 hectares (1/2 acre) up to a maximum of 1 hectare. \n- Farmers must adopt the complete package of agricultural practices for higher production and remove unwanted plants to maintain seed purity.\n\n##### **Step 5:****** ***Mandatory Registration for Seed Certification***\n\n- The Rural Agricultural Extension Officer must submit the registration application form to the Farm Superintendent within 20 days of sowing or before the final date fixed by the government. \n- It is mandatory for the Farm Superintendent to present this application to the Seed Certification Agency within the stipulated time frame.\n\n##### **Step 6:****** ***Payment of Certification Fees***\n\n- The Sub-Divisional Agricultural Officer will draw the necessary amount (application fee, registration fee, inspection fee, and sample fee) from the scheme budget. \n- The Sub-Divisional Agricultural Officer must ensure that this amount is remitted to the Seed Certification Agency before the prescribed deadline.\n\n##### **Step 7:****** ***Procurement, Processing, and Storage of Produced Seed***\n\n- Following successful field-level certification, the produced raw seed will be procured at fixed rates by the Seed Production Committee or the Farm Superintendent. \n- The Farm Superintendent must arrange for the grading, processing, stocking, and packing of the raw seed under the supervision of the Seed Certification Agency, adhering to the schedule fixed by the government.\n\n##### **Step 8:****** ***Financial Management and Final Payment***\n\n- The Deputy Director of Agriculture will cover the expenditure for grading, processing, stocking, and packing of the raw seeds from the scheme budget.\n- The remaining amount, after deducting the processing expenses from the fixed price of the supplied seed, must be deposited by challan into the government treasury under the payment head for the Government Agricultural Farm.\n\n<br>\n\n##### ***Application Deadlines***\n\n- Selection of beneficiaries must be completed by May 25 for Kharif and August 31 for Rabi/Summer.\n- Seed availability at the Farm/Cooperative Society/Lamps/Development Block must be completed by June 10 for Kharif and September 30 for Rabi/Summer.\n- Seed supply to farmers must be completed by June 15 for Kharif and October 10 for Rabi/Summer.\n\n##### ***Grievance Redressal / Help &amp; Support***\nTechnical advice, guidance, and supervision regarding the operation of the program will be provided by the Agriculture Department.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Farmer Welfare and Agriculture Development Department",
+            "value": 2300011
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Annapurna Scheme: Seed Production Programme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "AS-SPP",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Agriculture",
+            "Seed",
+            "Farmer",
+            "Subsidy",
+            "Crop",
+            "Production"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must belong to the Scheduled Caste or Scheduled Tribe."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a small or marginal farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be willing to participate in the “Seed Production Programme”."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must operate within the 10-kilometer periphery of the selected Government agricultural farms."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must conduct the program on a minimum area of 0.2 hectares (1/2 acre)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be eligible for a maximum grant up to 1 hectare."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must mandatorily register with the Seed Certification Agency."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The plan includes the food grain crops Paddy (Dhan), Jowar, Bajra, Maize, Kodo, Kutki, Ragi (for Kharif), and Wheat (Gehu), Barley (Jau) (for Rabi)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "*Preference should be given to the names listed first in the approved list."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "*The waiting list will remain valid only until the crop season."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Implementation Area ",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Seed Production Programme will be implemented within the 10-kilometer periphery of the following Government agricultural farms:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "italic": true,
+                  "text": "Gohad (Bhind), Mahuakheda (Gwalior), Indergarh (Datia), Gazaura (Shivpuri), Rannod (Shivpuri), Gariyaband (Raipur), Khairibilari (Raipur), Mohgaon (Durg), Surgi (Rajnandgaon), Bhavarmara (Rajnandgaon), Amethi (Raigarh), Ragja (Janjgir), Lakhanpur (Korba), Gehwara (Satna), Samda (Sidhi), Jabera (Damoh), Naogaon (Chhatarpur), Ajaygarh (Panna), Bhomakhatiya (Seoni), Kinhi (Balaghat), Delakhedi (Chhindwara), Narsinghpur (Narsinghpur), Pirprod (Katni), Manpur (Umariya), Bhikangaon (Khargone), Chandrakeshar (Dewas), Girwar (Shajapur), Panched (Ratlam), Patan (Mandsaur), Phanda (Bhopal), Rehthi (Sehore), Silwani (Raisen), Gundgaon (Betul), Sarangpur (Rajgarh), Keralapal (Jagdalpur), Kanker (Kanker), Pankhajor (Kanker), Chalta (Sitapur Surguja), Lohari (Koriya), Ori (Mandla), Biridodogari (Mandla), Birhuliya (Shahdol), Nogaon (Dhar), Jobat (Jhabua), Alirajpur (Jhabua), Garhi (Balaghat)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The applicant must belong to the Scheduled Caste or Scheduled Tribe.\n\n\n- The applicant must be a small or marginal farmer.\n- The applicant must be willing to participate in the “Seed Production Programme”.\n- The applicant must operate within the 10-kilometer periphery of the selected Government agricultural farms.\n- The applicant must conduct the program on a minimum area of 0.2 hectares (1/2 acre).\n- The applicant must be eligible for a maximum grant up to 1 hectare.\n- The applicant must mandatorily register with the Seed Certification Agency.\n- The plan includes the food grain crops Paddy (Dhan), Jowar, Bajra, Maize, Kodo, Kutki, Ragi (for Kharif), and Wheat (Gehu), Barley (Jau) (for Rabi).\n\n****Preference should be given to the names listed first in the approved list.***\n****The waiting list will remain valid only until the crop season.***\n<br>\n\n***Implementation Area*** \nThe Seed Production Programme will be implemented within the 10-kilometer periphery of the following Government agricultural farms:\n_Gohad (Bhind), Mahuakheda (Gwalior), Indergarh (Datia), Gazaura (Shivpuri), Rannod (Shivpuri), Gariyaband (Raipur), Khairibilari (Raipur), Mohgaon (Durg), Surgi (Rajnandgaon), Bhavarmara (Rajnandgaon), Amethi (Raigarh), Ragja (Janjgir), Lakhanpur (Korba), Gehwara (Satna), Samda (Sidhi), Jabera (Damoh), Naogaon (Chhatarpur), Ajaygarh (Panna), Bhomakhatiya (Seoni), Kinhi (Balaghat), Delakhedi (Chhindwara), Narsinghpur (Narsinghpur), Pirprod (Katni), Manpur (Umariya), Bhikangaon (Khargone), Chandrakeshar (Dewas), Girwar (Shajapur), Panched (Ratlam), Patan (Mandsaur), Phanda (Bhopal), Rehthi (Sehore), Silwani (Raisen), Gundgaon (Betul), Sarangpur (Rajgarh), Keralapal (Jagdalpur), Kanker (Kanker), Pankhajor (Kanker), Chalta (Sitapur Surguja), Lohari (Koriya), Ori (Mandla), Biridodogari (Mandla), Birhuliya (Shahdol), Nogaon (Dhar), Jobat (Jhabua), Alirajpur (Jhabua), Garhi (Balaghat)._\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Provision of Foundation or Certified Grade I seeds of improved varieties of high-yielding food grain crops for seed production."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Eligibility for a 75% subsidy on the actual cost of the Foundation or Certified seed up to a maximum area of 1 hectare."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Payment for registration (application fee, registration fee, inspection fee, and sample fee) with the Seed Certification Agency will be covered from the scheme budget."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Technical training and necessary information will be provided by the Rural Agricultural Extension Officer, Senior Agricultural Development Officer, and Subject Matter Specialist (Sub-Divisional level)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Guaranteed procurement of the produced seed by the Seed Production Committee or Farm Superintendent at government-fixed rates."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Expenditure related to the grading, processing, stocking, and packing of raw seeds produced on Government agricultural farms can be carried out by the Deputy Director of Agriculture from the scheme budget."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Conditions",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The farmer must utilize the seed provided for a maximum area of 1 hectare and a minimum area of 0.2 hectares (1/2 acre)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The farmer must adopt the complete package of agricultural practices for higher production."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The farmer must ensure the removal of undesirable plants to maintain seed purity."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The farmer must sign an agreement with the department through the Seed Production Committee or Farm Superintendent regarding seed production, procurement, and payment according to the policy."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The farmer must pay the remaining 25% of the seed cost in cash or by providing their own seed."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "If the farmer provides their own seed, the price of that seed will be determined based on the support price."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The produced Certified Seed must be made available to other Scheduled Caste and Scheduled Tribe farmers under the scheme in the subsequent year."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "italic": true,
+                      "text": "The expenditure incurred on processing, grading, stocking, and packing will be deducted from the fixed price of the supplied seed, and the remaining amount must be deposited into the government treasury."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- Provision of Foundation or Certified Grade I seeds of improved varieties of high-yielding food grain crops for seed production.\n- Eligibility for a 75% subsidy on the actual cost of the Foundation or Certified seed up to a maximum area of 1 hectare.\n- Payment for registration (application fee, registration fee, inspection fee, and sample fee) with the Seed Certification Agency will be covered from the scheme budget.\n- Technical training and necessary information will be provided by the Rural Agricultural Extension Officer, Senior Agricultural Development Officer, and Subject Matter Specialist (Sub-Divisional level).\n- Guaranteed procurement of the produced seed by the Seed Production Committee or Farm Superintendent at government-fixed rates.\n- Expenditure related to the grading, processing, stocking, and packing of raw seeds produced on Government agricultural farms can be carried out by the Deputy Director of Agriculture from the scheme budget.\n\n<br>\n\n***Conditions***\n\n- _The farmer must utilize the seed provided for a maximum area of 1 hectare and a minimum area of 0.2 hectares (1/2 acre)._\n- _The farmer must adopt the complete package of agricultural practices for higher production._\n- _The farmer must ensure the removal of undesirable plants to maintain seed purity._\n- _The farmer must sign an agreement with the department through the Seed Production Committee or Farm Superintendent regarding seed production, procurement, and payment according to the policy._\n- _The farmer must pay the remaining 25% of the seed cost in cash or by providing their own seed._\n- _If the farmer provides their own seed, the price of that seed will be determined based on the support price._\n- _The produced Certified Seed must be made available to other Scheduled Caste and Scheduled Tribe farmers under the scheme in the subsequent year._\n- _The expenditure incurred on processing, grading, stocking, and packing will be deducted from the fixed price of the supplied seed, and the remaining amount must be deposited into the government treasury._\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to enhance the production and economic status of Scheduled Caste and Scheduled Tribe small and marginal farmers. It provides Foundation or Certified Grade I seeds for high-yielding food grain crops with a 75% subsidy to registered farmers operating near Government agricultural farms.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The “Annapurna Scheme” was launched by the Department of Farmers Welfare and Agricultural Development, Government of Madhya Pradesh. The “Seed Production Programme” component of the scheme aims to improve the economic condition of small and marginal farmers belonging to the Scheduled Castes and Scheduled Tribes by providing economic assistance for improved seeds, thereby increasing productivity and production. The scheme provides Foundation or Certified Grade I seeds of improved, high-yielding food grain crops to selected farmers for seed production up to a limit of 1 hectare, along with a 75% subsidy on the actual cost of the seed."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Annapurna Scheme” was launched by the Department of Farmers Welfare and Agricultural Development, Government of Madhya Pradesh. The “Seed Production Programme” component of the scheme aims to improve the economic condition of small and marginal farmers belonging to the Scheduled Castes and Scheduled Tribes by providing economic assistance for improved seeds, thereby increasing productivity and production. The scheme provides Foundation or Certified Grade I seeds of improved, high-yielding food grain crops to selected farmers for seed production up to a limit of 1 hectare, along with a 75% subsidy on the actual cost of the seed.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/Annapurna.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "as-spp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "690048b4b29d98f5f7b9fcf8",
+      "en": {
+        "documentsRequired_md": "##### ***At The Time Of Application/Selection***\n\n- Caste Certificate\n- Land Holding Document Showing Minimum 0.2 Hectares (1/2 Acre) Area For The Programme.\n- Proof Of Residence Within 10 Kilometer Periphery Of The Selected Government Agricultural Farm.\n- Written Consent (Or Declaration) Of Willingness To Participate In The Seed Production Programme.\n\n##### ***Post-Selection/During Implementation***\n\n- Application Form For Registration (To Be Submitted To The Farm Superintendent Within 20 Days Of Sowing).\n- Agreement  With The Department Regarding Seed Production And Procurement.\n- Challan (For Depositing Remaining 25% Seed Cost In Cash) (If Applicable).\n- Declaration Of Own Seed Contribution (To Cover Remaining 25% Seed Cost) (If Applicable).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "At The Time Of Application/Selection",
+                "underline": true
+              }
+            ],
+            "type": "heading_five"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Holding Document Showing Minimum 0.2 Hectares (1/2 Acre) Area For The Programme."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof Of Residence Within 10 Kilometer Periphery Of The Selected Government Agricultural Farm."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Written Consent (Or Declaration) Of Willingness To Participate In The Seed Production Programme."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "Post-Selection/During Implementation",
+                "underline": true
+              }
+            ],
+            "type": "heading_five"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application Form For Registration (To Be Submitted To The Farm Superintendent Within 20 Days Of Sowing)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Agreement  With The Department Regarding Seed Production And Procurement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Challan (For Depositing Remaining 25% Seed Cost In Cash) (If Applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration Of Own Seed Contribution (To Cover Remaining 25% Seed Cost) (If Applicable)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "690044ae0b4f3268f53484b4"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:45.487401+00:00",
+  "scheme_id": "690044ae0b4f3268f53484b4"
+}

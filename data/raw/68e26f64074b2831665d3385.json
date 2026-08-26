@@ -1,0 +1,329 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68e26f64074b2831665d3385",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the nearest Animal Husbandry Department office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the Animal Husbandry Department office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the Animal Husbandry Department office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the nearest Animal Husbandry Department office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Animal Husbandry Department office.\n**Step 4:** Request a receipt or acknowledgment from the Animal Husbandry Department office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry Department",
+            "value": 2300001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Vats Palan Protsahan Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "VPPY",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Farmer",
+            "Financial Assistance",
+            "Cattle Breed",
+            "Livestock"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Madhya Pradesh. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a livestock farmer owning Indian high-yielding indigenous cows."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The cow’s milk production must be at least 30% higher than the breed average."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The calf must be born through artificial insemination or natural insemination using genetically superior Indian bulls."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Both urban and rural farmers are eligible."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Both male and female calves receive support up to two years of age."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Madhya Pradesh. \n1. The applicant must be a livestock farmer owning Indian high-yielding indigenous cows.\n1. The cow’s milk production must be at least 30% higher than the breed average.\n1. The calf must be born through artificial insemination or natural insemination using genetically superior Indian bulls.\n1. Both urban and rural farmers are eligible.\n1. Both male and female calves receive support up to two years of age.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "One-time incentive of ₹5,000 for cows whose milk production is at least 30% higher than the breed average."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Monthly support of ₹500 per calf for feed and medicines, from 0–4 months up to two years of age."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- One-time incentive of ₹5,000 for cows whose milk production is at least 30% higher than the breed average.\n- Monthly support of ₹500 per calf for feed and medicines, from 0–4 months up to two years of age.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to improve Indian indigenous high-yielding cattle breeds by providing eligible livestock farmers with financial incentives and monthly support for calf maintenance.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Vats Palan Protsahan Yojana\" scheme was launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve indigenous Indian high-yielding cattle breeds and encourage the conservation and proper care of calves born from these superior breeds. Under this scheme, financial incentives and monthly support for calf feed and medicines are provided to eligible livestock farmers to ensure the growth and maintenance of genetically superior calves."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Vats Palan Protsahan Yojana&quot; scheme was launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve indigenous Indian high-yielding cattle breeds and encourage the conservation and proper care of calves born from these superior breeds. Under this scheme, financial incentives and monthly support for calf feed and medicines are provided to eligible livestock farmers to ensure the growth and maintenance of genetically superior calves.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=210"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "vppy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68e26fd9e00490d9b32e1a75",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card \n- Residence Proof\n- Livestock Ownership Proof\n- Bank Account Passbook\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Livestock Ownership Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Passbook"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e26f64074b2831665d3385"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:03:23.188117+00:00",
+  "scheme_id": "68e26f64074b2831665d3385"
+}

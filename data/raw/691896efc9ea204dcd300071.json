@@ -1,0 +1,383 @@
+{
+  "detail": {
+    "data": {
+      "_id": "691896efc9ea204dcd300071",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Application forms can be obtained from the officers or staff at the Horticulture Mobile team Centre. Forms are also available for download from the department’s website: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://shm.uk.gov.in"
+                              }
+                            ],
+                            "link": "https://shm.uk.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For winter planting, applications must be submitted between September and October, and for rainy season planting, applications must be submitted between April and June. Applicants are required to submit land-related documents, such as Khasra and Khatauni, along with the application form. For leased land, additional documents including the lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Currently, the application process is offline. Farmers must submit their completed application along with the required documents to the respective Horticulture Mobile team Centre. The application format also serves as a proposal. If a farmer faces any difficulty in filling out the form, the staff at the respective centres are responsible for providing assistance."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre  forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Once a farmer's proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase flower planting material (bulbs, plants, or seeds) from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries are selected on a first-come, first-served basis, subject to budget availability."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - Application forms can be obtained from the officers or staff at the Horticulture Mobile team Centre. Forms are also available for download from the department’s website: [https://shm.uk.gov.in](https://shm.uk.gov.in/).  - For winter planting, applications must be submitted between September and October, and for rainy season planting, applications must be submitted between April and June. Applicants are required to submit land-related documents, such as Khasra and Khatauni, along with the application form. For leased land, additional documents including the lease certificate, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number are required.\n  - Currently, the application process is offline. Farmers must submit their completed application along with the required documents to the respective Horticulture Mobile team Centre. The application format also serves as a proposal. If a farmer faces any difficulty in filling out the form, the staff at the respective centres are responsible for providing assistance.\n  - For applications under centrally-sponsored schemes, once the proposal is submitted, the Horticulture Mobile team Centre  forwards it to the district level. From there, applications are sent to the state level, and then to the Government of India. After the action plan is approved by the Government of India, targets are communicated back to the district level through the Directorate.\n  - For state-sponsored schemes, applications are sent from the Horticulture Mobile team Centre to the district level, and then to the Directorate. Once the Directorate approves the farmers’ proposals, approval or work orders are issued to the districts as per the Government Order.\n  - Once a farmer&amp;#39;s proposal is approved, the district officer issues an acceptance letter and informs the farmer via phone. The farmer can then purchase flower planting material (bulbs, plants, or seeds) from the relevant Horticulture Mobile team Centre at a 50% subsidy. Beneficiaries are selected on a first-come, first-served basis, subject to budget availability.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Flower Area Expansion",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "FAEUK",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Horticulture",
+            "Flower",
+            "Flower Planting Material",
+            "Farmer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer and hold a Udhyan Card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer must either own agricultural land or have land on lease."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer and hold a Udhyan Card.\n1. The farmer must either own agricultural land or have land on lease.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To encourage flower production, flower planting material (bulbs, plants, and seeds) is provided to cultivators at a 50% subsidy on the total cost, applicable for a maximum area of 4 hectares, as follows:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "For open flowers, planting material worth up to ₹20,000/- per hectare is provided."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "For stalked flowers, planting material worth up to ₹50,000/- per hectare is provided."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "For bulbous flowers, planting material worth up to ₹75,000/- per hectare is provided."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "(For example, if 1 kg of marigold seeds costs ₹200/-, the cultivator pays ₹100/- at the Horticulture Mobile team Center, while the government provides a subsidy of ₹100/-, allowing the cultivator to obtain the seeds for ₹100/-.)"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "To encourage flower production, flower planting material (bulbs, plants, and seeds) is provided to cultivators at a 50% subsidy on the total cost, applicable for a maximum area of 4 hectares, as follows:\n\n  - For open flowers, planting material worth up to ₹20,000/- per hectare is provided.\n  - For stalked flowers, planting material worth up to ₹50,000/- per hectare is provided.\n  - For bulbous flowers, planting material worth up to ₹75,000/- per hectare is provided.\n\n(For example, if 1 kg of marigold seeds costs ₹200/-, the cultivator pays ₹100/- at the Horticulture Mobile team Center, while the government provides a subsidy of ₹100/-, allowing the cultivator to obtain the seeds for ₹100/-.)\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote and expand flower cultivation by providing cultivators in Uttarakhand access to quality flower planting material at a subsidized cost, thereby increasing flower production and enhancing farmers’ income.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Flower Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand flower cultivation by providing cultivators in Uttarakhand access to quality flower planting material at a subsidized cost, thereby increasing flower production and enhancing farmers’ income."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Flower Area Expansion” scheme is implemented by the Department of Horticulture, Government of Uttarakhand. It aims to promote and expand flower cultivation by providing cultivators in Uttarakhand access to quality flower planting material at a subsidized cost, thereby increasing flower production and enhancing farmers’ income.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 213)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "faeuk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6918a1e6d176a77d10a02181",
+      "en": {
+        "documentsRequired_md": "\n1. Land-related documents, such as Khasra and Khatauni (lease certificate, in case of leased land)\n1. Aadhaar Card\n1. PAN Card\n1. Udhyan Card\n1. Bank account details\n1. Mobile Number\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land-related documents, such as Khasra and Khatauni (lease certificate, in case of leased land)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Udhyan Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691896efc9ea204dcd300071"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:01:04.487539+00:00",
+  "scheme_id": "691896efc9ea204dcd300071"
+}

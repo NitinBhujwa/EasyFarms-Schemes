@@ -1,0 +1,224 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "To avail the benefits of the scheme, the bonafide farmers can approach the nearest Agriculture Development Officer of a CD Block/Agriculture Circle."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Does not arise. All farmers can avail of publication materials on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Agriculture Information Officer, Directorate of Agriculture."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Agriculture Officers of the concerned districts."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Sub-divisional Officers of the concerned sub-divisions."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Agriculture Development Officers of the concerned Community and Rural Development Blocks."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\nTo avail the benefits of the scheme, the bonafide farmers can approach the nearest Agriculture Development Officer of a CD Block/Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nDoes not arise. All farmers can avail of publication materials on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n\n   1. Agriculture Information Officer, Directorate of Agriculture.\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-divisional Officers of the concerned sub-divisions.\n   1. Agriculture Development Officers of the concerned Community and Rural Development Blocks.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\n\n  - Free distribution of information leaflets, package of practices, booklets etc., including sponsoring Farmers Group, SHG to exposure programmes like trade fairs, expos, exhibitions in and outside the State.\n\n&gt; **Type of Assistance and Entitlement (If any):**\n\n\n  - Farmers Exposure Trip, Holding Crop Competition, Printing of booklets, leaflets, farmer calendar, publications, observation of World Food Day, Sponsoring farmers to participate in Trade Fair, Exhibition, Kisan Mela.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "86c8df46cd2ea6dc8d737103968054d1ee46102561ea3e8dcc3bbca222480f87",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Agriculture Information Unit Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide free distribution of information leaflets, booklets, etc. Sponsoring farmers&amp;#39; groups, and self-help groups to participate in and/ or organize trade fairs, expos, and exhibitions within and outside the state.\n",
+  "eligibility": "\n1. The applicant should be a resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:11.158088+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:02:11.158088+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=44"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65d7276f938a0b13cc8d4d11",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Documents proof of being a farmer\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of being a farmer"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65d726f8cd96dc5e075d4393"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65d726f8cd96dc5e075d4393",
+  "scheme_name": "Agriculture Information Unit Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "AIUS",
+  "slug": "aius",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Information Unit",
+    "Leaflets",
+    "Booklets",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

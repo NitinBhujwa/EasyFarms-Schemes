@@ -1,0 +1,763 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6880ac0aa75b32e33b096261",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Application Process",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "official website of"
+                      }
+                    ],
+                    "link": "https://dsagsahay.gujarat.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": " "
+                      }
+                    ],
+                    "link": "https://dsagsahay.gujarat.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Development Support Agency of Gujarat (D-SAG)"
+                      }
+                    ],
+                    "link": "https://dsagsahay.gujarat.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": ", "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Tribal Development Department"
+                      }
+                    ],
+                    "link": "https://dsagsahay.gujarat.gov.in/",
+                    "type": "link"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Click on Beneficiary Registration. A "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "new page"
+                      }
+                    ],
+                    "link": "https://dsagsahay.gujarat.gov.in/CitizenPortal/",
+                    "type": "link"
+                  },
+                  {
+                    "text": " will appears. Select \"New beneficiary registration\" if you are registering for the first time."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Register by entering your Ration Card Number and Mobile Number, then click GET OTP."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "Enter the One Time Password (OTP) received on your mobile number and click Register."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "Upon successful registration, a Success pop-up will appear."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 6:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Select your Applicant Type from the available options: Livestock Keeper, Farmer and Livestock Keeper, or Student/Trainee. Click Save."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 7:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "Fill in the General Details, Personal Details, Bank Details, as required, and click the Proceed button. Confirm by clicking OK on the pop-up."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 8:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Upload the required documents by clicking Choose File and then Upload File."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 9:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "After uploading all documents, a window will appear. Click View to check each document. If any document was uploaded incorrectly, click Delete and re-upload it."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 10:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Once all documents are verified, click the Proceed button. Confirm by clicking OK on the pop-up."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 11:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "After completing these steps, your profile will be created, and the portal dashboard will be displayed."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Tracking Process",
+                    "underline": true
+                  }
+                ],
+                "type": "heading_five"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "official website"
+                      }
+                    ],
+                    "link": "https://dsagsahay.gujarat.gov.in/#",
+                    "type": "link"
+                  },
+                  {
+                    "text": " of Development Support Agency of Gujarat (D-SAG), Tribal Development Department."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Click on \"Application Status\". A pop-up window will appear."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Select the \"Scheme name\" from the options provided."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Enter your application number in the designated field."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5:",
+                    "underline": true
+                  },
+                  {
+                    "bold": true,
+                    "text": " "
+                  },
+                  {
+                    "text": "Click on \"Application Status\" again to view the status of your application."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "##### ***Application Process***\n**Step 1:** Visit the [official website of](https://dsagsahay.gujarat.gov.in/)[ ](https://dsagsahay.gujarat.gov.in/)[Development Support Agency of Gujarat (D-SAG)](https://dsagsahay.gujarat.gov.in/), [Tribal Development Department](https://dsagsahay.gujarat.gov.in/).\n**Step 2:** Click on Beneficiary Registration. A [new page](https://dsagsahay.gujarat.gov.in/CitizenPortal/) will appears. Select &quot;New beneficiary registration&quot; if you are registering for the first time.\n**Step 3:** Register by entering your Ration Card Number and Mobile Number, then click GET OTP.\n**Step 4:****** Enter the One Time Password (OTP) received on your mobile number and click Register.\n**Step 5:****** Upon successful registration, a Success pop-up will appear.\n**Step 6:** Select your Applicant Type from the available options: Livestock Keeper, Farmer and Livestock Keeper, or Student/Trainee. Click Save.\n**Step 7:****** Fill in the General Details, Personal Details, Bank Details, as required, and click the Proceed button. Confirm by clicking OK on the pop-up.\n**Step 8:** Upload the required documents by clicking Choose File and then Upload File.\n**Step 9:****** After uploading all documents, a window will appear. Click View to check each document. If any document was uploaded incorrectly, click Delete and re-upload it.\n**Step 10:** Once all documents are verified, click the Proceed button. Confirm by clicking OK on the pop-up.\n**Step 11:****** After completing these steps, your profile will be created, and the portal dashboard will be displayed.\n##### ***Tracking Process***\n**Step 1:** Visit the [official website](https://dsagsahay.gujarat.gov.in/#) of Development Support Agency of Gujarat (D-SAG), Tribal Development Department.\n**Step 2:** Click on &quot;Application Status&quot;. A pop-up window will appear.\n**Step 3:** Select the &quot;Scheme name&quot; from the options provided.\n**Step 4:** Enter your application number in the designated field.\n**Step 5:****** Click on &quot;Application Status&quot; again to view the status of your application.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "implementingAgency": "Development Support Agency Of Gujarat (D-SAG)",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Tribal Development Department",
+            "value": 2444467
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Family",
+          "schemeName": "Goat Rearing Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "GRS-GUJ",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Women",
+            "BPL",
+            "Disability",
+            "Scheduled Tribe",
+            "Farmer"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a tribal woman beneficiary."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant's age must be between 18 and 60 years."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a tribal woman livestock keeper residing in Scheduled Areas, Pockets, and Clusters within tribal districts."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a Below Poverty Line (BPL) tribal woman livestock keeper with a BPL score between 0 and 20."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Only one person per family will receive the benefit under this scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The scheme's benefit is ration card-based, meaning only one woman beneficiary per ration card can receive the benefit."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant can avail the benefit of this scheme again after 10 years."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Preference/Priority/Reservation/Relaxation",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "The following priority order will be given for beneficiary selection:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Primitive Tribal Group (PVTG) livestock keeper women beneficiaries."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Tribal livestock keeper women beneficiaries holding Forest Rights Act (FRA) entitlement letters."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Other tribal livestock keeper women beneficiaries, with the following sub-priority:"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Disabled tribal women."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Widowed or divorced tribal women."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "BPL tribal women livestock keeper beneficiaries with the lowest score among those with a 0 to 20 BPL score."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a tribal woman beneficiary.\n1. The applicant&#39;s age must be between 18 and 60 years.\n1. The applicant must be a tribal woman livestock keeper residing in Scheduled Areas, Pockets, and Clusters within tribal districts.\n1. The applicant must be a Below Poverty Line (BPL) tribal woman livestock keeper with a BPL score between 0 and 20.\n1. Only one person per family will receive the benefit under this scheme.\n1. The scheme&#39;s benefit is ration card-based, meaning only one woman beneficiary per ration card can receive the benefit.\n1. The applicant can avail the benefit of this scheme again after 10 years.\n\n<br>\n\n> **Preference/Priority/Reservation/Relaxation**\n\nThe following priority order will be given for beneficiary selection:\n\n1. Primitive Tribal Group (PVTG) livestock keeper women beneficiaries.\n1. Tribal livestock keeper women beneficiaries holding Forest Rights Act (FRA) entitlement letters.\n1. Other tribal livestock keeper women beneficiaries, with the following sub-priority:\n\n\n- Disabled tribal women.\n- Widowed or divorced tribal women.\n- BPL tribal women livestock keeper beneficiaries with the lowest score among those with a 0 to 20 BPL score.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Financial assistance is provided for setting up goat units, specifically 10 goats and 1 male goat."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The assistance amount is 50% of the total unit cost or a maximum of ₹45,000/-, whichever is less."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n1. Financial assistance is provided for setting up goat units, specifically 10 goats and 1 male goat.\n1. The assistance amount is 50% of the total unit cost or a maximum of ₹45,000/-, whichever is less.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to increase the income and raise the living standards of tribal women beneficiaries. Through this scheme, financial assistance is provided for setting up goat units.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The scheme \"Goat Rearing Scheme\" by the Tribal Development Department, Government of Gujarat, aims to increase the income of tribal women beneficiaries and improve their living standards. Under the State's Scheduled Tribe Sub-Scheme, an assistance scheme for setting up goat units (10 goats + 1 male goat) for tribal women beneficiaries is in effect, in which assistance is paid to the beneficiaries' bank accounts through DBT for purchasing goat units for tribal women. The scheme is implemented by the Development Support Agency of Gujarat (D-SAG)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &quot;Goat Rearing Scheme&quot; by the Tribal Development Department, Government of Gujarat, aims to increase the income of tribal women beneficiaries and improve their living standards. Under the State&#39;s Scheduled Tribe Sub-Scheme, an assistance scheme for setting up goat units (10 goats + 1 male goat) for tribal women beneficiaries is in effect, in which assistance is paid to the beneficiaries&#39; bank accounts through DBT for purchasing goat units for tribal women. The scheme is implemented by the Development Support Agency of Gujarat (D-SAG).\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            },
+            {
+              "title": "Online Application Website",
+              "url": "https://dsagsahay.gujarat.gov.in/"
+            },
+            {
+              "title": "Registration Link",
+              "url": "https://dsagsahay.gujarat.gov.in/CitizenPortal/"
+            },
+            {
+              "title": "Application User Manual",
+              "url": "https://dsagsahay.gujarat.gov.in/pdf/new_manual.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "grsguj"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6880ac3ca75b32e33b096389",
+      "en": {
+        "documentsRequired_md": "\n1. Passport Size Photo\n1. Below Poverty Line (BPL) Score 0 to 20 Certificate\n1. Aadhaar Card copy\n1. Caste Certificate\n1. Ration Card copy\n1. Husband&#39;s Death Certificate (if the applicant is a widow)\n1. Proof of Divorce (if the applicant is divorced)\n1. Medical Certificate (for disabled applicants)\n1. Bank Passbook copy\n1. Copy of Entitlement Letter (if land is allotted under the Forest Rights Act)\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport Size Photo"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Below Poverty Line (BPL) Score 0 to 20 Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Husband's Death Certificate (if the applicant is a widow)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Divorce (if the applicant is divorced)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Medical Certificate (for disabled applicants)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook copy"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Entitlement Letter (if land is allotted under the Forest Rights Act)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6880ac0aa75b32e33b096261"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:14.467084+00:00",
+  "scheme_id": "6880ac0aa75b32e33b096261"
+}

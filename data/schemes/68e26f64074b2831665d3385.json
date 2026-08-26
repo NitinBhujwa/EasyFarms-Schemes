@@ -1,0 +1,204 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the nearest Animal Husbandry Department office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the Animal Husbandry Department office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the Animal Husbandry Department office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the nearest Animal Husbandry Department office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the Animal Husbandry Department office.\n**Step 4:** Request a receipt or acknowledgment from the Animal Husbandry Department office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- One-time incentive of ₹5,000 for cows whose milk production is at least 30% higher than the breed average.\n- Monthly support of ₹500 per calf for feed and medicines, from 0–4 months up to two years of age.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "5debe3cb8c8a2cb57786c713a44b995788206813c36eae9d414b1b8272b2988c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Vats Palan Protsahan Yojana&quot; scheme was launched by the Animal Husbandry Department, Government of Madhya Pradesh. The scheme aims to improve indigenous Indian high-yielding cattle breeds and encourage the conservation and proper care of calves born from these superior breeds. Under this scheme, financial incentives and monthly support for calf feed and medicines are provided to eligible livestock farmers to ensure the growth and maintenance of genetically superior calves.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Madhya Pradesh. \n1. The applicant must be a livestock farmer owning Indian high-yielding indigenous cows.\n1. The cow’s milk production must be at least 30% higher than the breed average.\n1. The calf must be born through artificial insemination or natural insemination using genetically superior Indian bulls.\n1. Both urban and rural farmers are eligible.\n1. Both male and female calves receive support up to two years of age.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:23.188117+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:23.188117+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry Department",
+    "value": 2300001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=210"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68e26fd9e00490d9b32e1a75",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card \n- Residence Proof\n- Livestock Ownership Proof\n- Bank Account Passbook\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Livestock Ownership Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Passbook"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e26f64074b2831665d3385"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68e26f64074b2831665d3385",
+  "scheme_name": "Vats Palan Protsahan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "VPPY",
+  "slug": "vppy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Financial Assistance",
+    "Cattle Breed",
+    "Livestock"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

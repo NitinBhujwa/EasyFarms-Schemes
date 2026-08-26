@@ -1,0 +1,533 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6478818c481f59106a66af90",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-01:"
+                      },
+                      {
+                        "text": " The beneficiary has to apply online at I-Khedut Portal. "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-02:"
+                      },
+                      {
+                        "text": " Click on the \"Apply Newly\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Ste-03: "
+                      },
+                      {
+                        "text": "Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-04:"
+                      },
+                      {
+                        "text": " Click on the “Upload Documents” and uploaded all the required documents."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-05:"
+                      },
+                      {
+                        "text": " Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-06:"
+                      },
+                      {
+                        "text": " The application must be signed and submitted along with the supporting documents to the office address mentioned on the application” or “Application confirmed within seven days from the date of saving the online application scanned copy of the application and other documents can be uploaded after confirming the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-07:"
+                      },
+                      {
+                        "text": " Take a printout of the confirmed application form, sign/thumb impression on it, and with all submit the concerned documents within 7 days to a nearby veterinary dispensary."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note-01:"
+                      },
+                      {
+                        "text": " It is mandatory to take a printout of the application (only applying online will not count as an application)."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note-02:"
+                      },
+                      {
+                        "text": " Take a printout of the online application and submit it along with necessary documents to the office/office address mentioned on the application or after applying online on the I-Khedut Portal, take a printout of the application and scan it with signature/thumbprint and \"Signed Application Print\" on the portal. A copy can be uploaded by clicking on Upload\" menu. \"Other Document Upload\" wherever applicable."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note-03:"
+                      },
+                      {
+                        "text": " The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note-04:"
+                      },
+                      {
+                        "text": " If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents in the concerned office within seven days of application."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note-05: "
+                      },
+                      {
+                        "text": "Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step-01:** The beneficiary has to apply online at I-Khedut Portal. [https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx](https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx)\n**Step-02:** Click on the &amp;quot;Apply Newly&amp;quot; button and submit a new application.\n**Ste-03:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step-04:** Click on the “Upload Documents” and uploaded all the required documents.\n**Step-05:** Once the application is done, confirm it. The application must be confirmed within seven days from the date of saving the online application.\n**Step-06:** The application must be signed and submitted along with the supporting documents to the office address mentioned on the application” or “Application confirmed within seven days from the date of saving the online application scanned copy of the application and other documents can be uploaded after confirming the application.\n**Step-07:** Take a printout of the confirmed application form, sign/thumb impression on it, and with all submit the concerned documents within 7 days to a nearby veterinary dispensary.\n&lt;br&gt;\n\n&gt; **Note-01:** It is mandatory to take a printout of the application (only applying online will not count as an application).\n\n&gt; **Note-02:** Take a printout of the online application and submit it along with necessary documents to the office/office address mentioned on the application or after applying online on the I-Khedut Portal, take a printout of the application and scan it with signature/thumbprint and &amp;quot;Signed Application Print&amp;quot; on the portal. A copy can be uploaded by clicking on Upload&amp;quot; menu. &amp;quot;Other Document Upload&amp;quot; wherever applicable.\n\n&gt; **Note-03:** The application will be inwardly taken online by the concerned officer/office only if the correct and sufficient documents are uploaded along with the application signed/fingerprinted by the beneficiary.\n\n&gt; **Note-04:** If wrong/incomplete documents are uploaded online by the beneficiary, such application will not be inwarded online. In such circumstances, the beneficiary has to submit the remaining/correct documents in the concerned office within seven days of application.\n\n&gt; **Note-05:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n\n",
+            "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_ANH2_SchemeApplicaiton.aspx"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": "Directorate Of Animal Husbandry, Government Of Gujarat",
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Business & Entrepreneurship",
+              "value": "628ce733d6d1a3bde4685278"
+            },
+            {
+              "label": "Women and Child",
+              "value": "64f57d10ffb93104c7006c97"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Subsidy Scheme For Establishment Of Goat Unit (10+1) For Scheduled Tribe Women",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SSEGU10STW",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            },
+            {
+              "label": "Setting up / start-up / entrepreneurship",
+              "value": "Setting up / start-up / entrepreneurship"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Scheduled Tribe",
+            "Woman",
+            "Subsidy",
+            "Milk Production",
+            "Goat"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Applicant should be a Scheduled Tribe (ST) woman."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The benefit has provided to only one person per family."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Priority will be given if the applicant is:"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "children": [
+                                {
+                                  "text": "A Scheduled Tribe widow, or"
+                                }
+                              ],
+                              "type": "list_item"
+                            },
+                            {
+                              "children": [
+                                {
+                                  "text": "An abandoned woman."
+                                }
+                              ],
+                              "type": "list_item"
+                            }
+                          ],
+                          "type": "ul_list"
+                        }
+                      ],
+                      "type": "align_justify"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 01:"
+                    },
+                    {
+                      "text": " The beneficiary has to purchase goats unit within 90 days of pre-approval of the online application. If the beneficiary fails to establish the goat unit within the time limit or proves disabled then the approval order given to the beneficiary will be cancelled and the approval order will be given to the beneficiary who is next in the waiting list."
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 02:"
+                    },
+                    {
+                      "text": " The beneficiary has to note the record of milk production and has to give the register and information during the visit of the department technical officer."
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Applicant should be a Scheduled Tribe (ST) woman.\n   1. The benefit has provided to only one person per family.\n   1. Priority will be given if the applicant is:\n\n    - A Scheduled Tribe widow, or\n    - An abandoned woman.\n\n\n&lt;br&gt;\n\n&gt; **Note 01:** The beneficiary has to purchase goats unit within 90 days of pre-approval of the online application. If the beneficiary fails to establish the goat unit within the time limit or proves disabled then the approval order given to the beneficiary will be cancelled and the approval order will be given to the beneficiary who is next in the waiting list.\n\n&lt;br&gt;\n\n&gt; **Note 02:** The beneficiary has to note the record of milk production and has to give the register and information during the visit of the department technical officer.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "50% Subsidy on Unit Cost or Maximum ₹45,000/-."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Benefit of the scheme will be available once in a lifetime."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n   1. 50% Subsidy on Unit Cost or Maximum ₹45,000/-.\n   1. Benefit of the scheme will be available once in a lifetime.\n\n",
+          "briefDescription": "The scheme “Subsidy Scheme for Establishment of Goat Unit (10+1) for Scheduled Tribe Women” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to uplift Economically poor livestock breeders of Gujarat State.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Subsidy Scheme for Establishment of Goat Unit (10+1) for Scheduled Tribe Women” was launched by the Department of Agriculture, Farmers Welfare & Co-operation, Government of Gujarat to uplift Economically poor livestock breeders of Gujarat State. Under the scheme, each beneficiary should purchase 10 female goats and 1 male goat and the beneficiary has to contribute 50% of the unit cost for food, water, fodder, residence, and concentrate expenses."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Subsidy Scheme for Establishment of Goat Unit (10+1) for Scheduled Tribe Women” was launched by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat to uplift Economically poor livestock breeders of Gujarat State. Under the scheme, each beneficiary should purchase 10 female goats and 1 male goat and the beneficiary has to contribute 50% of the unit cost for food, water, fodder, residence, and concentrate expenses.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "&lt;br&gt;\n\n",
+          "references": [
+            {
+              "title": "Guideline",
+              "url": "https://doah.gujarat.gov.in/Home/SchemesDetailsPage/qOhKPiCdFQSM3zEzbNRkog%E2%99%AC%E2%99%AC"
+            },
+            {
+              "title": "Official Website",
+              "url": "https://doah.gujarat.gov.in/sheep-goat-wool-development.htm"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ssegu10stw"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "647884d7481f59106a66b001",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof i.e. Aadhaar Card, Voter ID Card\n1. Proof of Date of Birth (if applicable)\n1. Below Poverty Line Card (If applicable)\n1. Residence proof\n1. Caste Certificate\n1. Death certificate of husband (in case of widow)\n1. Disability Certificate from Competent Authority (if applicable)\n1. Ration Card (if applicable)\n1. Savings Account Bank Passbook or Cancelled Check\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card, Voter ID Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Date of Birth (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Below Poverty Line Card (If applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Death certificate of husband (in case of widow)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate from Competent Authority (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Savings Account Bank Passbook or Cancelled Check"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6478818c481f59106a66af90"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:43.362757+00:00",
+  "scheme_id": "6478818c481f59106a66af90"
+}

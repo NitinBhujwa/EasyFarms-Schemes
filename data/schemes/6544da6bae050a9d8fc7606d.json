@@ -1,0 +1,370 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Claiming 1st Installment"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested grower should take print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board after completion of planting."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "The concerned SLO/JLO Office shall scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 1st installment."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Claiming 2nd Installment"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The interested grower should take print of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board during the 2nd year of planting, after filling the vacancies."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "The concerned SLO/JLO Office will scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 2nd installment."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Claiming 1st Installment**\n\n**Step 1:** The interested grower should take print of the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board after completion of planting.\n**Step 4:** The concerned SLO/JLO Office shall scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 1st installment.\n<br>\n\n> **Claiming 2nd Installment**\n\n**Step 1:** The interested grower should take print of the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned Extension Office of the Coffee Board during the 2nd year of planting, after filling the vacancies.\n**Step 4:** The concerned SLO/JLO Office will scrutinize the documents, carry out field inspection, furnish the inspection report, and forward the claim along with enclosures with recommendations either for sanction/rejection of the claim or justification for releasing the 2nd installment.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Unit Cost:** ₹1,00,000/per hectare.\n**Scale of Subsidy:** 50% of the Unit Cost, i.e., ₹50,000/per hectare.\n<br>\n\n**Release of Subsidy:** In two installments\n\n- 1st installment: 60% of the unit cost\n- 2nd installment: 40% of the unit cost\n\n<br>\n\n> **Procedure for Payment of Subsidy to the Grower**\n\nThe Joint Director (Extn.) / Deputy Director (Extn.) after confirming the admissibility of the claim will release the 1st and 2nd installments of the eligible subsidy amount, as the case may be, to the grower&#39;s bank account **EFT/RTGS/NEFT**.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a65b542d699c8357e11751fe40d716ccf7a6fd85c5ac4862c13c34f5f846bf03",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Coffee Development Programme in North Eastern Region: Expansion of Coffee&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to facilitate afforestation in the Jhum lands and help settle the tribals on a permanent footing.\n",
+  "eligibility": "\n1. The applicant should be a tribal grower.\n1. The applicant&#39;s area should be suitable for coffee cultivation as per the opinion of the Coffee Board&#39;s officers.\n1. The applicant should procure the seed material from the Coffee Board only.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:55:21.841268+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:21.841268+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department Of Commerce",
+    "value": 1588
+  },
+  "references": [
+    {
+      "title": "Guidelines, Application And Declaration Form",
+      "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+    },
+    {
+      "title": "Grower's Registration (UMANG)",
+      "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6544da8eae050a9d8fc76091",
+      "en": {
+        "documentsRequired_md": "> **For Claiming 1st Installment**\n\n\n- Application and Self-Declaration duly filled in and signed by the Applicant/s (in duplicate) in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf).- Proof of photo identity of the applicant/s such as a copy of Driving License, Ration Card, Election Photo Identity Card (EPIC) issued by the Election Commission, Aadhaar Card, Passport, or PAN Card, etc.\n- Proof of Land Ownership.\n- Bank Account details, including account number, bank name, and branch, and IFSC code.\n- Land records/possession certificate duly certified by the Village Authority/ State Government Authority/ Competent Authority.\n\n**NOTE:** The land records shall be in the name of the beneficiary.\n<br>\n\n> **For Claiming 2nd Installment**\n\n\n- Application and Self-Declaration duly filled in and signed by the Applicant/s (in duplicate) in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf).\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "For Claiming 1st Installment"
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application and Self-Declaration duly filled in and signed by the Applicant/s (in duplicate) in the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of photo identity of the applicant/s such as a copy of Driving License, Ration Card, Election Photo Identity Card (EPIC) issued by the Election Commission, Aadhaar Card, Passport, or PAN Card, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Land Ownership."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account details, including account number, bank name, and branch, and IFSC code."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land records/possession certificate duly certified by the Village Authority/ State Government Authority/ Competent Authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "NOTE: "
+              },
+              {
+                "text": "The land records shall be in the name of the beneficiary."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "For Claiming 2nd Installment"
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application and Self-Declaration duly filled in and signed by the Applicant/s (in duplicate) in the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": "."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6544da6bae050a9d8fc7606d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6544da6bae050a9d8fc7606d",
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Expansion of Coffee",
+  "scheme_open_date": null,
+  "scheme_short_title": "CDPNER:EC",
+  "slug": "cdpnerec",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "DBT",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

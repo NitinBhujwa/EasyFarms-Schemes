@@ -1,0 +1,158 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "This assistance shall be limited to the actual loss of productive animals. However, irrespective of the extent of loss, assistance to a single family will be restricted to a maximum of 3 large milch animals, 30 small milch animals, or 3 large agricultural and draught animals (The loss or damage must be verified by a competent authority designated by the State Government)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.\nThis assistance shall be limited to the actual loss of productive animals. However, irrespective of the extent of loss, assistance to a single family will be restricted to a maximum of 3 large milch animals, 30 small milch animals, or 3 large agricultural and draught animals (The loss or damage must be verified by a competent authority designated by the State Government).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Replacement of Milk, Agricultural, and Transport Animals:**\n\n- **Milch animals:** ₹37,500/- per animal (Buffalo/Cow/Camel/Yak/Mithun) will be payable.- ₹4,000/- per animal (Sheep/Goat/Pig) will be payable.\n\n**Agricultural and Haulage Animals:** \n\n- ₹32,000/- per animal (Camel/Horse/Bullock) will be payable.\n\n\n- ₹20,000/- per animal (Calf/Donkey/Pony/Mule) will be payable.\n\n**Poultry Farming:**\n\n  - ₹100/- per bird, up to a limit of ₹10,000/- per beneficiary family. The death of birds must be due to a notified natural disaster to be eligible for assistance.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "72f56093d400f33a2f0535d02172255407fab13aa9ef0d59faeb24de53a440f8",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Animal Husbandry: Assistance to Small and Marginal Farmers” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial assistance to small and marginal farmers for the replacement of productive livestock lost due to notified natural disasters such as floods, landslides, or other calamities.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a Small or Marginal Farmer from Uttarakhand who has lost their milk, agricultural, or haulage animals due to a notified natural disaster.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:20.010644+00:00",
+  "implementing_agency": "Uttarakhand State Disaster Management Authority",
+  "last_synced_at": "2026-08-26T13:58:20.010644+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Disaster Management",
+    "value": 50000007
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 306)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ca561ae5c3d708dd2944e2",
+      "en": {
+        "documentsRequired_md": "\n1. Form P-20 Entry Confirmation (recorded by the concerned Patwari)\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Form P-20 Entry Confirmation (recorded by the concerned Patwari)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ca5608e5c3d708dd294445"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ca5608e5c3d708dd294445",
+  "scheme_name": "Animal Husbandry: Assistance to Small and Marginal Farmers",
+  "scheme_open_date": null,
+  "scheme_short_title": "AHASMF",
+  "slug": "ahsmfuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Small Farmer",
+    "Marginal Farmer",
+    "Natural Disaster",
+    "Livestock",
+    "Animal Husbandry"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

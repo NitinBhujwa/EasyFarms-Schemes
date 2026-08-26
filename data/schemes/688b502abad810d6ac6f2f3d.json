@@ -1,0 +1,206 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should prepare the application on plain paper."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Monetary Benefits:** The scheme ensures a mandatory financial contribution from the State Government, amounting to not less than 5% of the total deposits made by the Market Committees into the Development Fund.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4f8f8e495c17337411c64810565f93b0b19fcd25e99c5df37f2fd1a70eb26718",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Contribution to State Agriculture Marketing Board Development Fund (General)&quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to promote the development of agricultural marketing infrastructure by financially supporting the State Agriculture Marketing Board’s Development Fund. The scheme ensures that the State Government contributes no less than 5% of the total amount deposited in the Development Fund by the Market Committees, thereby enabling cooperative institutions to upgrade and modernize market operations across Gujarat. \n<br>\n\n",
+  "eligibility": "\n   1. Co-operative institutions are eligible under this scheme.\n   1. The scheme is applicable across the entire state.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:35.635639+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:35.635639+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 521)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "688b507fc9e07ed45f516241",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Co-operative Institution Registration.\n   1. Financial Deposit Records from Market Committees.\n   1. Bank Account Details of the Institution (for fund transfer).\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Co-operative Institution Registration."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Financial Deposit Records from Market Committees."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Account Details of the Institution (for fund transfer)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "688b502abad810d6ac6f2f3d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "688b502abad810d6ac6f2f3d",
+  "scheme_name": "Contribution to State Agriculture Marketing Board Development Fund (General)",
+  "scheme_open_date": null,
+  "scheme_short_title": "SFCSAMBDG",
+  "slug": "sfcsambdg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agricultural Marketing",
+    "Market Committees",
+    "Development Fund",
+    "Co-operative Institutions",
+    "Infrastructure Development"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

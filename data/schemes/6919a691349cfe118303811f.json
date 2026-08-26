@@ -1,0 +1,233 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Application forms must be obtained from officers or staff working at the Horticulture Mobile team Centres, or they can be downloaded from the department's website: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "https://shm.uk.gov.in"
+                        }
+                      ],
+                      "link": "https://shm.uk.gov.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": ". The application form/proposal must include land-related documents, such as Khasra and Khatauni, a lease certificate for leased land, Aadhaar card, PAN card, bank account details, mobile number, and training certificate. Currently, the application process is offline. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "In case of difficulty in completing the application proposal, personnel at the relevant Horticulture Mobile team Centre will provide assistance. The completed application form must be submitted to this office. Simultaneously, the concerned entrepreneur/farmer must apply for a bank loan. Personnel at the Horticulture Mobile team Centre forward the proposal to the district level, which then forwards it to the Directorate. After the Directorate approves the proposal, the district issues an order granting the required approval/work order."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Once a farmer’s proposal is approved, the district officer sends an approval letter to the farmer/entrepreneur and informs them by phone. During this period, the farmer/entrepreneur must obtain loan approval with the assistance of departmental officials. After the loan is approved, the information must be provided to the department. Post-harvest management is carried out with the technical assistance and supervision of departmental officials. Upon completion, a joint team of departmental officials conducts an inspection, and the appropriate government assistance or subsidy is disbursed to the farmer's loan account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - Application forms must be obtained from officers or staff working at the Horticulture Mobile team Centres, or they can be downloaded from the department&amp;#39;s website: [https://shm.uk.gov.in](https://shm.uk.gov.in/). The application form/proposal must include land-related documents, such as Khasra and Khatauni, a lease certificate for leased land, Aadhaar card, PAN card, bank account details, mobile number, and training certificate. Currently, the application process is offline.   - In case of difficulty in completing the application proposal, personnel at the relevant Horticulture Mobile team Centre will provide assistance. The completed application form must be submitted to this office. Simultaneously, the concerned entrepreneur/farmer must apply for a bank loan. Personnel at the Horticulture Mobile team Centre forward the proposal to the district level, which then forwards it to the Directorate. After the Directorate approves the proposal, the district issues an order granting the required approval/work order.\n  - Once a farmer’s proposal is approved, the district officer sends an approval letter to the farmer/entrepreneur and informs them by phone. During this period, the farmer/entrepreneur must obtain loan approval with the assistance of departmental officials. After the loan is approved, the information must be provided to the department. Post-harvest management is carried out with the technical assistance and supervision of departmental officials. Upon completion, a joint team of departmental officials conducts an inspection, and the appropriate government assistance or subsidy is disbursed to the farmer&amp;#39;s loan account.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "For setting up units such as Pack Houses (9 m / 6 m), Pre-Cooling Units (6 MT capacity), Mobile Pre-Cooling Units (5 MT capacity), Cold Rooms (30 MT capacity), Cold Storage Units, Refer Vans/Containers (6 MT capacity), and Ripening Chambers (300 MT capacity), a subsidy of 35% to 50% is provided through a bank-linked, loan-based subsidy mechanism.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "17f8a633ad1144e6d68bae879ae4280b4fa7ab6b0753c6a0be09a912c7b1c3a9",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Post-Harvest Management” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote the development of modern post-harvest infrastructure by supporting farmers and entrepreneurs in setting up facilities such as pack houses, pre-cooling units, cold rooms, cold storage units, and ripening chambers, thereby reducing post-harvest losses and improving the quality, value, and marketability of horticultural produce.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be an interested entrepreneur or farmer.\n1. The applicant must either own the land or have it on lease for a period of 25 to 30 years.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:10:07.421343+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:07.421343+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 50000100
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 217)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6919aacabe746af3d3adb6d3",
+      "en": {
+        "documentsRequired_md": "\n1. Land-related documents, such as Khasra and Khatauni, \n1. Lease certificate for leased land\n1. Aadhaar Card\n1. PAN Card\n1. Bank Account Details (account number, branch, etc.)\n1. Mobile Number\n1. Training Certificate\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land-related documents, such as Khasra and Khatauni, "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lease certificate for leased land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details (account number, branch, etc.)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6919a691349cfe118303811f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6919a691349cfe118303811f",
+  "scheme_name": "Post-Harvest Management",
+  "scheme_open_date": null,
+  "scheme_short_title": "PHM",
+  "slug": "phm",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Post-Harvest",
+    "Farmer",
+    "Entrepreneur",
+    "Pack Houses",
+    "Pre-cooling Units",
+    "Cold Rooms",
+    "Cold Storage Units",
+    "Ripening Chambers"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

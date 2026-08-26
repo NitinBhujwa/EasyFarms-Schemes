@@ -1,0 +1,179 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "To participate in the training, the applicant needs to visit the nearest Farmer Training Centre of the district or contact Village Level Worker (Gram Sevak) and request/collect an application form for the scheme."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the application form along with the documents to the concerned receiving authority."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " After successful verification, the applicant may be eligible to take all the benefits under the scheme. "
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** To participate in the training, the applicant needs to visit the nearest Farmer Training Centre of the district or contact Village Level Worker (Gram Sevak) and request/collect an application form for the scheme.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized, and attach all the mandatory documents.\n**Step 3:** Submit the application form along with the documents to the concerned receiving authority.\n**Step 4:** After successful verification, the applicant may be eligible to take all the benefits under the scheme. \n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n1. Selected women farmers, male farmers, and youth have been trained-n-guided in agricultural and allied aspects of the scientific method.\n1. The latest information on agricultural aspects will be provided to the selected applicant under this scheme.\n1. The selected applicants have informed the developing scheme of the state and central levels.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a288f398e552c5b45a7bcec6710ad96d963f36934a61b43757ffb567dca639fd",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Agricultural Skill Development Training Programme for Women Farmers and Farmers” was started by the Department of Agriculture, Farmers Welfare &amp;amp; Co-operation, Government of Gujarat. This Scheme is sanctioned under a gender audit programme for more productive varieties and a training-n-education programme for farmers.\n       Nowadays, women have become very sensitive in all developing fields. Moreover, there is a significant role of women farmers in agricultural activities. So, the Government of Gujarat sanctioned a programme of &amp;quot;Agricultural Skill Development Training Programme for Women Farmers” in the year: 2012-13. Afterward in the year 2013-14, the government sanctioned this programme jointly.\nUnder this programme, selected women farmers, male farmers, and youth have been trained-n-guided in agricultural and allied aspects of the scientific method. Moreover, they have informed the developing scheme of the state and central levels. During the year 2018-19, this scheme has sanctioned on Date: 11-04-2018. The training activities of the same programme are as under:\n**Training Activities :**\n\n- Pre-Seasonal Camp (Village Level)\n- Institutional Training Course (Four Days)\n- Training for Youth (Five Days)\n- Sharing Followup Camps (Village Level)\n- Krishimela (Krishi Stalls, Competition, Seminar)\n- In State Educational Inspiration Study Tour (For 7 Days)\n- Out of the Educational Inspiration Study Tour (For 10 Days)\n- International Educational Inspiration Study Tour (For 10 Days)\n- State-Level Sharing Workshop\n\n<br>\n\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Gujarat State.\n1. The farm families of women farmers, male farmers, and youth are eligible to apply.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:32.238702+00:00",
+  "implementing_agency": "Directorate Of Agriculture, Government Of Gujarat",
+  "last_synced_at": "2026-08-26T14:04:32.238702+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://dag.gujarat.gov.in/agricultural-skill-development-program.htm"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6481cc62380f8e12353d7be8",
+      "en": {
+        "documentsRequired_md": "\n1. Government-approved photo ID i.e. Aadhaar Card, Voter ID Card\n1. Passport Size Photograph\n1. Caste certificate (If Applicable)\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Government-approved photo ID i.e. Aadhaar Card, Voter ID Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport Size Photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate (If Applicable)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6481c9fc380f8e12353d7b85"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6481c9fc380f8e12353d7b85",
+  "scheme_name": "Agricultural Skill Development Training Programme For Women Farmers And Farmers",
+  "scheme_open_date": "2012-04-01",
+  "scheme_short_title": "ASDTPWFF",
+  "slug": "asdtpwff",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Women",
+    "Training",
+    "Skill Development",
+    "Youth"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

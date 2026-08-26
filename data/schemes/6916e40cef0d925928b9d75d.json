@@ -1,0 +1,146 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The cultivator must have a registration certificate issued by the Institute. Along with a copy of the registration certificate, the cultivator must apply to the Bhesaj Vikas Ikai, the partner organization authorized by the Institute. After physical verification, the permit is issued."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The cultivator must have a registration certificate issued by the Institute. Along with a copy of the registration certificate, the cultivator must apply to the Bhesaj Vikas Ikai, the partner organization authorized by the Institute. After physical verification, the permit is issued.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "This policy has been formulated with the objective of simplifying the sale of medicinal and aromatic products produced through cultivation. Farmers can sell the medicinal and aromatic products grown on their own agricultural land to markets operated by the Forest Department or to any other buyer. This arrangement has simplified the marketing process of medicinal and aromatic plant products produced through cultivation.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "97c04f234b283410d3a00562198bb0fdcc44dcb526ed05c4e68ccc138336e4e9",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Simplification of Sale Process of Herbal Products” is implemented by the Herbal Research and Development Institute (HRDI), mandal gopeshwar chamoli under the Department of Horticulture, Government of Uttarakhand. It aims to simplify the sale process of medicinal and aromatic products produced by cultivators, enabling them to legally and easily sell their produce through authorized markets or buyers.\n<br>\n\n",
+  "eligibility": "\n- The applicant must be a resident of Uttarakhand.\n- The applicant must be a cultivator producing medicinal and aromatic plants on measured land.\n- The applicant must be legally cultivating medicinal and aromatic plants on the measured land.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:11.058984+00:00",
+  "implementing_agency": "Herbal Research And Development Institute, Mandal-Gopeshwar Chamoli, Uttarakhand",
+  "last_synced_at": "2026-08-26T13:58:11.058984+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 50000100
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 224)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "691810154b2466b08502a75f",
+      "en": {
+        "documentsRequired_md": "\n1. Registration certificate issued by the Institute\n1. Other documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Registration certificate issued by the Institute"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6916e40cef0d925928b9d75d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6916e40cef0d925928b9d75d",
+  "scheme_name": "Simplification of Sale Process of Herbal Products - Herbal Research and Development Institute, Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "SSPHP",
+  "slug": "sephp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [],
+  "sync_source": "myScheme",
+  "tags": [
+    "Herbal Products",
+    "Herbs",
+    "Marketing",
+    "Cultivator Of Medicinal Plants",
+    "Cultivator Of Aromatic Plants",
+    "Sale Process"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

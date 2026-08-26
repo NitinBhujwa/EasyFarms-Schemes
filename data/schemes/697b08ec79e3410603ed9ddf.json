@@ -1,0 +1,293 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Eligible households are identified by the Block Development Officer ("
+                        },
+                        {
+                          "bold": true,
+                          "text": "BDO"
+                        },
+                        {
+                          "text": "). "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant’s eligibility documents are verified, including certificates related to calamity, disability, or Forest Rights Act status, wherever applicable."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The existing house of the applicant is geo-tagged and uploaded on the Rural Housing Portal before the sanction of the new house."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The Collector-cum-District Magistrate scrutinises the list of eligible beneficiaries and submits the proposal to the Panchayati Raj & Drinking Water Department for approval."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The list of beneficiaries, physical and financial progress of the scheme will be reflected district / block-wise on the website, i.e. "
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "https://rhodisha.gov.in/ "
+                            }
+                          ],
+                          "link": "https://rhodisha.gov.in/",
+                          "type": "link"
+                        },
+                        {
+                          "text": "for public view."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The housing assistance is released directly to the beneficiary’s bank account through Direct Benefit Transfer, based on verified construction milestones."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_left"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - Eligible households are identified by the Block Development Officer (**BDO**).   - The applicant’s eligibility documents are verified, including certificates related to calamity, disability, or Forest Rights Act status, wherever applicable.\n  - The existing house of the applicant is geo-tagged and uploaded on the Rural Housing Portal before the sanction of the new house.\n  - The Collector-cum-District Magistrate scrutinises the list of eligible beneficiaries and submits the proposal to the Panchayati Raj &amp;amp;amp; Drinking Water Department for approval.\n  - The list of beneficiaries, physical and financial progress of the scheme will be reflected district / block-wise on the website, i.e. [https://rhodisha.gov.in/ ](https://rhodisha.gov.in/)for public view.  - The housing assistance is released directly to the beneficiary’s bank account through Direct Benefit Transfer, based on verified construction milestones.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n   1. ₹**20,000**/- to beneficiaries who complete house construction within **4** months from the date of receipt of the first instalment.   1. ₹**10,000**/- to beneficiaries who complete house construction within **6** months from the date of receipt of the first instalment.\n&gt; **Disbursement of Funds**\n\n\n1. Incentive amounts are credited to the beneficiary’s account from the State Nodal Account through the Direct Benefit Transfer (DBT) mode.\n1. The incentive payment is tied to the timeline of house construction completion to the beneficiary (within 4 or 6 months from the first instalment).\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Housing & Shelter",
+      "value": "628ce7d2d6d1a3bde46852c2"
+    }
+  ],
+  "content_hash": "b6f9c4816e6573f541c8c3fb1f557fb1a4188f031bb45b6fa49fdcfffe64b0f7",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Antyodaya Gruha Yojana: Incentive to Beneficiaries” has been launched by the Panchayati Raj &amp;amp; Drinking Water Department, Government of Odisha. It aims to encourage the timely completion of houses constructed under government rural housing schemes. Through this scheme, incentives of prescribed amounts are paid to beneficiaries of Antyodaya Gruha Yojana, Pradhan Mantri Awaas Yojana (Gramin), PM-JANMAN, or any other government-funded rural housing scheme who complete their pucca house construction within specified timelines. The scheme is implemented by the Panchayati Raj &amp;amp; Drinking Water Department, Government of Odisha.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a resident of the state of Odisha.\n   1. The applicant must be a beneficiary of Pradhan Mantri Awaas Yojana (Gramin), PM-JANMAN, or any other Government-funded rural housing scheme.\n   1. The applicant household must be residing in rural Odisha and must be houseless or living in a kutcha house.\n\n<br>\n\n",
+  "exclusions": "\n   1. The household is living in a pucca house.\n   1. Any family member is a regular Government, Public Sector Undertaking, or Statutory Body employee or pensioner.\n   1. The household owns a motorised four-wheeler.\n   1. The household owns mechanised three or four-wheeler agricultural equipment.\n   1. The household runs a registered non-agricultural enterprise.\n   1. Any family member earns more than ₹**15,000/-** per month.   1. The household owns 2.5 acres or more of irrigated land or 5 acres or more of unirrigated land.\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:43.045964+00:00",
+  "implementing_agency": "Panchayat Samities Under The Supervision Of Zilla Parishad And Panchayati Raj & Drinking Water Department",
+  "last_synced_at": "2026-08-26T14:07:43.045964+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Panchayati Raj Department",
+    "value": 2111135
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://rh.odisha.gov.in/guidelines/Antyodaya_Gruha_Jojana_Guideline.pdf"
+    },
+    {
+      "title": "Website",
+      "url": "https://rh.odisha.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "697b09dee99486457b57ef07",
+      "en": {
+        "documentsRequired_md": "\n\n      1. Proof of Identity of the Applicant\n      1. Proof of Residence\n      1. Certificate Establishing Houseless or Kutcha House Status\n      1. Bank Account Details\n      1. House Completion Proof\n      1. First Instalment Receipt Date Record\n      1. Completion Verification Report (Verification by Panchayat / Block / District functionary)\n\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "text": "Proof of Identity of the Applicant"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Proof of Residence"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Certificate Establishing Houseless or Kutcha House Status"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Bank Account Details"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "House Completion Proof"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "First Instalment Receipt Date Record"
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Completion Verification Report (Verification by Panchayat / Block / District functionary)"
+                              }
+                            ],
+                            "type": "list_item"
+                          }
+                        ],
+                        "type": "ol_list"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "697b08ec79e3410603ed9ddf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "697b08ec79e3410603ed9ddf",
+  "scheme_name": "Antyodaya Gruha Yojana: Incentive to Beneficiaries",
+  "scheme_open_date": null,
+  "scheme_short_title": "AGY-ITB",
+  "slug": "agy-itb",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Odisha",
+    "value": 21
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Rural services",
+      "value": "Rural services"
+    },
+    {
+      "label": "Shelter, integrated support and assistance",
+      "value": "Shelter, integrated support and assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Housing",
+    "Rural Housing",
+    "DBT",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

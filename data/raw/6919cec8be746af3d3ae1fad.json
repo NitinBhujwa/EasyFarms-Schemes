@@ -1,0 +1,310 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6919cec8be746af3d3ae1fad",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Applications must be submitted at the Horticulture Mobile team Centres. Land-related documents, such as Khasra and Khatauni, along with a lease certificate for leased land, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number, are required with the application. Currently, the application process is offline."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "Applications must be submitted at the Horticulture Mobile team Centres. Land-related documents, such as Khasra and Khatauni, along with a lease certificate for leased land, Aadhaar card, PAN card, Udhyan Card, bank account details, and mobile number, are required with the application. Currently, the application process is offline.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Drip Irrigation Sprinkler",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DIS",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            },
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Farmer",
+            "Drip Sprinkler",
+            "Irrigation System",
+            "Drip Irrigation",
+            "Sprinkler"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer and hold a Udhyan Card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer must either own agricultural land or have land on lease."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer and hold a Udhyan Card.\n1. The farmer must either own agricultural land or have land on lease.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Irrigation systems are established to provide irrigation facilities through drip irrigation, portable sprinklers, micro sprinklers, mini sprinklers, or rain guns, as per the requirements of new plants."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, a 45 to 55% subsidy is payable for areas ranging from 4 hectares up to a maximum of 5 hectares. An additional 25% subsidy is provided to state farmers as a top-up."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Irrigation systems are established to provide irrigation facilities through drip irrigation, portable sprinklers, micro sprinklers, mini sprinklers, or rain guns, as per the requirements of new plants.\nUnder this scheme, a 45 to 55% subsidy is payable for areas ranging from 4 hectares up to a maximum of 5 hectares. An additional 25% subsidy is provided to state farmers as a top-up.\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Drip Irrigation Sprinkler” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Drip Irrigation Sprinkler” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to promote efficient and sustainable irrigation for horticultural crops by providing farmers with modern irrigation systems and financial subsidies to enhance productivity and water conservation.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 219)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dsuk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6919d23dbe746af3d3ae2d83",
+      "en": {
+        "documentsRequired_md": "\n1. Land-related documents, such as Khasra and Khatauni, \n1. Lease certificate (for leased land)\n1. Aadhaar card\n1. PAN card\n1. Udhyan Card\n1. Bank account details\n1. Mobile number\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land-related documents, such as Khasra and Khatauni, "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lease certificate (for leased land)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Udhyan Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6919cec8be746af3d3ae1fad"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:52.208878+00:00",
+  "scheme_id": "6919cec8be746af3d3ae1fad"
+}

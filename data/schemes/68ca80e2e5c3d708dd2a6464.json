@@ -1,0 +1,149 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Information about the disaster and the resulting damage is received from various sources. The concerned Patwari verifies the damage and records it in the P-20 form. The Patwari’s report is subsequently verified by the Tehsildar and the Sub-Divisional Magistrate. Approval is then obtained from the District Magistrate. Once the District Magistrate’s approval is received, relief funds are disbursed to the concerned beneficiaries at the Tehsil level.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme, the following compensation is provided to fishermen for the repair or replacement of damaged boats and nets:\n\n- ₹6,000/- for the repair of partially damaged boats\n- ₹3,000/- for the repair of partially damaged nets\n- ₹15,000/- for the repurchase of completely damaged boats\n- ₹4,000/- for the repurchase of completely damaged nets\n\nAn investment subsidy of ₹10,000/- per hectare is provided for fish seed farms.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    }
+  ],
+  "content_hash": "c87389e1747e4288a803d6de07ed39514ebce9fc0a417f1cbe037359a29fc18a",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Machhali Palan” is implemented by the Uttarakhand State Disaster Management Authority under the Department of Disaster Management, Government of Uttarakhand. The scheme aims to provide financial support to fishermen for repairing, reconstructing, and replacing damaged boats and nets due to disasters.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a fisherman from Uttarakhand.\n   1. Fishermen are provided assistance for the repair or replacement of damaged boats and for damaged or lost nets caused by natural disasters.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:54:49.728135+00:00",
+  "implementing_agency": "Uttarakhand State Disaster Management Authority",
+  "last_synced_at": "2026-08-26T13:54:49.728135+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Disaster Management",
+    "value": 50000007
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 307)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ca80f107200a191435ddd1",
+      "en": {
+        "documentsRequired_md": "\n1. Form P-20 Entry Confirmation (recorded by the concerned Patwari)\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Form P-20 Entry Confirmation (recorded by the concerned Patwari)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ca80e2e5c3d708dd2a6464"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ca80e2e5c3d708dd2a6464",
+  "scheme_name": "Machhali Palan",
+  "scheme_open_date": null,
+  "scheme_short_title": "MPUK",
+  "slug": "fishfarminguk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Fish Farming",
+    "Fishermen",
+    "Boat",
+    "Net",
+    "Fish Seed Farm"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

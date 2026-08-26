@@ -1,0 +1,232 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Interested beneficiaries shall submit their applications in the format “Annexure B” to their respective District Sheep Husbandry Officer (DSHO) along with a self-attested copy of the required documents."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "label": "Cash",
+    "value": "Cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "f121a868fd73a7d8fc3facd03000c80f64f60979cda113ded083db934fe59179",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Integrated Sheep Development Scheme (ISDS) was launched in the year 2020-21 by the J&amp;K Government to promote income generation through the establishment of sheep &amp; goat units. The scheme is implemented through Sheep Husbandry Department and monitored by the concerned Director. \n<br>\n\nThe support shall be available for the following activities - \na)\tEstablishment of Sheep/goat units under participatory mode comprising 10 ewes/does\nb)\tEstablishment of Sheep/goat units on subsidy  mode (20-200 ewes/does)\nc)\tEstablishment of shearing units\nThe beneficiary can be an Individual / Group of Individuals / Self Help Groups / Cooperative Societies / FPOs, etc. Efforts will be made to cover 20% SC/ST and 10% women beneficiaries. The guidelines will be in force till 31st March 2023 or replaced by a new set of guidelines whichever is earlier.\n<br>\n\nThis scheme is innovative &amp; self-sustaining as fresh units shall be established in a continuous cyclic manner from the retrieved livestock of previous beneficiaries. The beneficiary must have basic infrastructure &amp; grazing avenues available, to maintain the unit.\n<br>\n\nAround 1200 sheep/goat units are to be established with the creation of employment opportunities for around 2400 people. 200 elite crossbred imported merino sheep to be introduced for genetic upgradation of local sheep for the production of more than 8000 elite lambs which will lead to an increase in carcass yield from prevalent 18 kg to 21 kg besides incrementing fine wool production from the existing 2 Kg to 2.5 Kg per sheep. \n",
+  "eligibility": "**Component:** Establishment of Sheep/Goat unit on participatory mode comprising 25 ewes/does.\n**Eligibility of Beneficiary:** Any Individual / Group of Individuals / Self Help Group / Cooperative Society / Farmers Producer Organization.\n<br>\n\n**Component:** Establishment of Sheep/Goat units (25 Sheep/goat per unit)\n**Eligibility of Beneficiary:** Any Individual / Group of Individuals / Self Help Group / Cooperative Society / Farmers Producer Organization.\n<br>\n\n**Component:** Procurement of Shearing units (Comprising of one shearing machine, one genset &amp; shearing accessories/spares)\n**Eligibility of Beneficiary:** Any individual (trained in MSS or intending to undergo training in MSS)\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:17.586201+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:17.586201+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture",
+    "value": 262
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jkash.nic.in/Guidelines/ISDS%202022-23.pdf"
+    },
+    {
+      "title": "Brochure",
+      "url": "https://jksheephusbandrykashmir.nic.in/files/LatestSchemes.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "63e9eb93aaabb8e9d356a9bd",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Identity (Voters ID Card / Passport / Driving Licence / PAN Card / Aadhaar Card)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Address (Recent Electricity Bill / Voters ID Card / Passport / Aadhaar Card / Ration card)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Land Record Holding (Revenue Department)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph of the Livestock Shed (attested by PRI Member)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Category Certificate (SC/ST/OBC/BPL/AAY/EWS) (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application Form for the Establishment of 10 EWE/DOE Units under Participatory Mode (Annexure-B)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Declaration by the Farmer (Annexure-C)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Affidavit (to be attested by 1st Class Magistrate) (Annexure-D)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Plan of Retrieval (Annexure-E)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application Form for the Establishment of 20-200 EWE/DOE Units under Subsidy Mode (Annexure-F)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application Form for the Establishment of Shearing Units (Annexure-G)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "63e9e444176538a6b00b289e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "63e9e444176538a6b00b289e",
+  "scheme_name": "Integrated Sheep Development Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISDS",
+  "slug": "isds",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Jammu and Kashmir",
+    "value": 1
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Livestock",
+    "Animal Husbandry"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "NGO",
+      "value": "ngo"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    },
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

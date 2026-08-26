@@ -1,0 +1,229 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Uzhavar Udhaviyagam (Farmers' Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)"
+                }
+              ],
+              "link": "https://agri.py.gov.in/emailcontact.html",
+              "type": "link"
+            },
+            {
+              "text": " and request the hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the Agricultural Officer."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the duly filled and signed application form and the documents to the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the [Uzhavar Udhaviyagam (Farmers&#39; Help Centres) or the Office of the Additional Director of Agriculture (Horticulture)](https://agri.py.gov.in/emailcontact.html) and request the hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf) of the application form from the Agricultural Officer.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Laying of Demonstration Plot (LoDP):** Financial assistance @ ₹ 35,000/‐ Ha in two annual instalments.- **Construction of Organic Manure Unit:** Financial assistance @ ₹ 40,000/‐ to ₹ 60,000/‐ per Unit on Pro‐rata basis. Unit size of 1200 cubic feet to 150 cubic feet (60 x 8 x 2.5 ft to 15 x 5 x 2 ft).- The eligible subsidy amount shall be released to the beneficiary&#39;s account on DBT (Direct Benefit Transfer) mode after obtaining expenditure sanction as per norms.\n- The final list of the beneficiaries would be displayed on the notice board of Uzhavar Uthaviyagams.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "7e965eba3ef68219ac66a0352a3310bdad7b30d81450060c37ddc9692fbc5b22",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Integrated Farming for Productivity Improvement Scheme&quot; by the Coconut Development Board was launched by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the coconut farmers are provided financial assistance through DBT (Direct Benefit Transfer) mode for the Laying of the Demonstration Plot, and for the Construction of the Organic Manure Unit.\n",
+  "eligibility": "All categories of coconut farmers with farmer&#39;s identity cards/ authenticated land records/documents are eligible.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:56:02.673571+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:56:02.673571+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department, Puducherry",
+    "value": 34000003
+  },
+  "references": [
+    {
+      "title": "Standard Operating Procedure",
+      "url": "https://agri.py.gov.in/sites/default/files/schemes/Horticulture%20SOP.pdf"
+    },
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/pdf/Horti_Application_Coconut.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65cb1dc3cd96dc5e075179be",
+      "en": {
+        "documentsRequired_md": "\n- In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form.\n- If no identity card is issued to the farmer to date a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted.  \n- The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department.\n- Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "In the case of land owners cultivating their land, a copy of the farmer identity card containing the details of survey numbers and the extent of land holding needs to be submitted along with the application form."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "If no identity card is issued to the farmer to date a copy of the land document (sale deed/ partition deed/ gift deed or will) needs to be submitted.  "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The tenants cultivating lands owned by religious Institutions/Wakfs/Mutts/Trusts/ Municipalities shall produce a letter of consent from the authority of the institutions concerned as prescribed by the Department."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Further, tenants shall produce a cultivation certificate from the land owner or Agriculture Department / Revenue Department who carried out joint verification for the purpose."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65cb1936cd96dc5e075172ee"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65cb1936cd96dc5e075172ee",
+  "scheme_name": "\"Integrated Farming for Productivity Improvement Scheme\" by the Coconut Development Board",
+  "scheme_open_date": null,
+  "scheme_short_title": "IFPISBTCDB",
+  "slug": "ifpisbtcdb",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Manure",
+    "Construction",
+    "Farmer",
+    "Subsidy",
+    "DBT"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,487 @@
+{
+  "detail": {
+    "data": {
+      "_id": "689d7d2446a2722631a723ed",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Registration Process:"
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1: "
+                          },
+                          {
+                            "text": "The applicant may visit and apply online at the "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "I-Khedut"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": " Portal."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2:"
+                          },
+                          {
+                            "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3:"
+                          },
+                          {
+                            "text": " Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 4:"
+                          },
+                          {
+                            "text": " Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Login Process:"
+                          },
+                          {
+                            "text": " "
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1:"
+                          },
+                          {
+                            "text": " The applicant may visit and apply online at the "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "I-Khedut"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/site/",
+                            "type": "link"
+                          },
+                          {
+                            "text": " Portal."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2:"
+                          },
+                          {
+                            "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3:"
+                          },
+                          {
+                            "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 4:"
+                          },
+                          {
+                            "text": " Click on the \"Apply New\" button and submit a new application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 5:"
+                          },
+                          {
+                            "text": " Click on the \"Update Application\" button to add corrections to the application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 6:"
+                          },
+                          {
+                            "text": " Once the application is done, confirm it."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 7:"
+                          },
+                          {
+                            "text": " Take a printout of the confirmed application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Contact Us:"
+                          },
+                          {
+                            "text": " "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "block_quote"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "&amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side, then click on &amp;amp;quot;Beneficiary Registration&amp;amp;quot; and select any one from the &amp;amp;#39;Farmer&amp;amp;#39; or &amp;amp;#39;Institutional&amp;amp;#39; or &amp;amp;#39;Except For the Farmer&amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;#39;what type of account holder you are?&amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;#39;Save and Next&amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;#39;Send OTP&amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;#39;Submit&amp;amp;#39;.\n&amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "National Mission on Edible Oil- Oil Palm: Nursery",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "NMOEN",
+          "schemeSubCategory": [
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Edible Oil",
+            "Nursery",
+            "Farmer",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a resident of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant should be a farmer.\n  - The applicant should be a resident of Gujarat.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Subsidy:"
+                    },
+                    {
+                      "text": " ₹40,00,000/- per nursery."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Capacity: "
+                    },
+                    {
+                      "text": "10 hectares for ₹1,00,000 worth of saplings."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Subsidy:** ₹40,00,000/- per nursery.- **Capacity:** 10 hectares for ₹1,00,000 worth of saplings.\n<br>\n\n",
+          "briefDescription": "The scheme component \"Nursery\" launched under the \"National Mission on Edible Oil–Oil Palm\" scheme aims to increase the production of oil palm in the state and reduce dependence on imports through providing subsidy assistance for setting up nurseries for farmers.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme component \"Nursery\" launched under the \"National Mission on Edible Oil–Oil Palm\" scheme by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to promote oil palm cultivation in the state by providing financial assistance to farmers for establishing oil palm nurseries. This initiative seeks to increase domestic production, thereby reducing the import of oil palm from abroad and strengthening the agricultural economy."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme component &amp;quot;Nursery&amp;quot; launched under the &amp;quot;National Mission on Edible Oil–Oil Palm&amp;quot; scheme by the Department of Agriculture, Farmers Welfare and Co-operation, Government of Gujarat, aims to promote oil palm cultivation in the state by providing financial assistance to farmers for establishing oil palm nurseries. This initiative seeks to increase domestic production, thereby reducing the import of oil palm from abroad and strengthening the agricultural economy.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://doh.gujarat.gov.in/Home/SchemesDetailsPage/qEITCG3U50OobCZFAdsNeQ%E2%99%AC%E2%99%AC"
+            },
+            {
+              "title": "Guidelines (Scheme No. 382)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "nmoen"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "689d7d3146a2722631a72430",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar Card.\n   1. Land Record 7-12 and 8-A.\n   1. Bank Passbook/Cancelled Cheque.\n   1. Caste Certificate (if applicable).\n   1. Disability Certificate from Competent Authority (if applicable).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land Record 7-12 and 8-A."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Passbook/Cancelled Cheque."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Disability Certificate from Competent Authority (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "689d7d2446a2722631a723ed"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:30.153136+00:00",
+  "scheme_id": "689d7d2446a2722631a723ed"
+}

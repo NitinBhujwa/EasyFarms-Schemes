@@ -1,0 +1,193 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": "The interested applicant should visit the District Registrar's Office or an APMC and request a hard copy of the prescribed format of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": "Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office or an APMC."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:**The interested applicant should visit the District Registrar&#39;s Office or an APMC and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:**Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office or an APMC.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Financial Assistance for Modernization:** The scheme provides financial help for the modernization of Agricultural Produce Market Committees (APMCs).  - **Support for Basic Facility Creation:** Assistance is offered for the creation of essential and modern facilities within these market committees.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "aadd62848788c02a2c25c0e2e32259abf3407df71ea41ee08f1b4e87efdbb814",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "the scheme “Kishan Kalpvriksh Yojana (Scheme for Assistance to APMCs to Provide Basic and Modern Facilities) (Tribal)” by the Agriculture and Co-operation Department, Government of Gujarat aims to enhance the competitiveness of agricultural produce markets affected by globalization and liberalization by enabling infrastructure development, modernization, and improved facilities through financial support to Agricultural Produce Market Committees (APMCs). The scheme seeks to create an environment conducive to direct purchase, contract farming, and private market participation to benefit farmers and stakeholders.\n**Objectives of the Scheme:**\n\n  - To strengthen infrastructure facilities in APMCs in tribal areas.\n  - To modernize and develop competitive and efficient agricultural markets.\n  - To support market committees in coping with the changes brought by private sector participation and e-market integration.\n\n<br>\n\n",
+  "eligibility": "\n  - Co-operative Agricultural Produce Market Committees  (APMC) shall be eligible under this scheme.\n  - The applicant APMC must be located in designated tribal areas within Gujarat.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:47.192102+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:47.192102+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 295)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6881fea779cc2cdbb79368ab",
+      "en": {
+        "documentsRequired_md": "\n   1. Permission Letter for Building Construction.\n   1. Quotations.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Permission Letter for Building Construction."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Quotations."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6881fe5f79cc2cdbb7936725"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6881fe5f79cc2cdbb7936725",
+  "scheme_name": "Kishan Kalpvriksh Yojana (Scheme for Assistance to APMCs to Provide Basic and Modern Facilities) (Tribal)",
+  "scheme_open_date": null,
+  "scheme_short_title": "KKYAABMT",
+  "slug": "kkyaabmt",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Rural services",
+      "value": "Rural services"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agricultural Market",
+    "APMC",
+    "Infrastructure Development",
+    "Tribal Area"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

@@ -1,0 +1,703 @@
+{
+  "detail": {
+    "data": {
+      "_id": "678f2837de7a5d4c4beef19b",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-1:"
+                      },
+                      {
+                        "text": " The applicant enterprise has to fill out the prescribed "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "application form"
+                          }
+                        ],
+                        "link": "https://ic.gujarat.gov.in/documents/commondoc/2020/Application-form%20for%20Scheme-2%20assistance%20to%20encouraging%20Green%20Practices%20and%20environmental%20audit%20to%20MSMEs.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": "."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-2:"
+                      },
+                      {
+                        "text": " Attach all relevant "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "documents "
+                          }
+                        ],
+                        "link": "https://ic.gujarat.gov.in/documents/commondoc/2020/Checklist%20for%20Scheme-1%20EPM%20IP-2020.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": "as required under the scheme guidelines."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-3: "
+                      },
+                      {
+                        "text": "submit the claim with all relevant documents and details of expenditure to the concerned DIC (for Activities 1, 2 &3)/Industries Commissionerate office (for Activities 4, 5 & 6) and disbursement of the assistance will be made as per availability of grant."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step-4:"
+                      },
+                      {
+                        "text": " Ensure that the application is submitted within six months from the date of completion of the activity or project."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Jt. Commissioner of Industries (IM)"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Block No. 1, 4thFloor, Udyog Bhavan, Sector 11, Gandhinagar-382 011"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Ph. :"
+                      },
+                      {
+                        "text": " +91 79 23252619,23252689, 23252682"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "E-mail :"
+                      },
+                      {
+                        "text": " icim@gujarat.gov.in; icjciim@gujarat.gov.in; icioim@gujarat.gov.in"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step-1:** The applicant enterprise has to fill out the prescribed [application form](https://ic.gujarat.gov.in/documents/commondoc/2020/Application-form%20for%20Scheme-2%20assistance%20to%20encouraging%20Green%20Practices%20and%20environmental%20audit%20to%20MSMEs.pdf).\n**Step-2:** Attach all relevant [documents ](https://ic.gujarat.gov.in/documents/commondoc/2020/Checklist%20for%20Scheme-1%20EPM%20IP-2020.pdf)as required under the scheme guidelines.\n**Step-3:** submit the claim with all relevant documents and details of expenditure to the concerned DIC (for Activities 1, 2 &amp;amp;3)/Industries Commissionerate office (for Activities 4, 5 &amp;amp; 6) and disbursement of the assistance will be made as per availability of grant.\n**Step-4:** Ensure that the application is submitted within six months from the date of completion of the activity or project.\n&gt; **Contact Us:**\n\n&gt; Jt. Commissioner of Industries (IM)\n\n&gt; Block No. 1, 4thFloor, Udyog Bhavan, Sector 11, Gandhinagar-382 011\n\n&gt; **Ph. :** +91 79 23252619,23252689, 23252682\n\n&gt; **E-mail :** icim@gujarat.gov.in; icjciim@gujarat.gov.in; icioim@gujarat.gov.in\n\n&lt;br&gt;\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Industries and Mines Department",
+            "value": 2444452
+          },
+          "schemeCategory": [
+            {
+              "label": "Business & Entrepreneurship",
+              "value": "628ce733d6d1a3bde4685278"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Scheme of Assistance for Environment Protection Measures: Scheme for assistance to encouraging Green Practices and Environmental Audit to MSMEs",
+          "schemeOpenDate": "2020-08-07",
+          "schemeShortTitle": "SAEPEGP",
+          "schemeSubCategory": [
+            {
+              "label": "Setting up / start-up / entrepreneurship",
+              "value": "Setting up / start-up / entrepreneurship"
+            },
+            {
+              "label": "Environmental management and protection",
+              "value": "Environmental management and protection"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Business",
+            "Entrepreneurship",
+            "Environmental Management",
+            "Environmental Compliance",
+            "Green Practices"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Business Entity",
+              "value": "business-entity"
+            },
+            {
+              "label": "Industries",
+              "value": "industries"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The industry/unit must be registered under relevant industrial laws in Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The industry/unit must comply with existing environmental regulations and standards."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The industry/unit must be engaged in manufacturing or production activities."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The industry/unit must undertake projects focused on environmental protection measures."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The industry/unit must adopt green practices as specified in the scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The industry/unit must be registered under relevant industrial laws in Gujarat.\n   1. The industry/unit must comply with existing environmental regulations and standards.\n   1. The industry/unit must be engaged in manufacturing or production activities.\n   1. The industry/unit must undertake projects focused on environmental protection measures.\n   1. The industry/unit must adopt green practices as specified in the scheme.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Eligible Activity"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Quantum of Assistance per Project "
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Periodic Environmental Audits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 75% of fees with a ceiling of ₹50,000/- per audit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Installation of Monitoring Systems"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 25% of fees with a ceiling of ₹5,00,000/- per audit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Green Building Certification"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 50% of fees with a ceiling of ₹2,50,000/- per audit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Environmental Management Systems"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 50% of fees with a ceiling of ₹10,00,000/- per audit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Cluster-Based Equipment Purchase"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 35% of fees with a ceiling of ₹35,00,000/- per audit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Wastewater Recovery Systems"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 50% of fees with a ceiling of ₹75,00,000/- per audit."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Eligible Activity****Quantum of Assistance per Project** Periodic Environmental AuditsUp to 75% of fees with a ceiling of ₹50,000/- per audit.Installation of Monitoring SystemsUp to 25% of fees with a ceiling of ₹5,00,000/- per audit.Green Building CertificationUp to 50% of fees with a ceiling of ₹2,50,000/- per audit.Environmental Management SystemsUp to 50% of fees with a ceiling of ₹10,00,000/- per audit.Cluster-Based Equipment PurchaseUp to 35% of fees with a ceiling of ₹35,00,000/- per audit.Wastewater Recovery SystemsUp to 50% of fees with a ceiling of ₹75,00,000/- per audit.<br>\n\n",
+          "briefDescription": "The \"Scheme of Assistance for Environment Protection Measures\" under the Gujarat Industrial Policy promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms, effective from August 7th, 2020 to August 6th, 2025.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Scheme of Assistance for Environment Protection Measures\" is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, this initiative promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The component \"Scheme for Assistance to Encourage Green Practices and Environmental Audit for MSMEs\" is designed to promote green practices and environmental sustainability in MSMEs by providing financial support for activities such as environmental audits, installation of monitoring systems, and adopting eco-friendly infrastructure."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Scheme of Assistance for Environment Protection Measures&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, this initiative promotes sustainable industrial growth by supporting industries in adopting eco-friendly practices and ensuring compliance with environmental norms.\nThe component &amp;quot;Scheme for Assistance to Encourage Green Practices and Environmental Audit for MSMEs&amp;quot; is designed to promote green practices and environmental sustainability in MSMEs by providing financial support for activities such as environmental audits, installation of monitoring systems, and adopting eco-friendly infrastructure.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+            },
+            {
+              "title": "Document Checklist",
+              "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/Checklist%20for%20Scheme-2%20EPM%20IP-2020.pdf"
+            },
+            {
+              "title": "Application Form",
+              "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/Application-form%20for%20Scheme-2%20assistance%20to%20encouraging%20Green%20Practices%20and%20environmental%20audit%20to%20MSMEs.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": [
+          {
+            "definition": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Existing enterprise means an enterprise that has filed EM Part II or Udyog Aadhaar or Udhyam Registration or [EM with the concerned authority and is in production. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "definitions_md": "Existing enterprise means an enterprise that has filed EM Part II or Udyog Aadhaar or Udhyam Registration or [EM with the concerned authority and is in production. \n&lt;br&gt;\n\n",
+            "name": "Existing Enterprise",
+            "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+          },
+          {
+            "definition": [
+              {
+                "children": [
+                  {
+                    "text": "Project Cost means the cost approved by the Committee constituted under this resolution."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "definitions_md": "Project Cost means the cost approved by the Committee constituted under this resolution.\n",
+            "name": "Project Cost",
+            "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+          },
+          {
+            "definition": [
+              {
+                "children": [
+                  {
+                    "text": "Eligible Fixed Capital Investment means the capital investment made in plant and machinery, equipment and civil work (except building if required for the project such as erection) etc. during the operative period of the scheme. "
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "definitions_md": "Eligible Fixed Capital Investment means the capital investment made in plant and machinery, equipment and civil work (except building if required for the project such as erection) etc. during the operative period of the scheme. \n",
+            "name": "Eligible Fixed Capital Investment",
+            "source": "https://ic.gujarat.gov.in/documents/commondoc/2020/7-GR_02092020.pdf"
+          }
+        ]
+      },
+      "slug": "saepegp"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "678f286e299213e15d381ed9",
+      "en": {
+        "documentsRequired_md": "\n   1. Detailed Project Report for the project.\n   1. Chartered Accountant Certificate for the expenditure.\n   1. Expenditure statement approved by Chartered Accountant in prescribed pro forma.\n   1. Justification of the comparative benefits of the implemented project with details of data and percentage reduction in raw material, water, energy consumption, or waste generation. (By maintaining the log sheet.)\n   1. SLEC or GPCB approved independent empaneled auditor’s Environment Audit report (if applicable, otherwise justification for not applicable).\n   1. Copy of the Constitution/Establishment of the Institute/Company. (Attach a copy of Registration Certificate.)\n   1. Copy of EM registration/IEM Part-B/Udyog Aadhaar Memorandum (UAM)/Udyam Registration (UR) - (as the case may be).\n   1. GPCB NOC/Consent.\n   1. Process Flow Diagram with a brief note of the existing and proposed project.\n   1. Last year balance sheet of the enterprise.\n   1. Copies of invoices for which expenditure incurred for the project.\n   1. Bank statements for expenditure incurred in the project.\n   1. Photographs of the project (minimum 3 photographs).\n   1. Rating certificate (for Scheme No. 3).\n   1. Copy of any other financial assistance granted by GoG and/or GoI for the same component/project. (If not granted, then give undertaking.)\n   1. Undertaking for outstanding Government dues and any pending court case against the government.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Detailed Project Report for the project."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Chartered Accountant Certificate for the expenditure."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Expenditure statement approved by Chartered Accountant in prescribed pro forma."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Justification of the comparative benefits of the implemented project with details of data and percentage reduction in raw material, water, energy consumption, or waste generation. (By maintaining the log sheet.)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "SLEC or GPCB approved independent empaneled auditor’s Environment Audit report (if applicable, otherwise justification for not applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of the Constitution/Establishment of the Institute/Company. (Attach a copy of Registration Certificate.)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of EM registration/IEM Part-B/Udyog Aadhaar Memorandum (UAM)/Udyam Registration (UR) - (as the case may be)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "GPCB NOC/Consent."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Process Flow Diagram with a brief note of the existing and proposed project."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Last year balance sheet of the enterprise."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copies of invoices for which expenditure incurred for the project."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank statements for expenditure incurred in the project."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Photographs of the project (minimum 3 photographs)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Rating certificate (for Scheme No. 3)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of any other financial assistance granted by GoG and/or GoI for the same component/project. (If not granted, then give undertaking.)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Undertaking for outstanding Government dues and any pending court case against the government."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "678f2837de7a5d4c4beef19b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:02.073568+00:00",
+  "scheme_id": "678f2837de7a5d4c4beef19b"
+}

@@ -1,0 +1,341 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Step 1:"
+                        },
+                        {
+                          "text": " Prepare a Detailed Project Report (DPR)."
+                        }
+                      ],
+                      "type": "paragraph"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Step 2: "
+                        },
+                        {
+                          "text": "Fill out the "
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "prescribed application form"
+                            }
+                          ],
+                          "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf",
+                          "type": "link"
+                        },
+                        {
+                          "text": "."
+                        }
+                      ],
+                      "type": "paragraph"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Step 3: "
+                        },
+                        {
+                          "text": "Submit the application with the required documents to the "
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Industries Commissionerate"
+                            }
+                          ],
+                          "link": "https://ic.gujarat.gov.in/ic-contact.aspx",
+                          "type": "link"
+                        },
+                        {
+                          "text": "."
+                        }
+                      ],
+                      "type": "paragraph"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Step 4: "
+                        },
+                        {
+                          "text": "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress."
+                        }
+                      ],
+                      "type": "paragraph"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Helpdesk",
+                          "underline": true
+                        },
+                        {
+                          "bold": true,
+                          "text": ": "
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Contact Here"
+                            }
+                          ],
+                          "link": "https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static",
+                          "type": "link"
+                        },
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "block_quote"
+                    }
+                  ],
+                  "type": "align_justify"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "\n**Step 1:** Prepare a Detailed Project Report (DPR).\n**Step 2:** Fill out the [prescribed application form](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf).\n**Step 3:** Submit the application with the required documents to the [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx).\n**Step 4:** Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.\n&amp;gt; **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)\n\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Activity****Assistance**Assistance for preparation of site master plan for relocation /retrofitting of existing polluting industrial units into Green Industrial estate as per the direction of GPCB/MoEF by recognized Science &amp;amp;amp;amp; Engineering Colleges of the State, IITs, NITs, Scientific and R &amp;amp;amp;amp; D institutions, GEMI, GCPC etc.75% assistance maximum ₹80,00,000/-.Assistance for setup /relocation /retrofitting of existing polluting industrial units into Green Industrial estate25% of capital cost or maximum ₹25,00,00,000/-.<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "0f456017c2929e631a424cd8e7b810b94ba1878c61c43810efa2993dbab15949",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Scheme of Assistance for Common Environment Infrastructure&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component “Scheme for Development of Green Estate” aims to support the relocation or retrofitting of polluting industrial units to designated green estates. The initiative focuses on reducing environmental pollution by providing necessary infrastructure support, ensuring compliance with environmental norms, and promoting sustainable industrial growth.\n",
+  "eligibility": "\n  - Industries Commissioner, based on GPCB’s recommendation, will appoint a professional agency for assessing relocation needs.\n  - The professional agency will evaluate pollution load, effluent quality, and overall environmental benefits.\n  - The study report must be approved by the SLEC committee before project execution.\n  - Any institution or group of industries with polluting industrial units recommended for relocation or retrofitting by GPCB is eligible.\n  - Infrastructure expenditures for internal roads, power distribution, communication, water supply, sewage, effluent treatment, and other approved facilities are eligible for financial support.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:22.388396+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:22.388396+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Industries and Mines Department",
+    "value": 2444452
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "679b13bec4ea5da14d023eb1",
+      "en": {
+        "documentsRequired_md": "\n   1. Copy of legal status of applicant such as memorandum and article of association and company registration certificate or registration under society act or trust act, and list of directors/members with addresses.\n   1. Proof that land for project is in possession, like land allotment letter of GIDC with copies of 7/12 utaara, N.A. permission, approved plan, and construction permission by competent authority.\n   1. Copy of GPCB NOC/CCA for establishing project (if not applicable, then give justification on letterhead).\n   1. Copy of Environment Clearance (if not applicable, then give justification on letterhead).\n   1. Detailed project report covering all details mentioned in application form.\n   1. List of beneficiaries in format as per [Annexure-A1](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Checklist_CEIS-IP-2020.pdf) for each beneficiary on letterhead.   1. Process diagram of proposed project signed by authorized signatory.\n   1. Financial and technical appraisal of project from Bank/FI/other institution as approved by SLEC.\n   1. Copy of any other financial assistance granted by GoG and/or GoI for the same component or project.\n   1. Copy of sanction/consent letter from Financial Institution, if loan is sanctioned.\n   1. Affidavits for outstanding government dues and any pending court case against Govt.\n   1. Declaration/resolution as per application.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of legal status of applicant such as memorandum and article of association and company registration certificate or registration under society act or trust act, and list of directors/members with addresses."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof that land for project is in possession, like land allotment letter of GIDC with copies of 7/12 utaara, N.A. permission, approved plan, and construction permission by competent authority."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of GPCB NOC/CCA for establishing project (if not applicable, then give justification on letterhead)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of Environment Clearance (if not applicable, then give justification on letterhead)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Detailed project report covering all details mentioned in application form."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "List of beneficiaries in format as per "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Annexure-A1"
+                          }
+                        ],
+                        "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Checklist_CEIS-IP-2020.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " for each beneficiary on letterhead."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Process diagram of proposed project signed by authorized signatory."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Financial and technical appraisal of project from Bank/FI/other institution as approved by SLEC."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of any other financial assistance granted by GoG and/or GoI for the same component or project."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of sanction/consent letter from Financial Institution, if loan is sanctioned."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Affidavits for outstanding government dues and any pending court case against Govt."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Declaration/resolution as per application."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "679b13a5e128bbaf340028f0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": "2025-08-06",
+  "scheme_for": "Infra",
+  "scheme_id": "679b13a5e128bbaf340028f0",
+  "scheme_name": "Scheme of Assistance for Common Environment Infrastructure: Scheme for Development of Green Estate",
+  "scheme_open_date": "2020-08-07",
+  "scheme_short_title": "SACEIDGE",
+  "slug": "saceidge",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Setting up / start-up / entrepreneurship",
+      "value": "Setting up / start-up / entrepreneurship"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Entrepreneurship",
+    "Environment Infrastructure",
+    "Development Of Green Estate"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    },
+    {
+      "label": "Industries",
+      "value": "industries"
+    }
+  ]
+}

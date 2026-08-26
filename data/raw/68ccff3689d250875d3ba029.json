@@ -1,0 +1,230 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68ccff3689d250875d3ba029",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The exhibition is organized after agriculture and agriculture-related firms deposit the prescribed participation fee, while farmers participate by registering themselves for the event."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The exhibition is organized after agriculture and agriculture-related firms deposit the prescribed participation fee, while farmers participate by registering themselves for the event.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Govind Ballabh Pant University Of Agriculture And Technology, Pantnagar",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Akhil Bhartiya Kisan Mela and Krishi Udyog Pradarshani",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ABKMKUP",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Agricultural Exhibition",
+            "Farmer",
+            "Fair",
+            "Entrepreneur"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Business Entity",
+              "value": "business-entity"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Participants should be farmers, farmer entrepreneurs, or agriculture-related firms interested in showcasing and promoting the latest agricultural technologies."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Participants should be farmers, farmer entrepreneurs, or agriculture-related firms interested in showcasing and promoting the latest agricultural technologies.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Fair/Exhibition is organized twice a year on the university campus."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "The Fair/Exhibition is organized twice a year on the university campus.\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Akhil Bhartiya Kisan Mela and Krishi Udyog Pradarshani” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Akhil Bhartiya Kisan Mela and Krishi Udyog Pradarshani” scheme is implemented by Govind Ballabh Pant University of Agriculture and Technology, Pantnagar, under the Department of Agriculture, Government of Uttarakhand. The scheme aims to provide a platform for farmers, agri-entrepreneurs, and stakeholders to access, learn about, and showcase the latest agricultural innovations, technologies, and practices.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 188)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "aikmkue"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68ccff4e89d250875d3ba0ca",
+      "en": {
+        "documentsRequired_md": "Documents are required in accordance with the guidelines issued for the conduct of the fair and exhibitions.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Documents are required in accordance with the guidelines issued for the conduct of the fair and exhibitions."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ccff3689d250875d3ba029"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:25.697733+00:00",
+  "scheme_id": "68ccff3689d250875d3ba029"
+}

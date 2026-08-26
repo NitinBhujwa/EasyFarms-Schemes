@@ -1,0 +1,278 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " Click on \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 05:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 06: "
+                },
+                {
+                  "text": "Once the application is done, confirm it."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 07:"
+                },
+                {
+                  "text": " Take a print out of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 08:"
+                },
+                {
+                  "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 02:** On the home page, click on ‘Schemes’ and then click on ‘Animal Husbandry Schemes’.\n**Step 03:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 04:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 05:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 06:** Once the application is done, confirm it.\n**Step 07:** Take a print out of the confirmed application.\n**Step 08:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n   1. Under the scheme, financial assistance of either ₹30,000/- or 50% of the cost of the cattle shed, whichever is less, is provided to Scheduled Caste beneficiaries for the construction of a cattle shed for two animals.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "9f61b58eb6c0603f8da2f553dce49674be10fb308499ca0a65914fe7b20a9a3c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Cattle Shed Subsidy Scheme under Scheduled Castes Sub Plan (SCSP)” is implemented by the Directorate of Animal Husbandry, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under this scheme, the financial assistance is given to Scheduled Caste beneficiaries for construction of Cattle Shed for 2 animals.\n",
+  "eligibility": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary should belong to the Scheduled Caste category.\n   1. The beneficiary should possess the necessary land to his or her name or he/she should borrowed land on rent either up to ten year (10) or for more than ten year as well as necessary animals.\n   1. Only those beneficiaries of scheduled castes keeping at least 2 (two) animals can only get the benefit of this scheme.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:53:43.612876+00:00",
+  "implementing_agency": "Department Of Animal Husbandry, District Panchayats, Gujarat",
+  "last_synced_at": "2026-08-26T13:53:43.612876+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://doah.gujarat.gov.in/cattle-shed-under-scheduled-caste-guj.htm"
+    },
+    {
+      "title": "Scheme Details (Page No. 5)",
+      "url": "https://doah.gujarat.gov.in/Images/animalhusbandary/pdf/English-for-Fodder-Development.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "660f96f6ff0ffe4f91cc9e6b",
+      "en": {
+        "documentsRequired_md": "1.\tIdentity proof of the applicant i.e. Aadhaar Card\n2.\tProof of possessing necessary land\n3.\tRation card\n4.\tScheduled Caste Certificate\n5.\tBank account details of beneficiary\n6.\tAny other documents as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tIdentity proof of the applicant i.e. Aadhaar Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tProof of possessing necessary land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tRation card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tScheduled Caste Certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tBank account details of beneficiary"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6.\tAny other documents as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "660f96a1ff0ffe4f91cc9dca"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "660f96a1ff0ffe4f91cc9dca",
+  "scheme_name": "Cattle Shed Subsidy Scheme under Scheduled Castes Sub Plan (SC Category) ",
+  "scheme_open_date": null,
+  "scheme_short_title": "CSSSSCSP(SCC)",
+  "slug": "csssscspscc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Cattle Shed",
+    "Subsidy",
+    "Scheduled Caste",
+    "Animal Husbandry",
+    "Farmer",
+    "Financial Assistance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

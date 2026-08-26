@@ -1,0 +1,443 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The interested applicant should visit the nearest Gram Panchayat or the Office of the Assistant Director of Agriculture of the respective block, and request a hard copy of the prescribed format of the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the "
+            },
+            {
+              "bold": true,
+              "text": "Gram Panchayat or the Office of the Assistant Director of Agriculture.",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit the nearest Gram Panchayat or the Office of the Assistant Director of Agriculture of the respective block, and request a hard copy of the prescribed format of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents, within the prescribed period (if any), to the **Gram Panchayat or the Office of the Assistant Director of Agriculture.**\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n",
+      "url": ""
+    },
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "REGISTRATION",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://krishakbandhu.wb.gov.in",
+              "type": "link"
+            },
+            {
+              "text": " of the Krishak Bandhu Scheme, and click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Sign Up"
+                }
+              ],
+              "link": "https://krishakbandhu.wb.gov.in/users/sign_up",
+              "type": "link"
+            },
+            {
+              "text": "\". In the registration form, fill in all the mandatory fields and click \"Register\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "APPLICATION",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official website"
+                }
+              ],
+              "link": "https://krishakbandhu.wb.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " of the Krishak Bandhu Scheme, and log in using the credentials you created during registration."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " On the website, navigate to the online application form. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click the \"Submit\" to submit your application. You'll receive a confirmation message. Note the reference number."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Tracking:",
+              "underline": true
+            },
+            {
+              "text": " https://krishakbandhu.wb.gov.in"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Helpline:",
+              "underline": true
+            },
+            {
+              "text": " 8336957370, 6291720406"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Time:",
+              "underline": true
+            },
+            {
+              "text": " 10am - 6pm"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Email ID:",
+              "underline": true
+            },
+            {
+              "text": " krishak.bandhu@ingreens.in"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**REGISTRATION**\nVisit the [official website](https://krishakbandhu.wb.gov.in) of the Krishak Bandhu Scheme, and click &quot;[Sign Up](https://krishakbandhu.wb.gov.in/users/sign_up)&quot;. In the registration form, fill in all the mandatory fields and click &quot;Register&quot;.\n**APPLICATION**\n**Step 1:** Visit the [official website](https://krishakbandhu.wb.gov.in/) of the Krishak Bandhu Scheme, and log in using the credentials you created during registration.\n**Step 2:** On the website, navigate to the online application form. In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 3:** Carefully review all the information provided and the documents uploaded. Make any necessary corrections. Click the &quot;Submit&quot; to submit your application. You&#39;ll receive a confirmation message. Note the reference number.\n<br>\n\n**Application Tracking:** https://krishakbandhu.wb.gov.in\n**Helpline:** 8336957370, 6291720406\n**Time:** 10am - 6pm\n**Email ID:** krishak.bandhu@ingreens.in\n<br>\n\n",
+      "url": "https://bsk.wb.gov.in/register"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Direct Income Support**\n\n  - Farmers with one acre or more of cultivable land receive ₹10,000/- per annum, payable in two equal installments of ₹5,000/- each (one for Kharif and one for Rabi season).\n  - Farmers with less than one acre of cultivable land receive assistance on a pro-rata basis, subject to a minimum of ₹4,000/- per annum, paid in two equal installments.\n\n**Death/Disability Benefit**\n\n  - In the event of the death of a farmer between the ages of 18 and 60 years, a one-time lump sum grant of ₹2,00,000/- is provided to the legal heirs of the deceased. The farmer must have been enrolled under the Krishak Bandhu scheme at the time of death.\n\n\n  - A one-time lump sum grant of ₹2,00,000/- for permanent disability of the farmer due to accident.\n\n**Disbursement Conditions**\n\n  - Income support is linked to land ownership records.\n  - Death benefit requires submission of legal heir certificates.\n  - Disbursed via Direct Benefit Transfer (DBT) to the beneficiary&amp;amp;#39;s bank account.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    }
+  ],
+  "content_hash": "6d0f64ab4847d954d36bd55edf16330ce41f1dcf7f0739488512988861eb109b",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Launched in 2019, the scheme &amp;quot;Krishak Bandhu Scheme&amp;quot; by the Department of Agriculture, Government of West Bengal, aims to provide financial assistance to farmers for agricultural sustainability and risk mitigation. The scheme offers ₹5,000/- per acre per year as direct income support and ₹2,00,000/- as death benefit to the family of deceased farmers. Eligible beneficiaries include small and marginal farmers owning up to 2 acres of land and all farmer families in case of death or disability. The scheme is implemented by the Department of Agriculture, Government of West Bengal, and applications are accepted both online and offline.\n",
+  "eligibility": "**For Income Support**\n\n  - The applicant must be a resident of West Bengal.\n  - The applicant must own cultivable land (up to 2 acres).\n  - The applicant must be actively engaged in farming.\n\n**For Death/Disability Benefit**\n\n  - The deceased/disabled person must have been a farmer aged 18–60 years.\n  - The applicant must be the legal heir (for death benefit).\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:02.487960+00:00",
+  "implementing_agency": "Department Of Agriculture, Government Of West Bengal",
+  "last_synced_at": "2026-08-26T14:08:02.487960+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1999991
+  },
+  "references": [
+    {
+      "title": "Guideline",
+      "url": "https://krishakbandhu.wb.gov.in/#"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6474c0ce527a0d6debd55c30",
+      "en": {
+        "documentsRequired_md": "\n- Record of Rights (RoR) of Cultivable Land / RoR recorded with Barga / Patta Record / Forest Patta (Latest).\n\n\n- Voter Identity Card (Mandatory).\n- Aadhaar Card (Optional).\n- Bank Passbook (First page and last page) / Cancelled Cheque.\n- Passport Size Recent Photograph (Original).\n- Self Declaration with Land Documents &amp; Warison Certificate (if needed).\n- Bank account and Aadhaar linked mobile number.\n- Death Certificate (For Death Benefit).\n- Legal Heir Certificate (For Death Benefit).\n- Disability Certificate (For Disability Benefit).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Record of Rights (RoR) of Cultivable Land / RoR recorded with Barga / Patta Record / Forest Patta (Latest)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Voter Identity Card (Mandatory)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card (Optional)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook (First page and last page) / Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport Size Recent Photograph (Original)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self Declaration with Land Documents & Warison Certificate (if needed)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account and Aadhaar linked mobile number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Death Certificate (For Death Benefit)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Legal Heir Certificate (For Death Benefit)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate (For Disability Benefit)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "647099449062e55967607e31"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "647099449062e55967607e31",
+  "scheme_name": "Krishak Bandhu Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "KBS",
+  "slug": "kbs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "West Bengal",
+    "value": 19
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Crisis/Disaster/Accident",
+      "value": "Crisis/Disaster/Accident"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Financial Assistance",
+    "Agriculture",
+    "Income",
+    "Death",
+    "Disability"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

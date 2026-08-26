@@ -1,0 +1,640 @@
+{
+  "detail": {
+    "data": {
+      "_id": "685a779d55fcecc791ebc882",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process on Antyodaya-SARAL Portal:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Visit the Official Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal."
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2:"
+                      },
+                      {
+                        "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Login to Apply for the Scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Visit the Official Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal."
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3:"
+                      },
+                      {
+                        "text": " In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 4:"
+                      },
+                      {
+                        "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 5:"
+                      },
+                      {
+                        "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Track Your Service Online:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Track Application/Appeal: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://status.saralharyana.nic.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Track Ticket: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Track Your Service Through SMS:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Registered Mobile Number:"
+                          },
+                          {
+                            "text": " Type SARAL and send to 9954699899 to track your application."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Other Mobile Number: "
+                          },
+                          {
+                            "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Contact Us:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Helpline: "
+                          },
+                          {
+                            "text": "0172-3968400"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Email: "
+                          },
+                          {
+                            "text": "saral.haryana@gov.in"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note: ",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Govt. Charges:"
+                          },
+                          {
+                            "text": " No Fee"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Service Charges:  "
+                          },
+                          {
+                            "text": " ₹10/-"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Atal Seva Kendra Service Charges:"
+                          },
+                          {
+                            "text": "  ₹10/-"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&lt;br&gt;\n\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list”, and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&lt;br&gt;\n\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&lt;br&gt;\n\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&lt;br&gt;\n\n&gt; **Contact Us:**\n\n\n  - **Helpline:** 0172-3968400  - **Email:** saral.haryana@gov.in\n&lt;br&gt;\n\n&gt; **Note:** \n\n\n  - **Govt. Charges:** No Fee  - **Service Charges:**   ₹10/-  - **Atal Seva Kendra Service Charges:**  ₹10/-\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Renewable Energy Department",
+            "value": 666697
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Family",
+          "schemeName": "Solar Inverter Charger",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SIC",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "Renewable Energy",
+            "Solar Inverter",
+            "Subsidy",
+            "Green Energy Initiative"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "Any resident family of Haryana with Pariwar Pahichan Patra (PPP) to apply."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "All the households who have domestic inverter and not installed solar inverter charger on his/her existing inverter."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "Applicants who have not installed Solar Inverter Charger in past 5 years under the Department Scheme."
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "ol_list"
+                    }
+                  ],
+                  "type": "align_justify"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Any resident family of Haryana with Pariwar Pahichan Patra (PPP) to apply.\n   1. All the households who have domestic inverter and not installed solar inverter charger on his/her existing inverter.\n   1. Applicants who have not installed Solar Inverter Charger in past 5 years under the Department Scheme.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "For 320-watt Solar Inverter Charger System:"
+                        },
+                        {
+                          "text": " A subsidy of ₹6,000/- is provided."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "For 640-watt Solar Inverter Charger System: "
+                        },
+                        {
+                          "text": "A subsidy of ₹10,000/- is provided."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n  - **For 320-watt Solar Inverter Charger System:** A subsidy of ₹6,000/- is provided.  - **For 640-watt Solar Inverter Charger System:** A subsidy of ₹10,000/- is provided.\n<br>\n\n<br>\n\n",
+          "briefDescription": "The \"Solar Inverter Charger\" by the Renewable Energy Department, Government of Haryana, aims to promote the use of renewable energy and reduce electricity dependence by providing a subsidy of ₹6,000/- or ₹10,000/- for solar inverter charger systems to eligible households.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The \"Solar Inverter Charger\" by the Renewable Energy Department, Government of Haryana, aims to promote sustainable energy practices, reduce the dependency on grid electricity, and provide financial support for the installation of solar inverter chargers in domestic households. This initiative targets families with existing inverters who have not yet adopted solar technology, thereby enabling energy-efficient solutions and reducing carbon footprint."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &amp;quot;Solar Inverter Charger&amp;quot; by the Renewable Energy Department, Government of Haryana, aims to promote sustainable energy practices, reduce the dependency on grid electricity, and provide financial support for the installation of solar inverter chargers in domestic households. This initiative targets families with existing inverters who have not yet adopted solar technology, thereby enabling energy-efficient solutions and reducing carbon footprint.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should not have installed a Solar Inverter Charger in the past 5 years under the Department Scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "\n  - The applicant should not have installed a Solar Inverter Charger in the past 5 years under the Department Scheme.\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=E1fwq0pgAw75GA3jMlieDg=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sic"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "685a77bbb891d3ecdabbda1f",
+      "en": {
+        "documentsRequired_md": "\n1. Pariwar Pahichan Patra (PPP).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Pariwar Pahichan Patra (PPP)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "685a779d55fcecc791ebc882"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:07:41.818590+00:00",
+  "scheme_id": "685a779d55fcecc791ebc882"
+}

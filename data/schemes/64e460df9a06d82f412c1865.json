@@ -1,0 +1,161 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Applicant farmer need to approach panchayat first."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The selection of farmers will be done with the approval of the three-tier panchayat."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        }
+      ],
+      "process_md": "\n- Applicant farmer need to approach panchayat first.\n- The selection of farmers will be done with the approval of the three-tier panchayat.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Mining Grant:**\n**S. No.****Farmer Category****Grant Eligibility**1GeneralActual Cost of mining (Including casing pipe) or Rs. 10,000/- whichever is less2SC/ST Actual Cost of mining (Including casing pipe) or Rs. 18,000/- whichever is less<br>\n\n**Subsidy on pump installation:**\n**S. No.****Farmer Category****Grant Eligibility**1GeneralCost of pump and accessories or Rs. 20,000/- whichever is less.2SC/STCost of pump and accessories or Rs. 25,000/- whichever is less.<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "5d96110261fe7838ce3c1df679aaff9a3d948ab989b7a4f31e5daa1d90b54cb6",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "This scheme provide grant to farmers on tube well mining and pump installation. The main objective of the scheme is to increase the productivity and crop intensity by making proper use of available ground water through tube wells and providing irrigation facilities to the crops.\n",
+  "eligibility": "\n1. Farmers of all categories of districts will be benefited.\n1. Preference will be given to small and marginal farmers\n1. The farmers who have received the benefit of tube well mining grant in the past under any other scheme run by the department or under this scheme will not be eligible.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:04:37.503573+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:37.503573+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Development and Farmer Welfare and Bio-Technology Department",
+    "value": 2200001
+  },
+  "references": [
+    {
+      "title": "Guidelines-1",
+      "url": "https://agriportal.cg.nic.in/agridept/StateScheme/2%20kisansamriddhi.pdf"
+    },
+    {
+      "title": "Guidelines-2",
+      "url": "https://agriportal.cg.nic.in/agridept/StateScheme/2.%20amnd-kisansamriddhi.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64e467049a06d82f412c1e2d",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Land paper.\n1. Photograph.\n1. Bill Invoice.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land paper."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bill Invoice."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64e460df9a06d82f412c1865"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64e460df9a06d82f412c1865",
+  "scheme_name": "Kisan Samriddhi Yojana - Chhattisgarh",
+  "scheme_open_date": null,
+  "scheme_short_title": "Ksych",
+  "slug": "ksych",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Chhattisgarh",
+    "value": 22
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Farmers",
+    "Agriculture",
+    "Pump Installation"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

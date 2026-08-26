@@ -1,0 +1,364 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65c5f0c6cd96dc5e074d072b",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "italic": true,
+                        "text": "Application Process:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "italic": true,
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Whom to Contact:"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "1. "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "District Horticulture Officer"
+                      }
+                    ],
+                    "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "2. Horticulture Development Officer"
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "&gt; ***Application Process:***\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n> ***Mode of Selection of Beneficiary(s):***\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n> **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Spices Development Ginger, Turmeric, Black Pepper, Cardamom, Coriander, Cinnamon and Chillies",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SDGTBPCCCC",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Spices",
+            "Ginger",
+            "Turmeric",
+            "Black Pepper",
+            "Cardamom",
+            "Coriander",
+            "Cinnamon",
+            "Chillies",
+            "Farmer",
+            "Horticulture"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant/farmer should be a permanent resident of Meghalaya."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should possess their own or leased land of at least 0.2 (hectares) or more."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note:",
+                      "underline": true
+                    },
+                    {
+                      "bold": true,
+                      "text": " "
+                    },
+                    {
+                      "text": "The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant/farmer should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture.\n   1. The applicant should possess their own or leased land of at least 0.2 (hectares) or more.\n\n**Note:****** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The produce from the Government Farm, Umsning are sold directly to the growers through District Horticulture Officers / Implementing Officers at full rate."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "> **Pattern of Assistance:**\n\nThe produce from the Government Farm, Umsning are sold directly to the growers through District Horticulture Officers / Implementing Officers at full rate.\n",
+          "briefDescription": "The objective of the scheme is to encourage farmers to produce good quality and diseased-free planting materials and to grow improved varieties of high-yielding spices.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Spices Development Ginger, Turmeric, Black Pepper, Cardamom, Coriander, Cinnamon, and Chillies” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to encourage farmers to produce good quality and diseased free planting materials and to grow improved varieties of high yielding spices."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Spices Development Ginger, Turmeric, Black Pepper, Cardamom, Coriander, Cinnamon, and Chillies” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to encourage farmers to produce good quality and diseased free planting materials and to grow improved varieties of high yielding spices.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=101"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sdgtbpcccc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65c5f123ed4030e118d37190",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Bank passbook/account details\n1. Documents proof of possessing own or leased land for agriculture\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook/account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of possessing own or leased land for agriculture"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65c5f0c6cd96dc5e074d072b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:02:00.792434+00:00",
+  "scheme_id": "65c5f0c6cd96dc5e074d072b"
+}

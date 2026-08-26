@@ -1,0 +1,328 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ssp.uk.gov.in"
+                    }
+                  ],
+                  "link": "https://ssp.uk.gov.in",
+                  "type": "link"
+                },
+                {
+                  "text": "), the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "UMANG"
+                    }
+                  ],
+                  "link": "https://web.umang.gov.in",
+                  "type": "link"
+                },
+                {
+                  "text": " Mobile App, or the Apuni Sarkar Portal ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://eservices.uk.gov.in"
+                    }
+                  ],
+                  "link": "https://eservices.uk.gov.in",
+                  "type": "link"
+                },
+                {
+                  "text": ")."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "The following documents are mandatory at the time of applying: "
+                },
+                {
+                  "text": "Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, Certificate from the Agriculture Officer confirming injury while performing agricultural work, Disability certificate issued by the Chief Medical Officer for 20% to 40% disability, Unique Disability ID (UDID) Card, CBS bank account details (linked/seeded with Aadhaar), Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Income certificate is not required."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "All the above documents must be issued from the district where the application is being submitted."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "The pension is credited to the applicant’s bank account one month after the approval of the application."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The applicant can apply online either by themselves or through a Common Service Center (CSC) via the Department’s Pension Portal ([https://ssp.uk.gov.in](https://ssp.uk.gov.in)), the [UMANG](https://web.umang.gov.in) Mobile App, or the Apuni Sarkar Portal ([https://eservices.uk.gov.in](https://eservices.uk.gov.in)).\n**The following documents are mandatory at the time of applying:** Applicant’s mobile number, Passport-size photograph (attested by Gram Pradhan / V.P.D.O. / certified by Councillor), Photocopy of Aadhaar card and Voter ID card, Certificate from the Agriculture Officer confirming injury while performing agricultural work, Disability certificate issued by the Chief Medical Officer for 20% to 40% disability, Unique Disability ID (UDID) Card, CBS bank account details (linked/seeded with Aadhaar), Copy of family register (for rural areas only), Copy of the resolution passed in the open meeting of Gram Panchayat (for rural areas) / certified by Councillor (for urban areas)\n**Income certificate is not required.**\n**All the above documents must be issued from the district where the application is being submitted.**\n&gt; For verification of the online application form in rural areas, the final decision is taken by the District Social Welfare Officer after recommendations from the Gram Panchayat Development Officer, Assistant Social Welfare Officer, and Block Development Officer, respectively. In urban areas, verification and recommendation are done by the Assistant Social Welfare Officer and Sub-District Magistrate. If the application is found correct, the District Social Welfare Officer approves it, after which the pension payment process is initiated.\n\n**The pension is credited to the applicant’s bank account one month after the approval of the application.**\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- A pension of ₹1,200/- per month is provided to each eligible beneficiary.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Social welfare & Empowerment",
+      "value": "628ce87cd6d1a3bde4685312"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "371d4e8267aa68802cdd5a44768b4accdac978392c45e3bfc60cbf1cfc15b859",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Teelu Rauteli Pension&amp;quot; has been launched by the Department of Social Welfare, Government of Uttarakhand. The scheme aims to provide financial assistance to male/female individuals above 18 years of age who have incurred a partial disability of 20% to 40% while performing agricultural activities.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be male or female engaged in agricultural activities.\n1. The applicant must be above 18 years of age.\n1. The applicant must be 20% to 40% disabled while performing agricultural work.\n1. There is no income limit to avail the benefits of the scheme.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:03:43.002498+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:43.002498+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Social Welfare",
+    "value": 50000019
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 17)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    },
+    {
+      "title": "Online Application Portal",
+      "url": "https://ssp.uk.gov.in/OnlineRegistration/FrmKisanOnlineApplicationForm.aspx"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://socialwelfare.uk.gov.in/service/apply-for-birth-certificate/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6899a193c3d0775ce33fccf2",
+      "en": {
+        "documentsRequired_md": "\n1. Applicant&#39;s Mobile Number\n1. Passport-size Photo (certified by Gram Pradhan/V.P.D.O/Sabhasad) \n1. Photocopy of Aadhaar Card \n1. Voter ID Card\n1. CBS Bank Account, which is linked/seeded with the Aadhaar Card\n1. Copy of Family Register\n1. Copy of the resolution selected / passed in the open meeting of Gram Panchayat in rural areas / Councilor in urban areas\n1. Certificate from the Agriculture Officer confirming injury while performing agricultural work\n1. Disability certificate issued by the Chief Medical Officer for 20% to 40% disability\n1. Unique Disability ID (UDID) Card\n\n**Note:** All documents must belong to the same district from which the application is being made.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Applicant's Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photo (certified by Gram Pradhan/V.P.D.O/Sabhasad) "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photocopy of Aadhaar Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Voter ID Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "CBS Bank Account, which is linked/seeded with the Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Family Register"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the resolution selected / passed in the open meeting of Gram Panchayat in rural areas / Councilor in urban areas"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate from the Agriculture Officer confirming injury while performing agricultural work"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability certificate issued by the Chief Medical Officer for 20% to 40% disability"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Unique Disability ID (UDID) Card"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Note:"
+              },
+              {
+                "text": " All documents must belong to the same district from which the application is being made."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68999e28da40380f9854dded"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68999e28da40380f9854dded",
+  "scheme_name": "Teelu Rauteli Pension Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "TRPS",
+  "slug": "dp-f",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Pension",
+      "value": "Pension"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Crisis/Disaster/Accident",
+      "value": "Crisis/Disaster/Accident"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Pension",
+    "Agricultural Activities",
+    "Disability",
+    "PwD"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

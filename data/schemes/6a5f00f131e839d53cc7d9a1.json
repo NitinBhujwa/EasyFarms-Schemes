@@ -1,0 +1,301 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "ServicesPlus"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/",
+              "type": "link"
+            },
+            {
+              "text": " website."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Click on the “"
+            },
+            {
+              "children": [
+                {
+                  "text": "Register” "
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/citizenRegistration.html",
+              "type": "link"
+            },
+            {
+              "text": "option on the homepage."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Review all details carefully and submit the registration form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Login",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 1: The applicant should visit the ServicesPlus website and click on "
+            },
+            {
+              "children": [
+                {
+                  "text": "“Login.”"
+                }
+              ],
+              "link": "https://serviceonline.gov.in/dbt/loginWindow.do",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Enter your Email ID, Password, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Select the relevant service/scheme name."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Fill in the required details in the application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: Submit the application."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration**\nStep 1: The applicant should visit the [ServicesPlus](https://serviceonline.gov.in/dbt/) website.\nStep 2: Click on the “[Register” ](https://serviceonline.gov.in/dbt/citizenRegistration.html)option on the homepage.\nStep 3: Fill out the registration form by entering Full Name, Email ID, Mobile Number, Password, selecting State, and Captcha.\nStep 4: Review all details carefully and submit the registration form.\nStep 5: An OTP will be sent to your registered mobile number or email; enter the OTP and click “Verify.”\nStep 6: Registration will be completed successfully, and a confirmation message will be displayed or sent via email.\n**Login**\nStep 1: The applicant should visit the ServicesPlus website and click on [“Login.”](https://serviceonline.gov.in/dbt/loginWindow.do)\nStep 2: Enter your Email ID, Password, and Captcha.\nStep 3: Select the relevant service/scheme name.\nStep 4: Fill in the required details in the application form.\nStep 5: Submit the application.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> Grant-in-aid subject to a maximum of ₹ 7, 50,000/- per innovation in two installments of ₹ 3, 75,000/- in two phases based on the progress / completion of the innovation as recommended by the technical committee constituted for the purpose of evaluating the innovation by the farmer in development of new clones/ cultivars/ variety and machines/ post-harvest improvement equipments developed for improving quality of spices.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "b0ab2846d6bac78d32c929efd240154e14a9631a3a6cb1f473906a6106bb4af9",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The FRESH-IT (Farmer&#39;s Research &amp; Enterprise in Spice Holdings for Innovative Technology) subcomponent is part of the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom, implemented by the Spices Board under the Ministry of Commerce and Industry, Government of India.\nThe scheme aims to motivate spice farmers to take up innovations and improvements on their farms to develop promising spice varieties and new post-harvest improvement machinery/equipment for the spice farming community of the country at an affordable cost, thereby increasing the production, productivity, and quality of spices.\nThe scheme is being implemented in accordance with the modalities and guidelines approved by the Competent Authority under the Integrated Scheme for Export Promotion &amp; Quality Improvement in Spices and Research and Development of Cardamom during the 15th Finance Commission period (2021–22 to 2025–26).\n<br>\n\n",
+  "eligibility": "1.All spice growing States and regions in India\n2. Secretary Spices Board will constitute the Technical Committee with Director (Dev.) Spices Board as Chairperson of the Committee drawing members from ICRI, ICAR-IISR, identified SAUs of the State of reported innovation and concerned Regional Officer of Spices Board, on production aspects; and members of the Committee for evaluating innovations on post-harvest equipments will be the members of the already existing Regional Evaluation Committes constituted. Assistance will be extended based on MoU with Spices Board.\n3. Concerned Officer of the Board who identified the innovation will forward the case to Director (Dev.) through proper channel for a preliminary scrutiny by a team of Officers nominated by Director (Dev.) and qualified cases will be presented to the technical committee for consideration and evaluation.\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:50.411294+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:50.411294+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.indianspices.com/export_oriented_prod.html"
+    },
+    {
+      "title": "Application Portal",
+      "url": "https://serviceonline.gov.in/dbt/login.do"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6a5f010d31e839d53cc7da2a",
+      "en": {
+        "documentsRequired_md": "a) Aadhaar card\nb) Bank details\nc)MoU in prescribed form\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "a) Aadhaar card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "b) Bank details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "c)MoU in prescribed form"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6a5f00f131e839d53cc7d9a1"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6a5f00f131e839d53cc7d9a1",
+  "scheme_name": "Integrated Scheme for Export Promotion & Quality Improvement in Spices and Research and Development of Cardamom: New Subcomponents:FRESH-IT (Farmer’s Research & Enterprise in Spice Holdings for Innovative Technology)",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISFEPQISARADOCNSFFREISHFIT",
+  "slug": "isfepqisaradocnsffreishfit",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Technology upgradation",
+      "value": "Technology upgradation"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farming",
+    "Farmer",
+    "Enterprise",
+    "Technology"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

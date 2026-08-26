@@ -1,0 +1,265 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01: "
+                },
+                {
+                  "text": "The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "The bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "District Agriculture Officers of the concerned districts."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Sub-divisional Officers of the concerned sub-divisions."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Training Officers, Tura/Shillong."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Agriculture Development Officers of the concerned Community and Rural Development Blocks."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the nearest office of the Agriculture Development Officer of a CD Block/ Agriculture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers having sufficient available cultivable land shall be selected on a first come first served basis.\n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-divisional Officers of the concerned sub-divisions.\n   1. District Training Officers, Tura/Shillong.\n   1. Agriculture Development Officers of the concerned Community and Rural Development Blocks.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\n\n- Training, Awareness program, extension, Technology support, Subsidy on inputs.\n\n> **Type of Assistance and Entitlement (If any):**\n\n\n1. 50 % Subsidy for quality paddy seeds to farmers.\n1. Minor irrigation (Check dam, shallow tube well, etc.)\n1. 50 % sale of Power Tillers SRI Tools for demonstration.\n1. Trainings\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "33ec5e144982c342f21c33bfc9120fb85310dbe228d022ae66636378eed46a51",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “State Rice Mission Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to increase productivity and production of rice through improved technologies and extension methods and, to supply the quality/certified seeds/organic fertilizers at 50% subsidy.\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:12.378579+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:02:12.378579+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=6"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65d5c96b938a0b13cc8bcb45",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Documents proof of having sufficient available cultivable land\n1. Bank account detail\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of having sufficient available cultivable land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account detail"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65d5c908938a0b13cc8bcac6"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65d5c908938a0b13cc8bcac6",
+  "scheme_name": "State Rice Mission Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "SRMSMEGHALAYA",
+  "slug": "srmsmeghalaya",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Rice",
+    "Farmer",
+    "Agriculture",
+    "Subsidy",
+    "Training"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

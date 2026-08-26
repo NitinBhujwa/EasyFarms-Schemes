@@ -1,0 +1,335 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Prepare a Detailed Project Report (DPR)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Fill out the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "prescribed application form"
+                    }
+                  ],
+                  "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Submit the application with the required documents to the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Industries Commissionerate"
+                    }
+                  ],
+                  "link": "https://ic.gujarat.gov.in/ic-contact.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4: "
+                },
+                {
+                  "text": "Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Helpdesk",
+                  "underline": true
+                },
+                {
+                  "bold": true,
+                  "text": ": "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Contact Here"
+                    }
+                  ],
+                  "link": "https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Prepare a Detailed Project Report (DPR).\n**Step 2:** Fill out the [prescribed application form](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Application-form_CEIS-IP-2020.pdf).\n**Step 3:** Submit the application with the required documents to the [Industries Commissionerate](https://ic.gujarat.gov.in/ic-contact.aspx).\n**Step 4:** Await evaluation and approval from the State Level Empowered Committee. If approved, assistance will be disbursed in phases based on project progress.\n&gt; **Helpdesk****:** [Contact Here](https://ifp.gujarat.gov.in/DIGIGOV/IFP-pages/contact.jsp?pagedisp=static)\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Quantum of Assistance:** Need based support, maximum ₹50,00,000/-, will be provided as may be decided by the State Level Empowered Committee.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a14b4ef0237e24e04b98e251863addb2d4ce72e75c6f3fcf1dcbf0b87403f9e1",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Scheme of Assistance for Common Environment Infrastructure&amp;quot; is an umbrella scheme launched by the Industries and Mines Department, Gujarat under the Gujarat Industrial Policy. Effective from August 7th, 2020 to August 6th, 2025, it aims to boost industrial growth through financial assistance, modern technologies, and enhanced facilities for industrial parks and clusters.\nThe component “Financial Assistance for Common Environmental Infrastructure Facilities” aims to support industries and organizations in establishing and upgrading environmental management infrastructure. It provides financial aid for projects that promote pollution control, waste management, and environmental sustainability.\n",
+  "eligibility": "\n  - Industries association / Any Enterprise (except for captive use) or firm which is registered under Societies Act, Trust Act or under the Companies Act.; or GIDC/Board/ Corporations / Special Purpose Vehicle (SPV) / PSU / Municipal Corporation / Nagarpalika / Urban Development Authority etc.\n  - The project must comply with Ministry of Environment, Forest and Climate Change (MoEF) &amp;amp; Gujarat Pollution Control Board (GPCB) [regulations](https://gpcb.gujarat.gov.in/ViewFile?fileName=%E2%9C%BF84VtA%E2%9C%A45Y2S5am0gZge7C5DIhraFNMo2Ft55An9ZyFCK3Aq9K4dpmnxwVOuBnFXqslsR%E2%9C%A4PycTDCIhX4VZROM%E2%9C%BFi06yKqnt6WggtDpEP%E2%9C%A49qS%E2%9C%A4OqhmJOM%E2%9C%A4HY9NwlZsBW6x0te88%E2%9C%BF%E2%9C%BF0jyrttC7nRRU7AbQ%E2%99%AC%E2%99%AC).  - The project must remain operational for a minimum of 5 years post-completion.\n\n",
+  "exclusions": "\n  - The Project availing incentives under this scheme will not be entitled to avail incentives under any other scheme of the State Government for the same component, unless specified otherwise. However, the project will be eligible to avail incentives available under schemes of Government of India or any other institutions.\n\n",
+  "first_seen_at": "2026-08-26T14:10:21.842631+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:21.842631+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Industries and Mines Department",
+    "value": 2444452
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ic.gujarat.gov.in/documents/commondoc/2020/12-GR_02092020.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "679b01a6e128bbaf34000b3d",
+      "en": {
+        "documentsRequired_md": "\n   1. Copy of legal status of applicant such as memorandum and article of association and company registration certificate or registration under society act or trust act, and list of directors/members with addresses.\n   1. Proof that land for project is in possession, like land allotment letter of GIDC with copies of 7/12 utaara, N.A. permission, approved plan, and construction permission by competent authority.\n   1. Copy of GPCB NOC/CCA for establishing project (if not applicable, then give justification on letterhead).\n   1. Copy of Environment Clearance (if not applicable, then give justification on letterhead).\n   1. Detailed project report covering all details mentioned in application form.\n   1. List of beneficiaries in format as per [Annexure-A1](https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Checklist_CEIS-IP-2020.pdf) for each beneficiary on letterhead.   1. Process diagram of proposed project signed by authorized signatory.\n   1. Financial and technical appraisal of project from Bank/FI/other institution as approved by SLEC.\n   1. Copy of any other financial assistance granted by GoG and/or GoI for the same component or project.\n   1. Copy of sanction/consent letter from Financial Institution, if loan is sanctioned.\n   1. Affidavits for outstanding government dues and any pending court case against Govt.\n   1. Declaration/resolution as per application.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of legal status of applicant such as memorandum and article of association and company registration certificate or registration under society act or trust act, and list of directors/members with addresses."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof that land for project is in possession, like land allotment letter of GIDC with copies of 7/12 utaara, N.A. permission, approved plan, and construction permission by competent authority."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of GPCB NOC/CCA for establishing project (if not applicable, then give justification on letterhead)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of Environment Clearance (if not applicable, then give justification on letterhead)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Detailed project report covering all details mentioned in application form."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "List of beneficiaries in format as per "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Annexure-A1"
+                          }
+                        ],
+                        "link": "https://ic.gujarat.gov.in/documents/commondoc/2023/Scheme-1_Checklist_CEIS-IP-2020.pdf",
+                        "type": "link"
+                      },
+                      {
+                        "text": " for each beneficiary on letterhead."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Process diagram of proposed project signed by authorized signatory."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Financial and technical appraisal of project from Bank/FI/other institution as approved by SLEC."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of any other financial assistance granted by GoG and/or GoI for the same component or project."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of sanction/consent letter from Financial Institution, if loan is sanctioned."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Affidavits for outstanding government dues and any pending court case against Govt."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Declaration/resolution as per application."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "679b019bc4ea5da14d0220cf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": "2025-08-06",
+  "scheme_for": "Infra",
+  "scheme_id": "679b019bc4ea5da14d0220cf",
+  "scheme_name": "Scheme of Assistance for Common Environment Infrastructure: Scheme of Assistance for Strengthening the Regulation and Environmental Compliance",
+  "scheme_open_date": "2020-08-07",
+  "scheme_short_title": "SACEIASRE",
+  "slug": "saceiasre",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Setting up / start-up / entrepreneurship",
+      "value": "Setting up / start-up / entrepreneurship"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Entrepreneurship",
+    "Environment Infrastructure",
+    "Environmental Compliance"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    },
+    {
+      "label": "Industries",
+      "value": "industries"
+    },
+    {
+      "label": "Government Organisation",
+      "value": "government-organisation"
+    }
+  ]
+}

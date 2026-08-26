@@ -1,0 +1,162 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Approach the Gram Sevak in your village for access to \"Plant protection pesticides\" under the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Approach the Gram Sevak in your village for access to &quot;Plant protection pesticides&quot; under the scheme.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. 75% of the purchase price or ₹ 750/- per hectare, whichever is lower (subject to a maximum of two hectares per account)\n\n<br>\n\n> **Remarks**: According to conditions No. 5, 16, 17, 19 and 22 of Appendix-1, crop protection drugs included under Pesticides Act-1968 have to be given.\n\n> Biological/herbal medicines are to be preferred.\n\n> **Frequency:****** Every year.\n\n> **Note:**  **For** [**Appendix-1**](https://mariyojana.gujarat.gov.in/Schemeatoz.aspx)**. (Refer to Scheme No. 35)**\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "80dfb22b7fb63edb2d5a9848358bf8bac83e9020873ecb41aa2b6f00b82c6066",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Distribution of Seeds of more productive varieties / Hybrid varieties Seeds and fertilizer at subsidies, etc. to Adivasi farmers in Tribal Area (TASP)&quot; with a component &quot;Plant protection pesticides&quot; is introduced by the Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat, aims to help Scheduled Tribe farmers and tribal cultivators residing outside tribal areas achieve higher agricultural crop production and improve their livelihood. Through this scheme, assistance is provided for various components, including plant protection pesticides, which, when used according to scientific recommendations, can significantly increase crop production.\n<br>\n\n",
+  "eligibility": "\n1. The applicant should belong to a Scheduled Tribe.\n1. The applicant should be a farmer.\n1. The applicant should be located in tribal areas OR be a tribal cultivator residing outside tribal areas.\n1. The scheme excludes farmers from Dang district.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:06:19.429025+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:06:19.429025+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/v4lc2tu73R%E2%9C%A49lWYKO76SRg%E2%99%AC%E2%99%AC?utm_source=chatgpt.com"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68a211d7539a131c1aaa68c4",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate\n1. Aadhar Card\n1. Bank Pass Book/Cancelled Cheque\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68a211c47604a2b977ca1040"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68a211c47604a2b977ca1040",
+  "scheme_name": "Distribution of Seeds of more productions varieties/ Hybrids varieties Seeds and fertilizer at subsidies etc. to Adivasi farmers in Tribal Area: Plant protection pesticides Gujarat",
+  "scheme_open_date": null,
+  "scheme_short_title": "DSMPVSFPPPGUJ",
+  "slug": "dsmpvsfpppguj",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Adivasi Farmers",
+    "Crop Production",
+    "Livelihood",
+    "Fertilizer",
+    "Subsidies",
+    "Plant Protection Pesticides"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

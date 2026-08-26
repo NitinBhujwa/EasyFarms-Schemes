@@ -1,0 +1,283 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "The bonafide farmers shall be selected on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "1. Horticulture Development Officer of respective CD Block/ Horticulture circle"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Horticultural Officer"
+                    }
+                  ],
+                  "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "3. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Managing Director"
+                    }
+                  ],
+                  "link": "https://meghalayasfac.nic.in/mgsfac/content/contact_us.php",
+                  "type": "link"
+                },
+                {
+                  "text": ", Meghalaya Small Farmers' Agri-business Consortium (MgSFAC)"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "4. Director of Horticulture, Directorate of Horticulture"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at the nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n&gt; **Whom to Contact:**\n\n1. Horticulture Development Officer of respective CD Block/ Horticulture circle\n2. [District Horticultural Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n3. [Managing Director](https://meghalayasfac.nic.in/mgsfac/content/contact_us.php), Meghalaya Small Farmers&amp;#39; Agri-business Consortium (MgSFAC)\n4. Director of Horticulture, Directorate of Horticulture\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\nTraining, Awareness program, extension, Technology support, Subsidy on inputs, Improving marketability and marketing support.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "ca595e28d3a972b68f4bb275e94217447cc220dfa11c76afa5f8d134a593750c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Horticulture Mission for North Eastern Hill (HMNEH) Scheme” is a part of the Mission for Integrated Development of Horticulture (MIDH) scheme which was launched by the Ministry of Agriculture and Farmers Welfare, Government of India, being implemented for the overall development of Horticulture in North East and Himalayan states. The mission covers all NE States including Sikkim and three Himalayan states of Jammu &amp;amp; Kashmir, Himachal Pradesh, and Uttarakhand. The mission addresses the entire spectrum of horticulture from production to consumption through backward and forward linkages.\n         In the state of Meghalaya, the “Horticulture Mission for North Eastern Hill (HMNEH) Scheme” is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya for improving productivity, quality planting material, canopy management of fruit trees, support to marginal and small farmers, upscaling protected cultivation and drip irrigation.\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n1. The applicant should possess owned or leased land of at least 200 sqms.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:59.462270+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:04:59.462270+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=70"
+    },
+    {
+      "title": "Official Website- MIDH",
+      "url": "https://tmnehs.gov.in/"
+    },
+    {
+      "title": "Website- Horticulture Mission",
+      "url": "https://midh.gov.in/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65cdaf9ccd96dc5e0753c6fc",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65cdaf6bed4030e118da34f0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65cdaf6bed4030e118da34f0",
+  "scheme_name": "Horticulture Mission for North Eastern Hill Scheme- Meghalaya",
+  "scheme_open_date": null,
+  "scheme_short_title": "HMNEH",
+  "slug": "hmneh",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Horticulture",
+    "North Eastern Hill",
+    "Integrated Development",
+    "Mission",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

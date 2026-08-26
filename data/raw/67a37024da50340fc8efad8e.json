@@ -1,0 +1,346 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67a37024da50340fc8efad8e",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Department of Agriculture, Animal Husbandry & Co-operative",
+            "value": 2000027
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Feed Based Fisheries Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "FBFS",
+          "schemeSubCategory": [
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Jharkhand",
+            "value": 20
+          },
+          "tags": [
+            "Financial Assistance",
+            "Fish Production",
+            "Fish Farmers"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a fisherman. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be an active fish farmer involved in cage fish farming, Recirculatory Aquaculture Systems (RAS), or Biofloc systems."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have at least one year of previous crop records."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should not be enrolled in other overlapping schemes for the same purpose."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a fisherman. \n1. The applicant must be an active fish farmer involved in cage fish farming, Recirculatory Aquaculture Systems (RAS), or Biofloc systems.\n1. The applicant should have at least one year of previous crop records.\n1. The applicant should not be enrolled in other overlapping schemes for the same purpose.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Floating Fish Feed Subsidy:",
+                  "underline": true
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fish farmers receive a grant of 50% of the cost or a maximum of ₹22 per kg for fish feed with a minimum 24% protein content."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Support for Cage Fish Farmers: ",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fish farmers using cage systems, Recirculatory Aquaculture Systems (RAS), or Biofloc tanks are eligible for feed subsidies."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Support for Biofloc Pond Farmers:",
+                  "underline": true
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Farmers utilizing Biofloc ponds receive subsidies for fish feed, with a maximum of 2000 kg per pond."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Floating Fish Feed Subsidy:** \nFish farmers receive a grant of 50% of the cost or a maximum of ₹22 per kg for fish feed with a minimum 24% protein content.\n**Support for Cage Fish Farmers:** \nFish farmers using cage systems, Recirculatory Aquaculture Systems (RAS), or Biofloc tanks are eligible for feed subsidies.\n**Support for Biofloc Pond Farmers:** \nFarmers utilizing Biofloc ponds receive subsidies for fish feed, with a maximum of 2000 kg per pond.\n",
+          "briefDescription": "The \"Feed Based Fisheries Scheme\" by the Agriculture, Animal Husbandry & Cooperation Department, Government of Jharkhand aims to enhance fish production through feed-based fisheries. This scheme provides financial assistance to fish farmers in the form of grants for fish feed to improve production.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Feed Based Fisheries Scheme\" by the Agriculture, Animal Husbandry & Cooperation Department, Government of Jharkhand aims to enhance fish production through feed-based fisheries. Under this scheme, financial support in the form of grants for floating fish feed is provided to fish farmers to increase fish production in various districts like Ranchi, Ramgarh, Koderma, Bokaro, Dhanbad, and Seraikela."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Feed Based Fisheries Scheme&quot; by the Agriculture, Animal Husbandry &amp; Cooperation Department, Government of Jharkhand aims to enhance fish production through feed-based fisheries. Under this scheme, financial support in the form of grants for floating fish feed is provided to fish farmers to increase fish production in various districts like Ranchi, Ramgarh, Koderma, Bokaro, Dhanbad, and Seraikela.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Applicants who do not follow the prescribed feed purchasing process will not be eligible."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Those without GST billing for the feed purchase will be excluded from the benefit."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "exclusions_md": "\n1. Applicants who do not follow the prescribed feed purchasing process will not be eligible.\n1. Those without GST billing for the feed purchase will be excluded from the benefit.\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://jharkhandfisheries.org/orders/2023/Rajyadesh-Feed%20Based%20Fisheries-%20letter%20no.%2007%20RA%20(VI)%20dated%2013.06.2023.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "fbfs"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67a37054da50340fc8efadd3",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof\n- Address Proof\n- Bank Account Details\n- GST Bill/Invoice for Feed Purchase \n- Previous Crop Records\n- Certificate from District Fisheries Office\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "GST Bill/Invoice for Feed Purchase "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Previous Crop Records"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate from District Fisheries Office"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67a37024da50340fc8efad8e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:35.358050+00:00",
+  "scheme_id": "67a37024da50340fc8efad8e"
+}

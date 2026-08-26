@@ -1,0 +1,158 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The applicant must submit the online application through the link: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://www.nddb.coop/"
+                }
+              ],
+              "link": "https://www.nddb.coop/",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The applicant must submit the online application through the link: [https://www.nddb.coop/](https://www.nddb.coop/)\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Under this scheme, a maximum subsidy of ₹50 lakh is provided by the Department of Animal Husbandry and Dairying, Government of India, for a project cost of ₹1 crore under the Rashtriya Gokul Mission.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "cedd2dfc5aa28fbb1b271fa5186eb206c0a2d777398d57fe8a6a1f435bc4dbd5",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Breed Multiplication Farms” is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to facilitate the establishment of Breed Multiplication Farms (BMFs) for making available High Genetic Merit heifers of cattle and buffaloes breeds to farmers.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a livestock farmer, a farmer producer company, a registered company under Section 8, or a self-help group based in Uttarakhand.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:53.097713+00:00",
+  "implementing_agency": "Uttarakhand Livestock Development Board",
+  "last_synced_at": "2026-08-26T14:08:53.097713+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department Of Animal Husbandry",
+    "value": 50000004
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 196)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68cb998789d250875d3545bf",
+      "en": {
+        "documentsRequired_md": "Applicants are required to submit all necessary documents as per the guidelines prescribed for the establishment of Breed Multiplication Farms (BMFs) under the scheme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Applicants are required to submit all necessary documents as per the guidelines prescribed for the establishment of Breed Multiplication Farms (BMFs) under the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cb98f96e1aaee61b2004a6"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "68cb98f96e1aaee61b2004a6",
+  "scheme_name": "Breed Multiplication Farms - Uttarakhand Livestock Development Board",
+  "scheme_open_date": null,
+  "scheme_short_title": "BMFULDB",
+  "slug": "bmf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Livestock Farmer",
+    "Animal Husbandry",
+    "Subsidy",
+    "Self-Help Group",
+    "Breed",
+    "Multiplication Farm"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

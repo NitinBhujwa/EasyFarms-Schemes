@@ -1,0 +1,305 @@
+{
+  "detail": {
+    "data": {
+      "_id": "66e2d25e42d76022fd750c2f",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Collect the application form from the nearest Agricultural Office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Submit the form to the concerned office:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Village Level:"
+                      },
+                      {
+                        "text": " Submit the application to the Assistant Agricultural Officer."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Block Level:"
+                      },
+                      {
+                        "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "District Level: "
+                      },
+                      {
+                        "text": "Submit to the Joint Director of Agriculture."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 3333332
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Pipes Carrying Water From Source To Field",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "PCWFSF",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Tamil Nadu",
+            "value": 33
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Irrigation",
+            "Pipes"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a Farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The beneficiary should be a Farmer.\n- The beneficiary should be a resident of Tamil Nadu.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Financial Assistance: "
+                },
+                {
+                  "text": "Subsidy on 50% cost or ₹15,000/- for water carrying pipes upto 800m and all types of pipes(PVC HDPE etc.,) and all sizes as per the requirement of the farmer."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Financial Assistance:** Subsidy on 50% cost or ₹15,000/- for water carrying pipes upto 800m and all types of pipes(PVC HDPE etc.,) and all sizes as per the requirement of the farmer.\n",
+          "briefDescription": "The scheme provides subsidies to farmers for installing pipes to carry water from the source to their fields, offering a 50% subsidy or up to ₹15,000/- for pipes (up to 800m), including PVC, HDPE, and others.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Pipes Carrying Water From Source To Field” by the Agriculture-Farmers Welfare Department, Tamil Nadu aims to support farmers by subsidizing the cost of water-carrying pipes up to 800m. The subsidy is either 50% of the total cost or ₹15,000/- whichever is lower. The pipes can be of any material or size as required by the farmer, including PVC and HDPE. The initiative targets ensuring water access to farms."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Pipes Carrying Water From Source To Field” by the Agriculture-Farmers Welfare Department, Tamil Nadu aims to support farmers by subsidizing the cost of water-carrying pipes up to 800m. The subsidy is either 50% of the total cost or ₹15,000/- whichever is lower. The pipes can be of any material or size as required by the farmer, including PVC and HDPE. The initiative targets ensuring water access to farms.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.tn.gov.in/scheme/data_view/6859"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "pcwfsf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "66e2d28c3c6d3ce285b8a3c0",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of identity (Aadhar card, Voter ID)\n   1. Land ownership documents or lease agreement.\n   1. Bank account details.\n   1. Caste certificate (if applicable).\n   1. Women farmer group registration documents (if applicable).\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of identity (Aadhar card, Voter ID)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land ownership documents or lease agreement."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste certificate (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Women farmer group registration documents (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "66e2d25e42d76022fd750c2f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:59:44.663869+00:00",
+  "scheme_id": "66e2d25e42d76022fd750c2f"
+}

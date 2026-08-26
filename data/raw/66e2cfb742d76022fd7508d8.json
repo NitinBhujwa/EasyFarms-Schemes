@@ -1,0 +1,338 @@
+{
+  "detail": {
+    "data": {
+      "_id": "66e2cfb742d76022fd7508d8",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1:"
+                          },
+                          {
+                            "text": " Collect the application form from the nearest Agricultural Office."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2: "
+                          },
+                          {
+                            "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3: "
+                          },
+                          {
+                            "text": "Submit the form to the concerned office:"
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Village Level:"
+                          },
+                          {
+                            "text": " Submit the application to the Assistant Agricultural Officer."
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Block Level:"
+                          },
+                          {
+                            "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "District Level: "
+                          },
+                          {
+                            "text": "Submit to the Joint Director of Agriculture."
+                          }
+                        ],
+                        "type": "block_quote"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "process_md": "\n**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 3333332
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Organizing Block Demonstration Through Department And Also Through TNAU",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "OBDTDAATTNAU",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Tamil Nadu",
+            "value": 33
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Block Demonstration",
+            "Maize"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a Farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a resident of Tamil Nadu."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should grow maize in the following districts: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, and Thoothukudi."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should grow maize in the following districts: Coimbatore, Dindigul, Erode, Dharmapuri, Krishnagiri, Namakkal, Perambalur, Virudhunagar, Theni, Villupuram, Vellore, Salem, Pudukkottai, Madurai, Sivagangai, Trichy, Tirunelveli, and Thoothukudi.\n\n&lt;br&gt;\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Financial Assistance: "
+                },
+                {
+                  "text": "₹4,000/- per demonstration of 1 Hectare plot each."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Financial Assistance:** ₹4,000/- per demonstration of 1 Hectare plot each.\n",
+          "briefDescription": "The scheme \"Organizing Block Demonstration Through Department And Also Through TNAU\" offers grants to farmers for maize cultivation. Farmers can avail a subsidy for demonstrating cultivation practices on a 1-hectare plot.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Organizing Block Demonstration Through Department And Also Through TNAU” by the Agriculture-Farmers Welfare Department, Tamil Nadu is designed to promote maize cultivation through block demonstrations conducted by the Department of Agriculture and Tamil Nadu Agricultural University (TNAU). Farmers in select districts of Tamil Nadu can participate. It provides ₹4,000/- per demonstration for 1-hectare plots. Special focus is given to small, marginal, SC/ST, and women farmers."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Organizing Block Demonstration Through Department And Also Through TNAU” by the Agriculture-Farmers Welfare Department, Tamil Nadu is designed to promote maize cultivation through block demonstrations conducted by the Department of Agriculture and Tamil Nadu Agricultural University (TNAU). Farmers in select districts of Tamil Nadu can participate. It provides ₹4,000/- per demonstration for 1-hectare plots. Special focus is given to small, marginal, SC/ST, and women farmers.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.tn.gov.in/scheme/data_view/6854"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "obdtdaattnau"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "66e2cfc43c6d3ce285b8a029",
+      "en": {
+        "documentsRequired_md": "\n- Proof of identity (Aadhar card, Voter ID)\n- Land ownership documents or lease agreement.\n- Proof of maize cultivation/farming.\n- Bank account details.\n- Caste certificate (if applicable).\n- Proof of small/marginal farmer status (if applicable).\n- Women farmer group registration documents (if applicable).\n- Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of identity (Aadhar card, Voter ID)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership documents or lease agreement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of maize cultivation/farming."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of small/marginal farmer status (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Women farmer group registration documents (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents (if required)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "66e2cfb742d76022fd7508d8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:30.603132+00:00",
+  "scheme_id": "66e2cfb742d76022fd7508d8"
+}

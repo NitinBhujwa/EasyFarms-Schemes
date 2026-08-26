@@ -1,0 +1,344 @@
+{
+  "detail": {
+    "data": {
+      "_id": "688cac55d4b5e6cefec1addb",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should prepare the application on plain paper."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Scheme for Granting Assistance to Processing Units in APMC (General Area)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SGAPUG",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agro Processing",
+            "Processing Units",
+            "Agricultural Marketing",
+            "Food Industry"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Industries",
+              "value": "industries"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": " Co-operative institutions are eligible under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The institutions must set up a processing unit in the general area of an APMC."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": ""
+                        }
+                      ],
+                      "type": "paragraph"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  -  Co-operative institutions are eligible under this scheme.\n  - The institutions must set up a processing unit in the general area of an APMC.\n\n<br>\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Variable Grant Amount: "
+                    },
+                    {
+                      "text": "The grant percentage is tailored to the needs of different market committees, offering 25% for 'A' and 'B' class committees and 50% for 'C' and 'D' class committees."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Maximum Assistance: "
+                    },
+                    {
+                      "text": "The maximum financial assistance provided under the scheme is capped at ₹1,50,00,000/-, ensuring substantial support for eligible projects."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Variable Grant Amount:** The grant percentage is tailored to the needs of different market committees, offering 25% for &#39;A&#39; and &#39;B&#39; class committees and 50% for &#39;C&#39; and &#39;D&#39; class committees.- **Maximum Assistance:** The maximum financial assistance provided under the scheme is capped at ₹1,50,00,000/-, ensuring substantial support for eligible projects.\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote agro-processing and value addition by providing capital investment assistance to private entrepreneurs operating in regulated APMC areas (general zones).",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Scheme for Granting Assistance to Processing Units in APMC (General Area)\" by the Agriculture, Farmers Welfare and Cooperation Department, Government of Gujarat, aims to encourage establishment of agro and food processing units in the general areas of Agricultural Produce Market Committees (APMCs) to increase farmers’ income, reduce post-harvest losses, generate employment opportunities, and improve supply chain efficiencies. The scheme provides financial assistance in the form of capital subsidy to co-operatives institutions that set up processing units."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Scheme for Granting Assistance to Processing Units in APMC (General Area)&amp;quot; by the Agriculture, Farmers Welfare and Cooperation Department, Government of Gujarat, aims to encourage establishment of agro and food processing units in the general areas of Agricultural Produce Market Committees (APMCs) to increase farmers’ income, reduce post-harvest losses, generate employment opportunities, and improve supply chain efficiencies. The scheme provides financial assistance in the form of capital subsidy to co-operatives institutions that set up processing units.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 525)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sgapug"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "688cacd4746baf0b86773787",
+      "en": {
+        "documentsRequired_md": "\n   1. Detailed Project Report (DPR).\n   1. Identity Proof (Aadhaar Card / PAN Card).\n   1. Proof of Ownership or Lease Agreement of Land/Property.\n   1. Bank Account Details.\n   1. Company Registration Certificate (for firms/companies).\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Detailed Project Report (DPR)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Identity Proof (Aadhaar Card / PAN Card)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Ownership or Lease Agreement of Land/Property."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Account Details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Company Registration Certificate (for firms/companies)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "688cac55d4b5e6cefec1addb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:20.382825+00:00",
+  "scheme_id": "688cac55d4b5e6cefec1addb"
+}

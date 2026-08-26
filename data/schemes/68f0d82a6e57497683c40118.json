@@ -1,0 +1,169 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The applicant should contact the District Office of the Horticulture Department."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n- The applicant should contact the District Office of the Horticulture Department.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **For General Category Farmers:** Financial assistance of ₹1,500/- per hectare, including ₹1,400/- for hybrid/improved seeds and ₹100/- for seed treatment medicine.  - **For Scheduled Caste/Scheduled Tribe Farmers:** Financial assistance of ₹2,250/- per hectare, including ₹2,100/- for hybrid/improved seeds and ₹150/- for seed treatment medicine.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "3992c56996c5fa4e773b9cb8c654c89985d5126b990fae066161073766c497d6",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Integrated Vegetable Development Program” launched by the Horticulture and Food Processing Department, Government of Madhya Pradesh, aims to increase vegetable production through integrated vegetable development by providing financial assistance for hybrid and improved seeds and seed treatment to farmers within the targeted area.\n<br>\n\n",
+  "eligibility": "\n  - The applicant must be a farmer.\n  - The applicant must be a resident of Madhya Pradesh.\n  - The applicant must belong to the General/ Scheduled Caste/ Scheduled Tribe category.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:07.999247+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:07.999247+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture and Food Processing Department",
+    "value": 2300018
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cmhelpline.mp.gov.in/schemes.aspx?vID=0"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f0d8698ba160c15f3f5773",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of Identity.\n   1. Residence Certificate.\n   1. Caste Certificate.\n   1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of Identity."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Residence Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f0d82a6e57497683c40118"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f0d82a6e57497683c40118",
+  "scheme_name": "Integrated Vegetable Development Program",
+  "scheme_open_date": null,
+  "scheme_short_title": "IVDP",
+  "slug": "ivdp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Vegetable Production",
+    "Hybrid Seeds",
+    "Seed Treatment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

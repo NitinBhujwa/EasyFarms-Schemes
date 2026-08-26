@@ -1,0 +1,295 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The interested applicant should visit their nearest Veterinary Hospital and request a hard copy of the prescribed format of the application form from the staff."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the hospital staff."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Request a receipt or acknowledgement. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Post-Application Processes",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Verification & Recommendation"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Veterinary Hospital Charge will examine the application and forward it to the Joint/Deputy Director with a recommendation for registration."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Approval & Certificate Issuance"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "A committee under the Joint/Deputy Director will verify applications, finalize registration, and issue a registration certificate with a unique district-specific registration number."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Work Assignment & Reporting"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The registered Pashudhan Mitra will be assigned a working area and attached to the nearest Veterinary Hospital for reporting and submitting monthly progress reports."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Honorarium Payment"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Work verification will be conducted by the Veterinary Field Officer, and after approval, the honorarium payment will be processed through the Joint/Deputy Director’s office to the registered bank account."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit their nearest Veterinary Hospital and request a hard copy of the prescribed format of the application form from the staff.\n**Step 2:** In the application form, fill in all the mandatory fields and attach copies of all the mandatory documents (self-attest if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the hospital staff.\n**Step 4:** Request a receipt or acknowledgement. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n> **Post-Application Processes**\n\n**Step 1:** **Verification &amp; Recommendation**\nThe Veterinary Hospital Charge will examine the application and forward it to the Joint/Deputy Director with a recommendation for registration.\n**Step 2:** **Approval &amp; Certificate Issuance**\nA committee under the Joint/Deputy Director will verify applications, finalize registration, and issue a registration certificate with a unique district-specific registration number.\n**Step 3:** **Work Assignment &amp; Reporting**\nThe registered Pashudhan Mitra will be assigned a working area and attached to the nearest Veterinary Hospital for reporting and submitting monthly progress reports.\n**Step 4:** **Honorarium Payment**\nWork verification will be conducted by the Veterinary Field Officer, and after approval, the honorarium payment will be processed through the Joint/Deputy Director’s office to the registered bank account.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Castration Work:**  ₹20/- per calf (cow/buffalo) brought to the institution.- **Participation in Medical Camps &amp; Exhibitions:** ₹400/- per event for assisting in medical camps, cattle fairs, and exhibitions under official supervision.- **Vaccination Work (Per Animal):**\n- Bovine/Pig: ₹7/-\n- Goat/Sheep/Dog: ₹5/-\n- Poultry: ₹1/-\n- **Integrated Sample Survey Work:**\n- ₹1,500/- per village per season (four-month work period).\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d1d671c360ecea647b697b88a341e368bdac0ae80b6327925a14bc023ddd9bf4",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Launched on 20th June 2013, the scheme &quot;Pashudhan Mitra Scheme&quot; is a livelihood and service-based scheme by the Animal Husbandry Department, Government of Chhattisgarh. The scheme aims to expand veterinary and animal breeding facilities while ensuring efficient service delivery and a strengthened information system through Gausevaks and private artificial insemination workers. It also provides an incentive honorarium to Pashudhan Mitras (working cow-helpers and private artificial insemination workers) to support their livelihood and sustain their interest in the work.\n",
+  "eligibility": "\n1. The applicant should be a resident of Chhattisgarh.\n1. The applicant should have experience in animal husbandry or artificial insemination.\n1. The applicant should be physically fit for fieldwork.\n1. The applicant should possess basic knowledge of vaccination and castration procedures.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:57:07.412732+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:57:07.412732+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandary Department",
+    "value": 2200002
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agriportal.cg.nic.in/ahd/state_schemes/9_Pashudhan_Mitra_Yojna.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67a99b0c1269f7da41113218",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar card\n1. Domicile Certificate \n1. Caste Certificate\n1. Bank Account Details\n1. Any other required documents\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Domicile Certificate "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other required documents"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67a9998dda50340fc8f6621d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67a9998dda50340fc8f6621d",
+  "scheme_name": "Pashudhan Mitra Scheme",
+  "scheme_open_date": "2013-06-20",
+  "scheme_short_title": "PMSCH",
+  "slug": "pmsch",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Chhattisgarh",
+    "value": 22
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal",
+    "Agriculture",
+    "Breeding",
+    "Husbandry",
+    "Cattle"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

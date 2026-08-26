@@ -1,0 +1,130 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Any person interested in aromatic plant cultivation can participate in the field-level awareness programmes organized by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Any person interested in aromatic plant cultivation can participate in the field-level awareness programmes organized by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n  - To spread information about aromatic plants and the benefits of their cultivation to the general public.\n  - To provide information about crops according to the agricultural climate.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a7d07ca2a4f1d8110b89e10bc9ecd61c7715fa836d6c8cb2fd95431dc2e7bc34",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Aromatic Awareness Programme” is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. It aims to raise awareness about aromatic plants and their benefits, and to provide guidance on cultivation practices suitable to different agricultural climates. \n<br>\n\n",
+  "eligibility": "\n   1. Any interested individual who is a resident of Uttarakhand can avail the benefits of the programme.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:55:09.911422+00:00",
+  "implementing_agency": "Centre For Aromatic Plants, Selaqui, Dehradun",
+  "last_synced_at": "2026-08-26T13:55:09.911422+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 50000100
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 230)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "691314b559e28ba9330511c8",
+      "en": {
+        "documentsRequired_md": "Documents are required, as per the guidelines of the Centre for Aromatic Plants, Selaqui, Dehradun, to avail the benefits of the programme.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Documents are required, as per the guidelines of the Centre for Aromatic Plants, Selaqui, Dehradun, to avail the benefits of the programme."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691314512d8bf9eab491ba58"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "691314512d8bf9eab491ba58",
+  "scheme_name": "Aromatic Awareness Programme - Centre for Aromatic Plants",
+  "scheme_open_date": null,
+  "scheme_short_title": "AAPCAP",
+  "slug": "aapcap",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Aromatic",
+    "Awareness Programme",
+    "Aromatic Plants"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

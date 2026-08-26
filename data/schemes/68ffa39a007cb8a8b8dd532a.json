@@ -1,0 +1,608 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Selection Of Interested Beneficiaries"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Gramin Krishi Vistar Adhikari (Rural Agricultural Extension Officer) will select small and marginal SC/ST farmers who are interested in participating in the Seed Production Programme. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Gramin Krishi Vistar Adhikari will prepare a list selecting 1.5 times the target number of beneficiaries."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Submission And Approval of Beneficiary List"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Gramin Krishi Vistar Adhikari will submit the list of selected beneficiaries to the Senior Krishi Vikas Adhikari (Senior Agricultural Development Officer) or the Farm Superintendent (Prakshetra Adhikshak). "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Senior Krishi Vikas Adhikari or the Farm Superintendent will examine the received list and obtain approval from the Sub-Divisional Agricultural Officer (Anuvibhagiy Krishi Adhikari). "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Priority will be given to the names listed first in the approved list."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Seed Procurement and Supply Arrangement"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Director of Agriculture will issue instructions for the supply of seed (Breeder or Certified I Grade) directly to the Deputy Director of Agriculture by authorized institutions, including Government Agricultural Farms, State Seed Corporation, National Seed Corporation, State Farm Corporation of India, and Agricultural Universities. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Deputy Director of Agriculture will subsequently arrange for the seed supply to the Farm Superintendent."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Seed Distribution to Farmers"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Farm Superintendent will distribute the Breeder or Certified I seed to the selected farmers according to the approval of the Sub-Divisional Agricultural Officer. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Farm Superintendent is responsible for sending progress information regarding this distribution to the Sub-Divisional Agricultural Officer."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Registration with Seed Certification Agency"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Gramin Krishi Vistar Adhikari will submit the registration application letter to the Farm Superintendent within 20 days of sowing or before the final date fixed by the government. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "It is mandatory for the Farm Superintendent to present these applications to the Seed Certification Agency within the specified period."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Technical Training and Agreement Execution"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Before undertaking the production program, the beneficiary must receive necessary technical training and information from the Gramin Krishi Vistar Adhikari, Senior Krishi Vikas Adhikari, and Subject Matter Specialists at the sub-divisional level. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "An agreement must be executed between the department and the beneficiary, mediated by the Seed Production Committee or Farm Superintendent, to ensure timely seed production, marketing, and payment at prescribed rates."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Payment of Registration Fees"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Sub-Divisional Agricultural Officer is responsible for withdrawing the necessary funds for registration (application fee, registration fee, inspection fee, and sample fee) from the scheme budget and ensuring payment is sent to the Seed Certification Agency before the prescribed date."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 8:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " "
+            },
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Marketing and Processing of Produced Seed"
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Following successful field certification and subsequent harvesting and threshing, the marketing of the seed will be carried out by the Seed Production Committee or the Farm Superintendent at prescribed rates. "
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Farm Superintendent will manage the grading and packing arrangements according to the schedule prepared under the supervision of the Seed Certification Agency, up until the final dates set by the government."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Benefit Disbursement",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "The Deputy Director of Agriculture will pay the Seed Supply Institution the actual cost of the seed supplied under the Seed Production Programme from the scheme funds."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Deputy Director of Agriculture can also utilize scheme funds for expenses related to grading, processing, stacking, and packing of raw seeds produced at Government Agricultural Farms."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": ""
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Deadlines",
+              "underline": true
+            }
+          ],
+          "type": "heading_five"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Selection of Beneficiaries:"
+            },
+            {
+              "text": " May 25 (Kharif) and August 31 (Rabi/Summer)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Provision of Seed to Farmers:"
+            },
+            {
+              "text": " June 15 (Kharif) and October 10 (Rabi/Summer)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Final date for expenditure against allotted funds:"
+            },
+            {
+              "text": " October 31 (Kharif) and January 31 (Rabi/Summer)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Physical and financial targets for all components must be ensured by January 31."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "##### **Step 1:****** ***Selection Of Interested Beneficiaries***\n\n- The Gramin Krishi Vistar Adhikari (Rural Agricultural Extension Officer) will select small and marginal SC/ST farmers who are interested in participating in the Seed Production Programme. \n- The Gramin Krishi Vistar Adhikari will prepare a list selecting 1.5 times the target number of beneficiaries.\n\n##### **Step 2:****** ***Submission And Approval of Beneficiary List***\n\n- The Gramin Krishi Vistar Adhikari will submit the list of selected beneficiaries to the Senior Krishi Vikas Adhikari (Senior Agricultural Development Officer) or the Farm Superintendent (Prakshetra Adhikshak). \n- The Senior Krishi Vikas Adhikari or the Farm Superintendent will examine the received list and obtain approval from the Sub-Divisional Agricultural Officer (Anuvibhagiy Krishi Adhikari). \n- Priority will be given to the names listed first in the approved list.\n\n##### **Step 3:****** ***Seed Procurement and Supply Arrangement***\n\n- The Director of Agriculture will issue instructions for the supply of seed (Breeder or Certified I Grade) directly to the Deputy Director of Agriculture by authorized institutions, including Government Agricultural Farms, State Seed Corporation, National Seed Corporation, State Farm Corporation of India, and Agricultural Universities. \n- The Deputy Director of Agriculture will subsequently arrange for the seed supply to the Farm Superintendent.\n\n##### **Step 4:****** ***Seed Distribution to Farmers***\n\n- The Farm Superintendent will distribute the Breeder or Certified I seed to the selected farmers according to the approval of the Sub-Divisional Agricultural Officer. \n- The Farm Superintendent is responsible for sending progress information regarding this distribution to the Sub-Divisional Agricultural Officer.\n\n##### **Step 5:****** ***Registration with Seed Certification Agency***\n\n- The Gramin Krishi Vistar Adhikari will submit the registration application letter to the Farm Superintendent within 20 days of sowing or before the final date fixed by the government. \n- It is mandatory for the Farm Superintendent to present these applications to the Seed Certification Agency within the specified period.\n\n##### **Step 6:****** ***Technical Training and Agreement Execution***\n\n- Before undertaking the production program, the beneficiary must receive necessary technical training and information from the Gramin Krishi Vistar Adhikari, Senior Krishi Vikas Adhikari, and Subject Matter Specialists at the sub-divisional level. \n- An agreement must be executed between the department and the beneficiary, mediated by the Seed Production Committee or Farm Superintendent, to ensure timely seed production, marketing, and payment at prescribed rates.\n\n##### **Step 7:****** ***Payment of Registration Fees***\n\n- The Sub-Divisional Agricultural Officer is responsible for withdrawing the necessary funds for registration (application fee, registration fee, inspection fee, and sample fee) from the scheme budget and ensuring payment is sent to the Seed Certification Agency before the prescribed date.\n\n##### **Step 8:****** ***Marketing and Processing of Produced Seed***\n\n- Following successful field certification and subsequent harvesting and threshing, the marketing of the seed will be carried out by the Seed Production Committee or the Farm Superintendent at prescribed rates. \n- The Farm Superintendent will manage the grading and packing arrangements according to the schedule prepared under the supervision of the Seed Certification Agency, up until the final dates set by the government.\n\n##### **Benefit Disbursement**\n\n- The Deputy Director of Agriculture will pay the Seed Supply Institution the actual cost of the seed supplied under the Seed Production Programme from the scheme funds.\n- The Deputy Director of Agriculture can also utilize scheme funds for expenses related to grading, processing, stacking, and packing of raw seeds produced at Government Agricultural Farms.\n\n##### **Application Deadlines**\n**Selection of Beneficiaries:** May 25 (Kharif) and August 31 (Rabi/Summer).\n**Provision of Seed to Farmers:** June 15 (Kharif) and October 10 (Rabi/Summer).\n**Final date for expenditure against allotted funds:** October 31 (Kharif) and January 31 (Rabi/Summer).\nPhysical and financial targets for all components must be ensured by January 31.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- Provision of Breeder or Certified I Grade Seeds for seed production.\n- A 75% subsidy is provided on the Breeder or Certified Seed.\n- The subsidy is applicable for a maximum area of 1 hectare.\n- The payment of registration fees required by the Seed Certification Agency, including the application fee, registration fee, inspection fee, and sample fee, is covered from the scheme funds.\n\n<br>\n\n##### ***Conditions***\n\n- _The produced seeds must be made available to other Scheduled Caste and Scheduled Tribe farmers under the scheme at a fair price in the subsequent year._\n- _An agreement (Anubandh) must be executed between the department and the beneficiary through the Seed Production Committee or Farm Superintendent to ensure seed production, marketing (muktjan), and payment according to policy._\n- _The entire agricultural methodology (Sampuurna Krishi Kaaryamaala) must be adopted for higher production._\n- _Undesirable plants (Avaanchhaniy Paudhon) must be separated to maintain seed purity._\n- _The raw seed produced under the program will undergo grading, processing, stacking, and packing at the Government Agricultural Farm or at the processing center of the Seed Corporation or other institutions if facilities are unavailable at the farm._\n- _The expenditure incurred on grading, processing, stacking, and packing of raw seeds produced at Government Agricultural Farms may be met by the Deputy Director of Agriculture from the scheme funds, provided the prepared seed is used only under the scheme._\n- _The remaining amount, after deducting the processing expenditure from the prescribed price of the supplied seed, must be deposited in the Government Treasury by challan towards payment to the Government Agricultural Farm._\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d4221570c79cf8331fcf8785c4f50788c9f22bf50c626243e791f261c0da9537",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Annapurna Scheme” was launched by the Department of Farmers Welfare and Agricultural Development, Government of Madhya Pradesh. The “Seed Exchange Programme” component of the scheme aims to improve the economic status of Scheduled Caste and Scheduled Tribe small and marginal farmers by providing them with economic assistance to access improved seeds of high-yielding foodgrain crops, thereby increasing productivity and production. The scheme is implemented by the Directorate of Agriculture through the District Panchayats, Sub-Directorate of Agriculture, and the Senior Agriculture Development Officer. The applications for this scheme are accepted by the Rural Agriculture Extension Officer based on targets set according to the population of the target groups and the district&#39;s demand.\n<br>\n\n",
+  "eligibility": "\n- The applicant must belong to the Scheduled Caste (SC) or Scheduled Tribe (ST) category.\n- The applicant must be a small or marginal farmer.\n\n##### ***Criteria Specific to &quot;Seed Production Programme&quot;***\n\n- The applicant must be willing to participate in the Seed Production Programme.\n- The applicant&#39;s land must fall within the 10 km perimeter of the selected Government Agricultural Farms.\n- The applicant must conduct the program in a minimum area of 1/2 acre (0.2 hectare).\n- The maximum area for which subsidy is eligible is 1 hectare.\n- The applicant must mandatorily register with the Seed Certification Agency.\n\n##### ***Crops Included***\n\n- Kharif crops - Paddy, Jowar, Bajra, Maize, Kodo, Kutki, Ragi.\n- Rabi crops - Wheat, Barley.\n\n##### ***Operational Area***\nThe program is implemented within the 10 kilometer perimeter of 46 specified Government Agricultural Farms. These farms are located across various districts, including Bhind, Gwalior, Datia, Shivpuri, Raipur, Rajnandgaon, Raigarh, Janjgir, Korba, Satna, Sidhi, Damoh, Chhatarpur, Panna, Seoni, Balaghat, Chhindwara, Narsinghpur, Katni, Umaria, Khargone, Dewas, Shajapur, Ratlam, Mandsaur, Bhopal, Sehore, Raisen, Betul, Rajgarh, Jagdalpur, Kanker, Sitapur, Koriya, Mandla, Shahdol, Dhar, and Jhabua.\n<br>\n\n",
+  "exclusions": "<br>\n\n<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:05.159662+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:05.159662+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Farmer Welfare and Agriculture Development Department",
+    "value": 2300011
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpkrishi.mp.gov.in/hindisite_New/pdfs/Annapurna.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68ffa7951b96d2c6b09910f2",
+      "en": {
+        "documentsRequired_md": "\n- Caste Certificate (To Confirm Scheduled Caste/Scheduled Tribe Status).\n- Land Holding Details (To Confirm Small or Marginal Farmer Status and Area Coverage).\n\n***Documents/Records Specific to the &quot;Seed Production Programme&quot; To Be Prepared Or Executed By Officials/Committees***\n\n- Agreement/Contract (Anubandh) (To Be Executed Between The Department And The Beneficiary, Mediated Through The Seed Production Committee Or The Farm Superintendent).\n- List Of Registered Farmers (Including Crop/Variety-Wise Information On Sown Area, Prepared By The Farm Superintendent).\n- Joint Bank Account Details (Required If A Seed Producer Committee Is Formed, Held Jointly By The Committee Chairman And The Farm Superintendent).\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (To Confirm Scheduled Caste/Scheduled Tribe Status)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Holding Details (To Confirm Small or Marginal Farmer Status and Area Coverage)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "Documents/Records Specific to the \"Seed Production Programme\" To Be Prepared Or Executed By Officials/Committees",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Agreement/Contract (Anubandh) (To Be Executed Between The Department And The Beneficiary, Mediated Through The Seed Production Committee Or The Farm Superintendent)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "List Of Registered Farmers (Including Crop/Variety-Wise Information On Sown Area, Prepared By The Farm Superintendent)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Joint Bank Account Details (Required If A Seed Producer Committee Is Formed, Held Jointly By The Committee Chairman And The Farm Superintendent)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ffa39a007cb8a8b8dd532a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68ffa39a007cb8a8b8dd532a",
+  "scheme_name": "Annapurna Scheme: Seed Multiplication Programme",
+  "scheme_open_date": null,
+  "scheme_short_title": "AS-SMP",
+  "slug": "as-smp",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Seed",
+    "Farmer",
+    "Subsidy",
+    "Crop"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

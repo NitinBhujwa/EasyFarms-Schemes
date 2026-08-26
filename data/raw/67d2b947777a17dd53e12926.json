@@ -1,0 +1,609 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67d2b947777a17dd53e12926",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 1:"
+                          },
+                          {
+                            "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://ikhedut.gujarat.gov.in/"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 2:"
+                          },
+                          {
+                            "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 3:"
+                          },
+                          {
+                            "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 4:"
+                          },
+                          {
+                            "text": " Click on \"Apply New\" button and submit a new application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 5:"
+                          },
+                          {
+                            "text": " Click on the \"Update Application\" button to add corrections to the application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 6: "
+                          },
+                          {
+                            "text": "Once the application is done, confirm it."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 7:"
+                          },
+                          {
+                            "text": " Take a print out of the confirmed application."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 8:"
+                          },
+                          {
+                            "text": "  Printout of the online application should be, signed/thumbprinted, and necessary documents submitted at the concerned office."
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Step 9:"
+                          },
+                          {
+                            "text": "Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "paragraph"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Contact Us:"
+                          },
+                          {
+                            "text": " "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Click here"
+                              }
+                            ],
+                            "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "bold": true,
+                            "text": "Note: "
+                          }
+                        ],
+                        "type": "block_quote"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "bold": true,
+                                "text": "Mandatory Registration:"
+                              },
+                              {
+                                "text": " In the application, the farmer must specify the name of the Sugar Co-operative Society where they want to register their sugarcane crop cultivation in their district."
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "bold": true,
+                                "text": "Approval Process:"
+                              },
+                              {
+                                "text": " Applications are verified and approved by the competent authority based on eligibility."
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "bold": true,
+                                "text": "Communication of Approval:"
+                              },
+                              {
+                                "text": " Selected applicants will be notified via SMS, email, or written communication."
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "bold": true,
+                                "text": "Field Verification: "
+                              },
+                              {
+                                "text": "Random verification of sugarcane cultivation is conducted by District Extension Staff."
+                              }
+                            ],
+                            "type": "list_item"
+                          },
+                          {
+                            "children": [
+                              {
+                                "bold": true,
+                                "text": "Fund Disbursement:"
+                              },
+                              {
+                                "text": " Once approved, the assistance amount is directly transferred to the farmer’s bank account through the nodal agency."
+                              }
+                            ],
+                            "type": "list_item"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "align_justify"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:**  Printout of the online application should be, signed/thumbprinted, and necessary documents submitted at the concerned office.\n**Step 9:**Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx)\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n&amp;gt; **Note:** \n\n\n  - **Mandatory Registration:** In the application, the farmer must specify the name of the Sugar Co-operative Society where they want to register their sugarcane crop cultivation in their district.  - **Approval Process:** Applications are verified and approved by the competent authority based on eligibility.  - **Communication of Approval:** Selected applicants will be notified via SMS, email, or written communication.  - **Field Verification:** Random verification of sugarcane cultivation is conducted by District Extension Staff.  - **Fund Disbursement:** Once approved, the assistance amount is directly transferred to the farmer’s bank account through the nodal agency.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Incentive Assistance to Scheduled Tribe Farmers to Increase the Area, Production and Productivity of Sugarcane Farming",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "IASTASF",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Incentive",
+            "Scheduled Tribe",
+            "Sugarcane Farming"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be from Gujarat state."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must belong to the Scheduled Tribe category."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a householder."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The farmer must be engaged in sugarcane cultivation."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Farmers applying for the 10% incentive must demonstrate excellent production using high-quality seeds, agricultural inputs, and modern farming practices."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant must be a farmer.\n  - The applicant must be from Gujarat state.\n  - The applicant must belong to the Scheduled Tribe category.\n  - The applicant must be a householder.\n  - The farmer must be engaged in sugarcane cultivation.\n  - Farmers applying for the 10% incentive must demonstrate excellent production using high-quality seeds, agricultural inputs, and modern farming practices.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Years) for Reclaiming  Benefits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Assistance for sugarcane Sowing"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹10,000/- per Hectare"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Every year"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "10% assistance for excellent production"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "10% extra benefit per metric ton for production exceeding 70 metric Tons/Hectares."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Every year"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note: "
+                },
+                {
+                  "text": "This scheme covers a cultivation area of 500 hectares of sugarcane for Scheduled Tribe farmers."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Name of Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming  Benefits**Assistance for sugarcane Sowing₹10,000/- per HectareEvery year10% assistance for excellent production10% extra benefit per metric ton for production exceeding 70 metric Tons/Hectares.Every year> **Note:** This scheme covers a cultivation area of 500 hectares of sugarcane for Scheduled Tribe farmers.\n\n",
+          "briefDescription": "This scheme has been introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat. It aims to provide financial assistance to ST farmers to increase sugarcane production and productivity through quality seeds, modern farming practices, and agricultural mechanization.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Incentive Assistance to Scheduled Tribe Farmers to Increase the Area, Production and Productivity of Sugarcane Farming\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support Scheduled Tribe farmers by providing cash incentives for high-quality seeds, modern farming techniques, and agricultural mechanization. The scheme encourages farmers to enhance productivity and profitability."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Incentive Assistance to Scheduled Tribe Farmers to Increase the Area, Production and Productivity of Sugarcane Farming&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support Scheduled Tribe farmers by providing cash incentives for high-quality seeds, modern farming techniques, and agricultural mechanization. The scheme encourages farmers to enhance productivity and profitability.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://dag.gujarat.gov.in/Home/SchemesDetailsPage/39qrRafhk%E2%9C%A4%E2%9C%BFDT2MD43m3eA%E2%99%AC%E2%99%AC"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "iastasf"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67d2b993b36d179ff8050c87",
+      "en": {
+        "documentsRequired_md": "\n   1. Caste Certificate.\n   1. 8-A Copy (Land ownership document).\n   1. Bank Passbook and Cancelled Cheque.\n   1. Aadhaar Card Copy.\n   1. Undertaking Form (in case of joint ownership).\n   1. Physical Disability Certificate (if applicable).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Caste Certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "8-A Copy (Land ownership document)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Passbook and Cancelled Cheque."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card Copy."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Undertaking Form (in case of joint ownership)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Physical Disability Certificate (if applicable)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67d2b947777a17dd53e12926"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:37.811974+00:00",
+  "scheme_id": "67d2b947777a17dd53e12926"
+}

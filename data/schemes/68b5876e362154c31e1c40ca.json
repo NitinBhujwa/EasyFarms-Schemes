@@ -1,0 +1,308 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "The interested applicant should request the prescribed format of the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "application form"
+                    }
+                  ],
+                  "link": "https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": " from the office of the Gujarat Energy Development Agency."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application form along with the supporting documents to the below mentioned address."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Gujarat Energy Development Agency"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "4th floor, Block No. 11 & 12"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Udyog Bhavan"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Sector -11"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Gandhinagar-382 017, Gujarat, India"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Phone : +91-079-23257251, 23257253"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Fax : +91-079-23257255, 23247097"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Email : info-geda-gnr@gujarat.gov.in"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "For Common Inquiries : director@geda.org.in"
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should request the prescribed format of the [application form](https://geda.gujarat.gov.in/Gallery/Media_Gallery/BO2W_application_Form_24_25.pdf) from the office of the Gujarat Energy Development Agency.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the below mentioned address.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n&gt; **Gujarat Energy Development Agency**\n\n&gt; **4th floor, Block No. 11 &amp;amp; 12**\n\n&gt; **Udyog Bhavan**\n\n&gt; **Sector -11**\n\n&gt; **Gandhinagar-382 017, Gujarat, India**\n\n&gt; **Phone : +91-079-23257251, 23257253**\n\n&gt; **Fax : +91-079-23257255, 23247097**\n\n&gt; **Email : info-geda-gnr@gujarat.gov.in**\n\n&gt; **For Common Inquiries : director@geda.org.in**\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "- **Subsidy Assistance:** Subsidy of ₹48,000/- after the purchase of a battery-operated three-wheeler from GEDA-authorized manufacturers/dealers.<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "5c65def0e8a712a468a728d822e0a2a51a90a5dd9874b8ca16dc76898ee701c5",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Subsidy For Battery Operated Three-wheelers&amp;quot; by the Climate Change Department, Government of Gujarat, aims to encourage the use of clean energy-based vehicles for the transportation of passengers and goods, thereby reducing dependency on petrol and mitigating pollution. Beneficiaries, including rickshaw drivers, women entrepreneurs, startups, unemployed youth, educational institutions, cooperatives, NGOs, local bodies, and yatras, can avail a subsidy on a reimbursement basis after purchasing battery-operated three-wheelers from Gujarat Energy Development Agency (GEDA) authorized manufacturers and dealers.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant must be a resident of Gujarat.\n   1. The applicant must be an individual (such as rickshaw drivers, women entrepreneurs, startups, educated unemployed individuals) or an institution (such as cooperatives, NGOs, educational institutions, local bodies, yatras).\n   1. The applicant must purchase a battery-operated three-wheeler from a GEDA-authorized manufacturer or dealer.\n   1. The applicant must apply through authorized dealers linked with GEDA.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:06:31.645023+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:06:31.645023+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Climate Change Department",
+    "value": 2444470
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 621)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68b58782362154c31e1c41d3",
+      "en": {
+        "documentsRequired_md": "\n   1. Aadhaar Card.\n   1. Copy of license.\n   1. Identity Card.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of license."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Identity Card."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68b5876e362154c31e1c40ca"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68b5876e362154c31e1c40ca",
+  "scheme_name": "Subsidy For Battery Operated Three-Wheelers",
+  "scheme_open_date": null,
+  "scheme_short_title": "SFBOTHW",
+  "slug": "sfbothw",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Battery Operated Three-Wheelers",
+    "Electric Scooter Subsidy",
+    "Electric Vehicle",
+    "Renewable Energy",
+    "Student"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Government Organisation",
+      "value": "government-organisation"
+    },
+    {
+      "label": "NGO",
+      "value": "ngo"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

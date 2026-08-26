@@ -1,0 +1,548 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process on Antyodaya-SARAL Portal:"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Visit the Official Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal."
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number & password. Click on ‘Submit’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Login to Apply for the Scheme:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Visit the Official Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Antyodaya-SARAL Portal."
+                    }
+                  ],
+                  "link": "https://saralharyana.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Now, select the scheme and click on “Apply for Service/Scheme”."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Fill in all the details in the online application form and click on \"Submit\"."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Track Your Service Online:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Track Application/Appeal: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Click here"
+                        }
+                      ],
+                      "link": "https://status.saralharyana.nic.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Track Ticket: "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Click here"
+                        }
+                      ],
+                      "link": "https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx",
+                      "type": "link"
+                    },
+                    {
+                      "text": "."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Track Your Service Through SMS:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Registered Mobile Number:"
+                    },
+                    {
+                      "text": " Type SARAL and send to 9954699899 to track your application."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Other Mobile Number: "
+                    },
+                    {
+                      "text": "Type SARAL<space><Application ID/Ticket No.> and send to 9954699899 to track your application/ticket."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": " Helpline: "
+                },
+                {
+                  "text": "0172-3968400"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Email: "
+                },
+                {
+                  "text": "saral.haryana@gov.in"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Fees For Service:"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Government Charges: ₹0 (No Fee)"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Service Charges: ₹10"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Atal Seva Kendra Charges: ₹10"
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** For registration, click on “New User/Register Here” and fill in all the mandatory details i.e. Name, Email ID, Mobile Number &amp;amp; password. Click on ‘Submit’.\n**Step 3:** Verify the OTP received in the provided Email and Mobile Number. Alternatively, click on the Verification Link to activate the profile.\n&gt; **Login to Apply for the Scheme:**\n\n**Step 1:** Visit the Official Portal: [Antyodaya-SARAL Portal.](https://saralharyana.gov.in/)\n**Step 2:** The “Sign in here” option is available on the right side of the screen. Fill in the required credentials and click on the ‘Login’ button.\n**Step 3:** In the opened window, click on “Scheme/Services list” and a list of schemes will appear on the screen.\n**Step 4:** Now, select the scheme and click on “Apply for Service/Scheme”.\n**Step 5:** Fill in all the details in the online application form and click on &amp;quot;Submit&amp;quot;.\n&gt; **Track Your Service Online:**\n\n\n  - **Track Application/Appeal:** [Click here](https://status.saralharyana.nic.in/).  - **Track Ticket:** [Click here](https://eticketing.saralharyana.nic.in/CitizenViewComplaints.aspx).\n&gt; **Track Your Service Through SMS:**\n\n\n  - **Registered Mobile Number:** Type SARAL and send to 9954699899 to track your application.  - **Other Mobile Number:** Type SARAL&amp;lt;space&amp;gt;&amp;lt;Application ID/Ticket No.&amp;gt; and send to 9954699899 to track your application/ticket.\n&gt; **Contact Us:**\n\n **Helpline:** 0172-3968400\n**Email:** saral.haryana@gov.in\n&amp;gt; **Fees For Service:**\n\n\n  - Government Charges: ₹0 (No Fee)\n  - Service Charges: ₹10\n  - Atal Seva Kendra Charges: ₹10\n\n<br>\n\n"
+    },
+    {
+      "mode": "Online - via CSC",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The eligible applicant may visit the nearest Atal Seva Kendra with all the required documents to apply for the scheme.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Tangible Benefits:**\n\n- Project Cost: ₹3,00,000/- per unit (for purchasing a three-wheeler e-rickshaw equipped with an ice-box for selling fish.)\n- Subsidy will be limited to 40% of the project cost for the General Category of beneficiaries.\n- Subsidy will be limited to 60% of the project cost for Weaker sections/Scheduled Caste/Scheduled Tribe/Women and their co-operatives of beneficiaries.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "5003489747db07783f8db4f75a190ca2c6a3307f23818d0011f3f268b6d97964",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Three Wheeler with Ice Box Including E-rickshaws for Fish Vending” is a scheme component under the Pradhan Mantri Matsya Sampada Yojana (PMMSY), implemented by the Fisheries Department, Government of Haryana. This is a Centrally Sponsored Scheme that aims to strengthen fish transportation infrastructure by promoting hygienic and efficient fish transportation and retailing through mobile outlets. Under this scheme, financial assistance is provided to eligible beneficiaries for purchasing e-rickshaws equipped with ice boxes for direct fish selling.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant should be a resident of Haryana.\n   1. The applicant should have a Parivar Pehchan Patra.\n   1. The applicant should ensure that the fish transport facility (e-rickshaw) is maintained in working condition.\n   1. The applicant is eligible to purchase only one new three-wheeler e-rickshaw with an ice box for fisheries activities under this scheme.\n   1. The applicant should agree that neither the Central Government nor the State Government shall be held responsible for any financial or operational losses incurred in the procurement, operation, maintenance, or management of the fish transport facilities.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:57:30.498915+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:57:30.498915+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 666678
+  },
+  "references": [
+    {
+      "title": "Scheme Details",
+      "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=wmes6T7wb1mV5Dt3BEW7EA%3d%3d"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://harfish.gov.in/technical-financial-assistance"
+    },
+    {
+      "title": "Scheme Details (Page No. 2)",
+      "url": "https://harfish.gov.in/sites/default/files/Scheme%20Brief.pdf?utm_source=chatgpt.com"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "686a358ecee1ea55a6fc9074",
+      "en": {
+        "documentsRequired_md": "\n1. Agreement 1 - Agreement deed between beneficiary and Fisheries Department\n1. Date of Birth Certificate - Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate\n1. Caste Certificate - Caste Certificate from first class Magistrate (Tehsildar)\n1. Training Certificate of the Beneficiary\n1. Land Record - Land record from Tehsil (Own Land-Jamabandi, Nakal Akshizra, Farad) or registered lease deed of minimum 7 years\n1. Bills/Receipts/Vouchers\n1. Photographs of three wheeler with Ice-Box with beneficiary\n1. Detail of Bank Account and Pan Card\n1. Detailed Project Report (DPR)/ Self Contained Proposal (SCP) as per PMMSY guidelines\n1. Driving Licence of the beneficiary/driver and Insurance of vehicle\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Agreement 1 - Agreement deed between beneficiary and Fisheries Department"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Date of Birth Certificate - Voting Card/Birth Certificate/Aadhar Card/Matriculation Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate - Caste Certificate from first class Magistrate (Tehsildar)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training Certificate of the Beneficiary"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Record - Land record from Tehsil (Own Land-Jamabandi, Nakal Akshizra, Farad) or registered lease deed of minimum 7 years"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bills/Receipts/Vouchers"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photographs of three wheeler with Ice-Box with beneficiary"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Detail of Bank Account and Pan Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Detailed Project Report (DPR)/ Self Contained Proposal (SCP) as per PMMSY guidelines"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Driving Licence of the beneficiary/driver and Insurance of vehicle"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "686a347efe3aa01082376280"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "686a347efe3aa01082376280",
+  "scheme_name": "Pradhan Mantri Matsya Sampada Yojana: Three Wheeler with Ice Box Including E-rickshaws for Fish Vending - Haryana",
+  "scheme_open_date": null,
+  "scheme_short_title": "PMMSYTWIBIFV",
+  "slug": "twibierfv",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Haryana",
+    "value": 6
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Fish",
+    "Fishries",
+    "Three Wheeler",
+    "Ice Box"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

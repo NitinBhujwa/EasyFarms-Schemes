@@ -1,0 +1,222 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " Collect the application form from the nearest Agricultural Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "Submit the form to the concerned office:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Village Level:"
+                },
+                {
+                  "text": " Submit the application to the Assistant Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Block Level:"
+                },
+                {
+                  "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "District Level: "
+                },
+                {
+                  "text": "Submit to the Joint Director of Agriculture."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Financial Assistance:** An assistance of  ₹4,000/- towards the cost of inputs to organize the demonstration and  ₹4,000/- to cover the land with Polythene sheet per hectare will be provided.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "8c2cb3c3de715f5d7ed6d3483428c228bdb07b6780970dffe6b559fd63ab9265",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Organizing Block Demonstration on Polythene Mulch Technology in Groundnut&amp;quot; by the Agriculture-Farmers Welfare Department, Tamil Nadu, is designed to support farmers by providing ₹4,000/- for input costs and an additional ₹4,000/- to cover land with polythene sheets per hectare. It aims to encourage the use of advanced agricultural technologies to enhance crop yields, specifically in groundnut farming.\n&lt;br&gt;\n\n&lt;br&gt;\n\n",
+  "eligibility": "\n  - The beneficiary should be a Farmer.\n  - The beneficiary should be a resident of Tamil Nadu.\n  - The beneficiary should produce and supply Foundation and Certified Class seeds to the Department.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:53:55.445891+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:53:55.445891+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 3333332
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.tn.gov.in/scheme/data_view/7614"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "66e2cc3e3c6d3ce285b89af0",
+      "en": {
+        "documentsRequired_md": "\n1. Proof of identity (Aadhar card, Voter ID)\n1. Land ownership documents or lease agreement.\n1. Proof of seed production and supply to the Department.\n1. Bank account details.\n1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of identity (Aadhar card, Voter ID)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land ownership documents or lease agreement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of seed production and supply to the Department."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents (if required)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "66e2cc0742d76022fd75035b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "66e2cc0742d76022fd75035b",
+  "scheme_name": "Organizing Block Demonstration on Polythene Mulch Technology in Groundnut",
+  "scheme_open_date": null,
+  "scheme_short_title": "OBDOPMTIG",
+  "slug": "obdopmtig",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Tamil Nadu",
+    "value": 33
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Block Demonstration",
+    "Polythene Mulch Technology",
+    "Groundnut"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

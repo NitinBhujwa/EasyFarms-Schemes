@@ -1,0 +1,335 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The applicant must identify an eligible component under MIDH."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "The applicant must submit an application through the State Horticulture Mission, State Bamboo Development Agency, or designated implementing agency."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "The application is considered through the transparent beneficiary selection mechanism established by the State."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "The competent authority verifies eligibility and project details."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "The project is approved as per applicable norms and subsidy provisions."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Funds are released through the implementing agency."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Beneficiary Login: "
+            },
+            {
+              "children": [
+                {
+                  "text": "Click here"
+                }
+              ],
+              "link": "https://midh.gov.in/login",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant must identify an eligible component under MIDH.\n**Step 2:** The applicant must submit an application through the State Horticulture Mission, State Bamboo Development Agency, or designated implementing agency.\n**Step 3:** The application is considered through the transparent beneficiary selection mechanism established by the State.\n**Step 4:** The competent authority verifies eligibility and project details.\n**Step 5:** The project is approved as per applicable norms and subsidy provisions.\n**Step 6:** Funds are released through the implementing agency.\n> **Beneficiary Login:** [Click here](https://midh.gov.in/login).\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Production and Productivity Improvement:**\n\n\n- Assistance for adoption of improved technologies and quality planting material.\n- Support for area expansion under improved horticulture crop varieties.\n- Support for rejuvenation and replacement of old and unproductive plantations.\n\n> **Quality Planting Material:**\n\n\n- Assistance for establishment and upgradation of nurseries.\n- Support for production and distribution of quality seeds and planting material.\n- Support for Tissue Culture Units and accredited nurseries.\n\n> **Clean Plant Programme:**\n\n\n- Availability of disease-free and pathogen-free planting material.\n- Improved traceability and certification in the planting material supply chain.\n\n> **Establishment of New Gardens:**\n\n\n- Assistance for bringing additional area under horticulture crops using certified planting material.\n- Support for high-yielding varieties and cluster-based cultivation.\n\n> **Mushroom Production:**\n\n\n- Assistance for mushroom production units.\n- Support for spawn production and compost-making units.\n\n> **Water Resource Development:**\n\n\n- Assistance for community tanks, farm ponds, reservoirs, tube wells, and dug wells.\n- Support for water storage structures with plastic or Reinforced Cement Concrete lining.\n\n> **Protected Cultivation:**\n\n\n- Assistance for greenhouses, shade net houses, plastic tunnels, rain shelters, mulching, anti-bird nets, and anti-hail nets.\n- Support for hydroponics, aeroponics, solar fencing, weed mats, and automation systems.\n\n> **Organic Farming:**\n\n\n- Additional assistance as per Paramparagat Krishi Vikas Yojana norms.\n- Support available for up to 4 hectares per beneficiary over a period of 3 years.\n- Assistance for certification and on-farm input generation.\n- Integrated Nutrient Management and Integrated Pest Management\n- Assistance for bio-fertilizers and pest management practices.\n- Support for establishment of Plant Health Clinics.\n\n> **Human Resource Development:**\n\n\n- Training for farmers, entrepreneurs, gardeners, supervisors, field workers, and officials.\n- Residential training programmes and skill development initiatives.\n\n> **Pollination Support Through Bee-Keeping:**\n\n\n- Assistance for bee colonies, bee breeding, bee-keeping equipment, and nucleus stock development.\n\n> **Horticulture Mechanization:**\n\n\n- Assistance for procurement of power-operated machines and tools.\n- Support for farmer groups, Self-Help Groups, and women farmer groups.\n\n> **Technology Demonstrations:**\n\n\n- Assistance up to 75% of the cost for farmer participatory demonstrations.\n- Front Line Demonstrations in public institutions eligible for up to 100% assistance, subject to a maximum of ₹25,00,000/- per project.\n\n> **Post-Harvest Management:**\n\n\n- Assistance for pack houses, cold storage, ripening chambers, refrigerated transport, grading and packing facilities, processing units, and integrated supply chains.\n- Support for entrepreneur-driven and farmer group-led projects.\n\n> **Market Infrastructure:**\n\n\n- Assistance for retail markets, mobile vending carts, outlets, and cool chambers.\n- Support for marketing of horticulture produce.\n\n> **Processing and Value Addition:**\n\n\n- Assistance for primary processing units and food processing units.\n\n> **Product Promotion and Market Development:**\n\n\n- Support for promotion and market development of horticultural products.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d54d3ccfb26a41403de8fbde4ee1cb49dd102dcb53a6efa819b48264aec2f7aa",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&gt; The Mission for Integrated Development of Horticulture (MIDH) is a Centrally Sponsored Scheme implemented by the Department of Agriculture &amp;amp; Farmers Welfare, Ministry of Agriculture &amp;amp; Farmers Welfare, Government of India for the holistic growth of the horticulture sector through support for production, productivity enhancement, quality planting material, post-harvest management, processing, marketing, skill development, and infrastructure creation. It covers fruits, vegetables, root and tuber crops, mushrooms, spices, flowers, medicinal and aromatic plants, coconut, cashew, cocoa, bamboo, and other horticultural crops. The Government of India contributes 60% of the programme cost and States contribute 40%; for North Eastern and Himalayan States, the sharing pattern is 90:10. The mission promotes cluster-based development, adoption of modern technologies, organic farming, horticulture mechanization, protected cultivation, market infrastructure, and cold-chain development to improve farmers&amp;#39; income and nutritional security.\n\n<br>\n\n",
+  "eligibility": "> The following categories of beneficiaries are eligible to receive assistance under various components of the scheme:\n\n\n- Individual Farmers\n- Farmer-Producer Organizations (FPOs)\n- Farmer Interest Groups (FIGs)\n- Self-Help Groups (SHGs)\n- Cooperative Societies\n- Partnership Firms\n- Proprietary Firms\n- Companies\n- Corporations\n- Local Bodies\n- Agricultural Produce Market Committees (APMCs)\n- State Government Entities (for eligible components)\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:09:43.186304+00:00",
+  "implementing_agency": "State/UT Horticulture Department",
+  "last_synced_at": "2026-08-26T14:09:43.186304+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture & Farmers Welfare",
+    "value": 121226
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://storage.googleapis.com/midh-suraksha-bucket/pdf/midhGuidelines/midh%28English%29.pdf?X-Goog-Algorithm=GOOG4-RSA-SHA256&X-Goog-Credential=midh-suraksha-bucket%40s-0-000236-34.iam.gserviceaccount.com%2F20260603%2Fauto%2Fstorage%2Fgoog4_request&X-Goog-Date=20260603T113230Z&X-Goog-Expires=604800&X-Goog-SignedHeaders=host&X-Goog-Signature=8f06592c0b5f36c133a75fbaee951536df4ffb2df9c54952d94495880187e3dc7b8e644ee0928ad4815d37f545b084f1deb10b9107c501878f23da8774be1d191c01799c078f3d24659876bb22ea31a7bf0a053229f368811d4abf548746cc8b20349a4e25b217cb76b757f3bf813627ddef393ce0f20372a7fda5171525eb2c509ae1a7c4fc48498d560e912cf10538c0d6c25d1489e6b347a1e209631cb64809e64503ca39e94b633fccccaeac86a0fe72c566229e8eba681bdf8e3772402b185938dca019ddff92961c2ce4b76a87e8afd217cd052f39e2e1d02721aa5b021743072e1c7c2409b196feb61ad2ca51e8c5dde9fdc8afb59f5d4cba859c1f9c"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "650a9fa17846de4ead18a120",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Identity Proof\n1. Address Proof\n1. Bank Account Details\n1. Land Ownership Documents / Patta Documents\n1. Land Record Extract\n1. Passport Size Photograph\n1. Project Proposal / Detailed Project Report (For Project-Based Components)\n1. Nursery Accreditation Certificate (For Nursery-Related Components)\n1. Farmer Producer Organization Registration Certificate (If Applying As Farmer Producer Organization)\n1. Self-Help Group Registration Documents (If Applying As Self-Help Group)\n1. Cooperative Registration Certificate (If Applying As Cooperative Society)\n1. Caste Certificate (For Scheduled Caste / Scheduled Tribe Applicants, If Applicable)\n1. Any Other Documents Prescribed By The Implementing Agency\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Documents / Patta Documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Record Extract"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport Size Photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal / Detailed Project Report (For Project-Based Components)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Nursery Accreditation Certificate (For Nursery-Related Components)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Farmer Producer Organization Registration Certificate (If Applying As Farmer Producer Organization)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self-Help Group Registration Documents (If Applying As Self-Help Group)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Cooperative Registration Certificate (If Applying As Cooperative Society)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (For Scheduled Caste / Scheduled Tribe Applicants, If Applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other Documents Prescribed By The Implementing Agency"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "650a9f8f7846de4ead18a102"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "650a9f8f7846de4ead18a102",
+  "scheme_name": "Mission on Integrated Development of Horticulture- NHM and HMNEH",
+  "scheme_open_date": "2014-01-01",
+  "scheme_short_title": "MIDH",
+  "slug": "midh",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Horticulture",
+    "Infrastructure",
+    "Post-harvest",
+    "Green Houses",
+    "Poly Houses",
+    "Nurseries"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Government Organisation",
+      "value": "government-organisation"
+    },
+    {
+      "label": "State Government",
+      "value": "state-government"
+    },
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    },
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

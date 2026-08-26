@@ -1,0 +1,213 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The applicant may contact nearest District Animal Husbandry and Veterinary Officer (DAHVO)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Applications in prescribed format are received from concerned Animal Husbandry and Veterinary Office."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " The applicant must ensure that the filled information should be correct before submitting the application form to concerned department."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "3f50fce1d2152d1a9e7d185fe3fe9aefda434a33a901badd16ae02ca6119f660",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Arun Pig Development Scheme” was launched by the Department of Animal Husbandry, Veterinary &amp;amp; Dairy Development, Government of Arunachal Pradesh in the financial year 2019-20 with a focus on pig rearing. Among the livestock species, the pig finds an important place as it is being reared by socio-economically weaker sections of the society especially in the states like Arunachal Pradesh where most of people prefer non-veg cuisines with special attractions for Pork. The pig as compared to other livestock species has a great potential to contribute to a faster economic return to the farmers, because of certain inherent traits like high fecundity, better-feed conversion efficiency, early maturity, and short generation interval. Pig farming also requires small investments in buildings and equipment.\n**Objective**\n\n  - Genetic improvement of the indigenous pigs of Arunachal Pradesh for productivity enhancement by crossbreeding with the exotic breed(s) to a desired level of combination of exotic and local inheritance,\n  - Improvement of indigenous pig rearing by the rural people by selective breeding,\n  - Livelihood earning\n  - Maintenance of well-planned crossbred animals at farmers’ field\n  - Expansion of piggery husbandry and support mechanism to propagate pig rearing in rural areas\n  - Ensure that the breeds introduced, and crossbreds produced and propagated in the state are adapted to local environmental conditions and emerging climatic challenges,\n  - Strengthen support mechanisms and development of the sector in respect of feeding, housing, and health care besides value addition and marketing of the product with value chain development.\n  - Scientific rearing and motivation of farmers for integrated piggery farming.\n\n**Important Features**\n\n  - Seeing the low interest of the actual grass root level farmer for the credit link schemes and their poor success rate, a new venture for piggery development in the state through direct intervention by the Department of AHV&amp;amp;DD, GoAP in terms of upgradation of genetic resources, and other peripherals, a new and innovative scheme is proposed for Budget Announcement 2019-20 for sustainable development and poverty alleviation of Farmers through Pig Rearing in potential districts of Arunachal Pradesh.\n  - Livelihood earning, improvement of indigenous pig rearing by the rural people by selective breeding along with maintenance of well-planned crossbred animals at farmers’ fields.\n  - Expansion of piggery husbandry and support mechanism to propagate pig rearing in rural areas.\n  - Ensure that the breeds introduced, and crossbreds produced and propagated in the state are adapted to local environmental conditions and emerging climatic challenges.\n\n",
+  "eligibility": "1.\tThe applicant should be a permanent resident of Arunachal Pradesh.\n2.\tPig-rearing individual farmers/ Self Help Groups (SHGs), ones identified by the District Pig Development Committee are eligible to apply under the scheme.\n3.\tPreference would be given to women and genuinely poor farmers.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:39.300282+00:00",
+  "implementing_agency": "District Animal Husbandry And Veterinary Office",
+  "last_synced_at": "2026-08-26T13:55:39.300282+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal husbandry, Veterinary and Dairy Department",
+    "value": 12111113
+  },
+  "references": [
+    {
+      "title": "Website",
+      "url": "https://ahvdd.arunachal.gov.in/nlm_sch.html"
+    },
+    {
+      "title": "Guideline",
+      "url": "https://ahvdd.arunachal.gov.in/pdf/eBook/Government%20Scheme%20Handbook.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64636782023a49decea9ff49",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card, Voter ID card, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Below Poverty Line (BPL) Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application form and farmer details in the prescribed format"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Applicant’s residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photo"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "64635e7f8919dbd7e6f56f69"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64635e7f8919dbd7e6f56f69",
+  "scheme_name": "Arun Pig Development Scheme",
+  "scheme_open_date": "2019-04-01",
+  "scheme_short_title": "APDS",
+  "slug": "apds",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Arunachal Pradesh",
+    "value": 12
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Pig Farming",
+    "Farmer",
+    "Self Help Group (SHG)",
+    "Subsidy",
+    "Entrepreneur"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

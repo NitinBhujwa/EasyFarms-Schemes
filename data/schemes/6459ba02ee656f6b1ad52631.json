@@ -1,0 +1,245 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Fill Application form under "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://nlm.udyamimitra.in/ ."
+                    }
+                  ],
+                  "link": "https://nlm.udyamimitra.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Screening of application by state Implementing Agency(SIA)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Loan sanctioned by lender."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Approval of subsidy by DAHD."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Recommendation from the state-level executive committee (SLEC)."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Disbursement and release of subsidy."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "ol_list"
+        }
+      ],
+      "url": "https://nlm.udyamimitra.in/ "
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4341c8357488625ab05d5c019ec0324fcf2dc668b9ecc309a2a725cc727ed2c7",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "**Objectives** \n\n1. Establishing an effective seed production chain.\n1. Capacity building of state functionaries and livestock owners in forage production, conservation and utilization.\n1. Establishing convergence and synergy among ongoing Plan programmes and stakeholders for fodder resource development.\n\n<br>\n\n**Salient Feature**\n\n1. Under this activity, the fodder seed chain i.e. breeder, foundation and certified quality fodder seed production will be incentivized.\n1. This component targeted towards the multiplication of seeds of high yielding fodder varieties which has been developed through research and innovations, significantly showing better performance, for which incentives will be provided.\n\n",
+  "eligibility": "The Entrepreneurs/ Eligible Entities shall be considered Eligible for availing benefit under the entrepreneurship programme if fulfils either of the following criteria:\n\n   1. Entrepreneurs/ Eligible Entitieseither have obtained training or have trained experts or have sufficient experience in the relevant field in managing and running the project or have technical experts with sufficient experience in the relevant field of managing and running the project.\n   1. The Entrepreneurs/ Eligible Entities have got the sanctioned loan for the project by the bank or financial institutions furnished bank guarantee from the scheduled bank along with an appraisal of the project for its validity by the bank where it is holding the account.\n   1. The Entrepreneurs/ Eligible Entities should own land or lease land where the project will be established.\n   1. The Entrepreneurs/ Eligible Entities have all the relevant documents for KYC.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:04:24.933639+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:04:24.933639+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry and Veterinary Department",
+    "value": 1511112
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://ahvety.mizoram.gov.in/uploads/attachments/d2aa170eea17c223ac1a17f4af194019/feed-and-fodder-entrepreneurship-scheme-english.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6459bcefa8205db95fde1fd1",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Supporting documents [Proof of Address, Aadhar card, caste certificate (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of land holding (ownership or lease)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Education certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photocopies of the training certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Income proof, and bank statement for the last six months."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Detailed Project Report including total cost, recurring cost, net income etc"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Name, Aadhar no., mobile no. and address of the farmers linked/attached with the entrepreneur."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph of the project area."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6459ba02ee656f6b1ad52631"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6459ba02ee656f6b1ad52631",
+  "scheme_name": "Feed And Fodder Entrepreneurship Scheme",
+  "scheme_open_date": "2014-01-01",
+  "scheme_short_title": "FFES",
+  "slug": "ffes",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Mizoram",
+    "value": 15
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Fodder Value Addition",
+    "Total Mixed Ration",
+    "Storage Facilities",
+    "Farmers Scientist Interaction",
+    "Fodder Block Making"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

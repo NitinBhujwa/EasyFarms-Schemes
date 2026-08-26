@@ -1,0 +1,355 @@
+{
+  "detail": {
+    "data": {
+      "_id": "69195a53bcb51d73b080c78a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The application form can be obtained from the officers/personnel working at the Horticulture Mobile team Centres. It can also be downloaded from the department's website: "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "https://shm.uk.gov.in"
+                              }
+                            ],
+                            "link": "https://shm.uk.gov.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": ". Along with the application form/proposal, the applicant must submit land-related documents such as Khasra and Khatauni, a lease certificate (in case of leased land), Aadhaar Card, PAN Card, Udhyan Card, bank account details, and mobile number. At present, the application process is offline."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "If the applicant faces any difficulty while completing the application, the personnel at the concerned Horticulture Mobile team Centre will provide assistance. The completed application form must be submitted at the same office. The personnel at the Horticulture Mobile team Centre then forward the proposal to the district level, which further forwards it to the Directorate. After the Directorate approves the farmers’ proposals, an approval/work order is issued to the respective districts."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Once a farmer’s proposal is approved, the district officer sends an acceptance letter and also informs the farmer over the phone. The farmer then begins constructing the tube well/pond, after which an on-site inspection is conducted by departmental personnel. Based on the inspection report, the subsidy amount is transferred directly to the farmer’s bank account."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - The application form can be obtained from the officers/personnel working at the Horticulture Mobile team Centres. It can also be downloaded from the department&amp;#39;s website: [https://shm.uk.gov.in](https://shm.uk.gov.in/). Along with the application form/proposal, the applicant must submit land-related documents such as Khasra and Khatauni, a lease certificate (in case of leased land), Aadhaar Card, PAN Card, Udhyan Card, bank account details, and mobile number. At present, the application process is offline.  - If the applicant faces any difficulty while completing the application, the personnel at the concerned Horticulture Mobile team Centre will provide assistance. The completed application form must be submitted at the same office. The personnel at the Horticulture Mobile team Centre then forward the proposal to the district level, which further forwards it to the Directorate. After the Directorate approves the farmers’ proposals, an approval/work order is issued to the respective districts.\n  - Once a farmer’s proposal is approved, the district officer sends an acceptance letter and also informs the farmer over the phone. The farmer then begins constructing the tube well/pond, after which an on-site inspection is conducted by departmental personnel. Based on the inspection report, the subsidy amount is transferred directly to the farmer’s bank account.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Tubewell Installation /Pond Construction",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TIPC",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            },
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Tubewell Installation",
+            "Pond Construction",
+            "Farmer",
+            "Irrigation"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a farmer and must hold a valid Udhyan Card."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer must either own agricultural land or have land on lease."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer must confirm the availability of water in the concerned area."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "A farmer is eligible for a subsidy for the construction of one tube well/pond."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer and must hold a valid Udhyan Card.\n1. The farmer must either own agricultural land or have land on lease.\n1. The farmer must confirm the availability of water in the concerned area.\n1. A farmer is eligible for a subsidy for the construction of one tube well/pond.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, to promote the development of irrigation facilities, farmers are provided a 50% subsidy on the total cost for the construction of new tubewells or ponds, up to a maximum of ₹90,000/- per unit (limited to one unit per farmer)."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme, to promote the development of irrigation facilities, farmers are provided a 50% subsidy on the total cost for the construction of new tubewells or ponds, up to a maximum of ₹90,000/- per unit (limited to one unit per farmer).\n<br>\n\n",
+          "briefDescription": "The scheme aims to enhance irrigation facilities for farmers in Uttarakhand by providing financial assistance for the construction of tubewells and ponds, thereby improving water availability, supporting horticultural development, and increasing agricultural productivity.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Tubewell Installation/ Pond Construction” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to enhance irrigation facilities for farmers in Uttarakhand by providing financial assistance for the construction of tubewells and ponds, thereby improving water availability, supporting horticultural development, and increasing agricultural productivity."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Tubewell Installation/ Pond Construction” is implemented by the Department of Horticulture, Government of Uttarakhand. The scheme aims to enhance irrigation facilities for farmers in Uttarakhand by providing financial assistance for the construction of tubewells and ponds, thereby improving water availability, supporting horticultural development, and increasing agricultural productivity.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 214)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tipc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6919624061be3c3073dc0b2b",
+      "en": {
+        "documentsRequired_md": "\n   1. Land-related documents such as Khasra and Khatauni \n   1. Lease certificate (in case of leased land)\n   1. Aadhaar card\n   1. PAN card\n   1. Udhyan Card\n   1. Bank account details\n   1. Mobile number\n   1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Land-related documents such as Khasra and Khatauni "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Lease certificate (in case of leased land)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "PAN card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Udhyan Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Mobile number"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Other supporting documents as required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69195a53bcb51d73b080c78a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:00:53.430382+00:00",
+  "scheme_id": "69195a53bcb51d73b080c78a"
+}

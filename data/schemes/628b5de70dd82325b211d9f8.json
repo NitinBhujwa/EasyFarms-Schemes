@@ -1,0 +1,253 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Pre-Survey Activities",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Permission is sought to conduct the survey, followed by organizing a Gram Sabha to inform villagers about the schedule, methodology, and benefits."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Identification, marking, and delineation of properties, including government assets, Gram Sabha land parcels, individual properties, roads, and open plots, are carried out."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Public notification is issued for the survey area, along with obtaining permission for drone flights."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Survey Activities",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The CORS network is established, and ground control points are set up."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Drone images are acquired, processed, and used for generating digital maps."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Post Survey Activities",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "An inquiry/objection process is initiated to verify land parcel ownership, resolve disputes, and issue property cards to village household owners."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Regular record updates and storage maintenance are ensured alongside training and capacity-building for government officials involved in the scheme."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Pre-Survey Activities**\n\n**Step 1:** Permission is sought to conduct the survey, followed by organizing a Gram Sabha to inform villagers about the schedule, methodology, and benefits.\n**Step 2:** Identification, marking, and delineation of properties, including government assets, Gram Sabha land parcels, individual properties, roads, and open plots, are carried out.\n**Step 3:** Public notification is issued for the survey area, along with obtaining permission for drone flights.\n> **Survey Activities**\n\n**Step 1:** The CORS network is established, and ground control points are set up.\n**Step 2:** Drone images are acquired, processed, and used for generating digital maps.\n> **Post Survey Activities**\n\n**Step 1:** An inquiry/objection process is initiated to verify land parcel ownership, resolve disputes, and issue property cards to village household owners.\n**Step 2:** Regular record updates and storage maintenance are ensured alongside training and capacity-building for government officials involved in the scheme.\n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "label": "In Kind",
+    "value": "in kind"
+  },
+  "benefits": "\n- Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village.\n- Creation of Property Cards on the Exact Area of Each Property in the Village.\n- Proprietary Rights to the Village Household Owner.\n- Property as a Financial Asset for Taking Loans and Other Financial Benefits.\n- Reduce Property Disputes and Legal Cases.\n- Determination of Property Tax.\n- Creation of Accurate Land Records for Rural Planning.\n- Better Gpdp - Leveraging Gis Database/ Maps Created for Better Planning and Execution of Plans.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "746c71d12083a4512bc93fd40de0192e568437cdc3488d11c1b04461acb6f7c3",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology.\n> **Objectives**\n\n\n- Creation of accurate land records for rural planning and reducing property-related disputes.\n- To bring financial stability to the citizens in rural India by enabling them to use their property as a financial asset for taking loans and other financial benefits.\n- Determination of property tax, which would accrue to the GPs directly in States where it is devolved or else, add to the State exchequer.\n- Creation of survey infrastructure and GIS maps that can be leveraged by any department for their use. \n- To support in the preparation of a better-quality Gram Panchayat Development Plan (GPDP) by making use of GIS maps\n\nThe scheme is a reformative step towards the establishment of clear ownership of property in rural inhabited (Abadi) areas, by mapping of land parcels using drone technology and providing ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners. \nThere are about 6.62 lakh villages in the country which will be eventually covered in this scheme. The entire work is likely to be spread for five years.\n",
+  "eligibility": "The applicant should have a property in rural inhabited (Abadi) area.\n",
+  "exclusions": "Agricultural Lands are not covered under this scheme.\n",
+  "first_seen_at": "2026-08-26T13:55:30.179422+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:30.179422+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://svamitva.nic.in/svamitva/downloadPdfFiles.html?id=36&type=pdf&OWASP_CSRFTOKEN=EOIY-CFO7-HLZC-LNAD-SEAC-5EH8-4NTI-1ZOT"
+    },
+    {
+      "title": "Flyer",
+      "url": "https://svamitva.nic.in/svamitva/downloadPdfUserMannualFiles.html?OWASP_CSRFTOKEN=GLCV-COL7-09G1-MLE9-4S1R-8WIK-FEQW-07J5&id=1"
+    },
+    {
+      "title": "Brochure",
+      "url": "https://svamitva.nic.in/svamitva/downloadPdfUserMannualFiles.html?OWASP_CSRFTOKEN=GLCV-COL7-09G1-MLE9-4S1R-8WIK-FEQW-07J5&id=2"
+    },
+    {
+      "title": "Booklet",
+      "url": "https://svamitva.nic.in/DownloadPDF/SVAMITVA_English_1632367330563.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "628b5dfe0dd82325b211da00",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof of the Property Owners.\n- Proof of Ownership of the Property Owners.\n- Any other documents as required by the Revenue Officials.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof of the Property Owners."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Ownership of the Property Owners."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required by the Revenue Officials."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "628b5de70dd82325b211d9f8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "628b5de70dd82325b211d9f8",
+  "scheme_name": "SVAMITVA Yojana (Survey of Villages and Mapping with Improvised Technology in Village Areas)",
+  "scheme_open_date": "2021-04-01",
+  "scheme_short_title": "PMSY",
+  "slug": "pmsy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Rural",
+    "Survey",
+    "Village",
+    "Drone",
+    "Property"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Family",
+      "value": "family"
+    }
+  ]
+}

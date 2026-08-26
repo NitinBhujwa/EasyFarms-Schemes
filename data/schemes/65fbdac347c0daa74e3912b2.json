@@ -1,0 +1,235 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "The Director of Industries will invite the application for award by wide publicity."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The industrial unit should apply for the award in the prescribed form available on the Official Website of the Directorate of Industries and Commerce, Puducherry."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "The unit should submit the duly filled and signed application form and the documents to the concerned authority either in person or by post."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Post-Application Process"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The applications shall be scrutinised by the Directorate of Industries and Commerce on a merit basis for the grant of state awards will be placed before the award Committee."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "The Committee for the awards will go into the merits of each case for granting the award."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "The list of selected enterprises shall be notified and informed by the Director of Industries to the enterprises to receive the awards."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "_The Director of Industries will invite the application for award by wide publicity._\n**Step 1:** The industrial unit should apply for the award in the prescribed form available on the Official Website of the Directorate of Industries and Commerce, Puducherry.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** The unit should submit the duly filled and signed application form and the documents to the concerned authority either in person or by post.\n> **Post-Application Process**\n\n**Step 1:** The applications shall be scrutinised by the Directorate of Industries and Commerce on a merit basis for the grant of state awards will be placed before the award Committee.\n**Step 2:** The Committee for the awards will go into the merits of each case for granting the award.\n**Step 3:** The list of selected enterprises shall be notified and informed by the Director of Industries to the enterprises to receive the awards.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Cash Award of ₹2,00,000/- and a Citation.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Business & Entrepreneurship",
+      "value": "628ce733d6d1a3bde4685278"
+    },
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "64683585491c138c6d0d909dee8f498a93011fb2c8c41998427757dd89682425",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "&quot;Green and Eco-Friendly Measures&quot; under “Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises” is a scheme by the Industries and Commerce Department, Union Territory of Puducherry. The award is conferred upon the industries that are green and eco-friendly as per the standards of the Department of Science, Technology and Environment (DSTE), Puducherry. The awardee is given a cash award of ₹2,00,000/- and a citation. The applications are accepted offline in the prescribed form available on the Official Website of the Department.\n",
+  "eligibility": "\n- The industry should be green and eco-friendly as per the DSTE standards.\n- The unit should provide at least 60% of employment to the people of UT of Puducherry of the total employment strength of the industrial units.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:13.426032+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:09:13.426032+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Industries and Commerce Department, Puducherry",
+    "value": 34000021
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://industry.py.gov.in/sites/default/files/state-award-go.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65fbdad06777154aaf9d81f7",
+      "en": {
+        "documentsRequired_md": "\n- Certification from the Department of Science, Technology and Environment (DSTE), Puducherry for Zero/Minimum Effluent Discharge.\n- Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate.\n- Any other document, as required by the Award Committee.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Certification from the Department of Science, Technology and Environment (DSTE), Puducherry for Zero/Minimum Effluent Discharge."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Entrepreneurs Memorandum Part-2 (UAM/ PMT) Registration/ Commencement of Production Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document, as required by the Award Committee."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65fbdac347c0daa74e3912b2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "65fbdac347c0daa74e3912b2",
+  "scheme_name": "\"Green and Eco-Friendly Measures\" under “Motivation of Entrepreneurs to Start Industries and Fiscal Assistance to Industries - State Awards to Micro, Small and Medium Enterprises”",
+  "scheme_open_date": null,
+  "scheme_short_title": "GEFM-MESIFAI-SA-MSME",
+  "slug": "gefm-mesifai-sa-msme",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Pollution and waste management",
+      "value": "Pollution and waste management"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Setting up / start-up / entrepreneurship",
+      "value": "Setting up / start-up / entrepreneurship"
+    },
+    {
+      "label": "Waste and environmental impact",
+      "value": "Waste and environmental impact"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Award",
+    "Entrepreneur",
+    "MSME",
+    "Business",
+    "Environment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Business Entity",
+      "value": "business-entity"
+    }
+  ]
+}

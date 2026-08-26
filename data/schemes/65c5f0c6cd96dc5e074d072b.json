@@ -1,0 +1,262 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The eligible bonafide farmer can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "italic": true,
+              "text": "Mode of Selection of Beneficiary(s):",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "The bonafide farmers shall be selected on a first come first serve basis."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Whom to Contact:"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "1. "
+            },
+            {
+              "children": [
+                {
+                  "text": "District Horticulture Officer"
+                }
+              ],
+              "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "2. Horticulture Development Officer"
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "&gt; ***Application Process:***\n\n**Step 01:** The eligible bonafide farmer can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n> ***Mode of Selection of Beneficiary(s):***\n\nThe bonafide farmers shall be selected on a first come first serve basis.\n> **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\nThe produce from the Government Farm, Umsning are sold directly to the growers through District Horticulture Officers / Implementing Officers at full rate.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "a8bd2a7922ac2010971658f8410d01c337b2a5103c58a4b782a63458af3362b4",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Spices Development Ginger, Turmeric, Black Pepper, Cardamom, Coriander, Cinnamon, and Chillies” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to encourage farmers to produce good quality and diseased free planting materials and to grow improved varieties of high yielding spices.\n",
+  "eligibility": "\n   1. The applicant/farmer should be a permanent resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in agriculture.\n   1. The applicant should possess their own or leased land of at least 0.2 (hectares) or more.\n\n**Note:****** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:02:00.792434+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:00.792434+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=101"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65c5f123ed4030e118d37190",
+      "en": {
+        "documentsRequired_md": "\n1. Passport-size photograph\n1. Identity Proof\n1. Bank passbook/account details\n1. Documents proof of possessing own or leased land for agriculture\n1. Any other document as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook/account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documents proof of possessing own or leased land for agriculture"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65c5f0c6cd96dc5e074d072b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65c5f0c6cd96dc5e074d072b",
+  "scheme_name": "Spices Development Ginger, Turmeric, Black Pepper, Cardamom, Coriander, Cinnamon and Chillies",
+  "scheme_open_date": null,
+  "scheme_short_title": "SDGTBPCCCC",
+  "slug": "sdgtbpcccc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Mechanization- solar power, farming systems",
+      "value": "Mechanization- solar power, farming systems"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Spices",
+    "Ginger",
+    "Turmeric",
+    "Black Pepper",
+    "Cardamom",
+    "Coriander",
+    "Cinnamon",
+    "Chillies",
+    "Farmer",
+    "Horticulture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,215 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online - via CSC",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The applicant should gather copies of the necessary documents needed to apply for the concerned scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant should gather copies of the necessary documents needed to apply for the concerned scheme.\n**Step 2:** The applicant should visit the nearest Common Service Center (CSC) and complete the Biometric Verification Process.\n**Step 3:** The applicant should ensure that the CSC agent completes all mandatory fields in the application form and uploads copies of all required documents.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- **Financial assistance of ₹3,500/- per affected farmer family.**\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "64dc708714f2970be337886cb4550b21844140696f9b3dc89c025d722faa8011",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Chief Minister Drought Relief Scheme” was launched by the Department of Home, Jail and Disaster Management, Government of Jharkhand. The Jharkhand government has declared 226 blocks across 22 districts (excluding East Singhbhum and Simdega) as drought-affected. Each farmer family in these blocks will receive an advance drought relief assistance. The scheme aims to provide immediate financial relief to over 30 lakh farmer families impacted by drought. \n",
+  "eligibility": "\n1. The applicant should be a farmer.\n1. The farmer’s crops should be damaged due to drought. \n1. The families should be residing officially declared drought-hit areas.\n\n<br>\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:09.382083+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:09.382083+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department of Home, Jail and Disaster Management",
+    "value": 2000028
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://msry.jharkhand.gov.in/LetterPDF/Drought_Notification_No_1291_Dated_31_10_2022_11082022230530.pdf"
+    },
+    {
+      "title": "Official Website",
+      "url": "https://msry.jharkhand.gov.in/hi/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67603bfc9179d18db5f59994",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card \n- Bank Passbook\n- Voter Id\n- Land Receipt\n\n<br>\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Voter Id"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Receipt"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67603be79179d18db5f59979"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "67603be79179d18db5f59979",
+  "scheme_name": "Chief Minister Drought Relief Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "CMDRS",
+  "slug": "cmdrs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Jharkhand",
+    "value": 20
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Climate change",
+      "value": "Climate change"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Farmer",
+    "Drought"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68cbe9526e1aaee61b22205a",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "Eligible women selected by the Uttarakhand State Rural Livelihood Mission may apply."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "Eligible women selected by the Uttarakhand State Rural Livelihood Mission may apply.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Uttarakhand Livestock Development Board",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Animal Husbandry",
+            "value": 50000004
+          },
+          "schemeCategory": [
+            {
+              "label": "Skills & Employment",
+              "value": "628ce85cd6d1a3bde4685304"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            },
+            {
+              "label": "Women and Child",
+              "value": "64f57d10ffb93104c7006c97"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Training Program for A-HELP Women Workers - Uttarakhand Livestock Development Board",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TPAHWW",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Training",
+            "A-Health Worker",
+            "Animal Husbandry",
+            "Self-Help Group",
+            "Woman",
+            "Pashu Sakhi",
+            "A-HELP"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be a woman member of a self-help group formed under the Uttarakhand State Rural Livelihood Mission."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must have a minimum educational qualification of eighth pass."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must have completed 7 days of Pashu Sakhi training."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant must be a woman member of a self-help group formed under the Uttarakhand State Rural Livelihood Mission.\n   1. The applicant must have a minimum educational qualification of eighth pass.\n   1. The applicant must have completed 7 days of Pashu Sakhi training.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, community-service-based job creation or job filling is carried out between the Animal Husbandry Department and Animal Husbandry by A-HELP workers."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme, community-service-based job creation or job filling is carried out between the Animal Husbandry Department and Animal Husbandry by A-HELP workers.\n<br>\n\n",
+          "briefDescription": "The scheme aims to provide community-service-based skill development and employment opportunities for women in the field of animal husbandry. Eligible women members of Self-Help Groups under the Uttarakhand State Rural Livelihood Mission can apply.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Training Program for A-HELP Women Workers” is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to provide community-service-based skill development and employment opportunities for women in the field of animal husbandry."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Training Program for A-HELP Women Workers” is implemented by the Uttarakhand Livestock Development Board (ULDB) under the Department of Animal Husbandry, Government of Uttarakhand. The scheme aims to provide community-service-based skill development and employment opportunities for women in the field of animal husbandry.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 197)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tpehw"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68cbe96489d250875d375ed9",
+      "en": {
+        "documentsRequired_md": "Applicants are required to submit the necessary documents as per the training program.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Applicants are required to submit the necessary documents as per the training program."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68cbe9526e1aaee61b22205a"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:32.461073+00:00",
+  "scheme_id": "68cbe9526e1aaee61b22205a"
+}

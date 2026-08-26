@@ -1,0 +1,528 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65439c49ca66628dc29d1116",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Procedure for Claiming Subsidy"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: Application Submission: "
+                  },
+                  {
+                    "text": "After obtaining certification from an accredited certification body/agency, the grower/grower groups must submit their application along with a copy of the certificate and other relevant documents to the concerned jurisdictional Coffee Board office during the same financial year as the completion of the activity, as far as possible."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: Document Scrutiny: "
+                  },
+                  {
+                    "text": "The concerned office will scrutinize the documents and conduct field inspections to verify books and records."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: Forwarding the Claim: "
+                  },
+                  {
+                    "text": "The Joint Liaison Officer (JLO) / State Liaison Officer (SLO) shall forward the claim along with the Physical Verification Report and other relevant records to the concerned Deputy Director (Extn)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: Subsidy Release:"
+                  },
+                  {
+                    "text": " The Deputy Director (Extn.), after scrutinizing the claim and records and confirming the admissibility of the claim in all respects, will release the subsidy amount to the beneficiary's bank account through National Electronic Funds Transfer (NEFT)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "NOTE: "
+                  },
+                  {
+                    "text": "This incentive provides backend support only to those who obtain certification for their estates."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Procedure for Claiming Subsidy**\n\n**Step 1: Application Submission:** After obtaining certification from an accredited certification body/agency, the grower/grower groups must submit their application along with a copy of the certificate and other relevant documents to the concerned jurisdictional Coffee Board office during the same financial year as the completion of the activity, as far as possible.\n**Step 2: Document Scrutiny:** The concerned office will scrutinize the documents and conduct field inspections to verify books and records.\n**Step 3: Forwarding the Claim:** The Joint Liaison Officer (JLO) / State Liaison Officer (SLO) shall forward the claim along with the Physical Verification Report and other relevant records to the concerned Deputy Director (Extn).\n**Step 4: Subsidy Release:** The Deputy Director (Extn.), after scrutinizing the claim and records and confirming the admissibility of the claim in all respects, will release the subsidy amount to the beneficiary&#39;s bank account through National Electronic Funds Transfer (NEFT).\n**NOTE:** This incentive provides backend support only to those who obtain certification for their estates.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department Of Commerce",
+            "value": 1588
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Commerce And Industry",
+            "value": 1565
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Development Support for Coffee in Traditional Areas: Eco-certification of Coffee",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "DSCTA:ECC",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": {
+            "label": "Central Sector Scheme",
+            "value": "central-sector-scheme"
+          },
+          "tags": [
+            "Coffee",
+            "Farmer",
+            "Agriculture",
+            "Subsidy",
+            "DBT"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The individual grower should own up to 10 hectares of coffee holding."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The group of small growers such as SHGs or collectives should obtain certification for sustainability and quality standards."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The grower should not have availed subsidy for the same activity during the Mission for Integrated Development of Horticulture period unless new beneficiaries are covered."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The grower or group should obtain certification under recognized programs such as Organic, Fair Trade, Rainforest Alliance, UTZ Certified, or Bird Friendly/Shade Grown coffee standards."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The grower claiming support for organic certification should be certified under the National Programme for Organic Production standards."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The grower or group should obtain certification only from agencies accredited by the respective certification programs."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The non-tribal grower in non-traditional areas should have a coffee holding of up to 10 hectares."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The individual grower should own up to 10 hectares of coffee holding.\n1. The group of small growers such as SHGs or collectives should obtain certification for sustainability and quality standards.\n1. The grower should not have availed subsidy for the same activity during the Mission for Integrated Development of Horticulture period unless new beneficiaries are covered.\n1. The grower or group should obtain certification under recognized programs such as Organic, Fair Trade, Rainforest Alliance, UTZ Certified, or Bird Friendly/Shade Grown coffee standards.\n1. The grower claiming support for organic certification should be certified under the National Programme for Organic Production standards.\n1. The grower or group should obtain certification only from agencies accredited by the respective certification programs.\n1. The non-tribal grower in non-traditional areas should have a coffee holding of up to 10 hectares.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Extent of Support/ Subsidy"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Certification Support: "
+                },
+                {
+                  "text": "50% of the certification cost, subject to a maximum of ₹50,000 (Rupees 50,000) per individual grower/grower groups. In the case of Organic certification, spread over a period of 3 years or the conversion period, whichever is less; in the case of other certificates, one year, during the Mission for Integrated Development of Horticulture (MIDH) period."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Additional Support for SC/ST Community: "
+                },
+                {
+                  "text": "Individual coffee growers belonging to the Scheduled Caste/Scheduled Tribe (SC/ST) community with a coffee holding size of up to 4.00 hectares are eligible for an additional 10% of the certification cost, subject to a maximum of ₹55,000 (Rupees 55,000) per grower during the MIDH period."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "> **Extent of Support/ Subsidy**\n\n**Certification Support:** 50% of the certification cost, subject to a maximum of ₹50,000 (Rupees 50,000) per individual grower/grower groups. In the case of Organic certification, spread over a period of 3 years or the conversion period, whichever is less; in the case of other certificates, one year, during the Mission for Integrated Development of Horticulture (MIDH) period.\n**Additional Support for SC/ST Community:** Individual coffee growers belonging to the Scheduled Caste/Scheduled Tribe (SC/ST) community with a coffee holding size of up to 4.00 hectares are eligible for an additional 10% of the certification cost, subject to a maximum of ₹55,000 (Rupees 55,000) per grower during the MIDH period.\n",
+          "briefDescription": "The objective of this scheme is to enable coffee growers to access high-value specialty markets and earn better returns by producing eco-certified coffee that meets established environmental and quality standards, ensuring transparency about the conditions under which the coffee is produced.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Development Support for Coffee in Traditional Areas: Eco-certification of Coffee\" is a Sub-Component of the Scheme \"Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders\" by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to encourage coffee growers to access high-value specialty markets through production of eco-certified coffees so as to realize higher returns by adhering to a set of standards which help in communication of quality, traceability, social, environmental and financial conditions surrounding the production of coffee."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Development Support for Coffee in Traditional Areas: Eco-certification of Coffee&amp;quot; is a Sub-Component of the Scheme &amp;quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&amp;quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. The objective of this scheme is to encourage coffee growers to access high-value specialty markets through production of eco-certified coffees so as to realize higher returns by adhering to a set of standards which help in communication of quality, traceability, social, environmental and financial conditions surrounding the production of coffee.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines & Application Form",
+              "url": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf"
+            },
+            {
+              "title": "Grower's Registration (UMANG)",
+              "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "dsctaecc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65439cbeca66628dc29d1165",
+      "en": {
+        "documentsRequired_md": "> **For Claiming Subsidy**\n\n<br>\n\n**Application**\n\n- Application in the [prescribed format](https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf) (in duplicate).\n**Proof of Identity and Registration**\n\n- Proof of identity of the grower/registration certificate in the case of the growers&#39; group.\n\n**Certification Documents**\n\n- Copy of the certificate issued by the accredited Certification Agency.\n\n**Land Ownership Documents**\nAny of the following:\n\n- Copy of Patta/Khatha Extract along with Record of Rights (RTC) for all Survey Numbers having coffee in possession of the applicant/applicants in respect of Karnataka.\n- Copy of Land Possession Certificate issued from the competent Revenue authority (Atalji Kendra) / Central Record Center (CRC) along with RTCs for all Survey Numbers having multiple names in the RTCs of the applicant/applicants in respect of Kodagu District in Karnataka.\n- Copy of Chitta &amp; Adangal of the applicant/applicants in respect of Tamil Nadu.\n- Copy of Land Possession Certificate of the applicant/applicants issued by the competent Revenue authority of Kerala. In case the applicant is a GPA holder, provide an attested copy of the registered GPA.\n\n**Attested Documents**\n\n- An attested copy of the Certificate issued by the accredited Certification Agency.\n- Original invoice/bill towards the cost of certification/proof of payment of certification costs.\n- Copy of the Bank Pass Book containing the details, such as the name of the account holder, account number, name of the bank, branch, IFSC code, etc., preferably Aadhaar seeded.\n- In case the applicant is a GPA holder, provide an attested copy of the registered GPA.\n- In case of SC/ST category grower applying individually, provide a caste/community certificate issued by the competent authority.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "For Claiming Subsidy"
+              }
+            ],
+            "type": "block_quote"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Application"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application in the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://coffeeboard.gov.in/Schemes/TA_ICDP_MTF.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " (in duplicate)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Proof of Identity and Registration"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of identity of the grower/registration certificate in the case of the growers' group."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Certification Documents"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of the certificate issued by the accredited Certification Agency."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Land Ownership Documents"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Any of the following:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Patta/Khatha Extract along with Record of Rights (RTC) for all Survey Numbers having coffee in possession of the applicant/applicants in respect of Karnataka."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Land Possession Certificate issued from the competent Revenue authority (Atalji Kendra) / Central Record Center (CRC) along with RTCs for all Survey Numbers having multiple names in the RTCs of the applicant/applicants in respect of Kodagu District in Karnataka."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Chitta & Adangal of the applicant/applicants in respect of Tamil Nadu."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Land Possession Certificate of the applicant/applicants issued by the competent Revenue authority of Kerala. In case the applicant is a GPA holder, provide an attested copy of the registered GPA."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Attested Documents"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "An attested copy of the Certificate issued by the accredited Certification Agency."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Original invoice/bill towards the cost of certification/proof of payment of certification costs."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Bank Pass Book containing the details, such as the name of the account holder, account number, name of the bank, branch, IFSC code, etc., preferably Aadhaar seeded."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "In case the applicant is a GPA holder, provide an attested copy of the registered GPA."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "In case of SC/ST category grower applying individually, provide a caste/community certificate issued by the competent authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65439c49ca66628dc29d1116"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:10.663471+00:00",
+  "scheme_id": "65439c49ca66628dc29d1116"
+}

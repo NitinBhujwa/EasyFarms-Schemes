@@ -1,0 +1,512 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://agri.py.gov.in/sites/default/files/forms/backendpad.pdf",
+              "type": "link"
+            },
+            {
+              "text": " of the application form from the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Agricultural Officers of the "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Uzhavar Udhaviyagam"
+                    }
+                  ],
+                  "link": "https://agri.py.gov.in/emailcontact.html",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Office "
+                    }
+                  ],
+                  "link": "https://agri.py.gov.in/sites/default/files/citchart/response.pdf",
+                  "type": "link"
+                },
+                {
+                  "text": "of the Deputy Director of Agriculture, Yanam."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form and the documents to the concerned authority."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) one of the offices given below, and request the hard copy of the [prescribed format](https://agri.py.gov.in/sites/default/files/forms/backendpad.pdf) of the application form from the concerned authority.\n\n- Agricultural Officers of the [Uzhavar Udhaviyagam](https://agri.py.gov.in/emailcontact.html).- [Office ](https://agri.py.gov.in/sites/default/files/citchart/response.pdf)of the Deputy Director of Agriculture, Yanam.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form and the documents to the concerned authority.\n**Step 4:** On receipt of the application, necessary entries will be made in the application receipt register and a unique number is assigned to the applicant for identifying each applicant which shall be used for all further references and also as acknowledgement for the receipt of the application.\n"
+    },
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Official Website"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " of the e-District Portal of the Government of Puducherry."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "At the top right corner of the home page, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Login"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/Login.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\". In the login screen, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Register a New Membership"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/User/Registration.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click \"Signup\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Official Website"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/",
+              "type": "link"
+            },
+            {
+              "text": " of the e-District Portal of the Government of Puducherry."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "At the top right corner of the home page, click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Login"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/Login.aspx",
+              "type": "link"
+            },
+            {
+              "text": "\". In the login screen, provide your Username and Password, fill in the Captcha Code, and click \"Sign In\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 7: "
+            },
+            {
+              "text": "Click on the scheme you wish to apply for. You will be taken to its online application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 8: "
+            },
+            {
+              "text": "In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 9:"
+            },
+            {
+              "text": " Tick the declaration stating \"I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge\". Submit the application and note the application number for "
+            },
+            {
+              "children": [
+                {
+                  "text": "tracking your application"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/User/TrackApplication.aspx",
+              "type": "link"
+            },
+            {
+              "text": ". The application number will also be received on your Registered Mobile Number / Registered Email ID."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "*Track Your Application"
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "here"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/User/TrackApplication.aspx",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "* Access the User Manual for Online Application"
+            },
+            {
+              "text": " "
+            },
+            {
+              "children": [
+                {
+                  "text": "here"
+                }
+              ],
+              "link": "https://edistrict.py.gov.in/Help.rar",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 2:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, click &quot;[Register a New Membership](https://edistrict.py.gov.in/User/Registration.aspx)&quot;.\n**Step 3:** On the Registration Page, fill in all the mandatory fields: Username, Password, Confirm Password, Personal Details (Full Name, First Name, Email Address, Address, Current Address, Gender, Date of Birth, Mobile Number). Agree to the declaration. Fill in the Captcha Code, and click &quot;Signup&quot;.\n**Step 4:** Visit the [Official Website](https://edistrict.py.gov.in/) of the e-District Portal of the Government of Puducherry.\n**Step 5:** At the top right corner of the home page, click &quot;[Login](https://edistrict.py.gov.in/Login.aspx)&quot;. In the login screen, provide your Username and Password, fill in the Captcha Code, and click &quot;Sign In&quot;.\n**Step 6:** On the next screen, a list of schemes by the Government of Puducherry will be displayed Department-wise.\n**Step 7:** Click on the scheme you wish to apply for. You will be taken to its online application form.\n**Step 8:** In the application form, fill in all the mandatory fields (marked with a red asterisk) and upload all the mandatory documents (self-attest if required). \n**Step 9:** Tick the declaration stating &quot;I hereby declare that the above-mentioned details are true and correct as per the best of my Knowledge&quot;. Submit the application and note the application number for [tracking your application](https://edistrict.py.gov.in/User/TrackApplication.aspx). The application number will also be received on your Registered Mobile Number / Registered Email ID.\n***Track Your Application** [here](https://edistrict.py.gov.in/User/TrackApplication.aspx)\n*** Access the User Manual for Online Application** [here](https://edistrict.py.gov.in/Help.rar)\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "Back-ended investment subsidy to paddy growers @ ₹4,000/- per hectare.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "d1b35fe662bf65f692064fa9dd9085613b980d60a00a208f00884fa16fa80b17",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Back Ended Investment Subsidy to Paddy Growers&quot; component of the &quot;Crop Production Technology&quot; scheme was introduced by the Department of Agriculture and Farmer&#39;s Welfare, Union Territory of Puducherry. Through this scheme, the paddy farmers residing in the Yanam region are provided a back-ended investment subsidy at ₹4,000/- per hectare.\n",
+  "eligibility": "\n- The applicant should be a resident/native of Puducherry.\n- The applicant should be residing in the Yanam region.\n- The applicant should be a Farmer.\n- The applicant should possess land holdings.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:56:10.788567+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:56:10.788567+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department, Puducherry",
+    "value": 34000003
+  },
+  "references": [
+    {
+      "title": "Citizen's Charter",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/subsch.pdf"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://agri.py.gov.in/sites/default/files/forms/backendpad.pdf"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://agri.py.gov.in/emailcontact.html"
+    },
+    {
+      "title": "Grievance Redressal",
+      "url": "https://agri.py.gov.in/sites/default/files/citchart/grievance.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65ccaaf3cd96dc5e0752f4ae",
+      "en": {
+        "documentsRequired_md": "\n- Aadhaar Card.\n- Ration Card.\n- Applicant&#39;s Photo.\n- Farmer&#39;s Identity Card.\n- Bank Passbook.\n- FMB (Field Measurement Book).\n- Residence-cum-Nativity Certificate, issued by the competent authority.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Applicant's Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Farmer's Identity Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "FMB (Field Measurement Book)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence-cum-Nativity Certificate, issued by the competent authority."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "65ccaaa1ed4030e118d96147"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65ccaaa1ed4030e118d96147",
+  "scheme_name": "\"Back Ended Investment Subsidy to Paddy Growers\" component of the \"Crop Production Technology\" scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "BEISPGCCPTS",
+  "slug": "beispgccpts",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Puducherry",
+    "value": 34
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Paddy",
+    "Subsidy",
+    "Financial Assistance",
+    "Farmer",
+    "Agriculture"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

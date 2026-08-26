@@ -1,0 +1,372 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67e251460aa19c6dc28abf05",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1: "
+                      },
+                      {
+                        "text": "Fishermen must purchase kerosene or petrol from government-approved fuel stations Gujarat Fisheries Central Co-operative Association Limited (G.F.C.C.A. Ltd.)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "Collect original bills of purchase."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Submit an application along with the required documents to the concerned district office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** Fishermen must purchase kerosene or petrol from government-approved fuel stations Gujarat Fisheries Central Co-operative Association Limited (G.F.C.C.A. Ltd.).\n**Step 2:** Collect original bills of purchase.\n**Step 3:** Submit an application along with the required documents to the concerned district office.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Assistance to OBM Boat Owner Fishermen on Purchase of Kerosene/Petrol",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "AOBOFPK",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Fishing Activities",
+            "Fishermen",
+            "Boat Owner"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Gujarat."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a fisherman."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a Kerosene Card holder."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must own a small boat operated by an Outboard Motor (OBM)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Gujarat.\n1. The applicant must be a fisherman.\n1. The applicant must be a Kerosene Card holder.\n1. The applicant must own a small boat operated by an Outboard Motor (OBM).\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Assistance under the scheme:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of Component"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Years) for Reclaiming Benefits"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Assistance on the purchase of Kerosene/Petrol"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": " Maximum assistance of ₹50/- per liter"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Benefits are available as per the prescribed quota throughout the year."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "**Assistance under the scheme:**\n**Name of Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Benefits**Assistance on the purchase of Kerosene/Petrol Maximum assistance of ₹50/- per literBenefits are available as per the prescribed quota throughout the year.<br>\n\n",
+          "briefDescription": "The scheme aims to provide financial assistance to fishermen owning small boats with Outboard Motors (OBM) by subsidizing the cost of kerosene or petrol.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Assistance to OBM Boat Owner Fishermen on Purchase of Kerosene/Petrol\" has been launched by the Agriculture, Farmers Welfare and Cooperation Department, Government of Gujarat. The scheme aims to provide financial assistance to fishermen owning small boats with Outboard Motors (OBM) by subsidizing the cost of kerosene or petrol. This initiative supports the fishing community and promotes fisheries in Gujarat."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Assistance to OBM Boat Owner Fishermen on Purchase of Kerosene/Petrol&amp;quot; has been launched by the Agriculture, Farmers Welfare and Cooperation Department, Government of Gujarat. The scheme aims to provide financial assistance to fishermen owning small boats with Outboard Motors (OBM) by subsidizing the cost of kerosene or petrol. This initiative supports the fishing community and promotes fisheries in Gujarat.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=eoZIK/kWnJDjPMJYN54MWw==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "aobofpk"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67e2517d6e3110d98b53bf44",
+      "en": {
+        "documentsRequired_md": "\n   1. Kerosene/Petrol Card issued by the government\n   1. Original purchase bills of kerosene/petrol\n   1. Boat ownership documents\n   1. Aadhaar Card or any government-issued ID proof\n   1. Bank account details\n   1. Any other document if required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Kerosene/Petrol Card issued by the government"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Original purchase bills of kerosene/petrol"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Boat ownership documents"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Aadhaar Card or any government-issued ID proof"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other document if required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67e251460aa19c6dc28abf05"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:58:25.747640+00:00",
+  "scheme_id": "67e251460aa19c6dc28abf05"
+}

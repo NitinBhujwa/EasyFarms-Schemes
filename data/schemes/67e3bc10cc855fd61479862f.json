@@ -1,0 +1,329 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1:"
+                },
+                {
+                  "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2:"
+                },
+                {
+                  "text": " On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3:"
+                },
+                {
+                  "text": " Now select the scheme, click on the ‘Apply’ button and an application page will open."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 4:"
+                },
+                {
+                  "text": " Click on \"Apply New\" button and submit a new application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 5:"
+                },
+                {
+                  "text": " Click on the \"Update Application\" button to add corrections to the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 6: "
+                },
+                {
+                  "text": "Once the application is done, confirm it."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 7:"
+                },
+                {
+                  "text": " Take a print out of the confirmed application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 8:"
+                },
+                {
+                  "text": " Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": " "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Contact Us:"
+                },
+                {
+                  "text": " "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Click here"
+                    }
+                  ],
+                  "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": "."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note:"
+                },
+                {
+                  "text": " Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre."
+                }
+              ],
+              "type": "block_quote"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 2:** On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button and an application page will open.\n**Step 4:** Click on &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a print out of the confirmed application.\n**Step 8:** Applicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx) \n&gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx).\n\n&gt; **Note:** Before application, beneficiaries must complete poultry training at the Intensive Poultry Development Project or District Poultry Extension Centre.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Name of the Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming  Benefits**Subsidy Scheme on establishment of - 25 Kadaknath / RIR birds Unit to Scheduled Tribes\t75% of total Expenditure or maximum ₹6,000/- in kind (25 R.I.R. birds and poultry feed)Benefit can be given to one member of family. After 3 years the same family can avail benefitStipend Scheme for Poultry farming Training for Scheduled TribesMaximum ₹2,000/- RTGS/NEFT (in Bank Account Direct)Benefit can be given to one member of familyScheme on establishment of 1000 broiler bird’s unit for scheduled tribes people of the state90% subsidy or Maximum ₹8,15,000/- (DBT)Benefit can be given to one member of family once in a lifetime.",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "7d5f7bba06fa06b2b1deaab58b874ee4884fdf4922f7d94bc356a45db5c3ce4c",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Subsidy Scheme on Establishment of 25 R.I.R./Kadaknath &amp;amp; 1000 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Tribes People of the State&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support farmers by subsidizing the cost of solar power units/kits for farm fencing. By installing solar fencing, farmers can prevent crop destruction, increase agricultural productivity, and ensure better utilization of resources.\n",
+  "eligibility": "\n  - The applicant must be from Gujarat.\n  - The applicant must be an adult Scheduled Tribe (ST) individual.\n  - The applicant must have completed 6 days of poultry rearing training for the 25 R.I.R./Kadaknath bird unit and stipend scheme.\n  - The applicant must have completed any poultry rearing training for the 1000 broiler birds unit scheme.\n\n**Note:**\n\n  - Priority is given to females and Below Poverty Line (BPL) applicants.\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:57:19.630862+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:57:19.630862+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=0BuOPAw3hjOJ9afMQ8Nm9A==&domain=12ewfiAgGqKRe600IL5Z/w=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67e3bc35cc855fd61479866f",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card.\n1. Scheduled Tribe Caste Certificate.\n1. Proof of Residence (Ration Card/Voter ID/Utility Bill).\n1. Bank Passbook (for NEFT/RTGS transfer).\n1. Proof of Disability (if applicable).\n1. Below Poverty Line (BPL) Certificate (if applicable).\n1. Training Completion Certificate from the authorized center.\n1. Any other document if required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Scheduled Tribe Caste Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Residence (Ration Card/Voter ID/Utility Bill)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook (for NEFT/RTGS transfer)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Disability (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Below Poverty Line (BPL) Certificate (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training Completion Certificate from the authorized center."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other document if required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67e3bc10cc855fd61479862f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67e3bc10cc855fd61479862f",
+  "scheme_name": "Subsidy Scheme on Establishment of 25 R.I.R./Kadaknath & 1000 Broiler Bird’s Unit and Stipend for Poultry Farming Training for Scheduled Tribes People of the State",
+  "scheme_open_date": null,
+  "scheme_short_title": "SSKPF",
+  "slug": "sskpf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Poultry Farming",
+    "Birds Unit",
+    "Poultry Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

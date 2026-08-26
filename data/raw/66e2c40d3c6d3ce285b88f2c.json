@@ -1,0 +1,300 @@
+{
+  "detail": {
+    "data": {
+      "_id": "66e2c40d3c6d3ce285b88f2c",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Collect the application form from the nearest Agricultural Office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "Fill out the application form with the required details and attach mandatory documents (self-attested, if required). "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Submit the form to the concerned office:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Village Level:"
+                      },
+                      {
+                        "text": " Submit the application to the Assistant Agricultural Officer."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Block Level:"
+                      },
+                      {
+                        "text": " Submit to the Agricultural Officer or Deputy Agricultural Officer."
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "District Level: "
+                      },
+                      {
+                        "text": "Submit to the Joint Director of Agriculture."
+                      }
+                    ],
+                    "type": "block_quote"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** Collect the application form from the nearest Agricultural Office.\n**Step 2:** Fill out the application form with the required details and attach mandatory documents (self-attested, if required). \n**Step 3:** Submit the form to the concerned office:\n&gt; **Village Level:** Submit the application to the Assistant Agricultural Officer.\n\n&gt; **Block Level:** Submit to the Agricultural Officer or Deputy Agricultural Officer.\n\n&gt; **District Level:** Submit to the Joint Director of Agriculture.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 3333332
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Organizing Block Demonstration",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "OBD",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Tamil Nadu",
+            "value": 33
+          },
+          "tags": [
+            "Agriculture",
+            "Farmer",
+            "Block Demonstration",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a Farmer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a resident of Tamil Nadu."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary should cultivate seed farms with Pulses crops."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The beneficiary should be a Farmer.\n- The beneficiary should be a resident of Tamil Nadu.\n- The beneficiary should cultivate seed farms with Pulses crops.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Financial Assistance: "
+                    },
+                    {
+                      "text": "A subsidy of 50% on the cost of inputs required to layout the demonstration of 5 hectare each or ₹2,000/- whichever is less."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "**Financial Assistance:** A subsidy of 50% on the cost of inputs required to layout the demonstration of 5 hectare each or ₹2,000/- whichever is less.\n",
+          "briefDescription": "The “Organizing Block Demonstration” scheme provides a 50% subsidy or ₹2,000/- (whichever is less) on input costs for demonstrating the cultivation of Pulses crops over 5 hectares.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Organizing Block Demonstration” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides subsidy to promote best agricultural practices to farmers who cultivate seed farms with Pulses crops. The subsidy covers 50% of the input costs or ₹2,000/- per demonstration, whichever is less."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The “Organizing Block Demonstration” scheme by the Agriculture-Farmers Welfare Department, Tamil Nadu, provides subsidy to promote best agricultural practices to farmers who cultivate seed farms with Pulses crops. The subsidy covers 50% of the input costs or ₹2,000/- per demonstration, whichever is less.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.tn.gov.in/scheme/data_view/6902"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "obd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "66e2c4243c6d3ce285b88f4a",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of identity (Aadhar card, Voter ID)\n   1. Land ownership documents or lease agreements.\n   1. Caste certificate (for SC/ST applicants).\n   1. Bank account details.\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of identity (Aadhar card, Voter ID)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land ownership documents or lease agreements."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Caste certificate (for SC/ST applicants)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank account details."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "66e2c40d3c6d3ce285b88f2c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:29.788020+00:00",
+  "scheme_id": "66e2c40d3c6d3ce285b88f2c"
+}

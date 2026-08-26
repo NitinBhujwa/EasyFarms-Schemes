@@ -1,0 +1,340 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Step 1: Obtain the Application Form"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Contact the District Animal Husbandry and Veterinary Officer (DAHVO) or the designated department responsible for the scheme to obtain the application form for the Chief Minister's White Revolutions Scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Fill in the Application Form"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Carefully fill in the application form with accurate information. Ensure that all the required fields are completed as per the prescribed format."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Gather Required Documents"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Collect the necessary documents for submission along with the application form. The required documents typically include:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Aadhar Card: To establish the identity of the applicant."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "BPL Card: To determine the eligibility of the applicant as a genuinely poor individual."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Attach Supporting Documents"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "If there are any additional supporting documents required as per the guidelines of the scheme, ensure they are properly attached to the application form. These documents may vary based on specific requirements or preferences set by the District Dairy Development Committee."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: Submit the Application"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Once the application form and supporting documents are complete, submit them to the designated authority or the District Animal Husbandry and Veterinary Officer (DAHVO). Follow the instructions provided by the concerned authority regarding the submission process."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 6: Await Application Review"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "After submitting the application, it will undergo a review process by the District Dairy Development Committee and other relevant authorities. The review process may involve verification of the provided information, eligibility criteria, and necessary documentation."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 7: Notification of Application Status"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The applicant will be notified of their application status. This notification may be sent through mail, email, or any other means specified by the authorities. It will inform the applicant whether their application has been accepted or rejected."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 8: Fulfill Additional Requirements (if applicable)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "If any additional requirements are specified for the selected applicants, such as attending an orientation session or fulfilling certain conditions, ensure compliance with these requirements."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 9: Avail Scheme Benefits"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Upon successful acceptance of the application, eligible applicants will be able to avail the benefits outlined in the Chief Minister's White Revolutions Scheme, such as capital subsidy, working capital loans, interest subsidies, and distribution of dairy cows and heifers."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "87486f56ac54ef77485a67a19d5990548af0d15128340c792314da97a29ff454",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The CMWRS was approved in the 2018-19 budget announcement with a total outlay of ₹750.00 lakh. It aims to create a cooperative model of 200 dairy farmers in Pasighat, Rupa, Tezu, Chowkham, and Roing as milk production hubs. The scheme provides a minimum support price for milk procurement and strengthens the milk plant at Karsingsa and Rupa. The scheme also supports vermicompost facilities through 200 farmers to promote organic farming and the Green India campaign. \nThe implementation of the scheme is through the department of Animal Husbandry, Veterinary &amp; Dairy Development with tie-ups with the Apex Bank and NABARD. Selection of farmers, formation of District Dairy Appraisal Committee (DDAC), and selection of beneficiaries on a cluster basis by the District Dairy Development Committee have already been formulated. The scheme helps in poverty alleviation, economic upliftment, minimizes human migration, ensures the health of the farmers through supplement milk production, and enhances organic agricultural/horticultural productivity.\n",
+  "eligibility": "a. The dairy farmers of Arunachal Pradesh are eligible for the scheme as selected by the District Dairy Development Committee.\nb. The preference will be given to women and genuinely poor.\nc. The beneficiaries will be selected on a cluster basis by the District Dairy Development Committee.\nd. The scheme provides a minimum support price for milk procurement.\ne. The beneficiaries will receive a capital subsidy of 50% up to ₹3.00 lakh for a minimum unit of 2 cows through the Apex bank.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:10:52.082725+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:10:52.082725+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal husbandry, Veterinary and Dairy Department",
+    "value": 12111113
+  },
+  "references": [
+    {
+      "title": "Official Notification",
+      "url": "https://roing.nic.in/departments/ah-veterinary/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64625b8c5c47f110842eab32",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card: To establish the identity of the applicant."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "BPL Card: To determine the eligibility of the applicant as a genuinely poor individual."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Application form and farmer details: To provide necessary information about the applicant's farming activities and cooperative membership."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "64625b6bd61c71f22aa2fd33"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "64625b6bd61c71f22aa2fd33",
+  "scheme_name": "Chief Minister’s White Revolutions Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "CMWRS",
+  "slug": "cmwrs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Arunachal Pradesh",
+    "value": 12
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Poverty Alleviation",
+    "Organic Farming",
+    "Livelihood"
+  ],
+  "target_beneficiaries": null
+}

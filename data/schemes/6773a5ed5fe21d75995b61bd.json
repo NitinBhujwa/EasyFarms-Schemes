@@ -1,0 +1,192 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Initial Approval",
+              "underline": true
+            },
+            {
+              "text": " by the beneficiaries in Gram Sabha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Secondary Approval",
+              "underline": true
+            },
+            {
+              "text": " by the Janpad Panchayat for Gram Sabha-approved beneficiaries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Final Approval",
+              "underline": true
+            },
+            {
+              "text": " by the Agriculture Standing Committee of the District Panchayat."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Initial Approval** by the beneficiaries in Gram Sabha.\n**Secondary Approval** by the Janpad Panchayat for Gram Sabha-approved beneficiaries.\n**Final Approval** by the Agriculture Standing Committee of the District Panchayat.\n<br>\n\nThe interested applicants should contact the nearest Veterinary Officer of the concerned District Incharge of Animal Dispensary / Deputy Director of Veterinary.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Male Goat Package**\n\n- One improved breed male goat: ₹7,500/-\n- Insurance coverage (2.75% sum insured for one year): ₹206/-\n- Mineral mixture: ₹394/-\n- Training booklet and monitoring card: ₹200/-\n- Total package value: ₹8,300/-\n\n**Grant Component**\n\n- Government contribution: 75% of total cost\n- Beneficiary contribution: 25% of total cost\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "9d472f950f2ec1fc56e5332af31802b74f5e7c2efadfb51a28245473feb7f647",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Male Goat Supply Scheme on Grant Basis&quot; by the Animal Husbandry Department, Government of Madhya Pradesh aims to improve the breed of indigenous/local goats throughout the state. Through this scheme, one male goat of an improved breed (Jamnapari, Barbari, or Sirohi Bakra) is provided to goat farmers of all categories on a grant basis. The applications for this scheme are processed through a multi-level approval system involving Gram Sabha, Janpad Panchayat, and District Panchayat. The scheme is implemented across all districts of the state.\n",
+  "eligibility": "\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should be actively involved in goat rearing.\n1. The applicant must be a goat rearer of any category.\n1. The applicant must possess a minimum of 5 goats.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:56:59.268855+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:56:59.268855+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Animal Husbandry Department",
+    "value": 2300001
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://mpdah.gov.in/schemes/view/UFpqN1UvTGpzSFdSK0RxcHlLT24vdz09"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6773a6015fe21d75995b61e3",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof (Aadhaar Card, etc)\n- Proof of Goat Ownership\n- Residence/Address Proof\n- Bank Account Details\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof (Aadhaar Card, etc)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Goat Ownership"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence/Address Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6773a5ed5fe21d75995b61bd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6773a5ed5fe21d75995b61bd",
+  "scheme_name": "Scheme for Supply of Male Goat on Subsidy Basis",
+  "scheme_open_date": null,
+  "scheme_short_title": "SFSOMGOSB",
+  "slug": "sfsomgosb",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Animal",
+    "Goat",
+    "Insurance",
+    "Financial Assistance",
+    "Subsidy"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

@@ -1,0 +1,718 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Registration Process:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The applicant interested to avail of the subsidy shall applying the Go-Sugam Portal through a registration process submitting requisite documents."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Visit the official website:  "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://sugam.odisha.gov.in/website/home"
+                    }
+                  ],
+                  "link": "https://sugam.odisha.gov.in/website/home",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Click on “Apply” and then click on “Register Now”."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on \"Register\". The login credentials will be sent to your registered Email ID / Mobile Number."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " Visit the official website: "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://sugam.odisha.gov.in/website/home"
+                    }
+                  ],
+                  "link": "https://sugam.odisha.gov.in/website/home",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Click on “Scheme & Services” and then select the scheme by its name."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03: "
+                },
+                {
+                  "text": "Click “Apply” and login. "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://sugam.odisha.gov.in/website/citizen-portal/login"
+                    }
+                  ],
+                  "link": "https://sugam.odisha.gov.in/website/citizen-portal/login",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, the applicant will get an Application Reference ID."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Check Application Status:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " Click on the “Track Status” link on the menu."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Enter the Application ID or Mobile Number to get the application status."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Registration Process:**\n\n**Step 01:** The applicant interested to avail of the subsidy shall applying the Go-Sugam Portal through a registration process submitting requisite documents.\n**Step 02:** Visit the official website:  [https://sugam.odisha.gov.in/website/home](https://sugam.odisha.gov.in/website/home)\n**Step 03:** Click on “Apply” and then click on “Register Now”.\n**Step 04:** On the registration page, fill in the mandatory details (Name, Email, Mobile Number, Address, and Password) and click on &amp;quot;Register&amp;quot;. The login credentials will be sent to your registered Email ID / Mobile Number.\n&gt; **Application Process:**\n\n**Step 01:** Visit the official website: [https://sugam.odisha.gov.in/website/home](https://sugam.odisha.gov.in/website/home)\n**Step 02:** Click on “Scheme &amp;amp; Services” and then select the scheme by its name.\n**Step 03:** Click “Apply” and login. [https://sugam.odisha.gov.in/website/citizen-portal/login](https://sugam.odisha.gov.in/website/citizen-portal/login)\n**Step 04:** On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type. Upon successful submission of the application, the applicant will get an Application Reference ID.\n&gt; **Check Application Status:**\n\n**Step 01:** Click on the “Track Status” link on the menu.\n**Step 02:** Enter the Application ID or Mobile Number to get the application status.\n"
+    },
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Offline Application Process:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The eligible beneficiary can submit the application forms through the AFO ME unit in the prescribed format ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Annexure-I"
+                    }
+                  ],
+                  "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF",
+                  "type": "link"
+                },
+                {
+                  "text": ")."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " The beneficiary may fill out the application form and submit it to the respective Additional Fisheries Officers (Marine)/District Fisheries Officer (B&T), Balugaon."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 01:"
+                },
+                {
+                  "text": " The beneficiary shall indicate the appropriate model of the fishing boat along with the dimension (LxBxH) type of marine Engine (05 HP -100 HP)and the type of net required by him in the application form."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 02:"
+                },
+                {
+                  "text": " The applicant shall produce the photocopy of the documents as per the checklist along with the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note 03:"
+                },
+                {
+                  "text": " Identification of the beneficiary must be made with Aadhaar linking at the time of submission of the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Post-application Process:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01: "
+                },
+                {
+                  "text": "The AFOs of Marine Extension units shall scrutinize the application and submit it to the Additional Fisheries Officers (Marine) and DFO (B&T), Balugaon, along with the feasibility report ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Annexure -II"
+                    }
+                  ],
+                  "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF",
+                  "type": "link"
+                },
+                {
+                  "text": ") within a week of receipt of the application."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " On receipt of applications along with documents from the AFO, the DFO (B&T)/Addl. F.O (Marine) shall convene the District Level Screening Committee (DLSC) meeting under the Chairmanship of the Collector for approval of the eligible beneficiaries."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " The DFO (B&T), Balugaon/Additional Fisheries Officer (Marine) shall issue Go-Ahead letter ("
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Annexure-III"
+                    }
+                  ],
+                  "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF",
+                  "type": "link"
+                },
+                {
+                  "text": ") to the selected beneficiary for procurement of boat, engine, and net along with safety equipment."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 04:"
+                },
+                {
+                  "text": " A copy of the Go-Ahead Letter will be submitted to AFO by DFO (B & T), Balugaon/ Additional Fisheries Officer, Marine."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Release of Subsidy:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The boats shall be procured from empaneled boat builders selected by the Directorate of Fisheries through tender/ EOI."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Net may be procured from M/s OPDC or an authorized dealer of a reputed brand and submit GST bills for release of subsidy."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Directorate of Fisheries shall make a list of all brands of boat engines which are in demand from the Additional Fisheries Officer (Marine) & DFO (B&T), Balugaon with their respective specifications and prices for approval and allow all authorized dealers for supply of boat engine. The beneficiary is free to purchase the boat engine from any authorized dealer of available brands approved by the Director of Fisheries and produce GST bills for the release of subsidy. The Director of Fisheries will only approve the brands and not the dealers."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Lifesaving equipment may be procured from any authorized dealers and submitted GST bill for release of subsidy,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Upon receipt of go-ahead letter, the beneficiary will place the purchase order for the boat to the empaneled boat builders in intimation to DFO (B & T), Balugaon/Additional Fisheries Officer, Marine. They are free to purchase net from M/s OPDC or authorized dealers of reputed brands and produce GST bills for release of subsidy."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The boat shall be constructed by the selected agencies in the designated boat building yards of the Director of Fisheries, Odisha."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The specification and quality of the construction of boats shall be strictly monitored and supervised by AFOs. The three-stage photograph (framing, planking, and completion of the boat with color) with the beneficiary to be submitted by the AFOs to the Additional Fisheries Officer, Marine/ DFO (B&T), Balugaon along with verification report and UC ("
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Annexure IV"
+                        }
+                      ],
+                      "link": "https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF",
+                      "type": "link"
+                    },
+                    {
+                      "text": ")."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Upon completion of construction of the boat, the boat shall be delivered by empanelled boat builders to the beneficiary (at the FLC of his choice) in the presence of the AFO and net by the authorized dealer of reputed brands as per his / her preference."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The concerned Assistant Fisheries Officer, Marine shall verify 100% of the asset."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "DFO, B&T/ Addl. F.0 (Marine)/ AFO (HQ) of the district shall verify/cross-check, a minimum of 50% of the project separately. (The DFO B&T, Addl.F0 (M) shall earmark the percentage of projects to be inspected by each officer himself/herself, Addl. F.O/ AFO, HQ). They shall visit the projects immediately after completion."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "All the new boats are to be registered online on the ReAL Craft portal prior to the release of the subsidy."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy shall be released directly to the Aadhaar-linked Bank Account of the beneficiary by the DFO (B & T), Balugaon/Additional Fisheries Officer, Marine."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The geo-tagged photographs of the fishing boat along with the beneficiary shall be recorded by the DFO (B & T), Balugaon/Additional Fisheries Officer, Marine and shall be uploaded by the Directorate of Fisheries in the website of the Directorate."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The DFO (B & T), Balugaon/Additional Fisheries Officer, Marine shall ensure that the boat engine purchased directly by the beneficiary is from genuine firms/ dealers with GSTIN number for release of subsidy."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy shall be calculated and released to the beneficiary based on the actual unit cost incurred, subject to maximum subsidy as specified under the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "No additional manpower or consultant shall be engaged for the implementation of the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy shall not be released to boat builders/equipment suppliers/ vendors."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District officials can enhance it up to 25% of their allocated target and district officials are free to reallocate block targets as per demand (Lt. 883/FAHD dt 21.1.23)."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The AFOs /DFOs should facilitate credit linkage from banks to the beneficiary for availing loans as per the requirement of the beneficiary in the Bank Finance case only."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Addl. FOs (M) / DFO, B&T to assess the progress of each project after a period of three months from the date of issue of the Go ahead then issue one month's notice for immediate initiation of the project if not yet started. After one month of the notice, the same may be cancelled if no progress is observed. They are allowed to review the reasons for non-initiation on a case-to-case basis with justified reasons (Except for bank finance case)."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Timeline of Implementation:"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "Back-ended subsidy shall be provided to the bank account of the beneficiary by DFO (B&T), Balugaon /Additional Fisheries Officer, Marine within 15 days of submission of the bills by the beneficiary."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Offline Application Process:**\n\n**Step 01:** The eligible beneficiary can submit the application forms through the AFO ME unit in the prescribed format ([Annexure-I](https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF)).\n**Step 02:** The beneficiary may fill out the application form and submit it to the respective Additional Fisheries Officers (Marine)/District Fisheries Officer (B&amp;amp;T), Balugaon.\n**Note 01:** The beneficiary shall indicate the appropriate model of the fishing boat along with the dimension (LxBxH) type of marine Engine (05 HP -100 HP)and the type of net required by him in the application form.\n**Note 02:** The applicant shall produce the photocopy of the documents as per the checklist along with the application.\n**Note 03:** Identification of the beneficiary must be made with Aadhaar linking at the time of submission of the application.\n&gt; **Post-application Process:**\n\n**Step 01:** The AFOs of Marine Extension units shall scrutinize the application and submit it to the Additional Fisheries Officers (Marine) and DFO (B&amp;amp;T), Balugaon, along with the feasibility report ([Annexure -II](https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF)) within a week of receipt of the application.\n**Step 02:** On receipt of applications along with documents from the AFO, the DFO (B&amp;amp;T)/Addl. F.O (Marine) shall convene the District Level Screening Committee (DLSC) meeting under the Chairmanship of the Collector for approval of the eligible beneficiaries.\n**Step 03:** The DFO (B&amp;amp;T), Balugaon/Additional Fisheries Officer (Marine) shall issue Go-Ahead letter ([Annexure-III](https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF)) to the selected beneficiary for procurement of boat, engine, and net along with safety equipment.\n**Step 04:** A copy of the Go-Ahead Letter will be submitted to AFO by DFO (B &amp;amp; T), Balugaon/ Additional Fisheries Officer, Marine.\n&gt; **Release of Subsidy:**\n\n\n   1. The boats shall be procured from empaneled boat builders selected by the Directorate of Fisheries through tender/ EOI.\n   1. Net may be procured from M/s OPDC or an authorized dealer of a reputed brand and submit GST bills for release of subsidy.\n   1. The Directorate of Fisheries shall make a list of all brands of boat engines which are in demand from the Additional Fisheries Officer (Marine) &amp;amp; DFO (B&amp;amp;T), Balugaon with their respective specifications and prices for approval and allow all authorized dealers for supply of boat engine. The beneficiary is free to purchase the boat engine from any authorized dealer of available brands approved by the Director of Fisheries and produce GST bills for the release of subsidy. The Director of Fisheries will only approve the brands and not the dealers.\n   1. Lifesaving equipment may be procured from any authorized dealers and submitted GST bill for release of subsidy,\n   1. Upon receipt of go-ahead letter, the beneficiary will place the purchase order for the boat to the empaneled boat builders in intimation to DFO (B &amp;amp; T), Balugaon/Additional Fisheries Officer, Marine. They are free to purchase net from M/s OPDC or authorized dealers of reputed brands and produce GST bills for release of subsidy.\n   1. The boat shall be constructed by the selected agencies in the designated boat building yards of the Director of Fisheries, Odisha.\n   1. The specification and quality of the construction of boats shall be strictly monitored and supervised by AFOs. The three-stage photograph (framing, planking, and completion of the boat with color) with the beneficiary to be submitted by the AFOs to the Additional Fisheries Officer, Marine/ DFO (B&amp;amp;T), Balugaon along with verification report and UC ([Annexure IV](https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF)).   1. Upon completion of construction of the boat, the boat shall be delivered by empanelled boat builders to the beneficiary (at the FLC of his choice) in the presence of the AFO and net by the authorized dealer of reputed brands as per his / her preference.\n   1. The concerned Assistant Fisheries Officer, Marine shall verify 100% of the asset.\n   1. DFO, B&amp;amp;T/ Addl. F.0 (Marine)/ AFO (HQ) of the district shall verify/cross-check, a minimum of 50% of the project separately. (The DFO B&amp;amp;T, Addl.F0 (M) shall earmark the percentage of projects to be inspected by each officer himself/herself, Addl. F.O/ AFO, HQ). They shall visit the projects immediately after completion.\n   1. All the new boats are to be registered online on the ReAL Craft portal prior to the release of the subsidy.\n   1. Subsidy shall be released directly to the Aadhaar-linked Bank Account of the beneficiary by the DFO (B &amp;amp; T), Balugaon/Additional Fisheries Officer, Marine.\n   1. The geo-tagged photographs of the fishing boat along with the beneficiary shall be recorded by the DFO (B &amp;amp; T), Balugaon/Additional Fisheries Officer, Marine and shall be uploaded by the Directorate of Fisheries in the website of the Directorate.\n   1. The DFO (B &amp;amp; T), Balugaon/Additional Fisheries Officer, Marine shall ensure that the boat engine purchased directly by the beneficiary is from genuine firms/ dealers with GSTIN number for release of subsidy.\n   1. Subsidy shall be calculated and released to the beneficiary based on the actual unit cost incurred, subject to maximum subsidy as specified under the scheme.\n   1. No additional manpower or consultant shall be engaged for the implementation of the scheme.\n   1. Subsidy shall not be released to boat builders/equipment suppliers/ vendors.\n   1. District officials can enhance it up to 25% of their allocated target and district officials are free to reallocate block targets as per demand (Lt. 883/FAHD dt 21.1.23).\n   1. The AFOs /DFOs should facilitate credit linkage from banks to the beneficiary for availing loans as per the requirement of the beneficiary in the Bank Finance case only.\n   1. Addl. FOs (M) / DFO, B&amp;amp;T to assess the progress of each project after a period of three months from the date of issue of the Go ahead then issue one month&amp;#39;s notice for immediate initiation of the project if not yet started. After one month of the notice, the same may be cancelled if no progress is observed. They are allowed to review the reasons for non-initiation on a case-to-case basis with justified reasons (Except for bank finance case).\n\n&gt; **Timeline of Implementation:**\n\nBack-ended subsidy shall be provided to the bank account of the beneficiary by DFO (B&amp;amp;T), Balugaon /Additional Fisheries Officer, Marine within 15 days of submission of the bills by the beneficiary.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "**Unit Cost and Subsidy Assistance:**\nSl. No.ItemMaximum Unit Cost (₹ in Lakh)Maximum Government Assistance (₹ in Lakh)/BeneficiaryMaximum Government Assistance (₹ in Lakh)/BeneficiaryGeneral (40%)Women/SC/ST/PWD/Transgender (60%)1Fishing Boat7.503.004.502Engine1.400.560.843Life Saving Equipment0.100.040.064Fishing Net1.000.400.60Total10.004.006.00***NB: Items at Sl. No. 1 &amp;amp; 3 are mandatory and others are optional as per the requirement of the fisherman.**\n**Note 01:** Financial Assistance shall be limited to 1(one) unit (boat with engine and net) per individual beneficiary.\n**Note 02:** Procurement of Fishing Boats is mandatory under this scheme. However, the procurement of Engine and Fishing Net is optional, based on the requirement of the beneficiary.\n**Note 03:** Back-ended subsidy will be limited to 60% for SC/ ST/ Women/ PWD/ Transgender and 40% for General category. Subsidy shall be released directly to the Aadhaar linked Bank Account of the beneficiary.\n**Note 04:** For a differently-abled person, the certificate of disability issued by a certifying authority/ competent authority indicating 40% or more disability as per the Rights of Persons with Disabilities Act, 2016 will be accepted for the PWD category) /Transgender. (The certificate of identity as transgender person issued by the District Magistrate as per &amp;quot;the transgender person protection of Rights Act, 2019 will be accepted for the transgender category.\n**Note 05:** In case, Government in the F &amp;amp; ARD Department enhances the percentage of subsidy that shall be applicable for those beneficiaries who have received go -ahead letter during the FY 2023-24.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "15a908f734f5f980528fe107948369f4e525c5a606eb3e09faa72beb14e7c32b",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The State plan scheme “MMKY-Financial Assistance for New Boat, Engine, and Net” was launched by the Fisheries &amp;amp; Animal Resources Development Department, Government of Odisha under Mukhyamantri Maschyajibi Kalyan Yojana (MMKY) in order to increase the marine fish production and to enhance incomes and livelihoods of the marine fishers.\n&gt; **Objectives:**\n\n\n  - To support the Coastal communities by provision of new wooden/FRP Boat, Engine and purchase of new fishing net.\n  - To increase the marine fish production in the state.\n  - To increase the income and to improve the welfare of coastal communities in the State.\n\n&gt; **Area of Operation:**\n\nThe scheme shall be implemented by the Additional Fisheries Officers (Marine)/District Fisheries Officer (B&amp;amp;T), Balugaon for marine fishing in the coastal districts of Odisha. The district-wise annual target shall be communicated by the Director of Fisheries. The target is interchangeable depending on the progress made by the District Level Officers.\n",
+  "eligibility": "**The following are the eligibility criteria of the beneficiary:**\n\n   1. The beneficiary should be a resident of Odisha and must possess identity and residential proof including an Aadhaar Card.\n   1. The beneficiary should have a Bank Account in his/her name in the State of Odisha.\n   1. The beneficiary should have QR Coded Aadhaar Card.\n   1. The beneficiary should not have received any financial assistance from Government /any Agency towards the purchase of any new boat/engine in the last 5 Years (the beneficiary should not have availed subsidy after 1st April 2018) and net in the last 3 Years (the beneficiary should not have availed subsidy after 1st April 2020).\n   1. While availing subsidy, the beneficiary family will be considered instead of individual members of the family. One beneficiary family should not be provided with multiple benefits under one particular scheme. A family will not be eligible for subsidy under the same scheme if any of its members have received a subsidy during the last three years.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:59:21.060126+00:00",
+  "implementing_agency": "Fisheries & Animal Resources Development Department, Government Of Odisha",
+  "last_synced_at": "2026-08-26T13:59:21.060126+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries and Animal Resources Development Department",
+    "value": 2111120
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://fard.odisha.gov.in/fisheries-schemes#"
+    },
+    {
+      "title": "Guidelines",
+      "url": "https://fard.odisha.gov.in/sites/default/files/2023-10/16.%20Financial%20Assistance%20for%20New%20Boat%2C%20Engine%20%26%20Net.PDF"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65b8aae0263f3aab60428829",
+      "en": {
+        "documentsRequired_md": "1.\tA copy of the Photo ID Card \n2.\tPassport size photograph\n3.\tA copy of the Caste/category certificate, if applicable\n4.\tA copy of the QR Aadhaar card\n5.\tBank account details/first-page bank passbook\n6.\tAny other relevant documents, as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tA copy of the Photo ID Card "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tPassport size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tA copy of the Caste/category certificate, if applicable"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tA copy of the QR Aadhaar card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tBank account details/first-page bank passbook"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6.\tAny other relevant documents, as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65b8aabd263f3aab604287f6"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65b8aabd263f3aab604287f6",
+  "scheme_name": "MMKY-Financial Assistance for New Boat, Engine, and Net",
+  "scheme_open_date": null,
+  "scheme_short_title": "MMKY-FANBEN",
+  "slug": "mmky-fanben",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Odisha",
+    "value": 21
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Boat",
+    "Engine",
+    "Net",
+    "Maschyajibi",
+    "Fish",
+    "Fisherman"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

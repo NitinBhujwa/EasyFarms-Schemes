@@ -1,0 +1,178 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "To select sugarcane farmers eligible for the benefits of this scheme, the selection is carried out after discussions with public representatives in the Gram Sabha (village assembly) meeting at the village level, followed by a survey conducted by the sugarcane supervisor, and upon approval by the departmental officers (Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner)."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "To select sugarcane farmers eligible for the benefits of this scheme, the selection is carried out after discussions with public representatives in the Gram Sabha (village assembly) meeting at the village level, followed by a survey conducted by the sugarcane supervisor, and upon approval by the departmental officers (Sugarcane Development Inspector, Senior Sugarcane Development Inspector, and Assistant Sugarcane Commissioner).\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n   1. **Breeder Seed Sugarcane Production Program:** The programme is proposed to be run by G.B. Pant University of Agriculture and Technology, Pantnagar, on the farms of its subordinate research centres. Under this scheme, breeder seed production of the latest sugarcane varieties will be carried out. At sugarcane research centres, 25% of breeder seed nurseries will be established in autumn and 75% in spring. As per the allocation by the Sugarcane Department, a subsidy of ₹100/- per quintal is provided to the institution for seed distribution from these nurseries. Based on the average yield of the district, 50% of the subsidy will be provided for agricultural inputs such as fertilizers and pesticides at the time of sowing in the nursery, with the remaining amount payable upon seed distribution.   1. **Establishment of Base Nurseries:** It is proposed to establish base nurseries. A subsidy of ₹50/- per quintal will be provided for sugarcane seed distribution, with a maximum limit of ₹15,000/-.   1. **Establishment of Primary Nurseries:** It is proposed to establish primary nurseries, under which a subsidy of ₹25/- per quintal of sugarcane seed will be provided, with a maximum limit of ₹10,000/-.   1. **Field Demonstrations:** Demonstrations will be organized using the latest sugarcane sowing techniques. Sugarcane farmers will be provided a grant of ₹7,500 per 0.5-hectare demonstration.   1. **Sugarcane Seed Transportation and Harvesting Loading:** A 100% subsidy on actual transportation costs will be provided to buyer-based nursery holders or the Sugarcane Development Council for transporting elite seeds produced at research farms.   1. **Subsidy on Agricultural Equipment:** Under the Sub-Mission on Agricultural Mechanization, human-operated equipment for sugarcane cultivation will be distributed to farmers.   1. **Sugarcane Seed Differential Price Payment:** The Department will provide a subsidy based on the actual cost of sugarcane seeds, which can be supplied from any sugarcane research center located within or outside the State.   1. **Pest, Disease, and Weed Control:** A farmer is eligible for a subsidy of up to ₹3,000/- per hectare for crop protection and weed control. The subsidy covers 50% of the actual cost, with a maximum limit of ₹3,000/- per farmer.   1. **Distribution of Micronutrients, Organic, and Bio-Fertilizers:** Farmers will receive a 50% subsidy, up to ₹1,000/- per hectare, on the purchase of micronutrients, organic, and bio-fertilizers to promote successful sugarcane cultivation and improve sugar recovery.   1. The scheme encourages farmers to adopt advanced sugarcane cultivation through publicity campaigns, soil testing, and training programs at the village and district levels.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "041e15f9575694cc48aa196ebc5e977998f2c1cd23f56804fa9d483a7187f3b1",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Mukhyamantri Rajya Krishi Vikas Yojana” is implemented by the Department of Sugarcane Development and Sugar Industry, Government of Uttarakhand. The scheme aims to help sugarcane farmers grow better crops, increase production, improve sugar quality, and provide support through high-quality seeds, modern techniques, mechanization, crop protection, and advanced farming practices.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a resident of Uttarakhand.\n1. The applicant must be a farmer cultivating sugarcane.\n1. The applicant must be a permanent member of a cooperative sugarcane development society.\n1. The applicant must practice advanced sugarcane farming.\n1. The applicant’s name must be registered in the land records of the state.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:02:54.585096+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:02:54.585096+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Sugarcane Development And Sugar Industries",
+    "value": 50000039
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 253)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68384c007e3dd7685818b3a4",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof\n1. Land record documents\n1. Bank account details\n1. Proof of membership of the concerned society \n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land record documents"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of membership of the concerned society "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68384b53b0d5cc1154aaae13"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68384b53b0d5cc1154aaae13",
+  "scheme_name": "Mukhyamantri Rajya Krishi Vikas Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "MRKVY",
+  "slug": "mrkvy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Sugarcane",
+    "Sugar",
+    "Sugarcane Seed",
+    "Farmer",
+    "Agricultural Equipment"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

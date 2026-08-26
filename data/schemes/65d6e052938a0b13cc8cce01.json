@@ -1,0 +1,348 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 01:"
+                },
+                {
+                  "text": " The eligible Educated Rural Youths can apply/write an application on plain paper."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 02:"
+                },
+                {
+                  "text": " Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 03:"
+                },
+                {
+                  "text": " Submit the duly filled and signed application along with the relevant documents at the office of the Principal, Basic Agricultural Training Centre (BATC)."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Mode of Selection of Beneficiary(s):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": "The selection procedure is based on merit and on the condition that applicants own agricultural land on which they can start their farm-based activities. "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Whom to Contact:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "District Agriculture Officers of the concerned districts."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Sub-Divisional Agricultural Officers of the concerned sub-divisions."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "District Training Officers, Tura/Shillong."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Agricultural Development Officers of the concerned Community and Rural Development Blocks."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "&gt; **Application Process:**\n\n**Step 01:** The eligible Educated Rural Youths can apply/write an application on plain paper.\n**Step 02:** Along with the application, attach copies of all the mandatory documents (self-attest, if required).\n**Step 03:** Submit the duly filled and signed application along with the relevant documents at the office of the Principal, Basic Agricultural Training Centre (BATC).\n&gt; **Mode of Selection of Beneficiary(s):**\n\nThe selection procedure is based on merit and on the condition that applicants own agricultural land on which they can start their farm-based activities. \n&gt; **Whom to Contact:**\n\n\n   1. District Agriculture Officers of the concerned districts.\n   1. Sub-Divisional Agricultural Officers of the concerned sub-divisions.\n   1. District Training Officers, Tura/Shillong.\n   1. Agricultural Development Officers of the concerned Community and Rural Development Blocks.\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "> **Pattern of Assistance:**\n\n\n- Free short-term training to educated unemployed rural youths.\n\n> **Type of Assistance and Entitlement (If Any):**\n\n\n- Training and capacity building.\n- Stipend @ ₹500/- per participant per month.\n- Seed money @ ₹10,000/- per participant.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "fe565ed7da7e58a38b78f58afdb399ab84f4d94e3b13787f3cc6bc39148f1992",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Basic Agriculture Training Centre Scheme” is a State Plan Scheme, which is implemented by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya. The objective of the scheme is to provide short-term vocational training for rural educated unemployed youths in agriculture and allied sectors to develop entrepreneurship skills and employment generation.\n",
+  "eligibility": "\n1. The applicant should be a permanent resident of Meghalaya.\n1. The applicant should be an unemployed rural youth.\n1. The applicant should have passed Class X.\n1. The applicant should be interested in starting farm-based activities.\n1. The applicant should have owned or leased agricultural land.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:06.998707+00:00",
+  "implementing_agency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+  "last_synced_at": "2026-08-26T14:05:06.998707+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 1777771
+  },
+  "references": [
+    {
+      "title": "Official Website",
+      "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=57"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65d6f6e5cd96dc5e075ceeab",
+      "en": {
+        "documentsRequired_md": "\n   1. Residential certificate from competent authority\n   1. Educational Qualification (SSLC) Certificate \n   1. ST/SC Certificate, if applicable\n   1. Birth Certificate\n   1. EPIC\n   1. Bank Pass Book, copy of the first page of the trainee&amp;#39;s own functional Bank Savings Account\n   1. Two (2) Number of Passport size photographs &amp;amp; 1(one) Stamp Size photograph.\n   1. Land Document\n   1. Medical fitness certificate from respective PHC/CHC (Original)\n   1. Unemployment Certificate\n\n**Note 01:** The unemployment status of a candidate may be included in a Recommendation letter issued by the respective District Level Officers of the Department of Agriculture and Farmers&amp;#39; Welfare. Alternatively, a self-certification by a candidate duly endorsed by any Gazetted Officer may also be accepted.\n**Note 02:** All the documents should be self-attested by the applicant.\n**Note 03:** If Applicant opts for Non-Farm Agri-business/activities, the Land document is not mandatory, but has to indicate &amp;quot;Non-Farm&amp;quot; in this column.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Residential certificate from competent authority"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Educational Qualification (SSLC) Certificate "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "ST/SC Certificate, if applicable"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Birth Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "EPIC"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Bank Pass Book, copy of the first page of the trainee's own functional Bank Savings Account"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Two (2) Number of Passport size photographs & 1(one) Stamp Size photograph."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Land Document"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Medical fitness certificate from respective PHC/CHC (Original)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Unemployment Certificate"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note 01:"
+                  },
+                  {
+                    "text": " The unemployment status of a candidate may be included in a Recommendation letter issued by the respective District Level Officers of the Department of Agriculture and Farmers' Welfare. Alternatively, a self-certification by a candidate duly endorsed by any Gazetted Officer may also be accepted."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note 02:"
+                  },
+                  {
+                    "text": " All the documents should be self-attested by the applicant."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Note 03:"
+                  },
+                  {
+                    "text": " If Applicant opts for Non-Farm Agri-business/activities, the Land document is not mandatory, but has to indicate \"Non-Farm\" in this column."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "65d6e052938a0b13cc8cce01"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65d6e052938a0b13cc8cce01",
+  "scheme_name": "Basic Agriculture Training Centre Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "BATCS",
+  "slug": "batcs",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Meghalaya",
+    "value": 17
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Training Centre",
+    "Vocational Training",
+    "Unemployed Youth",
+    "Entrepreneurship Skills",
+    "Employment",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

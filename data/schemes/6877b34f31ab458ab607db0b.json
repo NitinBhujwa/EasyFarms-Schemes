@@ -1,0 +1,482 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process:"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Visit the Social Justice & Empowerment Department website: "
+            },
+            {
+              "children": [
+                {
+                  "text": "https://esamajkalyan.gujarat.gov.in"
+                }
+              ],
+              "link": "https://esamajkalyan.gujarat.gov.in/index.aspx",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Click on “Please Register Here” on the homepage."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Fill in your personal details as per Aadhaar."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4"
+            },
+            {
+              "text": ": Create a password and submit the form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:"
+            },
+            {
+              "text": " Verify details and click “Confirm”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6:"
+            },
+            {
+              "text": " You will receive your User ID & Password via SMS/email."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Login Process:"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Go to the portal homepage."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Enter your User ID, Password, and Captcha."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3"
+            },
+            {
+              "text": ": Click “Login” to access your dashboard."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process:"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": "After login, complete your User Profile (first-time only)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Homepage will show eligible schemes – click on the one you want."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " Fill out the scheme application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Upload the required documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Review all entries, agree to terms, and click “Save Application”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:"
+            },
+            {
+              "text": " Note your Application Number for tracking."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Track Application:"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " Click on “"
+            },
+            {
+              "children": [
+                {
+                  "text": "View Application Status"
+                }
+              ],
+              "link": "https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx",
+              "type": "link"
+            },
+            {
+              "text": "”."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "Enter your Application Number and Date of Birth."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Click “View Status” to check progress."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Registration Process:**\n\n**Step 1:** Visit the Social Justice &amp; Empowerment Department website: [https://esamajkalyan.gujarat.gov.in](https://esamajkalyan.gujarat.gov.in/index.aspx)\n**Step 2:** Click on “Please Register Here” on the homepage.\n**Step 3:** Fill in your personal details as per Aadhaar.\n**Step 4**: Create a password and submit the form.\n**Step 5:** Verify details and click “Confirm”.\n**Step 6:** You will receive your User ID &amp; Password via SMS/email.\n> **Login Process:**\n\n**Step 1:** Go to the portal homepage.\n**Step 2:** Enter your User ID, Password, and Captcha.\n**Step 3**: Click “Login” to access your dashboard.\n> **Application Process:**\n\nAfter login, complete your User Profile (first-time only).\n**Step 1:** Homepage will show eligible schemes – click on the one you want.\n**Step 2:** Fill out the scheme application form.\n**Step 3:** Upload the required documents.\n**Step 4:** Review all entries, agree to terms, and click “Save Application”.\n**Step 5:** Note your Application Number for tracking.\n> **Track Application:**\n\n**Step 1:** Click on “[View Application Status](https://esamajkalyan.gujarat.gov.in/ViewApplicationStatus.aspx)”.\n**Step 2:** Enter your Application Number and Date of Birth.\n**Step 3:** Click “View Status” to check progress.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - Loan up to ₹1,00,000/- is provided at an interest rate of 6% to sanitation workers or their dependents for initiating animal husbandry as a business or occupation.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "31586911006384ccbdda093f6d3ed108f70cba201616008b5dfa578f4702f9bc",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;#39;Pashu Palan Yojana&amp;#39; is implemented by the Gujarat Safai Kamdar Vikas Nigam (GSKVN) under the Social Justice and Empowerment Department, Government of Gujarat. The scheme aims to provide loans to sanitation workers and their dependents to promote self-employment through animal husbandry and related activities.\n<br>\n\n",
+  "eligibility": "\n   1. The applicant should be a native of Gujarat.\n   1. The applicant should be a sanitation worker or a dependent of a sanitation worker.\n   1. The age of the applicant (sanitation worker or dependent) should be between 18 and 50 years as on the date of application.\n   1. Only applicant who has not previously availed any loan under any scheme of this Corporation or the Government, including their family members, are eligible to apply under this scheme.\n   1. Priority will be given to applicants who are BPL (Below Poverty Line), widowed, abandoned, or persons with disabilities.\n   1. The applicant should intend to start a self-employment venture in animal husbandry or related activities.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:07:18.823852+00:00",
+  "implementing_agency": "Gujarat Safai Kamdar Vikas Nigam",
+  "last_synced_at": "2026-08-26T14:07:18.823852+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Social Justice and Empowerment Department",
+    "value": 2444464
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://esamajkalyan.gujarat.gov.in/index.aspx?ServiceID=L1iZPwEhxuncDAQfWpWgDg=="
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6877b38292fe3670fa110cd2",
+      "en": {
+        "documentsRequired_md": "\n   1. Applicant&amp;#39;s Aadhaar Card\n   1. Ration card of the applicant\n   1. Election Identity Card\n   1. Proof of applicant&amp;#39;s total annual income\n   1. Certificate of sanitation worker/dependent\n   1. Proof of residence (Electricity bill/License/Rent agreement/Electoral card/Ration card)\n   1. BPL Certificate (if BPL)\n   1. Copy of first page of bank passbook / cancelled cheque (in the name of the applicant)\n   1. A letter of undertaking stating that you have not previously availed the benefits of this scheme\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Applicant's Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Ration card of the applicant"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Election Identity Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of applicant's total annual income"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Certificate of sanitation worker/dependent"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of residence (Electricity bill/License/Rent agreement/Electoral card/Ration card)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "BPL Certificate (if BPL)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of first page of bank passbook / cancelled cheque (in the name of the applicant)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "A letter of undertaking stating that you have not previously availed the benefits of this scheme"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6877b34f31ab458ab607db0b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6877b34f31ab458ab607db0b",
+  "scheme_name": "Pashu Palan Yojana (GSKVN)",
+  "scheme_open_date": null,
+  "scheme_short_title": "PPYGSKVN",
+  "slug": "ahsgskvn",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Loan",
+    "Animal Husbandry",
+    "Sanitation Worker",
+    "Self-employment",
+    "Scavenger"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

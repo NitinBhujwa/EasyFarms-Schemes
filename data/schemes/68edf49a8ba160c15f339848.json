@@ -1,0 +1,132 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "There is no application process. Farmers are required to make their produce available for sale at purchase centers established at the farmer group/LC/LCF level or at the PACS level."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "There is no application process. Farmers are required to make their produce available for sale at purchase centers established at the farmer group/LC/LCF level or at the PACS level.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": "\n  - Under the mission, in the first phase, 16,820 metric tonnes of Mandua and Jhangora are being purchased from farmers’ fields at the minimum support price through cooperative groups by the Cooperative Department.\n  - Under the National Food Security Act, the Government of India will distribute 1 kilogram per month through the Public Distribution System (ration card) via the Food and Supplies Department in four districts: Udham Singh Nagar, Haridwar, Nainital, and Dehradun. Farmers’ groups, LCs/LCFs, or PACS at established procurement centers are free to offer Mandua for sale. To encourage participation, an incentive of ₹150/- per quintal is provided.\n  - Once the PACS accepts the millet crops from the groups, payment will be made through RTGS/NEFT within a maximum of 72 hours.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "dfbcc70b90ca86702a4f54f067f141ce5af9d28275587a820bb3a878e226369f",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “State Millet Mission” launched by the Department of Agriculture, Government of Uttarakhand, aims to promote millet cultivation, ensure fair prices for farmers, and strengthen food security in the state. The mission seeks to support farmers, particularly in mountain districts, by procuring millet crops like Mandua and Jhangora at the minimum support price through cooperative groups.\n<br>\n\n",
+  "eligibility": "\n   1. All farmers from the mountain districts of Uttarakhand are eligible.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:00:57.540093+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:00:57.540093+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 163)",
+      "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68edf4f98ba160c15f339ae7",
+      "en": {
+        "documentsRequired_md": "No documents are required.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "No documents are required."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68edf49a8ba160c15f339848"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68edf49a8ba160c15f339848",
+  "scheme_name": "State Millet Mission",
+  "scheme_open_date": null,
+  "scheme_short_title": "SMM",
+  "slug": "smm",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Millet",
+    "Farmer",
+    "Mandua",
+    "Jhangora",
+    "Food Security"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

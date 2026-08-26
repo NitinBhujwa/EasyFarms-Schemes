@@ -1,0 +1,471 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Interested and eligible students need to apply online on the "
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "italic": true,
+                      "text": "Atma Nirbhar Yojana"
+                    }
+                  ],
+                  "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/",
+                  "type": "link"
+                },
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": " portal. "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "New User Registration",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Select the \""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Login"
+                        }
+                      ],
+                      "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/login",
+                      "type": "link"
+                    },
+                    {
+                      "text": "\" option."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Subsequently, click on the \""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Register Here\""
+                        }
+                      ],
+                      "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register",
+                      "type": "link"
+                    },
+                    {
+                      "text": " link."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Establish a password for your account."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Upon successful registration, the applicant will receive a User ID and password."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "italic": true,
+                  "text": "Login & Application Process:",
+                  "underline": true
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Log in"
+                        }
+                      ],
+                      "link": "https://agri.arunachal.gov.in/atmanirbhar_yojana/login",
+                      "type": "link"
+                    },
+                    {
+                      "text": " using the provided User ID and password to access the application form."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Fill in the complete application form."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Submit the application form. "
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "***Interested and eligible students need to apply online on the*** [***Atma Nirbhar Yojana***](https://agri.arunachal.gov.in/atmanirbhar_yojana/) ***portal.*** \n**New User Registration**\n\n   1. Select the &amp;quot;[Login](https://agri.arunachal.gov.in/atmanirbhar_yojana/login)&amp;quot; option.   1. Subsequently, click on the &amp;quot;[Register Here&amp;quot;](https://agri.arunachal.gov.in/atmanirbhar_yojana/user-register) link.   1. Complete the registration form with the requisite details, including your name, Aadhaar card number, email ID, and mobile number.\n   1. Establish a password for your account.\n   1. Upon successful registration, the applicant will receive a User ID and password.\n\n***Login &amp;amp; Application Process:***\n\n   1. [Log in](https://agri.arunachal.gov.in/atmanirbhar_yojana/login) using the provided User ID and password to access the application form.   1. Fill in the complete application form.\n   1. Upload the required documents, including a photograph, caste certificate, residential certificate, and land ownership proof, etc.\n   1. Submit the application form. \n\n"
+    },
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the District Fisheries Development Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "OR"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The interested applicant downloads the "
+            },
+            {
+              "children": [
+                {
+                  "text": "application form"
+                }
+              ],
+              "link": "https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2023/06/2023062787.pdf",
+              "type": "link"
+            },
+            {
+              "text": " from the official website. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Development Officers."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the District Fisheries Development Officers to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Development Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**OR**\nThe interested applicant downloads the [application form](https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2023/06/2023062787.pdf) from the official website. \n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Development Officers.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Development Officers to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Benefits:**\n\n\n1. 45% Government Subsidy.\n1. 45% Bank Loan (credit-linked).\n1. 10% Beneficiary Contribution.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "e88e3deff74f4f0c14257587b4ea911c251ad93ef7c353548eabf836e466a279",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The “Atma Nirbhar Matsya Palan Yojana (ANMPY)” was launched by the Department of Fisheries, Government of Arunachal Pradesh. It aims to promote self-reliant fish farming practices and enhance income generation among Scheduled Tribe (ST) beneficiaries through aquaculture activities. Under this flagship scheme, a credit-linked front-ended subsidy is provided for fisheries development to individual farmers, Self Help Groups (SHGs), and Farmers Producer Organizations (FPOs) in Arunachal Pradesh. \n> **Scheme Implementation**\n\nThe scheme is implemented by the District Fisheries Development Officers (DFDOs), under the supervision of District Level Screening Committees (DLSCs).\n",
+  "eligibility": "**Eligibility Criteria for Individual Farmers**\n\n1. The applicant must be a Scheduled Tribe (ST) of Arunachal Pradesh.\n1. The applicant must be a permanent resident of Arunachal Pradesh. \n1. The applicant must be between 18 to 60 years of age.\n1. The applicant must not be a bank defaulter.\n1. The applicant must not be a government servant.\n1. The applicant must have experience in fisheries or aquaculture.\n1. The applicant must have sufficient and suitable land for aquaculture activity.\n\n**Eligibility Criteria for Self-Help Groups (SHGs)**\n\n1. SHGs must be affiliated with APRSLM (Arunachal Pradesh State Rural Livelihood Mission).\n1. SHGs under NERCOMP (for Changlang) are also eligible.\n1. SHGs must be actively engaged in fisheries or aquaculture.\n\n**Eligibility Criteria for Farmers Producer Organizations (FPOs)**\n\n1. The FPO must be registered.\n1. The FPO must have at least 100 shareholders.\n1. The FPO must have at least one audited balance sheet.\n1. Only FPOs engaged in fisheries/aquaculture are eligible.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:57:25.615764+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:57:25.615764+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Fisheries Department",
+    "value": 12111121
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2023/06/2023062787.pdf"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://cdn.s3waas.gov.in/s3076a0c97d09cf1a0ec3e19c7f2529f2b/uploads/2025/01/2025013129.pdf"
+    },
+    {
+      "title": "Notice",
+      "url": "https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2025/01/2025010889.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6824866e9bea90887cee6c7d",
+      "en": {
+        "documentsRequired_md": "\n- Passport-size Photograph\n- Aadhaar Card\n- PAN Card\n- ST Certificate\n- Domicile Certificate/Permanent Resident Certificate (PRC)\n- Proof of Land Holding (LPC/Certificate from Administrative Officer) ([Annexure-I Enclosed](https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2023/06/2023062787.pdf))- Photocopy of 1st page of Bank Passbook \n- No Objection Certificate (NOC) from Agri/Allied Department\n- Any Other Document if Required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Passport-size Photograph"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "ST Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Domicile Certificate/Permanent Resident Certificate (PRC)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Land Holding (LPC/Certificate from Administrative Officer) ("
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Annexure-I Enclosed"
+                      }
+                    ],
+                    "link": "https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2023/06/2023062787.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": ")"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photocopy of 1st page of Bank Passbook "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "No Objection Certificate (NOC) from Agri/Allied Department"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any Other Document if Required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "682482bb9bea90887cee6720"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "682482bb9bea90887cee6720",
+  "scheme_name": "Atma Nirbhar Matsya Palan Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "ANMPY",
+  "slug": "anmpy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Arunachal Pradesh",
+    "value": 12
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Loan",
+      "value": "Loan"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Banking and money",
+      "value": "Banking and money"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Farmers",
+    "Scheduled Tribe",
+    "Self Help Groups",
+    "FPO",
+    "Loan"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    },
+    {
+      "label": "Self Help Groups (SHGS)",
+      "value": "self-help-groups"
+    }
+  ]
+}

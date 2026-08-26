@@ -1,0 +1,649 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Official Website"
+                }
+              ],
+              "link": "https://nlm.udyamimitra.in/",
+              "type": "link"
+            },
+            {
+              "text": " of \"National Livestock Mission\" and click \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Apply Here"
+                }
+              ],
+              "link": "https://nlm.udyamimitra.in/Login/Login",
+              "type": "link"
+            },
+            {
+              "text": "\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " The following methods of Logging In will be displayed:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Login as Entrepreneur"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Login as Government / Other Agencies"
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Login as Research & Innovation"
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ul_list"
+        },
+        {
+          "children": [
+            {
+              "text": "Login to the website using your preferred method."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. "
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: ",
+              "underline": true
+            },
+            {
+              "text": "Agree to the \"Declaration & Authorization\" by ticking the checkbox. Provide the Date & Place, and finally click \"Submit\"."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Post-Application Processes",
+              "underline": true
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: ",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": "Screening of application by State Implementing Agency (SIA)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "SIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Loan sanction by Lender"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "After the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal deligent process. After sanctioning the loan, Lender will upload sanction letter on the portal."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Recommendation from State Level Executive Committee (SLEC)"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Once the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry & Dairying)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Approval of subsidy by DAHD"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "DAHD will approve the subsidy and will mark the approval of the same on portal."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "bold": true,
+              "text": " Disbursement and release of subsidy"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "After compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Track Application Status",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "You can check your application status from the \"TRACK STATUS\" tab available in the upper right corner of the portal"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Help and Support",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "If you encounter any issues or have questions, visit the \""
+            },
+            {
+              "children": [
+                {
+                  "text": "Contact Us"
+                }
+              ],
+              "link": "https://nlm.udyamimitra.in/Home/Contact",
+              "type": "link"
+            },
+            {
+              "text": "\" page."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** Visit the [Official Website](https://nlm.udyamimitra.in/) of &quot;National Livestock Mission&quot; and click &quot;[Apply Here](https://nlm.udyamimitra.in/Login/Login)&quot;.\n**Step 2:** The following methods of Logging In will be displayed:\n\n- Login as Entrepreneur\n- Login as Government / Other Agencies\n- Login as Research &amp; Innovation\n\nLogin to the website using your preferred method.\n**Step 3:** On the next page, verify your Mobile Number via OTP. You will be taken to the Online Application Form. \n**Step 4:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 5:** Agree to the &quot;Declaration &amp; Authorization&quot; by ticking the checkbox. Provide the Date &amp; Place, and finally click &quot;Submit&quot;.\n<br>\n\n> **Post-Application Processes**\n\n**Step 1:** **Screening of application by State Implementing Agency (SIA)**\nSIA will scrutinize the submitted application and will recommend the application of the entrepreneurs/ eligible entities to avail balance financing for the project through scheduled banks or financial institutions like National Cooperative Development Corporation (NCDC) etc.\n**Step 2:** **Loan sanction by Lender**\nAfter the recommendation of the project by SIA, the same will be considered by the bank or financial institutions for financing. Lender will pick the application along with all the documents from the portal and will approve the loan after examining the project/ documents submitted by applicant and completing their internal deligent process. After sanctioning the loan, Lender will upload sanction letter on the portal.\n**Step 3:** **Recommendation from State Level Executive Committee (SLEC)**\nOnce the bank or financial institution sanction the project, SIA shall place the same in SLEC for recommending the application to the Central Government (Department of Animal Husbandry &amp; Dairying).\n**Step 4:** **Approval of subsidy by DAHD**\nDAHD will approve the subsidy and will mark the approval of the same on portal.\n**Step 5:** **Disbursement and release of subsidy**\nAfter compliance of terms and conditions mentioned in the sanction letter, lender will disburse the loan amount to the beneficiary. fund the subsidy amount for the approved projects through Small Industries Development Bank of India (SIDBI) to the lending Bank or financial institutions as the case may be to release the subsidy to Beneficiaries.\n<br>\n\n**Track Application Status**\nYou can check your application status from the &quot;TRACK STATUS&quot; tab available in the upper right corner of the portal\n**Help and Support**\nIf you encounter any issues or have questions, visit the &quot;[Contact Us](https://nlm.udyamimitra.in/Home/Contact)&quot; page.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- The funding pattern will be 60:40 for all the states except NER &amp; Himalayan States where it will be 90:10 and 100% for UTs.\n- One-time grants-in-aid up to Rs. 4,00,00,000 as Central Share will be provided to the concerned state eligible for the establishment of Regional Semen Station for construction of semen laboratory, maintaining of breeding bucks and rams, sourcing of locally available high genetic merit animals and processing of semen. \n- Rs. 30,00,000 will also be provided as a one-time expenditure towards procurement of consumables, medicines, chemicals etc. required for first-time processing of semen.\n- The regional semen bank shall have to generate its own resources for running of the semen station. No recurring expenditure will be provided for running expenses of the semen station.\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "44c0c9941a44dad812f5b2261e9741be184e9b019b015cef6efcd22715fc03e9",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Launched in the Financial Year 2014-15, the scheme &quot;National Livestock Mission&quot; by the Department of Animal Husbandry &amp; Dairying, Ministry of Fisheries, Animal Husbandry and Dairying, aims towards employment generation, entrepreneurship development, increase in per animal productivity and thus targeting increased production of meat, goat milk, egg and wool. The excess production will help in the export earnings after meeting the domestic demands. The concept of the NLM Scheme is to develop the entrepreneur in order to create the forward and backward linkage for the produce available in the unorganized sector and to link with the organized sector.\n<br>\n\n**&quot;Establishment of Regional Semen Production Laboratory and Semen Bank for Sheep and Goat (Genetic Improvement of Sheep and Goat Breeds)&quot;** is a component of the &quot;Sub-mission on Breed Development of Livestock and Poultry&quot; scheme of the National Livestock Mission. The objectives of this component are:\n\n- Genetic improvement of Indigenous descript breeds of sheep/goat through selective breeding\n- Genetic upgradation of non-descript sheep/goat breeds through cross-breeding with high genetic rams or bucks to increase productivity.\n- Reducing negative selection and inbreeding among sheep &amp; goat breeds by propagation of superior male germplasm through artificial insemination and other developed assisted reproductive technologies.\n\n<br>\n\nThe Central Government will provide assistance for the establishment of a Frozen Semen production laboratory for goat and a liquid semen production laboratory for sheep at regional level in a strategic location to cater the semen of elite animals to the nearby states in the said region. This Establishment of Regional Semen Station will be based on the Expression of Interest from the States in the said Region which can produce semen and supply semen for the states at the region. Also the regional semen station will work as regional semen bank for frozen semen for goat. The semen labs will need to adhere to the guidelines of Minimum standard protocols for semen processing while preparing the project proposals. The semen produced in this laboratory will be distributed to the neighbouring states.\n",
+  "eligibility": "Only the State Livestock Agencies are eligible.\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:05:25.121593+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:05:25.121593+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department of Animal Husbandry & Dairying",
+    "value": 121225
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.dahd.gov.in/sites/default/files/2023-11/NLMGuidelinesFinalApprovedByEC.pdf"
+    },
+    {
+      "title": "Leaflet",
+      "url": "https://www.dahd.gov.in/sites/default/files/2023-07/NLM-Leaflet-E.pdf"
+    },
+    {
+      "title": "Application Steps",
+      "url": "https://www.nlm.udyamimitra.in/Home/PreApplication"
+    },
+    {
+      "title": "Application Form",
+      "url": "https://www.nlm.udyamimitra.in/Default/ViewFile/?id=NLM_Application_form_for_entreprenuers.docx&path=MiscFiles"
+    },
+    {
+      "title": "Documents Required",
+      "url": "https://www.nlm.udyamimitra.in/Default/ViewFile/?id=NLM_List_of_Documents.docx&path=MiscFiles"
+    },
+    {
+      "title": "FAQs",
+      "url": "https://www.nlm.udyamimitra.in/FAQ"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6687cfb29a7d5c5234494e71",
+      "en": {
+        "documentsRequired_md": "**A. Documents Related to Project**\n\n- Detailed project report (DPR)* including cost of project, means of finance, recurring cost, net income etc.\n- Land document (Ownership / Lease deed/ Rent Agreement etc.)\n- Photographs of project site\n- Documentary proof of applicant’s share in the project\n- List of farmers linked/attached with applicant comprising Name, Aadhar Number, Mobile No. and Address\n\n**B. Documents Related to Applicant** \n\n- PAN card*\n- GST registration certificate\n- Certificate of Incorporation (In case of company)\n- Partnership Deed (In case of partnership firm)\n- Address Proof* (Election Commission Photo ID card, Electricity Bill, Water Bill, Telephone Bill, Passbook, rent agreement etc.)\n- Last three years audited Annual financial statements, if applicable\n- Last three years income tax returns, if applicable\n- Bank statement for last six months\n- Canceled cheque along with bank mandate form*\n\n**C. Documents Related to Key Promoter**\n\n- PAN Card*\n- Aadhar Card*\n- Address Proof * (Election Commission Photo ID card, Electricity Bill, Water Bill, Telephone Bill, Passbook, rent agreement etc.) \n- Photograph*\n- Caste certificate, if applicable\n- Education certificates\n- Training certificates\n- Experience letter/ certificate about any livestock farming activities done earlier\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "A. Documents Related to Project",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Detailed project report (DPR)* including cost of project, means of finance, recurring cost, net income etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land document (Ownership / Lease deed/ Rent Agreement etc.)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photographs of project site"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Documentary proof of applicant’s share in the project"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "List of farmers linked/attached with applicant comprising Name, Aadhar Number, Mobile No. and Address"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "B. Documents Related to Applicant ",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "PAN card*"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "GST registration certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Certificate of Incorporation (In case of company)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Partnership Deed (In case of partnership firm)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Proof* (Election Commission Photo ID card, Electricity Bill, Water Bill, Telephone Bill, Passbook, rent agreement etc.)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Last three years audited Annual financial statements, if applicable"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Last three years income tax returns, if applicable"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank statement for last six months"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Canceled cheque along with bank mandate form*"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "C. Documents Related to Key Promoter",
+                "underline": true
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "PAN Card*"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhar Card*"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Proof * (Election Commission Photo ID card, Electricity Bill, Water Bill, Telephone Bill, Passbook, rent agreement etc.) "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph*"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste certificate, if applicable"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Education certificates"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training certificates"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Experience letter/ certificate about any livestock farming activities done earlier"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6687cebbbb174a1a8700d863"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6687cebbbb174a1a8700d863",
+  "scheme_name": "Establishment of Regional Semen Production Laboratory and Semen Bank for sheep and goat",
+  "scheme_open_date": null,
+  "scheme_short_title": "ERSPLSBSG",
+  "slug": "ersplsbsg",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Sheep",
+    "Goat",
+    "Genetic Improvement",
+    "Reproductive Technology",
+    "Conservation",
+    "Genetic Upgradation"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "State Government",
+      "value": "state-government"
+    }
+  ]
+}

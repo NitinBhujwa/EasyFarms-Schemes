@@ -1,0 +1,274 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "To avail the benefits of this scheme, farmers are selected through open meetings of the Gram Sabhas in the presence of departmental officers and Hon’ble public representatives. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer can submit a proposal during the Gram Panchayat meeting, and if the proposal is approved, the public representative informs the department. After departmental scrutiny and once the farmer purchases organic inputs such as fertilizers and seeds from the Krishi Nivesh Kendras, the financial assistance is provided. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To receive the benefit, farmers must submit a permanent/original residence certificate, identity card, Aadhaar card, mobile number, ration card, birth certificate, Khasra/Khatauni of agricultural land, and a passport-size photograph along with the proposal."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - To avail the benefits of this scheme, farmers are selected through open meetings of the Gram Sabhas in the presence of departmental officers and Hon’ble public representatives. \n  - The farmer can submit a proposal during the Gram Panchayat meeting, and if the proposal is approved, the public representative informs the department. After departmental scrutiny and once the farmer purchases organic inputs such as fertilizers and seeds from the Krishi Nivesh Kendras, the financial assistance is provided. \n  - To receive the benefit, farmers must submit a permanent/original residence certificate, identity card, Aadhaar card, mobile number, ration card, birth certificate, Khasra/Khatauni of agricultural land, and a passport-size photograph along with the proposal.\n\n<br>\n\n"
+    },
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Farmers can apply online at "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "https://pgsindia-ncof.gov.in"
+                        }
+                      ],
+                      "link": "https://pgsindia-ncof.gov.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": ". "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The farmer needs to submit all necessary documents during the online application. After the farmer makes the required investment in organic inputs, the subsidy amount is directly credited to their bank account."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - Farmers can apply online at [https://pgsindia-ncof.gov.in](https://pgsindia-ncof.gov.in/).   - The farmer needs to submit all necessary documents during the online application. After the farmer makes the required investment in organic inputs, the subsidy amount is directly credited to their bank account.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "This scheme promotes organic farming by providing farmers with an incentive of ₹9,000/- per hectare for purchasing organic inputs such as seeds, compost, green manure, biofertilizers, biopesticides, neem oil, PROM, Burmese compost, waste decomposers, and other materials required for organic farming.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "cd32c2cc70fde6ac0937c951499169979c8df2ce6c815c7aa4c951c821a59cfb",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme “Paramparagat Krishi Vikas Yojana” is implemented by the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote organic farming among Uttarakhand farmers by providing financial support for purchasing organic inputs.\n<br>\n\n",
+  "eligibility": "\n1. The applicant must be a native of Uttarakhand.\n1. The applicant must be a farmer.\n1. The farmer must own agricultural land within the state.\n1. The farmer’s name must be recorded in the land revenue records.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:01:03.267535+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:03.267535+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture Department",
+    "value": 50000001
+  },
+  "references": [
+    {
+      "title": "Guidelines (Page No. 203)",
+      "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "68f3c502f93f97e596aabe5f",
+      "en": {
+        "documentsRequired_md": "\n1. Permanent/original residence certificate\n1. Identity card\n1. Aadhaar card\n1. Mobile number\n1. Ration card\n1. Birth certificate\n1. Khasra/Khatauni of agricultural land\n1. Passport-size photograph\n\n***All documents to be submitted along with the proposal.***\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Permanent/original residence certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Birth certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Khasra/Khatauni of agricultural land"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photograph"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "italic": true,
+                "text": "All documents to be submitted along with the proposal."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68f3c4b6ba60690c55e0712f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "68f3c4b6ba60690c55e0712f",
+  "scheme_name": "Paramparagat Krishi Vikas Yojana - Uttarakhand",
+  "scheme_open_date": null,
+  "scheme_short_title": "PKVYUK",
+  "slug": "pkvyuk",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Uttarakhand",
+    "value": 5
+  },
+  "subcategories": null,
+  "sync_source": "myScheme",
+  "tags": [
+    "Farmer",
+    "Traditional Agriculture",
+    "Organic Farming"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

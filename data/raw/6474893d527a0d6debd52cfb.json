@@ -1,0 +1,518 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6474893d527a0d6debd52cfb",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process:"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01: "
+                      },
+                      {
+                        "text": "Visit the official website:  "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://agridbt.hp.gov.in/agri/#/Login"
+                          }
+                        ],
+                        "link": "https://agridbt.hp.gov.in/agri/#/Login",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02: "
+                      },
+                      {
+                        "text": "Click on “Sign Up” and then click on “Register Now”."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " On the registration page, fill in the mandatory details (Name, Aadhaar, Email, Mobile Number) and click on \"Register\". The login credentials will be sent to your registered Email ID / Mobile Number."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Process:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " Visit the official website: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://agridbt.hp.gov.in/agri/#/Login"
+                          }
+                        ],
+                        "link": "https://agridbt.hp.gov.in/agri/#/Login",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Click on “Login” and then select the scheme."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type.  Then, click on \"Submit\" for the final submission."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Process after submitting the application:"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " Once the application is submitted you will receive a confirmation on your registered mobile number and email ID with the details of your application ID"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " For any update about your application, you will be notified through SMS and email. For every update, details will be available under the \"Notification\" option on the left menu"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " You can also check the current status of your application using the \"Status\" option on the left menu."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Registration Process:**\n**Step 01:** Visit the official website:  [https://agridbt.hp.gov.in/agri/#/Login](https://agridbt.hp.gov.in/agri/#/Login)\n**Step 02:** Click on “Sign Up” and then click on “Register Now”.\n**Step 03:** On the registration page, fill in the mandatory details (Name, Aadhaar, Email, Mobile Number) and click on &amp;quot;Register&amp;quot;. The login credentials will be sent to your registered Email ID / Mobile Number.\n**Application Process:**\n**Step 01:** Visit the official website: [https://agridbt.hp.gov.in/agri/#/Login](https://agridbt.hp.gov.in/agri/#/Login)\n**Step 02:** Click on “Login” and then select the scheme.\n**Step 03:** On the application page, fill in all the mandatory fields and upload the required documents in the appropriate file size and file type.  Then, click on &amp;quot;Submit&amp;quot; for the final submission.\n**Process after submitting the application:**\n**Step 01:** Once the application is submitted you will receive a confirmation on your registered mobile number and email ID with the details of your application ID\n**Step 02:** For any update about your application, you will be notified through SMS and email. For every update, details will be available under the &amp;quot;Notification&amp;quot; option on the left menu\n**Step 03:** You can also check the current status of your application using the &amp;quot;Status&amp;quot; option on the left menu.\n<br>\n\n<br>\n\n",
+            "url": "https://agridbt.hp.gov.in/agri/#/Login"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "implementingAgency": "Department Of Agriculture, Government Of Himachal Pradesh",
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department, Himachal Pradesh",
+            "value": 21111112
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Individual",
+          "schemeName": "Mukhyamantri Krishi Utpadan Sanrakshan Yojana",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "MKUSY",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Himachal Pradesh",
+            "value": 2
+          },
+          "tags": [
+            "Solar Fencing",
+            "Crop Protection",
+            "Subsidy",
+            "Hailstorms",
+            "Agriculture",
+            "Financial Assistance",
+            "Poly Sheets",
+            "Farmers"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary should be a permanent resident of Himachal Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "All the farmers of the state of Himachal Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Priority will be given to small and marginal farmers for giving benefits of the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The beneficiary should be a permanent resident of Himachal Pradesh.\n1. All the farmers of the state of Himachal Pradesh.\n1. Priority will be given to small and marginal farmers for giving benefits of the scheme.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "1. "
+                    },
+                    {
+                      "bold": true,
+                      "text": "Sour Badhbandi (Solar Fencing): "
+                    },
+                    {
+                      "text": "Under this scheme, a subsidy of 85% is being provided if three or more farmers opt to install solar fencing, and if farmers opt to install solar fencing on individual land then an 80% subsidy is being provided."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "2. "
+                    },
+                    {
+                      "bold": true,
+                      "text": "Anti-Hail Net Structure: "
+                    },
+                    {
+                      "text": "Financial assistance maximum of up to 80% is being provided to the eligible farmer for an area coverage maximum of up to 5000 Square Meters."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "3. "
+                    },
+                    {
+                      "bold": true,
+                      "text": "Green House Renovation Scheme: "
+                    },
+                    {
+                      "text": "Under this scheme, 70% assistance is being provided to the farmers for the replacement of poly sheets after 5 years of setting up of polyhouse or damage due to natural calamities."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "1. **Sour Badhbandi (Solar Fencing):** Under this scheme, a subsidy of 85% is being provided if three or more farmers opt to install solar fencing, and if farmers opt to install solar fencing on individual land then an 80% subsidy is being provided.\n2. **Anti-Hail Net Structure:** Financial assistance maximum of up to 80% is being provided to the eligible farmer for an area coverage maximum of up to 5000 Square Meters.\n3. **Green House Renovation Scheme:** Under this scheme, 70% assistance is being provided to the farmers for the replacement of poly sheets after 5 years of setting up of polyhouse or damage due to natural calamities.\n",
+          "briefDescription": "The scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” was launched by Dept. of Agriculture, Govt. of Himachal Pradesh by merging 3 ongoing protection-based Departmental schemes namely Sour Badhbandi, Anti-Hail Net Structure & Green House Renovation into single scheme having a common objective.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” was launched by the Department of Agriculture, Government of Himachal Pradesh by merging three ongoing protection based Departmental schemes namely Sour Badhbandi, Anti-Hail Net Structure & Green House Renovation Scheme into a single scheme having a common objective."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "The three components of the scheme are as under:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "1.\tSour Badhbandi (Solar Fencing):"
+                    },
+                    {
+                      "text": " Monkey and wildlife menace causes huge losses to crops annually in the State. The present practice of crop protection by manual guarding did not ensure 100 percent crop protection. Now the scheme has been merged under the Scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” in the name of Solar Fencing. Under this scheme, a subsidy of 85% is being provided if three or more farmers opt to install solar fencing, and if farmers opt to install solar fencing on individual land then an 80% subsidy is being provided. The fence is energized with the help of solar power. Current fences around the farms will be sufficient to keep away stray animals, wild animals, and monkeys from the farms."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "2.\tAnti-Hail Net Structure:"
+                    },
+                    {
+                      "text": " Hailstorms in Himachal Pradesh are one of the major natural calamities resulting in substantial economic loss to the farmers by damaging standing vegetable crops both quantitatively as well as qualitatively. In order to mitigate the losses caused by hail storms the new scheme “Krishi Utpadan Sanrakshan Yojana (Anti-Hail Net Structure)” was started by the State Government in 2020-21 and implemented through the Department of Agriculture. Now the scheme has been merged under the Scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojna” in the name of Anti Hail Nets. The schemes will primarily benefit farmers helping them to substantially, reduce the quantitative and qualitative losses to their vegetable produce. Financial assistance maximum of up to 80% is being provided to the eligible farmer for an area coverage maximum of up to 5000 sqm. The monetary gains are expected to be approximately 15-20 crores annually with significant contributions to the state GDP."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "3.\tGreen House Renovation Scheme:"
+                    },
+                    {
+                      "text": " Farmers of the state have demanded that there should be a scheme to replace the Poly sheets. Therefore, the Government of Himachal Pradesh introduced a scheme “Mukhya Mantri Green House Renovation Scheme” in the year 2017-18. Now the scheme has been merged under the Scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” as a component namely Green House Renovation. Under this scheme, 70% assistance is being provided to the farmers for the replacement of poly sheets after 5 years of setting up of polyhouse or damage due to natural calamities."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” was launched by the Department of Agriculture, Government of Himachal Pradesh by merging three ongoing protection based Departmental schemes namely Sour Badhbandi, Anti-Hail Net Structure &amp;amp; Green House Renovation Scheme into a single scheme having a common objective.\n**The three components of the scheme are as under:**\n**1.\tSour Badhbandi (Solar Fencing):** Monkey and wildlife menace causes huge losses to crops annually in the State. The present practice of crop protection by manual guarding did not ensure 100 percent crop protection. Now the scheme has been merged under the Scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” in the name of Solar Fencing. Under this scheme, a subsidy of 85% is being provided if three or more farmers opt to install solar fencing, and if farmers opt to install solar fencing on individual land then an 80% subsidy is being provided. The fence is energized with the help of solar power. Current fences around the farms will be sufficient to keep away stray animals, wild animals, and monkeys from the farms.\n**2.\tAnti-Hail Net Structure:** Hailstorms in Himachal Pradesh are one of the major natural calamities resulting in substantial economic loss to the farmers by damaging standing vegetable crops both quantitatively as well as qualitatively. In order to mitigate the losses caused by hail storms the new scheme “Krishi Utpadan Sanrakshan Yojana (Anti-Hail Net Structure)” was started by the State Government in 2020-21 and implemented through the Department of Agriculture. Now the scheme has been merged under the Scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojna” in the name of Anti Hail Nets. The schemes will primarily benefit farmers helping them to substantially, reduce the quantitative and qualitative losses to their vegetable produce. Financial assistance maximum of up to 80% is being provided to the eligible farmer for an area coverage maximum of up to 5000 sqm. The monetary gains are expected to be approximately 15-20 crores annually with significant contributions to the state GDP.\n**3.\tGreen House Renovation Scheme:** Farmers of the state have demanded that there should be a scheme to replace the Poly sheets. Therefore, the Government of Himachal Pradesh introduced a scheme “Mukhya Mantri Green House Renovation Scheme” in the year 2017-18. Now the scheme has been merged under the Scheme “Mukhyamantri Krishi Utpadan Sanrakshan Yojana” as a component namely Green House Renovation. Under this scheme, 70% assistance is being provided to the farmers for the replacement of poly sheets after 5 years of setting up of polyhouse or damage due to natural calamities.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://agriculture.hp.gov.in/en/our-scheme/mukhya-mantri-krishi-utpadan-sanrakshan-yojna/"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "mkusy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "64749cea527a0d6debd53f31",
+      "en": {
+        "documentsRequired_md": "\n1. Copy of Aadhaar card\n1. Address proof\n1. Bank passbook\n1. Identity card\n1. Mobile number\n1. Passport-size photo\n1. Land Details Document (Jamabandi/Khata/Khatauni Number)\n1. Caste Certificate (If applicable)\n1. Polyhouse training certificate\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhaar card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport-size photo"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Details Document (Jamabandi/Khata/Khatauni Number)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste Certificate (If applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Polyhouse training certificate"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6474893d527a0d6debd52cfb"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:04:28.988368+00:00",
+  "scheme_id": "6474893d527a0d6debd52cfb"
+}

@@ -1,0 +1,298 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6776187709be7bb7df9eccc9",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:"
+                  },
+                  {
+                    "text": " Visit the nearest electricity board office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "Obtain the application form for the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Fill out the form with accurate details and attach the required documents."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Submit the application online or at the designated office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 5: "
+                  },
+                  {
+                    "text": "Upon verification, receive updates on the approval status and the power connection schedule."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** Visit the nearest electricity board office.\n**Step 2:** Obtain the application form for the scheme.\n**Step 3:** Fill out the form with accurate details and attach the required documents.\n**Step 4:** Submit the application online or at the designated office.\n**Step 5:** Upon verification, receive updates on the approval status and the power connection schedule.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Energy and Petro Chemicals Department",
+            "value": 2444445
+          },
+          "schemeCategory": [
+            {
+              "label": "Utility & Sanitation",
+              "value": "628ce97ad6d1a3bde468537d"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kisan Suryoday Yojana (KSY)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "KSYG",
+          "schemeSubCategory": [
+            {
+              "label": "Electricity",
+              "value": "Electricity"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agricultural",
+            "Electricity Supply",
+            "Farmer",
+            "Renewable Energy",
+            "Irrigation"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "children": [
+                            {
+                              "text": "The applicant must be a resident of Gujarat."
+                            }
+                          ],
+                          "type": "list_item"
+                        },
+                        {
+                          "children": [
+                            {
+                              "text": "The applicant must be a farmer or engaged in agricultural activities."
+                            }
+                          ],
+                          "type": "list_item"
+                        }
+                      ],
+                      "type": "align_left"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - The applicant must be a resident of Gujarat.\n  - The applicant must be a farmer or engaged in agricultural activities.\n\n&lt;br&gt;\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Daytime Electricity Supply:"
+                        },
+                        {
+                          "text": " Ensures uninterrupted electricity for agricultural activities during the day from 5:00 am to 9:00 pm. "
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sustainable Energy: "
+                        },
+                        {
+                          "text": "Promotes the use of solar and non-conventional energy sources, reducing dependency on conventional power."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n  - **Daytime Electricity Supply:** Ensures uninterrupted electricity for agricultural activities during the day from 5:00 am to 9:00 pm.   - **Sustainable Energy:** Promotes the use of solar and non-conventional energy sources, reducing dependency on conventional power.\n",
+          "briefDescription": "\"Kisan Suryoday Yojana (KSY)\" is a Gujarat government initiative launched in 2020-2021 to provide daytime electricity for agricultural activities, utilizing solar and non-conventional energy.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Kisan Suryoday Yojana (KSY)\" was launched by the Energy and Petro Chemicals Department, Gujarat, in 2020-2021 with the goal of providing daytime electricity to farmers for agricultural activities. This innovative scheme aims to address the power demands of farmers by supplying electricity from 5:00 am to 9:00 pm. By maximizing the use of solar and non-conventional energy sources, the scheme ensures a reliable and eco-friendly power supply. The KSY is being implemented in phases, aligned with the operationalization of solar and alternative energy generation plants."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Kisan Suryoday Yojana (KSY)&quot; was launched by the Energy and Petro Chemicals Department, Gujarat, in 2020-2021 with the goal of providing daytime electricity to farmers for agricultural activities. This innovative scheme aims to address the power demands of farmers by supplying electricity from 5:00 am to 9:00 pm. By maximizing the use of solar and non-conventional energy sources, the scheme ensures a reliable and eco-friendly power supply. The KSY is being implemented in phases, aligned with the operationalization of solar and alternative energy generation plants.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://guj-epd.gujarat.gov.in/Home/BlogDetailsPage/55"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ksyg"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "677618e709be7bb7df9ecd59",
+      "en": {
+        "documentsRequired_md": "\n   1. Identity proof (Aadhaar card, Voter ID, or equivalent).\n   1. Proof of land ownership.\n   1. Recent passport-sized photographs.\n   1. Any other documents (if required).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Identity proof (Aadhaar card, Voter ID, or equivalent)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of land ownership."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Recent passport-sized photographs."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents (if required)."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "6776187709be7bb7df9eccc9"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:55.602916+00:00",
+  "scheme_id": "6776187709be7bb7df9eccc9"
+}

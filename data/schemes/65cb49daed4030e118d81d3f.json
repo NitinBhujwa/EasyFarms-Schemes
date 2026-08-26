@@ -1,0 +1,212 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Step 1: Applicants have to visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "official portal."
+                }
+              ],
+              "link": "https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 2: Click on \""
+            },
+            {
+              "children": [
+                {
+                  "text": "New Registration \""
+                }
+              ],
+              "link": "https://mpfsts.mp.gov.in/mphd/#/new-application",
+              "type": "link"
+            },
+            {
+              "text": "."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 3: Enter your mobile number and click on OTP Send."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 4: Now Fill in the details and upload the documents."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Step 5: After, fill in all the information and upload the document click on the submit button."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Step 1: Applicants have to visit the [official portal.](https://mpfsts.mp.gov.in/mphd/HomeIndex/NewIndex)\nStep 2: Click on &quot;[New Registration &quot;](https://mpfsts.mp.gov.in/mphd/#/new-application).\nStep 3: Enter your mobile number and click on OTP Send.\nStep 4: Now Fill in the details and upload the documents.\nStep 5: After, fill in all the information and upload the document click on the submit button.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "The following subsidy is given to the beneficiary farmers on the production of medicinal and aromatic crops: \nS No.Cropper hectare in rupeesGrant eligibility in Percentagegrant amount in rupees1Amla₹65,000/-20%₹13,000/-2Ashvagandha₹25,000/-20%₹5,000/-3Bell₹40,000/-50%₹20,000/-4Koliyas₹43,000/-20%₹8,600/-5Gudamaar₹25,000/-20%₹5,000/-6Kaalamegh₹25,000/-20%₹5,000/-7Saphed moosalee₹3,12,500/-20%₹62,500/-8Sarpagandha₹62,500/-50%₹31,250/-9Sataavar₹62,500/-20%₹12,500/-10Tulasi₹30,000/-20%₹6,000/-",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "ce18534a32a0fb2779f4bd41ed50dc854886d125e15adf9dcdaa0ca77e5b3219",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The Aushadhi Avam Sugandhit Fasal Shetra Vistar is a scheme under the Horticulture and Food Processing Department of the Madhya Pradesh Government. Madhya Pradesh government provides grants to farmers under this scheme to promote the cultivation of medicinal plants. According to the scheme, farmers are given 20 to 50 percent subsidy for expanding the area of medicinal and aromatic crops suitable to the area.\n<br>\n\n> **Selected Crop**\n\n\n- Amla,\n- Ashvagandha,\n- Bel,\n- Koliyas\n- Gudamaar\n- Kaalamegh\n- Saphed moosalee\n- Sarpagandha\n- Sataavar\n- Tulasi\n\n",
+  "eligibility": "\n1. This scheme will be applicable for all sections.\n1. Farmers who have obtained forest rights certificates to will also be eligible to avail the benefits.\n1. The grant will be payable only once to a farmer.\n1. A farmer can do farming for the first time in as much area as he wants but the grant will be payable for minimum 0.25 hectare and maximum 2.00 hectare.\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:59:24.151933+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:59:24.151933+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture and Food Processing Department",
+    "value": 2300018
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://www.mphorticulture.gov.in/sites/default/files/aushdhiDishanirdesh_page-0001.pdf"
+    },
+    {
+      "title": "Scheme Details",
+      "url": "https://www.mphorticulture.gov.in/sites/default/files/%E0%A4%94%E0%A4%B7%E0%A4%A7%E0%A5%80%E0%A4%AF%20%E0%A4%8F%E0%A4%B5%E0%A4%82%20%E0%A4%B8%E0%A5%81%E0%A4%97%E0%A4%82%E0%A4%A7%E0%A4%BF%E0%A4%A4%20%E0%A4%AB%E0%A4%B8%E0%A4%B2%20%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%A4%E0%A5%8D%E0%A4%B0%20%E0%A4%B5%E0%A4%BF%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A4%BE%E0%A4%B0%20%E0%A4%AF%E0%A5%8B%E0%A4%9C%E0%A4%A8%E0%A4%BE_page-0001.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "65cb4ae1cd96dc5e0751b2a2",
+      "en": {
+        "documentsRequired_md": "\n1. Photo.\n1. Aadhaar Card.\n1. Khasra Number/B1/Copy of Forest Patta.\n1. Bank Passbook.\n1. Birth Certificate.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Photo."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Khasra Number/B1/Copy of Forest Patta."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Passbook."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Birth Certificate."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65cb49daed4030e118d81d3f"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "65cb49daed4030e118d81d3f",
+  "scheme_name": "Aushadhi Avam Sugandhit Fasal Shetra Vistar",
+  "scheme_open_date": "2012-12-12",
+  "scheme_short_title": "AASFSV",
+  "slug": "aasfsv",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Madhya Pradesh",
+    "value": 23
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Farming",
+    "Farmer",
+    "Farm",
+    "Land"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

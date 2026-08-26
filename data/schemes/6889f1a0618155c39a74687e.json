@@ -1,0 +1,242 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should prepare the application on plain paper."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **Financial Assistance:** Provides crucial capital assistance for the construction of large-sized godowns.  - **Infrastructure Development:** Supports the development of essential infrastructure for agricultural activities like processing, grading, cleaning, washing, shortening, packaging, and branding.  - **Enhanced Marketing Capabilities:** Enables unions to strengthen their marketing and selling capabilities, potentially leading to better prices for farmers&amp;#39; produce.  - **Increased Financial Strength for Unions:** Aims to make District and Taluka Purchase-Sale Unions more financially robust and self-reliant.  - **Improved Services for Farmers:** Facilitates the provision of better quality services to farmers through stronger unions and improved facilities.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "017cfa54f9335739c9111cd618614830e2568ea1d0d3eb1981a2186ae413db95",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to financially strengthen district and taluka-level cooperative purchase and sale unions across the state. The scheme is designed to help such unions undertake critical infrastructure projects, including purchasing, processing, grading, cleaning, packaging, storage, branding, and marketing of agricultural produce, which ultimately benefits the farmers with improved services and higher financial returns.\n<br>\n\n",
+  "eligibility": "\n  - Cooperative institutions operating at the taluka or district level within the state of Gujarat are eligible under this scheme.\n  - The institution should be registered under the appropriate cooperative society laws.\n  - The institution should have plans for setting up or expanding facilities like storage godowns, processing units, grading and packaging infrastructure, or branding and marketing systems.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:08:45.958826+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:45.958826+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 176)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6889f1f45674185b680e0e26",
+      "en": {
+        "documentsRequired_md": "\n1. Registration Certificate of the Cooperative Society.\n1. Project Proposal Detailing Infrastructure Plans (including godowns, processing, packaging, branding, or marketing).\n1. Financial Estimates and Cost Breakdown of Proposed Project.\n1. Resolution Copy from the Managing Committee Supporting the Proposal.\n1. Bank Account Details of the Society.\n1. Identity Proof of the Authorised Signatory.\n1. Land Ownership or Lease Documents for Project Site (if applicable).\n1. Utilisation Certificate for Any Previous Government Assistance (if applicable).\n1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Registration Certificate of the Cooperative Society."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal Detailing Infrastructure Plans (including godowns, processing, packaging, branding, or marketing)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Financial Estimates and Cost Breakdown of Proposed Project."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolution Copy from the Managing Committee Supporting the Proposal."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details of the Society."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof of the Authorised Signatory."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership or Lease Documents for Project Site (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Utilisation Certificate for Any Previous Government Assistance (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6889f1a0618155c39a74687e"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "6889f1a0618155c39a74687e",
+  "scheme_name": "Facilitation of Large Size Godowns in APMC and Taluka-District Purchase Sale Union (General)",
+  "scheme_open_date": null,
+  "scheme_short_title": "FLSGDPSUG",
+  "slug": "flsgdpsug",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Entrepreneurship development",
+      "value": "Entrepreneurship development"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture Marketing",
+    "Cooperative Unions",
+    "Infrastructure Support",
+    "Branding",
+    "Grading",
+    "Processing"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

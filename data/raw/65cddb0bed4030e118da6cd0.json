@@ -1,0 +1,330 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65cddb0bed4030e118da6cd0",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration Process:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The bonafide farmers of Meghalaya can dial 1917 from any mobile phone to register with 1917 iTEAMS."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Open to all farmers and buyers to register."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Whom to Contact:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Dial the 1917 TOLL-FREE Number to register."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "process_md": "> **Registration Process:**\n\n\n- The bonafide farmers of Meghalaya can dial 1917 from any mobile phone to register with 1917 iTEAMS.\n\n> **Mode of Selection of Beneficiary(s):**\n\n\n- Open to all farmers and buyers to register.\n\n> **Whom to Contact:**\n\n\n- Dial the 1917 TOLL-FREE Number to register.\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Integrated Technology Enabled Agriculture Management System Or iTEAMS",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ITEAMS",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "ITEAMS",
+            "Integrated Technology",
+            "Agriculture Management System",
+            "Farmer",
+            "Telephone Advice"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Meghalaya."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a bonafide farmer engaged in agriculture."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a resident of Meghalaya.\n1. The applicant should be a bonafide farmer engaged in agriculture.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Free Telephonic advisory, Access to Subject Matter Specialist (SMS), Transport services."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Type of Assistance and Entitlement (If any):",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Telephone advice, free mobile SMS to registered farmers, transport service to evacuate farmers' produce to markets at the rate of INR 2.00 per KM per Quintal."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "> **Pattern of Assistance:**\n\n\n- Free Telephonic advisory, Access to Subject Matter Specialist (SMS), Transport services.\n\n> **Type of Assistance and Entitlement (If any):**\n\n\n  - Telephone advice, free mobile SMS to registered farmers, transport service to evacuate farmers&amp;#39; produce to markets at the rate of INR 2.00 per KM per Quintal.\n\n",
+          "briefDescription": "The scheme was launched by the Department of Agriculture & Farmers’ Welfare, Govt. of Meghalaya to address critical issues of enabling & facilitating access to remunerative & sustainable markets for farmers produce in most transparent & effective manner through facilitation service iTEAM Dial 1917.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Integrated Technology Enabled Agriculture Management System Or iTEAMS” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to address the critical issues of enabling and facilitating access to remunerative and sustainable markets for farmers' produce in the most transparent and effective manner through facilitation service iTEAM Dial 1917, whereby farmers can be assisted on the following activities"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "12/6 Physical Connectivity to Markets."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Access to input suppliers and bidders."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Tailor-made advisory solutions on crops, Package of practices, Animal Health Care, etc."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Assured logistics and Transport solutions at the rate of 0.20/kg/km."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Livelihood options through leasing Agri Response Vehicle. "
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Integrated Technology Enabled Agriculture Management System Or iTEAMS” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to address the critical issues of enabling and facilitating access to remunerative and sustainable markets for farmers&amp;#39; produce in the most transparent and effective manner through facilitation service iTEAM Dial 1917, whereby farmers can be assisted on the following activities\n\n  - 12/6 Physical Connectivity to Markets.\n  - Access to input suppliers and bidders.\n  - Tailor-made advisory solutions on crops, Package of practices, Animal Health Care, etc.\n  - Assured logistics and Transport solutions at the rate of 0.20/kg/km.\n  - Livelihood options through leasing Agri Response Vehicle. \n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesA.aspx?schid=83"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONAGRICULTURESCHEMES.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "iteams"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65cddbe9ed4030e118da6dde",
+      "en": {
+        "documentsRequired_md": "\n1. An active Mobile Number\n1. Other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "An active Mobile Number"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65cddb0bed4030e118da6cd0"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:12.010118+00:00",
+  "scheme_id": "65cddb0bed4030e118da6cd0"
+}

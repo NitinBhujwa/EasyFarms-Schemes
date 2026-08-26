@@ -1,0 +1,224 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "Step 1: The farmers do not need to apply for the scheme, as it is implemented automatically by the Government of Telangana. The state government pays the insurance premium directly to the "
+            },
+            {
+              "children": [
+                {
+                  "text": "Life Insurance Corporation of India (LIC)"
+                }
+              ],
+              "link": "https://licindia.in/",
+              "type": "link"
+            },
+            {
+              "text": " on behalf of the farmers."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "In case of the farmer’s death, the nominee should approach the Department of Agriculture, Government of Telangana, or the LIC office with the required documents, such as the death certificate and proof of nomination, to initiate the claim process."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "Submit the documents to the concerned authority and request a receipt or acknowledgement. The claim amount of ₹5 lakh will be processed and disbursed to the nominee within 10 days."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Note: "
+            },
+            {
+              "text": "The scheme provides coverage without requiring any payment from the farmers, ensuring ease of access to benefits."
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "Step 1: The farmers do not need to apply for the scheme, as it is implemented automatically by the Government of Telangana. The state government pays the insurance premium directly to the [Life Insurance Corporation of India (LIC)](https://licindia.in/) on behalf of the farmers.\n**Step 2:** In case of the farmer’s death, the nominee should approach the Department of Agriculture, Government of Telangana, or the LIC office with the required documents, such as the death certificate and proof of nomination, to initiate the claim process.\n**Step 3:** Submit the documents to the concerned authority and request a receipt or acknowledgement. The claim amount of ₹5 lakh will be processed and disbursed to the nominee within 10 days.\n> **Note:** The scheme provides coverage without requiring any payment from the farmers, ensuring ease of access to benefits.\n\n<br>\n\n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n1. **Financial Security:** Provides ₹5 lakh insurance coverage to farmers&#39; families in case of the farmer&#39;s death, offering substantial financial assistance.\t1. **Inclusive Coverage:** Covers death due to any cause, including natural causes and accidents.\t1. **Quick Disbursement:** Ensures compensation is paid to the nominee within 10 days of the farmer&#39;s death.\t1. **Zero Cost to Farmers:** Farmers are not required to pay any premium, as the state government bears the entire cost on their behalf.\t1. **Wide Beneficiary Base:** Approximately 50 lakh farmers benefit from this scheme annually.\t\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "1b1daa06d7f014d7b976b7f32a91db9e4d49c2fc10be043db32c01afe35fabff",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Launched on 15 August 2018, the scheme &quot;₹5 Lakh Insurance Cover for Farmers&quot; is an Insurance Scheme by the Department of Agriculture, Government of Telangana. This scheme provides ₹5 lakh insurance coverage to all farmers aged between 18 and 60 years, ensuring financial security for their families in case of the farmer&#39;s death, irrespective of the cause. The nominee receives the compensation within 10 days of the farmer&#39;s death. The state government pays an annual premium of nearly ₹500 crore on behalf of around 50 lakh farmers to the Life Insurance Corporation of India (LIC), and farmers do not need to pay a single rupee. The scheme is being implemented by the Life Insurance Corporation of India (LIC).\n",
+  "eligibility": "\n1. The applicant should be a resident farmer of Telangana.\n1. The applicant should be aged between 18 and 60 years.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:55:40.921075+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:55:40.921075+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture and Co-operation Department",
+    "value": 3666661
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://gadwal.telangana.gov.in/scheme/rs-5-lakh-insurance-cover-to-farmers/"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "646279f4aadbb423f42ff4b3",
+      "en": {
+        "documentsRequired_md": "Since the ₹5 Lakh Insurance Cover for Farmers scheme does not require farmers to apply directly, there is no need for the farmers to submit documents for enrollment. The state government automatically covers the premium for eligible farmers.\nHowever, in case of a claim due to the death of a farmer, the following documents are required for the nominee to receive the ₹5 lakh compensation:\n- Death Certificate of the farmer (issued by a competent authority).\n- Nominee’s identity proof (Aadhar card, voter ID, etc.).\n- Proof of Nomination (if applicable).\n- Farmer’s Aadhaar Card or other identification documents (if needed).\n- Any other documents as specified by the Life Insurance Corporation of India (LIC) or the Department of Agriculture.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Since the ₹5 Lakh Insurance Cover for Farmers scheme does not require farmers to apply directly, there is no need for the farmers to submit documents for enrollment. The state government automatically covers the premium for eligible farmers."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "However, in case of a claim due to the death of a farmer, the following documents are required for the nominee to receive the ₹5 lakh compensation:"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "Death Certificate of the farmer (issued by a competent authority)."
+              }
+            ],
+            "type": "list_item"
+          },
+          {
+            "children": [
+              {
+                "text": "Nominee’s identity proof (Aadhar card, voter ID, etc.)."
+              }
+            ],
+            "type": "list_item"
+          },
+          {
+            "children": [
+              {
+                "text": "Proof of Nomination (if applicable)."
+              }
+            ],
+            "type": "list_item"
+          },
+          {
+            "children": [
+              {
+                "text": "Farmer’s Aadhaar Card or other identification documents (if needed)."
+              }
+            ],
+            "type": "list_item"
+          },
+          {
+            "children": [
+              {
+                "text": "Any other documents as specified by the Life Insurance Corporation of India (LIC) or the Department of Agriculture."
+              }
+            ],
+            "type": "list_item"
+          }
+        ]
+      },
+      "schemeId": "646279ab82a71a879d52389c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "646279ab82a71a879d52389c",
+  "scheme_name": "₹ 5 Lakh Insurance Cover To Farmers",
+  "scheme_open_date": "2018-08-15",
+  "scheme_short_title": "LICF",
+  "slug": "farmer-insurance",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Telangana",
+    "value": 36
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "LIC",
+    "Insurance Coverage",
+    "Financial",
+    "Security"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

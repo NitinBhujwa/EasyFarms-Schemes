@@ -1,0 +1,231 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " The Interested parties should contact the regional offices of the Forest and Climate Change Department. Regional staff and representatives will engage with potential applicants to confirm their willingness to participate."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " Submit the application form along with required documents to the nearest forest office. The forest department will verify the land and documents submitted by the applicant."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Upon successful verification, the application will be approved, and the beneficiary will be notified."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " The beneficiary will carry out the plantation as per the guidelines provided by the department."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5:",
+              "underline": true
+            },
+            {
+              "text": " Upon verifying eligibility and project feasibility, financial aid (as outlined) is provided either fully or partially, based on land size and category."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*The department will monitor the plantation for three years, and subsequent disbursements will be based on the survival rate of the plants."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The Interested parties should contact the regional offices of the Forest and Climate Change Department. Regional staff and representatives will engage with potential applicants to confirm their willingness to participate.\n**Step 2:** Submit the application form along with required documents to the nearest forest office. The forest department will verify the land and documents submitted by the applicant.\n**Step 3:** Upon successful verification, the application will be approved, and the beneficiary will be notified.\n**Step 4:** The beneficiary will carry out the plantation as per the guidelines provided by the department.\n**Step 5:** Upon verifying eligibility and project feasibility, financial aid (as outlined) is provided either fully or partially, based on land size and category.\n_*The department will monitor the plantation for three years, and subsequent disbursements will be based on the survival rate of the plants._\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "> **Financial Assistance**\n\n\n- 100% financial assistance for plantation on up to 5 acres of land (maximum 5,000 plants).\n- 50% financial assistance for plantation on more than 5 acres of land (maximum 1,000 plants per acre).\n- 50% financial assistance for private educational institutions, private trusts, panchayats, and leased landholders.\n\n> **Buyback Assurance**\n\nThe government ensures buyback of produce like eucalyptus, bamboo, and other economically beneficial trees at a predetermined support price. The scheme also involves private companies and supportive organizations for financial collaboration and buyback assurance.\n> **Employment Generation**\n\nThe scheme aims to create employment opportunities through plantation activities.\n> **Mode of Disbursement**\n\nFinancial assistance is disbursed directly to the beneficiaries&#39; accounts after verification of plantation work.\n> **Frequency of Disbursement**\n\nAssistance is provided over three years, with yearly disbursements based on the survival rate of plants.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "4b939969cca1646daf3bb155f340516e222126a34bb666d79f33862a9255a78b",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Kisan Vriksha Mitra Yojana&quot; by the Department of Forest, Environment, and Climate Change, Government of Chhattisgarh, aims to promote commercial tree plantation on private lands of farmers and other stakeholders. The scheme seeks to increase farmers&#39; income, reduce the financial burden on the government, and generate employment opportunities. Eligible beneficiaries include farmers, private educational institutions, private trusts, panchayats, and leased landholders. The scheme is implemented by the Department of Forest, Environment, and Climate Change in collaboration with private companies and supportive organizations.\n",
+  "eligibility": "The following are eligible -\n\n- Farmers with private land.\n- Private educational institutions.\n- Private trusts.\n- Panchayats.\n- Leased landholders.\n\n_*Priority is given to farmers and stakeholders who are willing to plant commercially viable tree species like eucalyptus, bamboo, and others._\n",
+  "exclusions": "Land under compensatory afforestation as per the Forest Conservation Act is not eligible for benefits under this scheme.\n",
+  "first_seen_at": "2026-08-26T14:08:39.441585+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:39.441585+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Forest Department",
+    "value": 2200013
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://forest.cg.gov.in/cms/media/c2829936-7c12-4f57-88af-c724e57b3ce5_kvmy_img.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67cdbaf8a1c0d380adeaec2a",
+      "en": {
+        "documentsRequired_md": "\n- Land Ownership Documents.\n- Bank Account Details.\n- Aadhaar Card.\n- Proof of Identity (for Private Institutions and Trusts).\n- Lease Agreement (for Leased Landholders).\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership Documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Identity (for Private Institutions and Trusts)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Lease Agreement (for Leased Landholders)."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67cdbaeca1c0d380adeaec1c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67cdbaeca1c0d380adeaec1c",
+  "scheme_name": "Kisan Vriksha Mitra Yojana",
+  "scheme_open_date": null,
+  "scheme_short_title": "KVMY",
+  "slug": "kvmy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Chhattisgarh",
+    "value": 22
+  },
+  "subcategories": [
+    {
+      "label": "Wildlife and biodiversity",
+      "value": "Wildlife and biodiversity"
+    },
+    {
+      "label": "Environmental management and protection",
+      "value": "Environmental management and protection"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Forest",
+    "Environment",
+    "Tree",
+    "Plantation",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

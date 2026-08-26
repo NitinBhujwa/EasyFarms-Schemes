@@ -1,0 +1,203 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: "
+            },
+            {
+              "text": "The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:"
+            },
+            {
+              "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:"
+            },
+            {
+              "text": " Submit the duly filled and signed application form along with the documents to the District Fisheries Office."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:"
+            },
+            {
+              "text": " Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Fisheries Office and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Fisheries Office.\n**Step 4:** Request a receipt or acknowledgment from the District Fisheries Office to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n- A 60% subsidy or up to ₹3,60,000/- for purchasing four-wheeler transport vans for fisheries cooperative societies.\n- Up to ₹1,00,000/- subsidy for setting up aquarium shops with necessary equipment.\n\n<br>\n\n**NOTE:** Assistance provided through DBT (Direct Benefit Transfer) into the beneficiary&#39;s Escrow Account.\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "bffd97061b9df73701d3686e6afa4062ad949de5d3727cda91a7dca9e46db141",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Fish Marketing Scheme&quot; by the Fisheries Division, Department of Agriculture, Animal Husbandry &amp; Cooperation, Government of Jharkhand, aims to provide financial assistance for fish marketing and transportation. Through this scheme, subsidies are provided to fisheries cooperative societies and their members for purchasing four-wheeler transport vans and setting up aquarium shops. The scheme is implemented by the Directorate of Fisheries, Jharkhand.\n",
+  "eligibility": "\n1. The applicant should be a member of a registered fisheries cooperative society.\n1. The applicant should be involved in fish marketing or seed transportation.\n1. The applicant should contribute their share of the vehicle cost.\n1. For aquarium shop setup, the applicant should be trained in ornamental fish farming.\n1. Preference is given to women trained under fishery research and training programs.\n1. Persons with disabilities (PwD) trained in ornamental fish farming receive top priority.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:09:53.149555+00:00",
+  "implementing_agency": "Directorate Of Fisheries, Jharkhand",
+  "last_synced_at": "2026-08-26T14:09:53.149555+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Department of Agriculture, Animal Husbandry & Co-operative",
+    "value": 2000027
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://jharkhandfisheries.org/orders/2023/Rajyadesh-%20Matsya%20Vipanan%20Yojana-%20letter%20no.%2011%20RA%20(VI)%20dated%2016.06.2023.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67a4aac6da50340fc8f1121e",
+      "en": {
+        "documentsRequired_md": "\n- Membership Proof of Fisheries Cooperative Society\n- Training Certificate (for aquarium shop setup)\n- Quotation for vehicle/equipment purchase\n- Bank Account Details\n- Disability Certificate (if applicable)\n- Business Plan for Fish Marketing (if applicable)\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Membership Proof of Fisheries Cooperative Society"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Training Certificate (for aquarium shop setup)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Quotation for vehicle/equipment purchase"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Disability Certificate (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Business Plan for Fish Marketing (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "67a4aaa31269f7da410bda87"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Infra",
+  "scheme_id": "67a4aaa31269f7da410bda87",
+  "scheme_name": "Fish Marketing Scheme",
+  "scheme_open_date": null,
+  "scheme_short_title": "FMS",
+  "slug": "fms",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Jharkhand",
+    "value": 20
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Financial Assistance",
+    "Four-wheeler",
+    "Marketing"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Registered Societies",
+      "value": "registered-societies"
+    }
+  ]
+}

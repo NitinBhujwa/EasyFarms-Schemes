@@ -1,0 +1,357 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Registration Process:"
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 1: "
+                    },
+                    {
+                      "text": "The applicant may visit and apply online at the "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "I-Khedut"
+                        }
+                      ],
+                      "link": "https://ikhedut.gujarat.gov.in/",
+                      "type": "link"
+                    },
+                    {
+                      "text": " Portal."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 2:"
+                    },
+                    {
+                      "text": " Click on 'Login' from the top right-hand side, then click on \"Beneficiary Registration\" and select any one from the 'Farmer' or 'Institutional' or 'Except For the Farmer' as the Beneficiary Type."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 3:"
+                    },
+                    {
+                      "text": " Select the District, Taluka, and Village, choose 'what type of account holder you are?', enter your Account Number and Name, solve the Captcha, and click 'Save and Next'."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 4:"
+                    },
+                    {
+                      "text": " Enter your Mobile Number and Email address, click 'Send OTP', enter the received OTP, create and confirm a Password, solve the Captcha, and click 'Submit'."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Login Process:"
+                    },
+                    {
+                      "text": " "
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 1:"
+                    },
+                    {
+                      "text": " The applicant may visit and apply online at the "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "I-Khedut"
+                        }
+                      ],
+                      "link": "https://ikhedut.gujarat.gov.in/site/",
+                      "type": "link"
+                    },
+                    {
+                      "text": " Portal."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 2:"
+                    },
+                    {
+                      "text": " Click on 'Login' from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 3:"
+                    },
+                    {
+                      "text": " Now select the scheme, click on the ‘Apply’ button, and an application page will open."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 4:"
+                    },
+                    {
+                      "text": " Click on the \"Apply New\" button and submit a new application."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 5:"
+                    },
+                    {
+                      "text": " Click on the \"Update Application\" button to add corrections to the application."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 6:"
+                    },
+                    {
+                      "text": " Once the application is done, confirm it."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Step 7:"
+                    },
+                    {
+                      "text": " Take a printout of the confirmed application."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Contact Us:"
+                    },
+                    {
+                      "text": " "
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Click here"
+                        }
+                      ],
+                      "link": "https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx",
+                      "type": "link"
+                    },
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "&amp;gt; **Registration Process:**\n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side, then click on &amp;amp;quot;Beneficiary Registration&amp;amp;quot; and select any one from the &amp;amp;#39;Farmer&amp;amp;#39; or &amp;amp;#39;Institutional&amp;amp;#39; or &amp;amp;#39;Except For the Farmer&amp;amp;#39; as the Beneficiary Type.\n**Step 3:** Select the District, Taluka, and Village, choose &amp;amp;#39;what type of account holder you are?&amp;amp;#39;, enter your Account Number and Name, solve the Captcha, and click &amp;amp;#39;Save and Next&amp;amp;#39;.\n**Step 4:** Enter your Mobile Number and Email address, click &amp;amp;#39;Send OTP&amp;amp;#39;, enter the received OTP, create and confirm a Password, solve the Captcha, and click &amp;amp;#39;Submit&amp;amp;#39;.\n&amp;gt; **Login Process:** \n\n**Step 1:** The applicant may visit and apply online at the [I-Khedut](https://ikhedut.gujarat.gov.in/site/) Portal.\n**Step 2:** Click on &amp;amp;#39;Login&amp;amp;#39; from the top right-hand side of the homepage. On the home page, click on ‘Schemes’ and then click on ‘Agricultural Schemes’.\n**Step 3:** Now select the scheme, click on the ‘Apply’ button, and an application page will open.\n**Step 4:** Click on the &amp;amp;quot;Apply New&amp;amp;quot; button and submit a new application.\n**Step 5:** Click on the &amp;amp;quot;Update Application&amp;amp;quot; button to add corrections to the application.\n**Step 6:** Once the application is done, confirm it.\n**Step 7:** Take a printout of the confirmed application.\n&amp;gt; **Contact Us:** [Click here](https://ikhedut.gujarat.gov.in/Public/frm_Public_Contacts.aspx)\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - **High-Density and Ultra High-Density Plantations:** Farmers can receive assistance ranging from ₹30,000/- to ₹40,000/- per hectare for crops like mango, guava, lemon, and pomegranate, with a maximum limit of 4 hectares per beneficiary.  - **Tissue-Culture Banana Cultivation:** The assistance covers 40% of the expenditure incurred or ₹50,000/-, whichever is less, per beneficiary, with a limit of 4 hectares.  - **Papaya Cultivation:** Farmers can receive assistance of 50% of the cost or a maximum of ₹30,000/- per hectare.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "6c41bcd5a4fe0c8274680d9cd47030afcffcb4dae290d52ea7cb5eb66c4e83e9",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Assistance for Area Expansion in Fruit Crops&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to enhance the production and productivity of fruit crops by providing financial assistance to farmers for adopting advanced cultivation methods such as high-density and ultra-high-density plantations like Mango, Guava, Lemon, and Pomegranate etc. This initiative supports the state’s agricultural growth and helps farmers increase their income through modern horticultural practices.\n<br>\n\n<br>\n\n",
+  "eligibility": "\n  - The applicant should be a resident of Gujarat.\n  - The applicant should be a farmer.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:08.072064+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:08.072064+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines (Scheme No. 52)",
+      "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6899747ec3d0775ce33e9cb5",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate.\n1. Aadhaar Card.\n1. Bank Pass Book/Cancelled Cheque.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6899746fda40380f9853c428"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6899746fda40380f9853c428",
+  "scheme_name": "Assistance for Area Expansion in Fruit crops",
+  "scheme_open_date": null,
+  "scheme_short_title": "AFAEFC",
+  "slug": "afaefc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Fruit Crop",
+    "High Density Plantation",
+    "Tissue Culture Banana",
+    "Papaya Cultivation",
+    "Farmer"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

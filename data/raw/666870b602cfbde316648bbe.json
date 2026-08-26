@@ -1,0 +1,1031 @@
+{
+  "detail": {
+    "data": {
+      "_id": "666870b602cfbde316648bbe",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Registration Process on Antyodaya-SARAL Portal:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " Any eligible applicant shall have to apply online on the Official Portal- Antyodaya-SARAL Portal. "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://saralharyana.gov.in/"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02: "
+                      },
+                      {
+                        "text": "If the applicant is not registered on the portal, he/she gets registered there. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03: "
+                      },
+                      {
+                        "text": "For registration, click “"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "New User"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/citizenRegistration.html",
+                        "type": "link"
+                      },
+                      {
+                        "text": "” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password & State. Click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Verify your mobile number and email ID through the received OTP and complete the registration process."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Login to apply for the scheme:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " To avail the benefits of the scheme, visit the Official "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal"
+                          }
+                        ],
+                        "link": "https://saralharyana.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": " and log in through the email ID used while registering."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " Enter Password & Captcha and click on ‘Login’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 05:"
+                      },
+                      {
+                        "text": " Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 06:"
+                      },
+                      {
+                        "text": " Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”"
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 07:"
+                      },
+                      {
+                        "text": " Fill in all the mandatory details and upload all the mandatory documents."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 08:"
+                      },
+                      {
+                        "text": " Preview the application form and click on ‘Submit’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Tracking of Application:"
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicants can track his/her application through the Official "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "Antyodaya-SARAL Portal"
+                          }
+                        ],
+                        "link": "https://status.saralharyana.nic.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": " by entering their Department Name, Scheme Name, and Application Reference ID. "
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Selection of beneficiaries and sponsoring the case to Banks for sanction of loan:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The Deputy Director of the concerned district would examine the applications received on the portal on a first come first serve basis. Applications not found in order would be rejected with the comments on the portal. The applications found in order will be accepted and forwarded to the concerned Sub Divisional Officer within a period of three working days"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The valid applications along with attached documents clearly indicating the required amount of loan would be sent to the concerned service provider area bank by the Sub Divisional Officer through Email with in a period of three working days in the format annexed as "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "Annexure-I"
+                              }
+                            ],
+                            "link": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/HTDU%20Scheme.pdf",
+                            "type": "link"
+                          },
+                          {
+                            "text": "."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Registration Process on Antyodaya-SARAL Portal:**\n\n**Step 01:** Any eligible applicant shall have to apply online on the Official Portal- Antyodaya-SARAL Portal. [https://saralharyana.gov.in/](https://saralharyana.gov.in/)\n**Step 02:** If the applicant is not registered on the portal, he/she gets registered there. \n**Step 03:** For registration, click “[New User](https://saralharyana.gov.in/citizenRegistration.html)” under ‘Sign In Here’ and fill in all the mandatory details i.e. Name, Email ID, Mobile Number, Password &amp;amp; State. Click on ‘Submit’.\n**Step 04:** Verify your mobile number and email ID through the received OTP and complete the registration process.\n&gt; **Login to apply for the scheme:**\n\n**Step 01:** To avail the benefits of the scheme, visit the Official [Antyodaya-SARAL Portal](https://saralharyana.gov.in/) and log in through the email ID used while registering.\n**Step 02:** Enter Password &amp;amp; Captcha and click on ‘Login’.\n**Step 03:** After successful login, click on ‘Apply for Services’ and then ‘View all Available Services’\n**Step 04:** Now, you can search for the scheme and click on the scheme to go ahead and fill out the application form.\n**Step 05:** Enter your Parivar Pehchan Patra number- Family ID and click on “Click here to Fetch Family Data” which displays the family members registered under the given Family ID.\n**Step 06:** Select the beneficiary/applicant name and enter the OTP that is being sent to the selected family member for verification. Click on “Click to Verify”\n**Step 07:** Fill in all the mandatory details and upload all the mandatory documents.\n**Step 08:** Preview the application form and click on ‘Submit’.\n&gt; **Tracking of Application:**\n\nApplicants can track his/her application through the Official [Antyodaya-SARAL Portal](https://status.saralharyana.nic.in/) by entering their Department Name, Scheme Name, and Application Reference ID. \n&gt; **Selection of beneficiaries and sponsoring the case to Banks for sanction of loan:**\n\n\n  - The Deputy Director of the concerned district would examine the applications received on the portal on a first come first serve basis. Applications not found in order would be rejected with the comments on the portal. The applications found in order will be accepted and forwarded to the concerned Sub Divisional Officer within a period of three working days\n  - The valid applications along with attached documents clearly indicating the required amount of loan would be sent to the concerned service provider area bank by the Sub Divisional Officer through Email with in a period of three working days in the format annexed as [Annexure-I](https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/HTDU%20Scheme.pdf).\n"
+          },
+          {
+            "mode": "Online - via CSC",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "The applicants may submit the applications through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres or any other such centre."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "The applicants may submit the applications through Common Service Centres, Antodaya Kendra, Atal Sewa Kendra, e-disha Centres or any other such centre.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Animal Husbandry & Dairying, Government Of Haryana",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Animal Husbandry & Dairying Department",
+            "value": 666663
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Scheme for Establishment of Hi-Tech and Mini Dairy Units",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SEHTMDU",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Haryana",
+            "value": 6
+          },
+          "tags": [
+            "Mini Dairy Unit",
+            "Hi-Tech",
+            "Animal Husbandry",
+            "Self-employment",
+            "Unemployed",
+            "Milch Animal",
+            "Interest Subvention",
+            "Subsidy",
+            "Financial Assistance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be 18 to 55 years of age and a resident of Haryana."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant must be unemployed (employment even in the private sector will bar an applicant from availing assistance under the Scheme)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "There would be no mandatory educational qualifications or training requirements."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should have space/shed for keeping milch animals."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant will have to submit a Self-Declaration for being unemployed and for undertaking to abide by other conditions as required under the Scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant applying for 20 and 50 animal dairy units must have 2-acre and 5-acre agricultural land for green fodder production respectively by way of ownership or long lease."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Any applicant who has earlier availed benefits under any Departmental Scheme for the establishment of livestock units will not be eligible for availing benefits under the Scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 1:"
+                    },
+                    {
+                      "text": " Any applicant who has earlier availed the benefit of the Departmental Scheme for the establishment of a dairy unit below 20 milch animals that applicant will also be eligible for availing of benefit under the Scheme of Dairy unit of 20 and 50 mulch animals only."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 2: "
+                    },
+                    {
+                      "text": "In case an applicant lives at a place other than where the animals are kept or intended to be kept, than the jurisdiction area Government Veterinary Hospital will be the place where animals are kept or intended to be kept (Within state of Haryana only)."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": " "
+                    },
+                    {
+                      "bold": true,
+                      "text": "Margin Money for 4 and 10 Milch Animal dairy Units only (25 % Subsidy):",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary will have to arrange margin money, as per bank requirements, rest of the amount will have to be arranged as a loan from banks."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Margin Money for 20 and 50 Milch Animal dairy Units only (Interest Subvention):",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The beneficiary will have to arrange margin money, which will be 25% of the Unit Cost ( Livestock Cost only) and the rest of the amount will have to be arranged as a loan from banks."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant should be 18 to 55 years of age and a resident of Haryana.\n   1. The applicant must be unemployed (employment even in the private sector will bar an applicant from availing assistance under the Scheme).\n   1. There would be no mandatory educational qualifications or training requirements.\n   1. The applicant should have space/shed for keeping milch animals.\n   1. The applicant will have to submit a Self-Declaration for being unemployed and for undertaking to abide by other conditions as required under the Scheme.\n   1. The applicant applying for 20 and 50 animal dairy units must have 2-acre and 5-acre agricultural land for green fodder production respectively by way of ownership or long lease.\n   1. Any applicant who has earlier availed benefits under any Departmental Scheme for the establishment of livestock units will not be eligible for availing benefits under the Scheme.\n\n**Note 1:** Any applicant who has earlier availed the benefit of the Departmental Scheme for the establishment of a dairy unit below 20 milch animals that applicant will also be eligible for availing of benefit under the Scheme of Dairy unit of 20 and 50 mulch animals only.\n**Note 2:** In case an applicant lives at a place other than where the animals are kept or intended to be kept, than the jurisdiction area Government Veterinary Hospital will be the place where animals are kept or intended to be kept (Within state of Haryana only).\n&gt;  **Margin Money for 4 and 10 Milch Animal dairy Units only (25 % Subsidy):**\n\nThe beneficiary will have to arrange margin money, as per bank requirements, rest of the amount will have to be arranged as a loan from banks.\n&gt; **Margin Money for 20 and 50 Milch Animal dairy Units only (Interest Subvention):**\n\nThe beneficiary will have to arrange margin money, which will be 25% of the Unit Cost ( Livestock Cost only) and the rest of the amount will have to be arranged as a loan from banks.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Financial Assistance for Interest Subvention under the Scheme:",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Dairy units of 4 and 10 milch animals:",
+                      "underline": true
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "25% subsidy on the cost of milch animals can be availed as a loan for the purchase of these milch animals by the beneficiary for the establishment of dairy units of 4 and 10 milch animals;"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The subsidy will be provided three months after the purchase/tagging of Milch animals or disbursement of Loan by the bank, whichever is later, and subject to verification of unit by the concerned veterinary surgeon."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Dairy units of 20 and 50 milch animals:",
+                      "underline": true
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Interest subvention on 75% cost of milch animals (25% being the margin money) can be availed as a loan for the purchase of these milch animals by the beneficiary for the establishment of dairy units of 20 and 50 milch animals;"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The financial assistance will be provided in the form of interest subvention on loan amount financed by the bank (For Livestock Component only)."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The maximum amount for which interest subvention will be provided is as follows:-"
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Type of Dairy Unit"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Maximum Cost of Unit (Livestock component only) (in ₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Max Limit of Loan amount as 75% of Total (for Interest Subvention) (in ₹)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "20 Milch Animals"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "20 Lakhs"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "15 Lakhs"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "50 Milch Animals"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "50 Lakhs"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "37.50 Lakhs"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note:"
+                    },
+                    {
+                      "text": " The Interest Subvention will be provided for the purchase of livestock components only and on the basis of the Maximum limit of the loan amount as shown in the above table or the loan amount financed by the Bank, whichever is lower."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Financial Assistance for Insurance of Livestock Unit:",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "If any Livestock Insurance Scheme is operational by the Department or Haryana Livestock Development Board then the insurance of animals purchased for the establishment of unit is to be covered under that Scheme, wherever permissible."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "However, if no Livestock Insurance Scheme is operational then the Beneficiary/Bank would have to arrange for the insurance of the animals at their own."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "The department would assist the beneficiaries in establishing these units in the following ways:",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Sponsoring of loan applications to banks / financial institutions."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Purchase of animals, tagging, and issuance of Health certificates."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Providing Veterinary health and other facilities like free vaccination and management guidance etc."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Imparting 11 days of Dairy husbandry training at the concerned Sub Division I District Level in the State to the desirous persons."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "&gt; **Financial Assistance for Interest Subvention under the Scheme:**\n\n**Dairy units of 4 and 10 milch animals:**\n\n  - 25% subsidy on the cost of milch animals can be availed as a loan for the purchase of these milch animals by the beneficiary for the establishment of dairy units of 4 and 10 milch animals;\n  - The subsidy will be provided three months after the purchase/tagging of Milch animals or disbursement of Loan by the bank, whichever is later, and subject to verification of unit by the concerned veterinary surgeon.\n\n**Dairy units of 20 and 50 milch animals:**\n\n  - Interest subvention on 75% cost of milch animals (25% being the margin money) can be availed as a loan for the purchase of these milch animals by the beneficiary for the establishment of dairy units of 20 and 50 milch animals;\n  - The financial assistance will be provided in the form of interest subvention on loan amount financed by the bank (For Livestock Component only).\n  - The maximum amount for which interest subvention will be provided is as follows:-\n\n**Sl. No.****Type of Dairy Unit****Maximum Cost of Unit (Livestock component only) (in ₹)****Max Limit of Loan amount as 75% of Total (for Interest Subvention) (in ₹)**120 Milch Animals20 Lakhs15 Lakhs250 Milch Animals50 Lakhs37.50 Lakhs**Note:** The Interest Subvention will be provided for the purchase of livestock components only and on the basis of the Maximum limit of the loan amount as shown in the above table or the loan amount financed by the Bank, whichever is lower.\n&gt; **Financial Assistance for Insurance of Livestock Unit:**\n\n\n  - If any Livestock Insurance Scheme is operational by the Department or Haryana Livestock Development Board then the insurance of animals purchased for the establishment of unit is to be covered under that Scheme, wherever permissible.\n  - However, if no Livestock Insurance Scheme is operational then the Beneficiary/Bank would have to arrange for the insurance of the animals at their own.\n\n&gt; **The department would assist the beneficiaries in establishing these units in the following ways:**\n\n\n  - Sponsoring of loan applications to banks / financial institutions.\n  - Purchase of animals, tagging, and issuance of Health certificates.\n  - Providing Veterinary health and other facilities like free vaccination and management guidance etc.\n  - Imparting 11 days of Dairy husbandry training at the concerned Sub Division I District Level in the State to the desirous persons.\n\n",
+          "briefDescription": "Under this scheme, unemployed persons will be assisted by way of providing financial assistance in form of subsidy for establishing dairy units of 4, 10, 20 & 50 milch animals like buffaloes, indigenous cows (Hariana, Sahiwal, Belahi, Red Sindhi, Tharparkar and Gir breeds only) and crossbred cows.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Scheme for Establishment of Hi-Tech and Mini Dairy Units” is implemented by the Department of Animal Husbandry & Dairying, Government of Haryana. This is a credit-linked scheme with a primary objective of providing self-employment opportunities. The unemployed persons will be assisted by way of providing financial assistance in the form of subsidies for establishing dairy units of 4, 10, 20, and 50 milch animals like buffaloes, indigenous cows (Hariana, Sahiwal, Belahi, Red Sindhi, Tharparkar, and Gir breeds only) and crossbred cows."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Medium-term objectives:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "To provide gainful self-employment to the unemployed persons."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To supplement the income of the families of the beneficiaries."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To raise the socio-economic status of the weaker sections/Antyodaya families of the society."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To commercialize dairy units by encouraging small dairy unit owners to increase the size of their unit to 20 and 50 milch animals."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Long-term objectives:"
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Creation of employment opportunities through Animal Husbandry activities."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To increase milk production and Dairy products."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To upgrade and develop valuable Breeds/Germplasm available in the State."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To increase per Capita milk availability in the state."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Scheme for Establishment of Hi-Tech and Mini Dairy Units” is implemented by the Department of Animal Husbandry &amp;amp; Dairying, Government of Haryana. This is a credit-linked scheme with a primary objective of providing self-employment opportunities. The unemployed persons will be assisted by way of providing financial assistance in the form of subsidies for establishing dairy units of 4, 10, 20, and 50 milch animals like buffaloes, indigenous cows (Hariana, Sahiwal, Belahi, Red Sindhi, Tharparkar, and Gir breeds only) and crossbred cows.\n**Medium-term objectives:**\n\n  - To provide gainful self-employment to the unemployed persons.\n  - To supplement the income of the families of the beneficiaries.\n  - To raise the socio-economic status of the weaker sections/Antyodaya families of the society.\n  - To commercialize dairy units by encouraging small dairy unit owners to increase the size of their unit to 20 and 50 milch animals.\n\n**Long-term objectives:**\n\n  - Creation of employment opportunities through Animal Husbandry activities.\n  - To increase milk production and Dairy products.\n  - To upgrade and develop valuable Breeds/Germplasm available in the State.\n  - To increase per Capita milk availability in the state.\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Any group/firm/organization will not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "exclusions_md": "Any group/firm/organization will not be permitted to apply under the Scheme, as the Scheme is individual beneficiary-oriented.\n",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://pashudhanharyana.gov.in/"
+            },
+            {
+              "title": "Guidelines",
+              "url": "https://pashudhanharyana.gov.in/sites/default/files/documents/Scheme%202023-24/HTDU%20Scheme.pdf"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://kms.saralharyana.nic.in/ViewDoc?Id=yZ3w5z%2fkolpOApstyk7USA%3d%3d"
+            },
+            {
+              "title": "Antyodaya-SARAL Portal",
+              "url": "https://saralharyana.gov.in/"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "sehtmdu"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "666870d202cfbde316648beb",
+      "en": {
+        "documentsRequired_md": "\n1. Privaar Pahchan Patra (PPP ID)\n1. Copy of Aadhaar Card\n1. Copy of PAN Card\n1. Copy of Bank Passbook or Cancelled Cheque\n1. Photo of Availability of shed/space for keeping animals \n1. Any other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Privaar Pahchan Patra (PPP ID)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of PAN Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook or Cancelled Cheque"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photo of Availability of shed/space for keeping animals "
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "666870b602cfbde316648bbe"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:56:33.369856+00:00",
+  "scheme_id": "666870b602cfbde316648bbe"
+}

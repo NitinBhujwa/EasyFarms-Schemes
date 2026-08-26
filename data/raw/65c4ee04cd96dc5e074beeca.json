@@ -1,0 +1,483 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65c4ee04cd96dc5e074beeca",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Application Process:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Step 01: The eligible bonafide farmer can apply/write an application on plain paper."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Step 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required)."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Step 03: Submit the duly filled and signed application along with the required documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Mode of Selection of Beneficiary(s):",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bonafide farmers on a first come first serve basis."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Whom to Contact:",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "1. "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "District Horticulture Officer"
+                      }
+                    ],
+                    "link": "https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "2. Horticulture Development Officer."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Application Process:**\n\nStep 01: The eligible bonafide farmer can apply/write an application on plain paper.\nStep 02: Along with the application, attach copies of all the mandatory documents (self-attest, if required).\nStep 03: Submit the duly filled and signed application along with the required documents at your nearest office of the Horticulture Development Officer of a CD Block/ Horticulture Circle.\n> **Mode of Selection of Beneficiary(s):**\n\nBonafide farmers on a first come first serve basis.\n> **Whom to Contact:**\n\n1. [District Horticulture Officer](https://megagriculture.gov.in/PUBLIC/contacts_horticulture.aspx)\n2. Horticulture Development Officer.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Department Of Agriculture & Farmers’ Welfare, Government Of Meghalaya",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 1777771
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Family",
+          "schemeName": "Tea Development Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TDS",
+          "schemeSubCategory": [
+            {
+              "label": "Agricultural Inputs- seeds, fertilizer etc.",
+              "value": "Agricultural Inputs- seeds, fertilizer etc."
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Meghalaya",
+            "value": 17
+          },
+          "tags": [
+            "Tea",
+            "Farmer",
+            "Financial Assistance",
+            "Agriculture",
+            "Horticulture",
+            "Tea Grower",
+            "Subsidy"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant/farmer should be a resident of Meghalaya."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of not exceeding 2 Ha/family."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Note: ",
+                  "underline": true
+                },
+                {
+                  "text": "The applicant farmer can avail of the benefits of the scheme on a first come first serve basis."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The applicant/farmer should be a resident of Meghalaya.\n   1. The applicant should be a bonafide farmer engaged in Agriculture, possessing own or leased land of not exceeding 2 Ha/family.\n\n**Note:** The applicant farmer can avail of the benefits of the scheme on a first come first serve basis.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Pattern of Assistance:",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Seedlings are offered for sale at the rate ₹1/- per tea seedling and one-time financial assistance at the rate ₹10,000/- per hectare."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "PP chemicals, equipment, brush cutters, tea harvesters, etc. on sale at the rate of 50% subsidy."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Type of Assistance and Entitlement (If any):",
+                      "underline": true
+                    }
+                  ],
+                  "type": "block_quote"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Sl. No."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Entitlement"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Owantum of Assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "1"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Training programme to the Tea Growers at Village"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "100% assistance"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "2"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "To promote tea plantation by providing tea seedlings to the growers at the District level/ Tea Development Centre."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "₹1/- per seedling sale to the growers"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "3"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Sale of Bio fertilizers, Bio pesticides, Bio fungicides, equipment, etc. to the tea growers by Tea Development Centre situated at Umsning, Rongram, Riangdo."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "50% subsidy sale to the growers."
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            }
+          ],
+          "benefits_md": "> **Pattern of Assistance:**\n\n\n   1. Seedlings are offered for sale at the rate ₹1/- per tea seedling and one-time financial assistance at the rate ₹10,000/- per hectare.\n   1. PP chemicals, equipment, brush cutters, tea harvesters, etc. on sale at the rate of 50% subsidy.\n\n&gt; **Type of Assistance and Entitlement (If any):**\n\n**Sl. No.****Entitlement****Owantum of Assistance**1Training programme to the Tea Growers at Village100% assistance2To promote tea plantation by providing tea seedlings to the growers at the District level/ Tea Development Centre.₹1/- per seedling sale to the growers3Sale of Bio fertilizers, Bio pesticides, Bio fungicides, equipment, etc. to the tea growers by Tea Development Centre situated at Umsning, Rongram, Riangdo.50% subsidy sale to the growers.",
+          "briefDescription": "The objective of the scheme is to continue the experimental plantation of tea and to find the possibility of growing tea economically as well as on a commercial scale.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Tea Development Scheme” was launched by the Department of Agriculture & Farmers’ Welfare, Government of Meghalaya to continue the experimental plantation of tea and to find the possibility of growing tea economically as well as on a commercial scale. Further, seedlings are raised in the experimental station and distributed free to farmers."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Tea Development Scheme” was launched by the Department of Agriculture &amp;amp; Farmers’ Welfare, Government of Meghalaya to continue the experimental plantation of tea and to find the possibility of growing tea economically as well as on a commercial scale. Further, seedlings are raised in the experimental station and distributed free to farmers.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://megagriculture.gov.in/PUBLIC/schemes_ShowSchemesH.aspx?schid=98"
+            },
+            {
+              "title": "FAQs",
+              "url": "https://megagriculture.gov.in/PUBLIC/dwd_docs/FAQONHORTICULTURESCHEMES.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tds"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65c4ee4ced4030e118d25992",
+      "en": {
+        "documentsRequired_md": "1.\tPassport-size photograph\n2.\tIdentity Proof\n3.\tBank passbook/account details\n4.\tDocuments proof of possessing own or leased land\n5.\tAny other document as required\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1.\tPassport-size photograph"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2.\tIdentity Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3.\tBank passbook/account details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4.\tDocuments proof of possessing own or leased land"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5.\tAny other document as required"
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "65c4ee04cd96dc5e074beeca"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:07:51.984020+00:00",
+  "scheme_id": "65c4ee04cd96dc5e074beeca"
+}

@@ -1,0 +1,205 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "The interested farmer/SHG/FPO is required to submit their duly filled application form and"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "proposai along with a self-attested passport size photograph to the Horticulture Development Office in their"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "respective Circle during the Office working hours to avail the scheme."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Form: "
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            },
+            {
+              "children": [
+                {
+                  "text": "https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf"
+                }
+              ],
+              "link": "https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf",
+              "type": "link"
+            },
+            {
+              "text": ""
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "The interested farmer/SHG/FPO is required to submit their duly filled application form and\nproposai along with a self-attested passport size photograph to the Horticulture Development Office in their\nrespective Circle during the Office working hours to avail the scheme.\n> **Application Form:** \n\n> [https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf](https://cdn.s3waas.gov.in/s3819f46e52c25763a55cc642422644317/uploads/2022/05/2022052453.pdf)\n\n<br>\n\n",
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "\n  - Atmanirbhar Bagwani Yojna is basically meant for the cultivation of fruits like apples, walnut, orange, kiwi, and persimmon. \n  - The line of credit will be provided by the State Bank Of India, Arunachal Pradesh Rural Bank, and Arunachal Pradesh Cooperative Apex Bank. \n  - 45 percent will be given by the government subsidy, 45 percent as bank loan and 10 percent will be contributed by the farmer.\n  - There is no collateral for loans up to Rs 1.60 lakh.\n  - For SHGs, no collateral is needed up to Rs 10 lakhs.\n\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "88af5b215c89422b1cd4c8b9898d64a409236a87ccbe0895416db7c646781d1d",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "Atma Nirbhar Bagwani Yojana is an umbrella scheme wherein all the schemes are subsumed under a bank-linked credit subsidy scheme, which will have a time-bound implementation and participation from various stakeholders – Government, Bank, Project Consultants, and Progressive Farmers. The beneficiaries under the scheme will be eligible for 45% subsidy from the Government of Arunachal Pradesh, 45% bank finance, and 10% beneficiary&#39;s contribution. The beneficiary will have to provide collateral security in the shape of land/property or an acceptable guarantee for a loan amount exceeding 1.6 Lakhs in case of individuals and 10 lakhs for SHGs/FPOs. Under this scheme, the following components are included for availing a bank loan: \n\n-     Arecanut\n\n\n-     Pineapple\n\n\n-     Avocado\n\n\n-     Dragon Fruit\n\n\n-     Orange\n\n\n-     Banana\n\n\n-     Guava\n\n\n-     Tractor\n\n\n-     Power Tiller\n\n\n-     Brush Cutter\n\n<br>\n\n",
+  "eligibility": "The applicant must be a resident and farmer of Arunachal Pradesh.\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:01:38.974371+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:01:38.974371+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Horticulture Department",
+    "value": 12111127
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://cdn.s3waas.gov.in/s36c29793a140a811d0c45ce03c1c93a28/uploads/2021/09/2021091539.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "64665728527a0d6debce76ae",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhaar Card\n1. Voter Card\n1. Residential Certificate\n1. A valid Bank Account\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Voter Card"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residential Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "A valid Bank Account"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "64665631527a0d6debce7649"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "64665631527a0d6debce7649",
+  "scheme_name": "Atma Nirbhar Bagwani Yojana",
+  "scheme_open_date": "2021-09-03",
+  "scheme_short_title": "ANBY",
+  "slug": "anby",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Arunachal Pradesh",
+    "value": 12
+  },
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Farmers",
+    "Umbrella Scheme"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

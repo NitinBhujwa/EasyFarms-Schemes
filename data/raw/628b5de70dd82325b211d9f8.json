@@ -1,0 +1,436 @@
+{
+  "detail": {
+    "data": {
+      "_id": "628b5de70dd82325b211d9f8",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Pre-Survey Activities",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "Permission is sought to conduct the survey, followed by organizing a Gram Sabha to inform villagers about the schedule, methodology, and benefits."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "Identification, marking, and delineation of properties, including government assets, Gram Sabha land parcels, individual properties, roads, and open plots, are carried out."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3: "
+                  },
+                  {
+                    "text": "Public notification is issued for the survey area, along with obtaining permission for drone flights."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Survey Activities",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The CORS network is established, and ground control points are set up."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "Drone images are acquired, processed, and used for generating digital maps."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Post Survey Activities",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "An inquiry/objection process is initiated to verify land parcel ownership, resolve disputes, and issue property cards to village household owners."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "Regular record updates and storage maintenance are ensured alongside training and capacity-building for government officials involved in the scheme."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Pre-Survey Activities**\n\n**Step 1:** Permission is sought to conduct the survey, followed by organizing a Gram Sabha to inform villagers about the schedule, methodology, and benefits.\n**Step 2:** Identification, marking, and delineation of properties, including government assets, Gram Sabha land parcels, individual properties, roads, and open plots, are carried out.\n**Step 3:** Public notification is issued for the survey area, along with obtaining permission for drone flights.\n> **Survey Activities**\n\n**Step 1:** The CORS network is established, and ground control points are set up.\n**Step 2:** Drone images are acquired, processed, and used for generating digital maps.\n> **Post Survey Activities**\n\n**Step 1:** An inquiry/objection process is initiated to verify land parcel ownership, resolve disputes, and issue property cards to village household owners.\n**Step 2:** Regular record updates and storage maintenance are ensured alongside training and capacity-building for government officials involved in the scheme.\n",
+            "url": ""
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": null,
+          "nodalMinistryName": {
+            "label": "Ministry Of Panchayati Raj",
+            "value": 486
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "SVAMITVA Yojana (Survey of Villages and Mapping with Improvised Technology in Village Areas)",
+          "schemeOpenDate": "2021-04-01",
+          "schemeShortTitle": "PMSY",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "schemeType": {
+            "label": "Central Sector Scheme",
+            "value": "central-sector-scheme"
+          },
+          "tags": [
+            "Rural",
+            "Survey",
+            "Village",
+            "Drone",
+            "Property"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Family",
+              "value": "family"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "text": "The applicant should have a property in rural inhabited (Abadi) area."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "The applicant should have a property in rural inhabited (Abadi) area.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "label": "In Kind",
+            "value": "in kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Creation of Property Cards on the Exact Area of Each Property in the Village."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Proprietary Rights to the Village Household Owner."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Property as a Financial Asset for Taking Loans and Other Financial Benefits."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Reduce Property Disputes and Legal Cases."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Determination of Property Tax."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Creation of Accurate Land Records for Rural Planning."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Better Gpdp - Leveraging Gis Database/ Maps Created for Better Planning and Execution of Plans."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "\n- Drone Digitally Maps All the Land Parcels of the Inhabited Area of the Village.\n- Creation of Property Cards on the Exact Area of Each Property in the Village.\n- Proprietary Rights to the Village Household Owner.\n- Property as a Financial Asset for Taking Loans and Other Financial Benefits.\n- Reduce Property Disputes and Legal Cases.\n- Determination of Property Tax.\n- Creation of Accurate Land Records for Rural Planning.\n- Better Gpdp - Leveraging Gis Database/ Maps Created for Better Planning and Execution of Plans.\n\n",
+          "briefDescription": "SVAMITVA, a Central Sector scheme of Ministry of Panchayati Raj to provide ‘Record of Rights’ to village household owners with issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping of land parcels using drone technology.\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Objectives"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Creation of accurate land records for rural planning and reducing property-related disputes."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To bring financial stability to the citizens in rural India by enabling them to use their property as a financial asset for taking loans and other financial benefits."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Determination of property tax, which would accrue to the GPs directly in States where it is devolved or else, add to the State exchequer."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Creation of survey infrastructure and GIS maps that can be leveraged by any department for their use. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "To support in the preparation of a better-quality Gram Panchayat Development Plan (GPDP) by making use of GIS maps"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": "The scheme is a reformative step towards the establishment of clear ownership of property in rural inhabited (Abadi) areas, by mapping of land parcels using drone technology and providing ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners. "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "There are about 6.62 lakh villages in the country which will be eventually covered in this scheme. The entire work is likely to be spread for five years."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "SVAMITVA, a Central Sector scheme of the Ministry of Panchayati Raj provides a ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners by mapping land parcels using drone technology.\n> **Objectives**\n\n\n- Creation of accurate land records for rural planning and reducing property-related disputes.\n- To bring financial stability to the citizens in rural India by enabling them to use their property as a financial asset for taking loans and other financial benefits.\n- Determination of property tax, which would accrue to the GPs directly in States where it is devolved or else, add to the State exchequer.\n- Creation of survey infrastructure and GIS maps that can be leveraged by any department for their use. \n- To support in the preparation of a better-quality Gram Panchayat Development Plan (GPDP) by making use of GIS maps\n\nThe scheme is a reformative step towards the establishment of clear ownership of property in rural inhabited (Abadi) areas, by mapping of land parcels using drone technology and providing ‘Record of Rights’ to village household owners with the issuance of legal ownership cards (Property cards/Title deeds) to the property owners. \nThere are about 6.62 lakh villages in the country which will be eventually covered in this scheme. The entire work is likely to be spread for five years.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": "Agricultural Lands are not covered under this scheme."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "Agricultural Lands are not covered under this scheme.\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://svamitva.nic.in/svamitva/downloadPdfFiles.html?id=36&type=pdf&OWASP_CSRFTOKEN=EOIY-CFO7-HLZC-LNAD-SEAC-5EH8-4NTI-1ZOT"
+            },
+            {
+              "title": "Flyer",
+              "url": "https://svamitva.nic.in/svamitva/downloadPdfUserMannualFiles.html?OWASP_CSRFTOKEN=GLCV-COL7-09G1-MLE9-4S1R-8WIK-FEQW-07J5&id=1"
+            },
+            {
+              "title": "Brochure",
+              "url": "https://svamitva.nic.in/svamitva/downloadPdfUserMannualFiles.html?OWASP_CSRFTOKEN=GLCV-COL7-09G1-MLE9-4S1R-8WIK-FEQW-07J5&id=2"
+            },
+            {
+              "title": "Booklet",
+              "url": "https://svamitva.nic.in/DownloadPDF/SVAMITVA_English_1632367330563.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "pmsy"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "628b5dfe0dd82325b211da00",
+      "en": {
+        "documentsRequired_md": "\n- Identity Proof of the Property Owners.\n- Proof of Ownership of the Property Owners.\n- Any other documents as required by the Revenue Officials.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof of the Property Owners."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Ownership of the Property Owners."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required by the Revenue Officials."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "628b5de70dd82325b211d9f8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:55:30.179422+00:00",
+  "scheme_id": "628b5de70dd82325b211d9f8"
+}

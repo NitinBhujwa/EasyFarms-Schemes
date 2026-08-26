@@ -1,0 +1,279 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "text": "To apply for the \"Feed for Seed\" program in Telangana, farmers can follow these steps:"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "text": "Visit the nearest agriculture office or Seed Development Corporation (SSDC) office in their district."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Obtain the application form for the program from the office or download it from the official website of the SSDC."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Fill in the application form with the required details, such as name, address, land details, and crop preferences."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Submit the application form along with any other necessary documents, such as land documents, bank account details, and Aadhaar card."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "Upon verification of the application, the SSDC will provide the farmers with a seed kit containing seeds of various crops, along with instructions on how to grow and harvest the crops, as well as guidelines on seed production and storage."
+                }
+              ],
+              "type": "list_item"
+            },
+            {
+              "children": [
+                {
+                  "text": "The farmers can then grow the crops, produce their own seeds, and sell the surplus seeds in the market."
+                }
+              ],
+              "type": "list_item"
+            }
+          ],
+          "type": "ol_list"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "It is important to note that the program is implemented on a first-come, first-served basis, and the availability of seed kits may vary depending on the demand in each district. Therefore, farmers are encouraged to apply early to ensure they can benefit from the program."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Regenerate response"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "url": ""
+    }
+  ],
+  "benefit_type": {
+    "id": 2,
+    "label": "In Kind",
+    "value": "in-kind"
+  },
+  "benefits": null,
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "78df9819153fd9c0049f8549cdecf23b0f49186bd5e52453756a624ef791ff10",
+  "dbt_scheme": null,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Feed for Seed&quot; program is an initiative launched by the Government of Telangana in India, aimed at promoting agriculture and supporting farmers in the state. The program is designed to encourage farmers to produce their own seeds by providing them with free, high-quality seeds of various crops.\n<br>\n\nUnder this program, farmers are provided with a seed kit containing seeds of various crops, including vegetables, pulses, cereals, and oilseeds. The kit also contains instructions on how to grow and harvest the crops, as well as guidelines on seed production and storage.\n<br>\n\nThe program is based on the concept of &quot;Seed Village&quot; where farmers can produce high-quality seeds and sell them in the market. The program encourages the use of sustainable agricultural practices such as crop rotation, organic farming, and conservation of traditional crop varieties.\n<br>\n\nThe aim of the Feed for Seed program is to increase the availability of high-quality seeds at affordable prices, promote sustainable agriculture practices, and empower farmers to become self-sufficient in seed production. The program has been widely appreciated and has helped many farmers in Telangana to improve their income and livelihoods.\n<br>\n\n<br>\n\nScheme deliverable\nFarmers with livestock provide livestock types such as PC-23, SSG, stylized, lucerne and African Tall, such as 75% subsidy.\n<br>\n\nThe animals are the buffalo, the cows, the sheep. Farmers have the right to take grass seeds.\n2pi C. 23, SSG, African Tall, Steele Hamata, Lucerne, etc. The seeds of 75% subsidy will be distributed.\nWho is eligible: Who is Not eligible:\nFarmers with livestock farming are eligible for seed production.\nIn order to provide livestock seeds, farmers have to hit own land or leased land or public places to increase agricultural land with animal farming..\nCattle, buffalo, cows, and sheep Farmers have the right to take grass seeds.\nGrass seeds should be provided by the farmers in the area. Own land or lease land.\nWho is not deserving:\nNo livestock farmers are eligible for the scheme.\nOwners of land/lease land and livestock are not eligible.\n",
+  "eligibility": "\n1. Farmers with livestock farming are eligible for seed production.\n1. In order to provide livestock seeds, farmers have to hit own land or leased land or public places to increase agricultural land with animal farming..\n1. Cattle, buffalo, cows, sheep Farmers have the right to take grass seeds.\n1. Grass seeds should be provided by the farmers in the area. Own land or lease land.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:58:55.888729+00:00",
+  "implementing_agency": "Department Of Agriculture And Cooperation In Collaboration With The State Seed Development Corporation (SSDC)",
+  "last_synced_at": "2026-08-26T13:58:55.888729+00:00",
+  "level": {
+    "label": "State",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture and Co-operation Department",
+    "value": 3666661
+  },
+  "references": [
+    {
+      "title": "District Website",
+      "url": "https://hyderabad.telangana.gov.in/scheme/feed-the-seed/"
+    },
+    {
+      "title": "Veterinary Department",
+      "url": "https://vahd.telangana.gov.in/Content.aspx"
+    },
+    {
+      "title": "TSSDCL Web Site",
+      "url": "https://www.tssdcl.org/about.php"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "6416fb66e6582e6a5be69a73",
+      "en": {
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents required to apply"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Copy of Aadhar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of the Pattadar passbook"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6416fb4415c5d420740d8150"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "6416fb4415c5d420740d8150",
+  "scheme_name": "Feed The Seed",
+  "scheme_open_date": "2023-10-01",
+  "scheme_short_title": "Feed The Seed",
+  "slug": "feed-the-seed",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Telangana",
+    "value": 36
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Feed For Seed",
+    "Seed Village",
+    "State Seed Development Corporation"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

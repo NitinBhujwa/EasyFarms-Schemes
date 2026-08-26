@@ -1,0 +1,371 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6889bd9e5674185b680cdcfd",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should prepare the application on plain paper."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the supporting documents to the District Registrar's Office."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4: "
+                  },
+                  {
+                    "text": "Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should prepare the application on plain paper.\n**Step 2:** In the application form, provide all the mandatory details, and attach copies of all the mandatory documents (self-attested, if required).\n**Step 3:** Submit the duly filled and signed application form along with the supporting documents to the District Registrar&#39;s Office.\n**Step 4:** Request a receipt or acknowledgement from the concerned authority to whom the application has been submitted.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Assistance to Co-operative Irrigation Societies (Trible Area)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ATCISTA",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            }
+          ],
+          "schemeType": null,
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Irrigation",
+            "Co-operative Irrigation Societies",
+            "Farm Productivity",
+            "Tribal Area Farmers"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            },
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The society should be located within the state of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The Scheme is applicable to the Scheduled Tribe (ST) category."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n  - Cooperative irrigation societies formed by small and marginal farmers, or any other farmers, are eligible under this scheme.\n  - The society should be located within the state of Gujarat.\n  - The Scheme is applicable to the Scheduled Tribe (ST) category.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Monetary Support:"
+                    },
+                    {
+                      "text": " Financial help is provided for the installation of electric motors and pumps on wells and agar creeks to enhance irrigation facilities."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Monetary Support:** Financial help is provided for the installation of electric motors and pumps on wells and agar creeks to enhance irrigation facilities.\n<br>\n\n",
+          "briefDescription": "The scheme \"Assistance to Co-operative Irrigation Societies (Tribal Area)\" aims to enhance agricultural productivity by financially supporting co-operative irrigation societies in tribal areas through the installation of water distribution infrastructure.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"Assistance to Co-operative Irrigation Societies (Tribal Area)\" by the Agriculture and Co-operation Department, Government of Gujarat, aims to increase farm productivity by offering financial support to irrigation co-operative societies formed by tribal area farmers. The scheme focuses on forming such societies and facilitating water distribution by setting up electric pumps and motors on wells and agar creeks. "
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;Assistance to Co-operative Irrigation Societies (Tribal Area)&amp;quot; by the Agriculture and Co-operation Department, Government of Gujarat, aims to increase farm productivity by offering financial support to irrigation co-operative societies formed by tribal area farmers. The scheme focuses on forming such societies and facilitating water distribution by setting up electric pumps and motors on wells and agar creeks. \n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Scheme No. 80)",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "atcista"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6889be40618155c39a733c97",
+      "en": {
+        "documentsRequired_md": "\n1. Proof of Co-operative Society Registration.\n1. Proof of ST Category (Caste Certificate).\n1. Address Proof of the Society (Electricity Bill, Rent Agreement, etc.).\n1. Identity Proof of Applicant Members (Aadhaar Card, Voter ID).\n1. Land Ownership or Usage Proof for Well/Agar Creek Installation.\n1. Project Proposal Detailing the Irrigation Setup.\n1. Bank Account Details of the Society.\n1. No Objection Certificate (NOC) from Related Authorities (if applicable).\n1. Resolution Copy of Society for Installation of Irrigation Setup.\n1. Electricity Connection Certificate or Application Copy (if applicable).\n1. Any other documents as required.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Proof of Co-operative Society Registration."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of ST Category (Caste Certificate)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address Proof of the Society (Electricity Bill, Rent Agreement, etc.)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof of Applicant Members (Aadhaar Card, Voter ID)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land Ownership or Usage Proof for Well/Agar Creek Installation."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Project Proposal Detailing the Irrigation Setup."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details of the Society."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "No Objection Certificate (NOC) from Related Authorities (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolution Copy of Society for Installation of Irrigation Setup."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Electricity Connection Certificate or Application Copy (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6889bd9e5674185b680cdcfd"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:24.320159+00:00",
+  "scheme_id": "6889bd9e5674185b680cdcfd"
+}

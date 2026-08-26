@@ -1,0 +1,398 @@
+{
+  "detail": {
+    "data": {
+      "_id": "691345e77d196c06c709834d",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "For post-harvest processing, farmers first obtain an application form for setting up a distillation (processing) plant from the "
+                          },
+                          {
+                            "children": [
+                              {
+                                "text": "CAP website"
+                              }
+                            ],
+                            "link": "https://www.capuk.in/",
+                            "type": "link"
+                          },
+                          {
+                            "text": " or field personnel. The application form must be accompanied by a photograph, land records/lease certificates, a CAP registration certificate, and a description of the distillation plant."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The farmer, organization, or group will submit the application form in the prescribed format to the Director of the Centre for Aromatic Plants or provide it to a field worker. The District Coordinator then conducts a site inspection and provides a recommendation. Following the inspection, the Director of CAP grants written permission to the farmer to establish a distillation plant. The farmer will then establish their distillation plant at their own expense, as per the details attached to the CAP permission letter."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "The prescribed application form for disbursing the subsidy after the plant is established can be obtained from the CAP website or from field workers. The application form, along with the bill, a photo of the farmer, a photo of the distillation plant, land documents, and bank account details, will be submitted to the Director of CAP, along with the recommendation of the Master Trainer/Technical Assistant."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "An evaluation committee constituted at the Director level then conducts a site inspection. Following the committee's report and the District Coordinator's recommendation, the Director of CAP disburses the lump-sum subsidy to the farmer's account."
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - For post-harvest processing, farmers first obtain an application form for setting up a distillation (processing) plant from the [CAP website](https://www.capuk.in/) or field personnel. The application form must be accompanied by a photograph, land records/lease certificates, a CAP registration certificate, and a description of the distillation plant.  - The farmer, organization, or group will submit the application form in the prescribed format to the Director of the Centre for Aromatic Plants or provide it to a field worker. The District Coordinator then conducts a site inspection and provides a recommendation. Following the inspection, the Director of CAP grants written permission to the farmer to establish a distillation plant. The farmer will then establish their distillation plant at their own expense, as per the details attached to the CAP permission letter.\n  - The prescribed application form for disbursing the subsidy after the plant is established can be obtained from the CAP website or from field workers. The application form, along with the bill, a photo of the farmer, a photo of the distillation plant, land documents, and bank account details, will be submitted to the Director of CAP, along with the recommendation of the Master Trainer/Technical Assistant.\n  - An evaluation committee constituted at the Director level then conducts a site inspection. Following the committee&amp;#39;s report and the District Coordinator&amp;#39;s recommendation, the Director of CAP disburses the lump-sum subsidy to the farmer&amp;#39;s account.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": true,
+          "implementingAgency": "Centre For Aromatic Plants, Selaqui, Dehradun",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Horticulture Department",
+            "value": 50000100
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Promotion of Post-Harvest Management, Processing, and Value Addition of Aromatic Plant Produce to Farmers/Institutions/Groups in the State - Centre for Aromatic Plants",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "PPMPVAAPPFIGS",
+          "schemeSubCategory": null,
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Aromatic Cultivation",
+            "Farmer",
+            "Aromatic Plants",
+            "Post-Harvest Management",
+            "Entrepreneurship"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            },
+            {
+              "label": "Business Entity",
+              "value": "business-entity"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary must be a farmer, organization, or group belonging to Uttarakhand."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The farmer, organization, or group must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The cluster must have plants, machinery, and equipment as per the capacity and requirements of the aromatic cultivated area."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The beneficiary must be a farmer, organization, or group belonging to Uttarakhand.\n   1. The farmer, organization, or group must be registered with the Centre for Aromatic Plants (CAP), Selaqui, Dehradun.\n   1. The cluster must have plants, machinery, and equipment as per the capacity and requirements of the aromatic cultivated area.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this scheme, the following support is provided:"
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "A grant of up to ₹10 lakh is available for setting up necessary machinery, equipment, distillation units, etc., for drying, storage, and processing of aromatic plants. The grant is provided through Direct Benefit Transfer (DBT) at the rate of 75% in hilly areas and 50% in plain areas."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Establishment of distillation (processing) facilities to serve other farmers within the cluster."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Development of entrepreneurship among farmers."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this scheme, the following support is provided:\n\n  - A grant of up to ₹10 lakh is available for setting up necessary machinery, equipment, distillation units, etc., for drying, storage, and processing of aromatic plants. The grant is provided through Direct Benefit Transfer (DBT) at the rate of 75% in hilly areas and 50% in plain areas.\n  - Establishment of distillation (processing) facilities to serve other farmers within the cluster.\n  - Development of entrepreneurship among farmers.\n\n<br>\n\n",
+          "briefDescription": "The scheme aims to encourage and support farmers, institutions, and groups engaged in aromatic plant cultivation to establish post-harvest management and processing facilities.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The “Promotion of Post-Harvest Management, Processing, and Value Addition of Aromatic Plant Produce to Farmers/Institutions/Groups in the State” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to encourage and support farmers, institutions, and groups engaged in aromatic plant cultivation to establish post-harvest management and processing facilities."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The “Promotion of Post-Harvest Management, Processing, and Value Addition of Aromatic Plant Produce to Farmers/Institutions/Groups in the State” scheme is implemented by the Centre for Aromatic Plants (CAP), Selaqui, Dehradun, under the Department of Horticulture, Government of Uttarakhand. The scheme aims to encourage and support farmers, institutions, and groups engaged in aromatic plant cultivation to establish post-harvest management and processing facilities.\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 232)",
+              "url": "https://uk.gov.in/department92/library_file/file-04-12-2023-06-02-23.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ppmpvaappfigs"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "69134a437d196c06c7099286",
+      "en": {
+        "documentsRequired_md": "\n1. Photograph of the farmer/applicant\n1. Land records documents or lease certificates\n1. CAP registration certificate\n1. Description/details of the distillation (processing) plant\n1. Bill/invoice of machinery or equipment\n1. Photograph of the distillation plant\n1. Land documents (for verification)\n1. Bank account details of the applicant\n1. Recommendation from the Master Trainer/Technical Assistant\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Photograph of the farmer/applicant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land records documents or lease certificates"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "CAP registration certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Description/details of the distillation (processing) plant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bill/invoice of machinery or equipment"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photograph of the distillation plant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land documents (for verification)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank account details of the applicant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Recommendation from the Master Trainer/Technical Assistant"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "691345e77d196c06c709834d"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:48.317136+00:00",
+  "scheme_id": "691345e77d196c06c709834d"
+}

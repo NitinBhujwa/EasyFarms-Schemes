@@ -1,0 +1,238 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Procedure for Claiming Subsidy"
+            }
+          ],
+          "type": "block_quote"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1: Submission of Required Documents"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The beneficiary/applicant submits the necessary documents in the "
+            },
+            {
+              "children": [
+                {
+                  "text": "prescribed format"
+                }
+              ],
+              "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+              "type": "link"
+            },
+            {
+              "text": " after completing the relevant activity."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: Document Scrutiny and Field Inspection"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Extension Officer examines the submitted documents and conducts a field inspection. They forward the application, physical verification report, and all relevant documents to the concerned Joint Director (Extension) or Deputy Director (Extension), either recommending eligible subsidy release or rejection."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: Review and Recommendation by Joint Director / Deputy Director"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Joint Director (Extension) or Deputy Director (Extension) thoroughly scrutinizes the documents, ensuring the admissibility of the claim. They determine and approve the applicable subsidy."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: Release of Subsidy"
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Upon satisfying the claim's admissibility, the Joint Director (Extension) or Deputy Director (Extension) facilitates the release of the eligible subsidy to the beneficiary through Electronic Fund Transfer (EFT)."
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "> **Procedure for Claiming Subsidy**\n\n**Step 1: Submission of Required Documents**\nThe beneficiary/applicant submits the necessary documents in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) after completing the relevant activity.\n**Step 2: Document Scrutiny and Field Inspection**\nThe Extension Officer examines the submitted documents and conducts a field inspection. They forward the application, physical verification report, and all relevant documents to the concerned Joint Director (Extension) or Deputy Director (Extension), either recommending eligible subsidy release or rejection.\n**Step 3: Review and Recommendation by Joint Director / Deputy Director**\nThe Joint Director (Extension) or Deputy Director (Extension) thoroughly scrutinizes the documents, ensuring the admissibility of the claim. They determine and approve the applicable subsidy.\n**Step 4: Release of Subsidy**\nUpon satisfying the claim&#39;s admissibility, the Joint Director (Extension) or Deputy Director (Extension) facilitates the release of the eligible subsidy to the beneficiary through Electronic Fund Transfer (EFT).\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Subsidy Details**\n\n- The eligible subsidy for water harvesting structures and sprinkler units is 75% of the unit cost, capped at a maximum ceiling of ₹1,25,000 for all related activities combined.\n- For below-ground water storage tanks, the subsidy is based on the lower value between dimension and unit cost applicable to the size of the holding.\n- For above-ground water storage tanks, the subsidy is based on the lower value between the actual cost or the unit cost applicable to the below-ground water tank.\n\n**Subsidy Availability**\nGrowers can claim subsidies for water harvesting structures and irrigation equipment either simultaneously or at different times.\n<br>\n\n**Unit Cost and Subsidy for Water Harvesting Structures**\n**Size of Holding****Dimension of Water Harvesting Structure****Total Unit Cost (₹)****Subsidy Amount**Up to 2 Ha.30&amp;amp;amp;#39; x 30&amp;amp;amp;#39; x 10&amp;amp;amp;#39; (9000 Cft.)₹43,000.0075% of Unit Cost2 Ha to 4 Ha &amp;amp;amp;amp; above43&amp;amp;amp;#39; x 43&amp;amp;amp;#39; x 10&amp;amp;amp;#39; (18490 Cft.)₹89,000.0075% of Unit Cost**Unit Cost and Subsidy for Sprinkler/Drip Unit**\n**Size of Holding****Total Unit Cost (₹)****Subsidy Amount**Up to 1.00 Ha.\t₹60,000\t75% of the Unit Cost1.00 to 2.00 Ha. &amp;amp;amp;amp; above\t₹1,20,000\t75% of the Unit Cost<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "37f7ff47ac51838eb2cfbf7c019a229ab0ce5c3f80cc2030d4d73b1052b6119a",
+  "dbt_scheme": true,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &quot;Coffee Development Programme in North Eastern Region: Water Augmentation&quot; is a Sub-Component of the Scheme &quot;Integrated Coffee Development Project During the Medium Term Framework (MTF) Period: Development Support to Stakeholders&quot; by the Coffee Board, Department of Commerce, Ministry of Commerce and Industry. This scheme aims to improve the productivity and quality of coffee by facilitating the creation of infrastructure for water augmentation for irrigation and wet processing of coffee.\n",
+  "eligibility": "\n1. The applicant must be a tribal grower.\n1. The applicant should not have received a subsidy for Water Augmentation during the XII plan period.\n1. The land records must be in the beneficiary&#39;s name.\n1. These records should be certified by the Village Authority/State Government/Competent Authority.\n\n**Eligible Activities**\nInstallation of the water storage tank, open well, and irrigation equipment (sprinkler/drip) to enhance production, productivity, and quality.\n**Location Specifications**\n\n- Water storage tank construction can be above or below ground level.\n- Water augmentation structures must be on the estate or within its vicinity.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T13:58:36.326171+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:58:36.326171+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": {
+    "label": "Department Of Commerce",
+    "value": 1588
+  },
+  "references": [
+    {
+      "title": "Guidelines, Application And Declaration Form",
+      "url": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf"
+    },
+    {
+      "title": "Grower's Registration (UMANG)",
+      "url": "https://web.umang.gov.in/web_new/department?url=coffee_board%2Fservice%2F1739&dept_id=371&dept_name=Grower%20Registration&transactionId=PFCXMNL5&source=myscheme"
+    },
+    {
+      "title": "Contact Us",
+      "url": "https://coffeeboard.gov.in/contact-us.html"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "654dcd585838968fc3892a5b",
+      "en": {
+        "documentsRequired_md": "\n- Application in the [prescribed format](https://coffeeboard.gov.in/Schemes/ICDP_388.pdf) (in duplicate).- Invoice / Bill (original) with TIN No. in case of Sprinkler/Drip Equipment.\n- Work completion report and expenditure statement signed by the applicant.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Application in the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://coffeeboard.gov.in/Schemes/ICDP_388.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " (in duplicate)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Invoice / Bill (original) with TIN No. in case of Sprinkler/Drip Equipment."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Work completion report and expenditure statement signed by the applicant."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "654dcd384407b32364098993"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "654dcd384407b32364098993",
+  "scheme_name": "Coffee Development Programme in North Eastern Region: Water Augmentation",
+  "scheme_open_date": null,
+  "scheme_short_title": "CDPNER:WA",
+  "slug": "cdpnerwa",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Farmer",
+    "Subsidy",
+    "DBT"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

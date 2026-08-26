@@ -1,0 +1,466 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Registration Process",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Visit the "
+            },
+            {
+              "children": [
+                {
+                  "text": "dedicated portal"
+                }
+              ],
+              "link": "https://atisis.assam.gov.in/atsisver/login.html",
+              "type": "link"
+            },
+            {
+              "text": " of \"Assam Tea Industries Special Incentives\" Scheme. Click on the \"New User Registration\" option."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " In the registration form, fill in basic details including name, mobile number, and email address. Create a username and password following the portal's password policy. Verify your mobile number through one-time password verification. Complete Captcha Code verification. Submit the registration form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Check your registered email for the account activation link. Click on the activation link to activate the account. Log in to the portal using registered credentials."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Upload all supporting documents of eligibility in the prescribed format. Fill in complete unit details, including location, type of tea production, and capacity. Submit the unit registration form. Wait for registration approval."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Process",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Log in to the portal using registered credentials. Navigate to the \"Apply for Benefits\" section. Select the scheme component that you intend to apply for."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " Fill in the prescribed application form with all mandatory fields. Upload all supporting documents as mentioned in the portal. Ensure file formats and file size restrictions are followed as per the portal guidelines. Review all entered information for accuracy."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3:",
+              "underline": true
+            },
+            {
+              "text": " Upload documents in the specified format and size. Ensure all documents are clear and legible. Complete document verification checklist."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4:",
+              "underline": true
+            },
+            {
+              "text": " Review the complete application before submission. Apply online."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*Note down the application reference number. Save a copy of the submitted application form."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*Applicants are strongly encouraged to save a copy of the submitted application, confirmation message, and application reference number for future reference and tracking purposes."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Verification Process",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:",
+              "underline": true
+            },
+            {
+              "text": " Application is automatically routed to the concerned bank Bank verifies the amount of interest at 3%, borrower credentials, loan account classification as Standard, and interest servicing status. The Bank approves the application on the portal."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2:",
+              "underline": true
+            },
+            {
+              "text": " After verification, if claims are found in order, the Commissioner, Industries & Commerce Department forwards claims to the Finance Department. The Finance Department processes the claim for online reimbursement through Direct Benefit Transfer."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Disbursement Process",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "The Finance Department releases the subsidy amount directly to the beneficiary's bank account. Short Message Service alerts sent for funds disbursement. The beneficiary receives the Direct Benefit Transfer in a registered bank account."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Application Status Tracking",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Log in to the portal to check application status. Track application progress through different stages of verification. Receive Short Message Service alerts throughout the process, including registration, fund release, etc."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Important Deadlines",
+              "underline": true
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": "Claim on completion of every financial year."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "italic": true,
+              "text": "*For Technical Support, please write to atisis.assam@gmail.com."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Registration Process**\n**Step 1:** Visit the [dedicated portal](https://atisis.assam.gov.in/atsisver/login.html) of &quot;Assam Tea Industries Special Incentives&quot; Scheme. Click on the &quot;New User Registration&quot; option.\n**Step 2:** In the registration form, fill in basic details including name, mobile number, and email address. Create a username and password following the portal&#39;s password policy. Verify your mobile number through one-time password verification. Complete Captcha Code verification. Submit the registration form.\n**Step 3:** Check your registered email for the account activation link. Click on the activation link to activate the account. Log in to the portal using registered credentials.\n**Step 4:** Upload all supporting documents of eligibility in the prescribed format. Fill in complete unit details, including location, type of tea production, and capacity. Submit the unit registration form. Wait for registration approval.\n<br>\n\n**Application Process**\n**Step 1:** Log in to the portal using registered credentials. Navigate to the &quot;Apply for Benefits&quot; section. Select the scheme component that you intend to apply for.\n**Step 2:** Fill in the prescribed application form with all mandatory fields. Upload all supporting documents as mentioned in the portal. Ensure file formats and file size restrictions are followed as per the portal guidelines. Review all entered information for accuracy.\n**Step 3:** Upload documents in the specified format and size. Ensure all documents are clear and legible. Complete document verification checklist.\n**Step 4:** Review the complete application before submission. Apply online.\n_*Note down the application reference number. Save a copy of the submitted application form._\n_*Applicants are strongly encouraged to save a copy of the submitted application, confirmation message, and application reference number for future reference and tracking purposes._\n<br>\n\n**Verification Process**\n**Step 1:** Application is automatically routed to the concerned bank Bank verifies the amount of interest at 3%, borrower credentials, loan account classification as Standard, and interest servicing status. The Bank approves the application on the portal.\n**Step 2:** After verification, if claims are found in order, the Commissioner, Industries &amp; Commerce Department forwards claims to the Finance Department. The Finance Department processes the claim for online reimbursement through Direct Benefit Transfer.\n<br>\n\n**Disbursement Process**\nThe Finance Department releases the subsidy amount directly to the beneficiary&#39;s bank account. Short Message Service alerts sent for funds disbursement. The beneficiary receives the Direct Benefit Transfer in a registered bank account.\n**Application Status Tracking**\nLog in to the portal to check application status. Track application progress through different stages of verification. Receive Short Message Service alerts throughout the process, including registration, fund release, etc.\n**Important Deadlines**\nClaim on completion of every financial year.\n_*For Technical Support, please write to atisis.assam@gmail.com._\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Benefit Amount:** Interest subvention of 3% per annum on Working Capital Loan.\n**Maximum Claimable Amount:** ₹20,00,000/- per annum per unit (garden).\n**Validity Period:** Extended for five years till the end of the Financial Year 2027-28.\n**Applicable Financial Years:** 2023-24, 2024-25, 2025-26, 2026-27, and 2027-28.\n**Disbursement Mode:** Direct Benefit Transfer as reimbursement.\n**Claim Period:** On completion of every financial year.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Banking,Financial Services and Insurance",
+      "value": "628ce7f6d6d1a3bde46852d0"
+    }
+  ],
+  "content_hash": "2bac1c43ad30f4d71db35bbd089c1f1ce584374f3a1ace8811fb796723d611b2",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &quot;Interest Subvention on Working Capital&quot; component of &quot;Assam Tea Industries Special Incentives Scheme (ATISIS)&quot; by the Finance (Institutional Finance) Department, Government of Assam, aims to ensure long-term financial sustainability of the Tea industry and to incentivize manufacturers to move from Crush, Tear, Curl tea to Orthodox tea production. The component provides interest subvention on working capital loans at 3% per annum. The scheme is implemented by the Finance Department and the Industries &amp; Commerce Department, Government of Assam, through multiple implementing agencies, including banks and the District Industries &amp; Commerce Centre. The applications for this scheme are accepted online through a dedicated portal with a Direct Benefit Transfer mechanism for reimbursement.\n<br>\n\n",
+  "eligibility": "**General Eligibility**\n\n- The applicant must be a tea plantation across all sizes\n- The applicant must be a tea manufacturing unit manufacturing Crush, Tear, Curl Tea, Orthodox Tea, or Speciality tea including Green tea, Oolong Tea, White tea, Yellow tea and Purple tea\n- The applicant must be located entirely in Assam\n- The applicant must not have any part of the plantation or manufacturing facility located outside the State of Assam\n\n<br>\n\n**Interest Subvention Specific Eligibility**\n\n- The applicant must have taken loan from a Scheduled Commercial Bank or a Public Financial Institution.\n- The applicant must have taken Working Capital Loan for activities directly related to plantation or manufacturing of Tea.\n- The applicant must have Working Capital sanctioned or renewed on or after 1st April of the financial year in which claim is to be made (2023-24, 2024-25, 2025-26, 2026-27 and 2027-28).\n- The applicant must not have loan accounts declared as Non-Performing Asset as per Reserve Bank of India guidelines on the date of filing claim.\n- The applicant must not have availed any interest subsidy under any other scheme.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T14:03:04.182590+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:03:04.182590+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Finance Department",
+    "value": 1800011
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://atisis.assam.gov.in/atsisver/pdfView.html?filename=Notification_ATISIS_2020.pdf"
+    },
+    {
+      "title": "Amendment",
+      "url": "https://atisis.assam.gov.in/atsisver/pdfView.html?filename=Ammended_Notification.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "686f4d4e4f40152c3a8bdee2",
+      "en": {
+        "documentsRequired_md": "\n- Working Capital Loan Sanction Letter\n- Bank Statement showing Working Capital Loan details\n- Interest Certificate from a Scheduled Commercial Bank or a Public Financial Institution\n- Self-Attestation regarding non-availing of interest subsidy under any other scheme\n- Loan Account Classification Certificate (confirming Non-Performing Asset status)\n- Tea Plantation or Manufacturing Unit Registration Documents\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Working Capital Loan Sanction Letter"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Statement showing Working Capital Loan details"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Interest Certificate from a Scheduled Commercial Bank or a Public Financial Institution"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Self-Attestation regarding non-availing of interest subsidy under any other scheme"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Loan Account Classification Certificate (confirming Non-Performing Asset status)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Tea Plantation or Manufacturing Unit Registration Documents"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "686f4d368a1ff1233bd5c01c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "686f4d368a1ff1233bd5c01c",
+  "scheme_name": "\"Interest Subvention on Working Capital\" under the \"Assam Tea Industries Special Incentives Scheme\"",
+  "scheme_open_date": null,
+  "scheme_short_title": "ISWC-ATISIS",
+  "slug": "iswc-atisis",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Assam",
+    "value": 18
+  },
+  "subcategories": [
+    {
+      "label": "Land and water resources",
+      "value": "Land and water resources"
+    },
+    {
+      "label": "Agricultural Inputs- seeds, fertilizer etc.",
+      "value": "Agricultural Inputs- seeds, fertilizer etc."
+    },
+    {
+      "label": "Financial assistance",
+      "value": "Financial assistance"
+    },
+    {
+      "label": "Banking and money",
+      "value": "Banking and money"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Subsidy",
+    "Capital",
+    "Interest",
+    "Incentive",
+    "Industry"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

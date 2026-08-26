@@ -1,0 +1,496 @@
+{
+  "detail": {
+    "data": {
+      "_id": "661539f7ff0ffe4f91d250e8",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Procedure:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 01:"
+                      },
+                      {
+                        "text": " The applicant may visit and apply online at I-Khedut Portal: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/"
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 02:"
+                      },
+                      {
+                        "text": " On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 03:"
+                      },
+                      {
+                        "text": " Now select the scheme and then read the instructions for HRT-2."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 04:"
+                      },
+                      {
+                        "text": " Click on the ‘Apply’ button and an application page will open."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 05:"
+                      },
+                      {
+                        "text": " Click on the \"Apply New\" button and submit a new application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 06:"
+                      },
+                      {
+                        "text": " Click on the \"Update Application\" button to add corrections to the application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 07:"
+                      },
+                      {
+                        "text": " Once the application is done, confirm it."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 08: "
+                      },
+                      {
+                        "text": "Take a printout of the confirmed application."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 09:"
+                      },
+                      {
+                        "text": " Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/fingerprint and scan it, and upload it by clicking on the \"Upload Signed Copy of Application Print\" menu on the portal."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note 01:"
+                      },
+                      {
+                        "text": " The facility to upload a scanned copy of the caste certificate is also enabled in the \"Other Document Upload\" menu wherever applicable."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note 02: T"
+                      },
+                      {
+                        "text": "here is no need for the farmer to submit the application in person at the office."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Note 03:"
+                      },
+                      {
+                        "text": " Scanned copy uploaded in PDF format should not exceed 200 KB in size."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Application Tracking:",
+                        "underline": true
+                      }
+                    ],
+                    "type": "block_quote"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Applicant can also check their Application Status/View/Print/Upload Application details from the below link: "
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx "
+                          }
+                        ],
+                        "link": "https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx",
+                        "type": "link"
+                      },
+                      {
+                        "text": ""
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "&gt; **Application Procedure:**\n\n**Step 01:** The applicant may visit and apply online at I-Khedut Portal: [https://ikhedut.gujarat.gov.in/](https://ikhedut.gujarat.gov.in/)\n**Step 02:** On the home page, click on ‘Schemes’ and then click on ‘Horticulture Schemes’.\n**Step 03:** Now select the scheme and then read the instructions for HRT-2.\n**Step 04:** Click on the ‘Apply’ button and an application page will open.\n**Step 05:** Click on the &amp;quot;Apply New&amp;quot; button and submit a new application.\n**Step 06:** Click on the &amp;quot;Update Application&amp;quot; button to add corrections to the application.\n**Step 07:** Once the application is done, confirm it.\n**Step 08:** Take a printout of the confirmed application.\n**Step 09:** Take a printout of the online application and submit it to the office/office address mentioned on the application along with the necessary documents. Or after applying Khedut online on the iKhedut Portal, take a print of the signature/fingerprint and scan it, and upload it by clicking on the &amp;quot;Upload Signed Copy of Application Print&amp;quot; menu on the portal.\n**Note 01:** The facility to upload a scanned copy of the caste certificate is also enabled in the &amp;quot;Other Document Upload&amp;quot; menu wherever applicable.\n**Note 02: T**here is no need for the farmer to submit the application in person at the office.\n**Note 03:** Scanned copy uploaded in PDF format should not exceed 200 KB in size.\n&gt; **Application Tracking:**\n\nApplicant can also check their Application Status/View/Print/Upload Application details from the below link: [https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx ](https://ikhedut.gujarat.gov.in/public/frm_Applicant_Corner.aspx)\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Directorate Of Horticulture, Government Of Gujarat",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for General Category (HRT-2)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "ATESGEPHMGC(HRT2)",
+          "schemeSubCategory": [
+            {
+              "label": "Mechanization- solar power, farming systems",
+              "value": "Mechanization- solar power, farming systems"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Tools",
+            "Shorting Equipment",
+            "General Category",
+            "HRT-2",
+            "Farmer",
+            "Financial Assistance",
+            "Post-Harvest Management",
+            "Farmer Group",
+            "Cooperative Society"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should be a permanent resident of Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The beneficiary should belong to the General Category."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The individual farmer or farmer groups/Cooperative Societies are eligible to avail benefits under the scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 01:"
+                    },
+                    {
+                      "text": " The tool/equipment has to be purchased from the authorised dealer of the empanelled manufacturer for the purpose of price discovery as notified by the Department of Agriculture from time to time."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 02:"
+                    },
+                    {
+                      "text": " Companies empanelled by the Department of Agriculture for tarpaulin seats and their regulations will have to be implemented as per the norms."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Note 03:"
+                    },
+                    {
+                      "text": " Companies empanelled by the Department of Agriculture for plastic crates and their regulations will have to be implemented as per the norms."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. The beneficiary should be a permanent resident of Gujarat.\n   1. The beneficiary should belong to the General Category.\n   1. The individual farmer or farmer groups/Cooperative Societies are eligible to avail benefits under the scheme.\n\n**Note 01:** The tool/equipment has to be purchased from the authorised dealer of the empanelled manufacturer for the purpose of price discovery as notified by the Department of Agriculture from time to time.\n**Note 02:** Companies empanelled by the Department of Agriculture for tarpaulin seats and their regulations will have to be implemented as per the norms.\n**Note 03:** Companies empanelled by the Department of Agriculture for plastic crates and their regulations will have to be implemented as per the norms.\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "The General Category farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or ₹3,750/-, whichever is less."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "benefits_md": "\n   1. The General Category farmers will be eligible for assistance up to 75% of the cost of the Tools/Equipment or ₹3,750/-, whichever is less.\n   1. Farmer groups/cooperative societies will be eligible for assistance of 90% of the cost of equipment or up to ₹7,50,000/-, whichever is less, for the installation of Post-Harvest Management (PHM) Equipment.\n\n",
+          "briefDescription": "Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for General Category (HRT-2)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment. This includes plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Assistance for Tools, Equipment, Shorting/Grading Equipment, PHM Equipment for General Category (HRT-2)” is implemented by the Directorate of Horticulture, Agriculture, Farmers Welfare and Co-operation Department, Government of Gujarat. Under the scheme, financial assistance is provided to farmers belonging to the General Category as well as to farmer groups and cooperative societies for purchasing various tools, equipment, sorting/grading equipment, and Post-Harvest Management (PHM) equipment. This includes plastic crates with equipment such as weights, packing materials, sorting/grading machinery, etc.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Official Website",
+              "url": "https://ikhedut.gujarat.gov.in/iKhedutPublicScheme/Public/frm_Public_IndividualGhatakDetails.aspx"
+            },
+            {
+              "title": "Scheme Details (Page No. 167)",
+              "url": "https://planning.gujarat.gov.in/images/pdf/dp-eng-23-24.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "atesgephmgchrt2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "66153a12ff0ffe4f91d25100",
+      "en": {
+        "documentsRequired_md": "\n   1. Copy of Aadhaar Card\n   1. Disability Certificate issued by Competent Authority (only for PWDs) (if applicable)\n   1. Copy of land details 7/12 and 8-A\n   1. Copy of bank passbook/ cancelled cheque\n   1. Copy of forest rights Letter (if applicable) \n   1. Any other documents as required\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of Aadhaar Card"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Disability Certificate issued by Competent Authority (only for PWDs) (if applicable)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of land details 7/12 and 8-A"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of bank passbook/ cancelled cheque"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Copy of forest rights Letter (if applicable) "
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "661539f7ff0ffe4f91d250e8"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:08:27.208704+00:00",
+  "scheme_id": "661539f7ff0ffe4f91d250e8"
+}

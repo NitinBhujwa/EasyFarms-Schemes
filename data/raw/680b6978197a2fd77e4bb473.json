@@ -1,0 +1,260 @@
+{
+  "detail": {
+    "data": {
+      "_id": "680b6978197a2fd77e4bb473",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 1:"
+                      },
+                      {
+                        "text": " Fill in the application form on plain paper as per the instructions."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 2: "
+                      },
+                      {
+                        "text": "Attach all required documents."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "bold": true,
+                        "text": "Step 3: "
+                      },
+                      {
+                        "text": "Submit the completed application to the District Registrar for processing."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              }
+            ],
+            "process_md": "**Step 1:** Fill in the application form on plain paper as per the instructions.\n**Step 2:** Attach all required documents.\n**Step 3:** Submit the completed application to the District Registrar for processing.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "SPABEM",
+          "schemeSubCategory": [
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "E-Market"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Registered Societies",
+              "value": "registered-societies"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Co-operative Market Committees shall be eligible under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "The committee must operate within Gujarat."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ol_list"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "eligibilityDescription_md": "\n   1. Co-operative Market Committees shall be eligible under this scheme.\n   1. The committee must operate within Gujarat.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Financial Assistance:"
+                    },
+                    {
+                      "text": " ₹1,00,000/- (One Lakh Rupees) per eligible market committee."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- **Financial Assistance:** ₹1,00,000/- (One Lakh Rupees) per eligible market committee.\n<br>\n\n<br>\n\n",
+          "briefDescription": "This scheme provides financial assistance to market committees in Gujarat to establish e-market facilities, aligning with the National Agriculture Market Policy for a unified national e-market.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "\"A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support market committees to set up e-market facilities, enhancing transparency and efficiency in agricultural marketing across the state."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "&quot;A Scheme to Provide Assistance for Building E-Market Facilities in Market Committees&quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support market committees to set up e-market facilities, enhancing transparency and efficiency in agricultural marketing across the state.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://mariyojana.gujarat.gov.in/Schemeatoz.aspx"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "spabem"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "680b69ae2446bbe083d1c7ba",
+      "en": {
+        "documentsRequired_md": "\n   1. Proof of cooperative market committee registration.\n   1. Details of the proposed e-market facility setup.\n   1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Proof of cooperative market committee registration."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Details of the proposed e-market facility setup."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "680b6978197a2fd77e4bb473"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:10:40.300665+00:00",
+  "scheme_id": "680b6978197a2fd77e4bb473"
+}

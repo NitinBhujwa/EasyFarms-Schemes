@@ -1,0 +1,660 @@
+{
+  "detail": {
+    "data": {
+      "_id": "657029f753ed274f6a92807c",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should take print of the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "prescribed format"
+                      }
+                    ],
+                    "link": "https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Natural-Calamity-Application-Form.pdf",
+                    "type": "link"
+                  },
+                  {
+                    "text": " of the application form."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2: "
+                  },
+                  {
+                    "text": "In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the concerned authority at the "
+                  },
+                  {
+                    "bold": true,
+                    "text": "Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "BDO Office/ Sub-Offices"
+                      }
+                    ],
+                    "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                    "type": "link"
+                  },
+                  {
+                    "bold": true,
+                    "text": " of the Department of Fisheries."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "NOTE:"
+                  },
+                  {
+                    "text": " The claim should be submitted within one week of the incident."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Grievance Redressal"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any dissatisfaction or complaint about any service or its standards can be registered with the Department's "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Grievance Redressal Officer"
+                      }
+                    ],
+                    "link": "https://fisheries.goa.gov.in/contact-us-2/#",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". The grievance can also be lodged on the link "
+                  },
+                  {
+                    "bold": true,
+                    "text": "dir-fish.goa@nic.in"
+                  },
+                  {
+                    "text": ". All complaints will be acknowledged by us and final action taken will be communicated within 30 days."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should take print of the [prescribed format](https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Natural-Calamity-Application-Form.pdf) of the application form.\n**Step 2:** In the application form, fill in all the mandatory fields, paste the passport-sized photograph (signed across, if required), and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the concerned authority at the **Department of Fisheries, Dayanand Bandodkar Marg, Patto Colony, Panaji Goa - 403 521, or to the official posted at** [BDO Office/ Sub-Offices](https://fisheries.goa.gov.in/contact-us-2/#) **of the Department of Fisheries.**\n**NOTE:** The claim should be submitted within one week of the incident.\n<br>\n\n> **Grievance Redressal**\n\nAny dissatisfaction or complaint about any service or its standards can be registered with the Department&#39;s [Grievance Redressal Officer](https://fisheries.goa.gov.in/contact-us-2/#). The grievance can also be lodged on the link **dir-fish.goa@nic.in**. All complaints will be acknowledged by us and final action taken will be communicated within 30 days.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": null,
+          "level": {
+            "label": "State",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Fisheries Department",
+            "value": 30000017
+          },
+          "nodalMinistryName": null,
+          "otherDepartmentNames": null,
+          "otherMinistryName": null,
+          "schemeCategory": [
+            {
+              "label": "Social welfare & Empowerment",
+              "value": "628ce87cd6d1a3bde4685312"
+            },
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeCloseDate": null,
+          "schemeFor": "Individual",
+          "schemeName": "Natural Calamity Relief to Fishermen of State",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "NCRFS",
+          "schemeSubCategory": [
+            {
+              "label": "Crisis/Disaster/Accident",
+              "value": "Crisis/Disaster/Accident"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            },
+            {
+              "label": "Climate change",
+              "value": "Climate change"
+            },
+            {
+              "label": "Fishing and hunting",
+              "value": "Fishing and hunting"
+            },
+            {
+              "label": "Weather",
+              "value": "Weather"
+            }
+          ],
+          "state": {
+            "label": "Goa",
+            "value": 30
+          },
+          "tags": [
+            "Fishermen",
+            "Disaster",
+            "Crisis",
+            "Financial Assistance",
+            "Relief"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a Fisherman. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have been contributing to the Fishermen Corpus Relief Fund."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant's non-motorized/motorized canoe and mechanized fishing vessel/trawler should be registered with the Department of Fisheries."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant's fishing vessels, including engines, motors, and fishing vessels, should have been damaged or lost due to natural calamities like floods, cyclones, tsunamis, and accidental fire."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should not be a defaulter of the department."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant's loss or damage should be verified by the competent authority."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n- The applicant should be a Fisherman. \n- The applicant should have been contributing to the Fishermen Corpus Relief Fund.\n- The applicant&#39;s non-motorized/motorized canoe and mechanized fishing vessel/trawler should be registered with the Department of Fisheries.\n- The applicant&#39;s fishing vessels, including engines, motors, and fishing vessels, should have been damaged or lost due to natural calamities like floods, cyclones, tsunamis, and accidental fire.\n- The applicant should not be a defaulter of the department.\n- The applicant&#39;s loss or damage should be verified by the competent authority.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Death/Disability"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Loss of Life/Total Disability While Fishing in Sea/River:"
+                    },
+                    {
+                      "text": " ₹5,00,000 in Case of Loss of Life/Total Disability on Production of the Required Documents."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Loss/Damage to Fishing Canoe"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Partial Damage of Fishing Canoe: "
+                    },
+                    {
+                      "text": "Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹1,00,000."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Total Loss/Damage of Canoe With OBM:"
+                    },
+                    {
+                      "text": " Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹2,00,000."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Loss/Damage to Fishing Vessel"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "1 to 4-cylinder Fishing Vessel: "
+                    },
+                    {
+                      "text": "Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹7,00,000."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "6 to 8-cylinder Fishing Vessel:"
+                    },
+                    {
+                      "text": " Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹10,00,000."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Loss/Damage to Fishing Nets"
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Gill Nets:"
+                    },
+                    {
+                      "text": " Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹50,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Rampon Nets: "
+                    },
+                    {
+                      "text": "Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹1,00,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Trawl Net: "
+                    },
+                    {
+                      "text": "Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹50,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "bold": true,
+                      "text": "Purseine Net:"
+                    },
+                    {
+                      "text": " Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹5,00,000/-"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "> **Death/Disability**\n\n\n- **Loss of Life/Total Disability While Fishing in Sea/River:** ₹5,00,000 in Case of Loss of Life/Total Disability on Production of the Required Documents.\n<br>\n\n> **Loss/Damage to Fishing Canoe**\n\n\n- **Partial Damage of Fishing Canoe:** Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹1,00,000.- **Total Loss/Damage of Canoe With OBM:** Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹2,00,000.\n<br>\n\n> **Loss/Damage to Fishing Vessel**\n\n\n- **1 to 4-cylinder Fishing Vessel:** Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹7,00,000.- **6 to 8-cylinder Fishing Vessel:** Actual Value, as Assessed by an Authorized Marine Surveyor, is Limited to ₹10,00,000.\n<br>\n\n> **Loss/Damage to Fishing Nets**\n\n\n- **Gill Nets:** Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹50,000/-- **Rampon Nets:** Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹1,00,000/-- **Trawl Net:** Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹50,000/-- **Purseine Net:** Actual Value, as Assessed by Authorized Fisheries Surveyor or Marine Surveyor or Talathi, is Limited to ₹5,00,000/-\n",
+          "briefDescription": "“Natural Calamity Relief to Fishermen of State” is a scheme by the Dept of Fisheries, Govt of Goa. Through this scheme, financial assistance is provided to the active fishermen who contribute to the Fishermen Corpus Relief Fund, whose fishing vessels are damaged or lost due to natural calamities.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "“Natural Calamity Relief to Fishermen of State” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to the active fishermen who contribute to the Fishermen Corpus Relief Fund, whose fishing vessels are damaged or lost due to natural calamities. The applications are accepted only in offline mode."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "“Natural Calamity Relief to Fishermen of State” is a scheme by the Department of Fisheries, Government of Goa. Through this scheme, financial assistance is provided to the active fishermen who contribute to the Fishermen Corpus Relief Fund, whose fishing vessels are damaged or lost due to natural calamities. The applications are accepted only in offline mode.\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Citizen's Charter",
+              "url": "https://fisheries.goa.gov.in/wp-content/uploads/2023/07/CitizenCharter-2.pdf"
+            },
+            {
+              "title": "Official Gazette",
+              "url": "https://goaprintingpress.gov.in/downloads/2122/2122-40-SI-OG-0.pdf"
+            },
+            {
+              "title": "Application Form",
+              "url": "https://fisheries.goa.gov.in/wp-content/uploads/2020/11/Natural-Calamity-Application-Form.pdf"
+            },
+            {
+              "title": "Contact Us",
+              "url": "https://fisheries.goa.gov.in/contact-us-2/#"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ncrfs"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65702a0553ed274f6a928098",
+      "en": {
+        "documentsRequired_md": "1) Photograph of the Applicant \n2) Copy of the Vessel Registration Certificate\n3) Copy of the Updated Fishing License Certificate\n4) Copy of the Updated Fishing Net Licence \n5) Copy of Updated Fishing Netbook.\n6) Copy of Biometric Card/temporary ID Card\n7) Inspection Report of Registered Fishing Vessel/ OBM/ Net in Original.\n8) Copy of the Bank Passbook Along With the Mandate Form\n9) Statement of Contribution for Fishermen Corpus Fund by Applicant\n10) Post-mortem Report/ Missing Report/ Death Certificate\n11) Panchanama Report\n12) FIR Report\n13) Copy of the Medical Certificate\n14) Copy of Loss Assessment Report From Authorized Marine Surveyor\n15) Copy of the Weather Report From the Meteorological Department on the Day of Incident Occurred.\n**NOTE:** The missing report/death certificate/post-mortem report or police report should state that the body of the victim is not traced/found after one year from the date of the incident.\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1) Photograph of the Applicant "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2) Copy of the Vessel Registration Certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3) Copy of the Updated Fishing License Certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4) Copy of the Updated Fishing Net Licence "
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "5) Copy of Updated Fishing Netbook."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "6) Copy of Biometric Card/temporary ID Card"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "7) Inspection Report of Registered Fishing Vessel/ OBM/ Net in Original."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "8) Copy of the Bank Passbook Along With the Mandate Form"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "9) Statement of Contribution for Fishermen Corpus Fund by Applicant"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "10) Post-mortem Report/ Missing Report/ Death Certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "11) Panchanama Report"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "12) FIR Report"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "13) Copy of the Medical Certificate"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "14) Copy of Loss Assessment Report From Authorized Marine Surveyor"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "15) Copy of the Weather Report From the Meteorological Department on the Day of Incident Occurred."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "NOTE: "
+              },
+              {
+                "text": "The missing report/death certificate/post-mortem report or police report should state that the body of the victim is not traced/found after one year from the date of the incident."
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "657029f753ed274f6a92807c"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:04:43.599779+00:00",
+  "scheme_id": "657029f753ed274f6a92807c"
+}

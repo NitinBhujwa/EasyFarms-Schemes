@@ -1,0 +1,227 @@
+{
+  "detail": {
+    "data": {
+      "_id": "68e24f6a074b2831665ca718",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "With the aim of promoting biotechnology education, research, and outreach activities, students from schools, colleges, and universities in the state, as well as researchers and farmers, are taken on tours of the modern laboratories established at the Council and its regional centers. During these visits, they are informed about the research and development work being carried out and are motivated to further biotechnology education and research."
+                      }
+                    ],
+                    "type": "paragraph"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "After obtaining approval from the Council's Director or other competent authority, interested candidates, teams, or groups can avail themselves of this opportunity by visiting the Council headquarters or its regional centers to learn about ongoing activities and access relevant technical information."
+                      }
+                    ],
+                    "type": "paragraph"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "With the aim of promoting biotechnology education, research, and outreach activities, students from schools, colleges, and universities in the state, as well as researchers and farmers, are taken on tours of the modern laboratories established at the Council and its regional centers. During these visits, they are informed about the research and development work being carried out and are motivated to further biotechnology education and research.\nAfter obtaining approval from the Council&amp;#39;s Director or other competent authority, interested candidates, teams, or groups can avail themselves of this opportunity by visiting the Council headquarters or its regional centers to learn about ongoing activities and access relevant technical information.\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "Uttarakhand Council For Biotechnology",
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 50000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Tour Program of Modern Laboratories",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TPML",
+          "schemeSubCategory": [],
+          "state": {
+            "label": "Uttarakhand",
+            "value": 5
+          },
+          "tags": [
+            "Farmer",
+            "Researcher",
+            "Student",
+            "Biotechnology",
+            "Modern Laboratories"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Self Help Groups (SHGS)",
+              "value": "self-help-groups"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a resident of Uttarakhand. "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a student from a government or private school, college, or university, a researcher, or a member of a farmers’ group or self-help group."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a resident of Uttarakhand. \n1. The applicant must be a student from a government or private school, college, or university, a researcher, or a member of a farmers’ group or self-help group.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Under this tour program, eligible individuals visit modern biotechnology laboratories to learn about new research works."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Under this tour program, eligible individuals visit modern biotechnology laboratories to learn about new research works.\n<br>\n\n",
+          "briefDescription": "The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme “Tour Program of Modern Laboratories” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The scheme “Tour Program of Modern Laboratories” is implemented by the Uttarakhand Council for Biotechnology under the Department of Agriculture, Government of Uttarakhand. The scheme aims to promote biotechnology education and research by providing students, researchers, and farmers with exposure to modern laboratories, advanced research activities, and innovative technologies.\n<br>\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines (Page No. 90)",
+              "url": "https://uk.gov.in/department92/library_file/file-30-01-2025-04-25-16.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tpoml"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "68e24f78e00490d9b32d8c6b",
+      "en": {
+        "documentsRequired_md": "Documents are required as per the guidelines of the Tour Program of Modern Biotechnology Laboratories.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "Documents are required as per the guidelines of the Tour Program of Modern Biotechnology Laboratories."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68e24f6a074b2831665ca718"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:06:38.156865+00:00",
+  "scheme_id": "68e24f6a074b2831665ca718"
+}

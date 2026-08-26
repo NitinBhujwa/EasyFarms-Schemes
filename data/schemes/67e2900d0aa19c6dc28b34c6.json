@@ -1,0 +1,193 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Online",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 1: "
+                },
+                {
+                  "text": "Fishermen must obtain a token number from "
+                },
+                {
+                  "children": [
+                    {
+                      "text": "https://fisheries.gujarat.gov.in/Registration.aspx using their personal details."
+                    }
+                  ],
+                  "link": "https://fisheries.gujarat.gov.in/Registration.aspx",
+                  "type": "link"
+                },
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 2: "
+                },
+                {
+                  "text": "Diesel cardholder fishermen must purchase fuel from government-approved diesel pumps."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Step 3: "
+                },
+                {
+                  "text": "The VAT relief is credited automatically via an online system."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "type": "align_justify"
+        }
+      ],
+      "process_md": "**Step 1:** Fishermen must obtain a token number from [https://fisheries.gujarat.gov.in/Registration.aspx using their personal details.](https://fisheries.gujarat.gov.in/Registration.aspx)\n**Step 2:** Diesel cardholder fishermen must purchase fuel from government-approved diesel pumps.\n**Step 3:** The VAT relief is credited automatically via an online system.\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "**Name of Component****Standard of Assistance****Minimum Time Limit (in Years) for Reclaiming Benefits**Diesel VAT assistancePer litre maximum assistance up to ₹15/-Assistance is available as per fixed diesel quota throughout the year",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "c2decb681db08b24415da62e2da62f127ac037d6b38ba2819517a2868cffac00",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The &amp;quot;Diesel VAT Relief Scheme for Fishermen&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to support fishermen by subsidizing the VAT on diesel, making fuel more affordable for their mechanized boats. This helps reduce the operational cost of fishermen using mechanized boats.\n",
+  "eligibility": "\n  - The applicant must be a registered diesel cardholder.\n  - The applicant must own a mechanized fishing boat.\n  - The boat should be less than 20 meters in length.\n\n<br>\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-26T13:54:10.564475+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T13:54:10.564475+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=v4lc2tu73R/9lWYKO76SRg==&domain=qO9v1Yt1qFTmoiKMRXBpiA=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67e290b50aa19c6dc28b35f5",
+      "en": {
+        "documentsRequired_md": "\n  - Valid Diesel Card issued by the government.\n  - Boat registration certificate.\n  - Identification proof (Aadhaar Card, Fishermen ID, etc.).\n  - Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Valid Diesel Card issued by the government."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Boat registration certificate."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Identification proof (Aadhaar Card, Fishermen ID, etc.)."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Any other documents as required."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "type": "align_justify"
+          }
+        ]
+      },
+      "schemeId": "67e2900d0aa19c6dc28b34c6"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67e2900d0aa19c6dc28b34c6",
+  "scheme_name": "Diesel VAT Relief Scheme for Fishermen",
+  "scheme_open_date": null,
+  "scheme_short_title": "DVRSF",
+  "slug": "dvrsf",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Fishing and hunting",
+      "value": "Fishing and hunting"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Fishing Activities",
+    "Fishermen"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

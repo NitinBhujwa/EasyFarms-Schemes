@@ -1,0 +1,775 @@
+{
+  "detail": {
+    "data": {
+      "_id": "65f14a72da55878ebe22ffa2",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Registration",
+                    "underline": true
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-1:"
+                  },
+                  {
+                    "text": " Applicant have to visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "official portal"
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-2: "
+                  },
+                  {
+                    "text": "Click on the option “"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Register"
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/register",
+                    "type": "link"
+                  },
+                  {
+                    "text": "”."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3:"
+                  },
+                  {
+                    "text": " Then you will be redirected to the SSO registration page. The registration page will appear with the following options."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "  Citizen"
+                          }
+                        ],
+                        "type": "list_item"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-4: "
+                  },
+                  {
+                    "text": "Choose the either one option from  the Jan Aadhaar Or Google to process further."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,"
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "text": "Select your name, the name of the head of the family and all the other members and "
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "Click on the ‘Send OTP’ button. Enter the ‘OTP’ and "
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "Click on the ‘Verify OTP’ button to Complete the registration. "
+                                  }
+                                ],
+                                "type": "list_item"
+                              }
+                            ],
+                            "type": "ul_list"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "Google : Enter the Gmail ID, click on the ‘Next’ button, "
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "children": [
+                              {
+                                "children": [
+                                  {
+                                    "text": "Enter the password."
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "A new link appear on screen, now click on the new SSO link."
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "SSO id will appear on the screen, now create the password."
+                                  }
+                                ],
+                                "type": "list_item"
+                              },
+                              {
+                                "children": [
+                                  {
+                                    "text": "Enter Mobile number, click on registration."
+                                  }
+                                ],
+                                "type": "list_item"
+                              }
+                            ],
+                            "type": "ul_list"
+                          }
+                        ],
+                        "type": "ul_list"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-5"
+                  },
+                  {
+                    "text": ": Submit."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "APPLY"
+                  }
+                ],
+                "type": "block_quote"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-1:"
+                  },
+                  {
+                    "text": " Applicant have to visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "official portal"
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/signin",
+                    "type": "link"
+                  },
+                  {
+                    "text": ". "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-2:"
+                  },
+                  {
+                    "text": " After login, "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "dashboard "
+                      }
+                    ],
+                    "link": "https://sso.rajasthan.gov.in/dashboard",
+                    "type": "link"
+                  },
+                  {
+                    "text": "will open."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-3: "
+                  },
+                  {
+                    "text": "Click on “ RAJ-KISAN ” option. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-4:"
+                  },
+                  {
+                    "text": " In \"Farmer\", click on \"Application Entry Request\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-5: "
+                  },
+                  {
+                    "text": "Enter the \"Bhamashah ID\" or \"Janaadhaar ID\" and search.  "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-6:"
+                  },
+                  {
+                    "text": " Select the person name and scheme name. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-7:"
+                  },
+                  {
+                    "text": " Complete the Aadhaar Authentication and click on Get details. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-8:"
+                  },
+                  {
+                    "text": " Provide the required details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Pensioner Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Bank Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Disability Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Verification Details."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "            - Upload Documents."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step-9:"
+                  },
+                  {
+                    "text": " Submit."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": " "
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "> **Registration**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** Click on the option “[Register](https://sso.rajasthan.gov.in/register)”.\n**Step-3:** Then you will be redirected to the SSO registration page. The registration page will appear with the following options.\n\n\n  -   Citizen\n\n\n**Step-4:** Choose the either one option from  the Jan Aadhaar Or Google to process further.\n\n\n  - Jan Aadhaar : Enter the Jan Aadhaar number, click on the ‘Next’ button,\n\n\n      - Select your name, the name of the head of the family and all the other members and \n      - Click on the ‘Send OTP’ button. Enter the ‘OTP’ and \n      - Click on the ‘Verify OTP’ button to Complete the registration. \n\n\n\n\n\n\n  - Google : Enter the Gmail ID, click on the ‘Next’ button, \n\n\n      - Enter the password.\n      - A new link appear on screen, now click on the new SSO link.\n      - SSO id will appear on the screen, now create the password.\n      - Enter Mobile number, click on registration.\n\n\n\n\n**Step-5**: Submit.\n<br>\n\n> **APPLY**\n\n**Step-1:** Applicant have to visit the [official portal](https://sso.rajasthan.gov.in/signin). \n**Step-2:** After login, [dashboard ](https://sso.rajasthan.gov.in/dashboard)will open.\n**Step-3:** Click on “ RAJ-KISAN ” option. \n**Step-4:** In &quot;Farmer&quot;, click on &quot;Application Entry Request&quot;.\n**Step-5:** Enter the &quot;Bhamashah ID&quot; or &quot;Janaadhaar ID&quot; and search.  \n**Step-6:** Select the person name and scheme name. \n**Step-7:** Complete the Aadhaar Authentication and click on Get details. \n**Step-8:** Provide the required details.\n            - Pensioner Details.\n            - Bank Details.\n            - Disability Details.\n            - Verification Details.\n            - Upload Documents.\n**Step-9:** Submit.\n \n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": null,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture Department",
+            "value": 8000001
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kantedar Tarbandi Yojana",
+          "schemeOpenDate": "2017-07-21",
+          "schemeShortTitle": "KTY",
+          "schemeSubCategory": [
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Rajasthan",
+            "value": 8
+          },
+          "tags": [
+            "Farming",
+            "Financial Benefits",
+            "Taarabandi"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "This scheme is available to all categories of farmers."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "For individual farmers and farmer groups, the applicant must possess a minimum of 1.5 hectares of land at a single location."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "In Scheduled Tribe areas, a minimum of 0.5 hectares of land at one location is required."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "For community applications, a group comprising 10 or more farmers must collectively own a minimum of 5 hectares of land."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Additionally, the boundaries of the group's land must fall within the specified perimeter."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. This scheme is available to all categories of farmers.\n1. For individual farmers and farmer groups, the applicant must possess a minimum of 1.5 hectares of land at a single location.\n1. In Scheduled Tribe areas, a minimum of 0.5 hectares of land at one location is required.\n1. For community applications, a group comprising 10 or more farmers must collectively own a minimum of 5 hectares of land.\n1. Additionally, the boundaries of the group&#39;s land must fall within the specified perimeter.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Subsidy amount:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Small and marginal farmers: 60% of the total cost, capped at ₹48,000/-."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Other farmers: 50% of the total cost, capped at ₹40,000/-."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at ₹56,000/- per farmer ."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Land covered: "
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Up to 400 meters of fencing per farmer."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "benefits_md": "\n1. Subsidy amount:\n\n  - Small and marginal farmers: 60% of the total cost, capped at ₹48,000/-.\n  - Other farmers: 50% of the total cost, capped at ₹40,000/-.\n  - Community application (group of 10+ farmers with min. 5 hectares collectively): 70% of the total cost, capped at ₹56,000/- per farmer .\n\n1. Land covered: \n\n  - Up to 400 meters of fencing per farmer.\n\n\n",
+          "briefDescription": "A initiative of Rajasthan State for the farmer to protect crops from damage caused by Nilgai and stray animals. Financial assistance will be provided to the farmers by the Rajasthan government for fencing their fields. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Taarbandi Scheme for Fields was launched on July 21, 2017, under the auspices of the Agriculture Department of the Rajasthan government. The primary objective of this scheme is to safeguard farmers' crops from damage caused by stray animals. Many farmers face crop losses due to the intrusion of such animals into their unfenced fields, particularly those who lack the financial means to secure their land. To address this issue, the Rajasthan Taarbandi Scheme was introduced, offering financial assistance to farmers across the state for the installation of fencing around their fields. This initiative aims to enable farmers to protect their crops effectively by erecting barbed wire enclosures around their fields."
+                    }
+                  ],
+                  "type": "paragraph"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Priority",
+                  "underline": true
+                },
+                {
+                  "text": " ",
+                  "underline": true
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Scheduled Caste 17.83 percent,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Scheduled Caste 13.48 percent,"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Women category farmers will be given priority for 30.0 percent participation."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "detailedDescription_md": "The Taarbandi Scheme for Fields was launched on July 21, 2017, under the auspices of the Agriculture Department of the Rajasthan government. The primary objective of this scheme is to safeguard farmers&amp;#39; crops from damage caused by stray animals. Many farmers face crop losses due to the intrusion of such animals into their unfenced fields, particularly those who lack the financial means to secure their land. To address this issue, the Rajasthan Taarbandi Scheme was introduced, offering financial assistance to farmers across the state for the installation of fencing around their fields. This initiative aims to enable farmers to protect their crops effectively by erecting barbed wire enclosures around their fields.\n&lt;br&gt;\n\n> **Priority** \n\n\n- Scheduled Caste 17.83 percent,\n- Scheduled Caste 13.48 percent,\n- Women category farmers will be given priority for 30.0 percent participation.\n\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://familyid.in/wp-content/uploads/2023/12/guideline_subsidy_for_barbed_wire_fencing.pdf"
+            },
+            {
+              "title": "Scheme Details",
+              "url": "https://rajkisan.rajasthan.gov.in/Rajkisanweb/Kisan"
+            },
+            {
+              "title": "Registration",
+              "url": "https://sso.rajasthan.gov.in/register"
+            },
+            {
+              "title": "Login",
+              "url": "https://sso.rajasthan.gov.in/signin"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "kkt"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "65f14c53938a0b13ccb5833b",
+      "en": {
+        "documentsRequired_md": "\n1. Aadhar card.\n1. Address proof.\n1. Identity card.\n1. Land related documents.\n1. Ration card.\n1. Mobile number.\n1. Passport size photo.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Aadhar card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Address proof."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Land related documents."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Ration card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Mobile number."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Passport size photo."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "65f14a72da55878ebe22ffa2"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:08.226158+00:00",
+  "scheme_id": "65f14a72da55878ebe22ffa2"
+}

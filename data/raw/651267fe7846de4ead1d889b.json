@@ -1,0 +1,422 @@
+{
+  "detail": {
+    "data": {
+      "_id": "651267fe7846de4ead1d889b",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "Step 01: Interested beneficiary can get in touch with District Agriculture Officer / Block Agriculture Officer to apply for the scheme. "
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 02: SLSC will finalise the entrepreneur’s proposals received from the districts. The allocation of funds to the States would be made on the basis of their Annual Action Plan (AAP)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 03: State government shall sanction and release funds to the district."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Step 04: District agriculture department will allocate funds to individual beneficiaries"
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "Step 01: Interested beneficiary can get in touch with District Agriculture Officer / Block Agriculture Officer to apply for the scheme. \nStep 02: SLSC will finalise the entrepreneur’s proposals received from the districts. The allocation of funds to the States would be made on the basis of their Annual Action Plan (AAP).\nStep 03: State government shall sanction and release funds to the district.\nStep 04: District agriculture department will allocate funds to individual beneficiaries\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "implementingAgency": "State Government Department",
+          "level": {
+            "label": "Central",
+            "value": "central"
+          },
+          "nodalDepartmentName": {
+            "label": "Department of Agriculture & Farmers Welfare",
+            "value": 121226
+          },
+          "nodalMinistryName": {
+            "label": "Ministry Of Agriculture and Farmers Welfare",
+            "value": 498
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Infra",
+          "schemeName": "National Mission on Edible Oils- Oil Palm",
+          "schemeOpenDate": "2021-01-01",
+          "schemeShortTitle": "NMEO OP",
+          "schemeSubCategory": null,
+          "schemeType": {
+            "label": "Centrally Sponsored Scheme",
+            "value": "centrally-sponsored-scheme"
+          },
+          "tags": [
+            "Oil Palm",
+            "Area Expansion",
+            "Oil Palm Mill",
+            "Seed Garden",
+            "Seed Nursery",
+            "Processor"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            },
+            {
+              "label": "Business Entity",
+              "value": "business-entity"
+            },
+            {
+              "label": "University / Institution",
+              "value": "institution"
+            },
+            {
+              "label": "NGO",
+              "value": "ngo"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "text": "Anyone is eligible to apply under the scheme."
+                }
+              ],
+              "type": "block_quote"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "> Anyone is eligible to apply under the scheme.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 3,
+            "label": "Composite",
+            "value": "composite"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "The scheme targets to provide following benefits:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "1)\tEnhance production and productivity of oilpalm"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "2)\tPromotion and extension of improved technologies."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "3)\tProvision of quality planting material"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "4)\tSupport for nutrient management and pest management"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "5)\tProvision of various components for Interventions covering farm implements/ machines, capacity building of farmers, water carrying pipes, Fertigation, harvesting technology, etc."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "The scheme targets to provide following benefits:\n1)\tEnhance production and productivity of oilpalm\n2)\tPromotion and extension of improved technologies.\n3)\tProvision of quality planting material\n4)\tSupport for nutrient management and pest management\n5)\tProvision of various components for Interventions covering farm implements/ machines, capacity building of farmers, water carrying pipes, Fertigation, harvesting technology, etc.\n",
+          "briefDescription": "The Mission was launched with the aim to enhance the edible oilseeds production and oils availability in the country by harnessing Oil Palm area expansion, increasing CPO production and to reduce import burden on edible oils. ",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The State Department of Agriculture, State Department of Horticulture, Central University, ICAR Institutions, CDDs, SAUs, KVKs, Central Agencies/Cooperatives, Oil palm processors/ Associations, DD Kisan, etc. will be the implementing stake holders of the NMEO-Oil palm."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The Department of Agriculture/Horticulture of the State Governments will be the Nodal agency for undertaking area expansion programme of Oil Palm in their States with close partnership with Processors. The processors are also eligible for setting up of seed gardens and seed nurseries, distribution of planting material etc. "
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "The funds will be released to the State Departments of Agriculture/Horticulture through their respective State Governments. DBT will be used for transfer of funds to the State /Agencies/ Farmers/Processors/SAUs. The private sectors and NGOs could be involved through the State Department of Agriculture, Horticulture & ICAR."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "Assistance will be provided for the following components:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tArea Expansion"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tPlanting Material"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tMaintenance"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tIntercropping"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tDrip irrigation/ Pump-set/ Borewell/ Water harvesting structure"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tHarvesting Tools"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tCustom Hiring Center"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tSeed Gardens"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tSeed Nursery"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tOil Palm processing Mill"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tReplanting of Oil Palm garden"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tHalf moon terrace"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": "•\tFencing"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The State Department of Agriculture, State Department of Horticulture, Central University, ICAR Institutions, CDDs, SAUs, KVKs, Central Agencies/Cooperatives, Oil palm processors/ Associations, DD Kisan, etc. will be the implementing stake holders of the NMEO-Oil palm.\nThe Department of Agriculture/Horticulture of the State Governments will be the Nodal agency for undertaking area expansion programme of Oil Palm in their States with close partnership with Processors. The processors are also eligible for setting up of seed gardens and seed nurseries, distribution of planting material etc. \nThe funds will be released to the State Departments of Agriculture/Horticulture through their respective State Governments. DBT will be used for transfer of funds to the State /Agencies/ Farmers/Processors/SAUs. The private sectors and NGOs could be involved through the State Department of Agriculture, Horticulture &amp; ICAR.\nAssistance will be provided for the following components:\n•\tArea Expansion\n•\tPlanting Material\n•\tMaintenance\n•\tIntercropping\n•\tDrip irrigation/ Pump-set/ Borewell/ Water harvesting structure\n•\tHarvesting Tools\n•\tCustom Hiring Center\n•\tSeed Gardens\n•\tSeed Nursery\n•\tOil Palm processing Mill\n•\tReplanting of Oil Palm garden\n•\tHalf moon terrace\n•\tFencing\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://nmeo.dac.gov.in/nmeodoc/NMEO-OPGUIEDELINES.pdf"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "nmeo-op"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6512681f1a1c949c65025357",
+      "en": {
+        "documentsRequired_md": "1) ID Proof\n2)\tLand documents\n3)\tBank details\n4)\tPhotographs\nThe specific documents for availing the benefits of the program may vary depending on the type of intervention and the state. It is recommended to consult with the relevant authorities for detailed information on documents to be submitted.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "text": "1) ID Proof"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "2)\tLand documents"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "3)\tBank details"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "4)\tPhotographs"
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": "The specific documents for availing the benefits of the program may vary depending on the type of intervention and the state. It is recommended to consult with the relevant authorities for detailed information on documents to be submitted."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "651267fe7846de4ead1d889b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:11:37.535906+00:00",
+  "scheme_id": "651267fe7846de4ead1d889b"
+}

@@ -1,0 +1,253 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 1:"
+            },
+            {
+              "text": " The State Government/UT Administration identifies eligible villages."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 2: "
+            },
+            {
+              "text": "A Village Development Plan (VDP) is prepared for selected villages."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 3: "
+            },
+            {
+              "text": "The plan is approved at the district and state level."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 4: "
+            },
+            {
+              "text": "Proposal is submitted to the Ministry Of Tribal Affairs."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 5: "
+            },
+            {
+              "text": "Funds are released after approval."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "bold": true,
+              "text": "Step 6: "
+            },
+            {
+              "text": "Implementation is carried out by local authorities with monitoring mechanisms."
+            }
+          ],
+          "type": "paragraph"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "**Step 1:** The State Government/UT Administration identifies eligible villages.\n**Step 2:** A Village Development Plan (VDP) is prepared for selected villages.\n**Step 3:** The plan is approved at the district and state level.\n**Step 4:** Proposal is submitted to the Ministry Of Tribal Affairs.\n**Step 5:** Funds are released after approval.\n**Step 6:** Implementation is carried out by local authorities with monitoring mechanisms.\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 3,
+    "label": "Composite",
+    "value": "composite"
+  },
+  "benefits": "\n  - **Financial Assistance:** ₹20,38,000/- per village for infrastructure gap filling and development activities.  - **Infrastructure Development:** Support for roads, drinking water, sanitation, education, health, and livelihood infrastructure.  - **Village Development Plan (VDP):** Preparation and execution of need-based development plans for selected villages.  - **Convergence Support:** Integration with existing Central and State schemes to maximize development impact.  - **Awards And Incentives:** ₹5,00,000/- per village at State level for best performing villages and ₹10,00,000/- per village at National level for top selected villages.\n<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    },
+    {
+      "label": "Transport & Infrastructure",
+      "value": "628ce924d6d1a3bde4685354"
+    }
+  ],
+  "content_hash": "8de271ed0c823e05390894dd69f1f35f8575787fb6a2944ae0caeef85d58c8e7",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-26T14:11:53.773755+00:00",
+  "detailed_description": "The scheme &amp;quot;Pradhan Mantri Adi Adarsh Gram Yojana (PMAAGY)&amp;quot; by the Ministry Of Tribal Affairs, Government Of India, aims to transform villages with high Scheduled Tribe population into model villages through providing financial assistance for infrastructure gap filling and socio-economic development to the tribal communities. The scheme focuses on villages having at least 50% ST population. It supports the preparation and implementation of Village Development Plans. Funds are utilized for critical infrastructure gaps not covered under other schemes. Convergence with other Central and State schemes is encouraged for holistic development.\n<br>\n\n",
+  "eligibility": "> **General Eligibility**\n\n\n- The village must have at least 50% Scheduled Tribe (ST) population.\n- The village must have a population of at least 500 in plain areas; 250 in hilly/tribal areas.\n- The village must be selected by the State/UT Government based on criteria defined in the guidelines.\n\n> **Preference / Priority**\n\n\n- Preference is given to villages with higher ST population concentration.\n- Priority is given to villages with significant infrastructure gaps.\n\n<br>\n\n",
+  "exclusions": "<br>\n\n",
+  "first_seen_at": "2026-08-26T14:08:07.357351+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-26T14:08:07.357351+00:00",
+  "level": {
+    "label": "Central",
+    "value": "central"
+  },
+  "nodal_department": null,
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://tribal.nic.in/downloads/SCA_To_TSS/PMAAGYGuidelines.pdf"
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "69e888c9c9e1e72295ed6d3e",
+      "en": {
+        "documentsRequired_md": "\n   1. Village Selection Proposal\n   1. Village Development Plan (VDP)\n   1. Population Data Certificate (Showing ST Population Percentage)\n   1. Approval From District/State Authorities\n   1. Utilization Certificate (For Fund Release Stages)\n   1. Progress Reports And Monitoring Documents\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Village Selection Proposal"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Village Development Plan (VDP)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Population Data Certificate (Showing ST Population Percentage)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Approval From District/State Authorities"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Utilization Certificate (For Fund Release Stages)"
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Progress Reports And Monitoring Documents"
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ol_list"
+              }
+            ],
+            "type": "align_justify"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "69e888acc9e1e72295ed6cbc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Family",
+  "scheme_id": "69e888acc9e1e72295ed6cbc",
+  "scheme_name": "Pradhan Mantri Adi Adarsh Gram Yojana (PMAAGY)",
+  "scheme_open_date": null,
+  "scheme_short_title": "PMAAGY",
+  "slug": "pmaagy",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": null,
+  "subcategories": [
+    {
+      "label": "Rural services",
+      "value": "Rural services"
+    },
+    {
+      "label": "Roads and road transport",
+      "value": "Roads and road transport"
+    },
+    {
+      "label": "Infrastructure",
+      "value": "Infrastructure"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Tribal Development",
+    "Adarsh Village",
+    "Infrastructure Gap Filling",
+    "Village Development Plan",
+    "Central Assistance",
+    "Tribal Welfare"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Village",
+      "value": "village"
+    }
+  ]
+}

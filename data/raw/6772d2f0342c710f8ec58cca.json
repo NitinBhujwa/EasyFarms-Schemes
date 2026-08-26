@@ -1,0 +1,352 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6772d2f0342c710f8ec58cca",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Online",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Visit the "
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Official Website"
+                      }
+                    ],
+                    "link": "https://mppanchayatdarpan.gov.in/Default.aspx",
+                    "type": "link"
+                  },
+                  {
+                    "text": " of \"Panchayat Darpan 2.0\" by the Panchayat & Rural Development Department."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Under \"Online Services\" click \""
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Water Connection Application"
+                      }
+                    ],
+                    "link": "https://mppanchayatdarpan.gov.in/Public/Online_Services/TapConnectionMgmt/Pages/Application_For_New_Tap_Connection.aspx?1",
+                    "type": "link"
+                  },
+                  {
+                    "text": "\"."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:",
+                    "underline": true
+                  },
+                  {
+                    "text": " Carefully review all the information provided. Make any necessary corrections. Click \"Submit Application\". Note the Application Number for future reference."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Post-Application Processes",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1:",
+                    "underline": true
+                  },
+                  {
+                    "text": " After examining the Registered application by the Gram Panchayat, notice will be issued to the applicant (if it is found correct)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:",
+                    "underline": true
+                  },
+                  {
+                    "text": " As per the rules, the prescribed fee will have to be deposited before the due date."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:",
+                    "underline": true
+                  },
+                  {
+                    "text": " After depositing the prescribed fee, the Connection Permission will be issued by the Gram Panchayat."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Track Application Status",
+                    "underline": true
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "text": "You can check your application status '"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "here"
+                      }
+                    ],
+                    "link": "https://mppanchayatdarpan.gov.in/Public/Online_Services/TapConnectionMgmt/Pages/TapApplication_Status.aspx?2",
+                    "type": "link"
+                  },
+                  {
+                    "text": "' by providing your Application Number and Mobile Number."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** Visit the [Official Website](https://mppanchayatdarpan.gov.in/Default.aspx) of &quot;Panchayat Darpan 2.0&quot; by the Panchayat &amp; Rural Development Department.\n**Step 2:** Under &quot;Online Services&quot; click &quot;[Water Connection Application](https://mppanchayatdarpan.gov.in/Public/Online_Services/TapConnectionMgmt/Pages/Application_For_New_Tap_Connection.aspx?1)&quot;.\n**Step 3:** In the form, fill in all the mandatory fields and upload all the mandatory documents in the specified format and size.\n**Step 4:** Carefully review all the information provided. Make any necessary corrections. Click &quot;Submit Application&quot;. Note the Application Number for future reference.\n<br>\n\n**Post-Application Processes**\n**Step 1:** After examining the Registered application by the Gram Panchayat, notice will be issued to the applicant (if it is found correct).\n**Step 2:** As per the rules, the prescribed fee will have to be deposited before the due date.\n**Step 3:** After depositing the prescribed fee, the Connection Permission will be issued by the Gram Panchayat.\n<br>\n\n**Track Application Status**\nYou can check your application status &#39;[here](https://mppanchayatdarpan.gov.in/Public/Online_Services/TapConnectionMgmt/Pages/TapApplication_Status.aspx?2)&#39; by providing your Application Number and Mobile Number.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Panchayat and Rural Development Department",
+            "value": 2300029
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Tap Water Scheme (Nal Jal Yojana)",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TWS",
+          "schemeSubCategory": [
+            {
+              "label": "Land and water resources",
+              "value": "Land and water resources"
+            },
+            {
+              "label": "Rural services",
+              "value": "Rural services"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Water",
+            "Agriculture",
+            "Panchayat",
+            "Development",
+            "Rural"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a resident of Madhya Pradesh."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should belong to a Gram Panchayat area where the scheme is implemented."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a resident of Madhya Pradesh.\n1. The applicant should belong to a Gram Panchayat area where the scheme is implemented.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 2,
+            "label": "In Kind",
+            "value": "in-kind"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": "Tap Water Connection is provided by the Gram Panchayat"
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "Tap Water Connection is provided by the Gram Panchayat\n",
+          "briefDescription": "\"Tap Water Scheme\" (नल जल योजना) by the Panchayat and Rural Development Department, Government of Madhya Pradesh aims to provide clean water in Gram Panchayat areas in an accessible manner. The application has to be made to the concerned Gram Panchayat.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "\"Tap Water Scheme\" (नल जल योजना) by the Panchayat and Rural Development Department, Government of Madhya Pradesh aims to provide clean water in Gram Panchayat areas in an accessible manner. The application has to be made to the concerned Gram Panchayat. After the approval of the application by the applicant in the Gram Panchayat, tap connection will be given and the amount of water tax per month will be payable by the beneficiary to the Panchayat. The application can be made online."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "&quot;Tap Water Scheme&quot; (नल जल योजना) by the Panchayat and Rural Development Department, Government of Madhya Pradesh aims to provide clean water in Gram Panchayat areas in an accessible manner. The application has to be made to the concerned Gram Panchayat. After the approval of the application by the applicant in the Gram Panchayat, tap connection will be given and the amount of water tax per month will be payable by the beneficiary to the Panchayat. The application can be made online.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Scheme Details",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=867"
+            },
+            {
+              "title": "Online Application",
+              "url": "https://mppanchayatdarpan.gov.in/Public/Online_Services/TapConnectionMgmt/Pages/Application_For_New_Tap_Connection.aspx?1"
+            },
+            {
+              "title": "Track Your Application",
+              "url": "https://mppanchayatdarpan.gov.in/Public/Online_Services/TapConnectionMgmt/Pages/TapApplication_Status.aspx?2"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tws"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6772d308342c710f8ec58cef",
+      "en": {
+        "documentsRequired_md": "\n- Samagra ID of Family.\n- Details of Outstanding Taxes Payable to Gram Panchayat.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Samagra ID of Family."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of Outstanding Taxes Payable to Gram Panchayat."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          }
+        ]
+      },
+      "schemeId": "6772d2f0342c710f8ec58cca"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:54:03.652648+00:00",
+  "scheme_id": "6772d2f0342c710f8ec58cca"
+}

@@ -1,0 +1,564 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67a5b39eda50340fc8f276f3",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 1: "
+                  },
+                  {
+                    "text": "The interested applicant should visit (during office hours) the District Panchayati Raj/Panchayati Raj Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 2:"
+                  },
+                  {
+                    "text": " In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required)."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 3:"
+                  },
+                  {
+                    "text": " Submit the duly filled and signed application form along with the documents to the District Panchayati Raj/Panchayati Raj Department."
+                  }
+                ],
+                "type": "paragraph"
+              },
+              {
+                "children": [
+                  {
+                    "bold": true,
+                    "text": "Step 4:"
+                  },
+                  {
+                    "text": " Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable)."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "**Step 1:** The interested applicant should visit (during office hours) the District Panchayati Raj/Panchayati Raj Department and request a hard copy of the prescribed format of the application form from the staff exclusively entrusted to issue and collect filled-in applications.\n**Step 2:** In the application form, fill in all the mandatory fields, and attach copies of all the mandatory documents (self-attest, if required).\n**Step 3:** Submit the duly filled and signed application form along with the documents to the District Panchayati Raj/Panchayati Raj Department.\n**Step 4:** Request a receipt or acknowledgment from the concerned authority to whom the application has been submitted. Ensure that the receipt contains essential details such as the date and time of submission, and a unique identification number (if applicable).\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Panchayati Raj and NREP Department",
+            "value": 2000014
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Panchayat Secretariat Strengthening Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "PSSS",
+          "schemeSubCategory": [
+            {
+              "label": "Entrepreneurship development",
+              "value": "Entrepreneurship development"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Jharkhand",
+            "value": 20
+          },
+          "tags": [
+            "Financial Assistance",
+            "Gram Panchayat",
+            "Infrastructure Development"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Village",
+              "value": "village"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The Gram Panchayats must within the state of Jharkhand."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Gram Panchayat must have an operational Panchayat Secretariat in place to receive and utilize the grant."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The Gram Panchayat must maintain proper records, documentation, and reconciliation of expenditures to continue receiving support under the scheme."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The Gram Panchayats must within the state of Jharkhand.\n1. The Gram Panchayat must have an operational Panchayat Secretariat in place to receive and utilize the grant.\n1. The Gram Panchayat must maintain proper records, documentation, and reconciliation of expenditures to continue receiving support under the scheme.\n\n<br>\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "A monthly grant of ₹15,000 per Gram Panchayat for operational expenses."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "NOTE: "
+                },
+                {
+                  "text": "Electronic fund transfer mechanism for timely disbursement every quarter."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "\n- A monthly grant of ₹15,000 per Gram Panchayat for operational expenses.\n\n<br>\n\n**NOTE:** Electronic fund transfer mechanism for timely disbursement every quarter.\n",
+          "briefDescription": "The \"Panchayat Secretariat Strengthening Scheme\" by the Panchayati Raj Department, Government of Jharkhand, aims to provide financial assistance of ₹15,000 per month to each Gram Panchayat for operational and maintenance purposes, ensuring efficient governance at the grassroots level.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "The \"Panchayat Secretariat Strengthening Scheme\" by the Panchayati Raj Department, Government of Jharkhand, aims to enhance the functioning of Gram Panchayats by providing financial support for their operations and maintenance. Under this scheme, a monthly grant of is provided to each Gram Panchayat to cover administrative expenses, infrastructure development, and service enhancements."
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Objective:"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Fund Allocation:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Funds are allocated by the District Panchayat Raj Officers to each Panchayat Secretariat."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Funds must be used with the approval of the Panchayat Samiti and should be linked to an e-voucher-based monitoring system."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Utilization Guidelines:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Expenditure should be approved for activities like reconciliation of bank accounts, purchase of consumables, repair of computers/equipment, electricity, and water bills."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Panchayat Secretariats must maintain proper records of expenses."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Service and Support Centers:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Panchayat Bhavans will host service centers such as Common Service Centres, Post Offices, Bank Branches, ATM services, and Sub-Registrar offices."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "These centers will improve public service delivery in rural areas."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Sanitation and Infrastructure:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Cleanliness, drinking water, seating arrangements, and cleanliness-related provisions to be maintained using allocated funds."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Safety Measures:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Installation of CCTV cameras, lighting, and other safety equipment is encouraged."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Digital and Internet Facilities:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Internet recharge and maintenance for seamless online services are covered under this scheme."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Electricity and Fuel:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Provision for electricity/fuel for operating Panchayat facilities is also included."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Miscellaneous:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Expenditure on new items or costs beyond the allocated amount requires prior approval from competent authorities."
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Annual usage will be monitored, and excess expenditure (if any) must be split 50-50 between the Panchayat Secretary and Mukhia."
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ol_list"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "The &quot;Panchayat Secretariat Strengthening Scheme&quot; by the Panchayati Raj Department, Government of Jharkhand, aims to enhance the functioning of Gram Panchayats by providing financial support for their operations and maintenance. Under this scheme, a monthly grant of is provided to each Gram Panchayat to cover administrative expenses, infrastructure development, and service enhancements.\n<br>\n\n**Objective:**\n\n1. Fund Allocation:\n\n  - Funds are allocated by the District Panchayat Raj Officers to each Panchayat Secretariat.\n  - Funds must be used with the approval of the Panchayat Samiti and should be linked to an e-voucher-based monitoring system.\n\n1. Utilization Guidelines:\n\n  - Expenditure should be approved for activities like reconciliation of bank accounts, purchase of consumables, repair of computers/equipment, electricity, and water bills.\n  - Panchayat Secretariats must maintain proper records of expenses.\n\n1. Service and Support Centers:\n\n  - Panchayat Bhavans will host service centers such as Common Service Centres, Post Offices, Bank Branches, ATM services, and Sub-Registrar offices.\n  - These centers will improve public service delivery in rural areas.\n\n1. Sanitation and Infrastructure:\n\n  - Cleanliness, drinking water, seating arrangements, and cleanliness-related provisions to be maintained using allocated funds.\n\n1. Safety Measures:\n\n  - Installation of CCTV cameras, lighting, and other safety equipment is encouraged.\n\n1. Digital and Internet Facilities:\n\n  - Internet recharge and maintenance for seamless online services are covered under this scheme.\n\n1. Electricity and Fuel:\n\n  - Provision for electricity/fuel for operating Panchayat facilities is also included.\n\n1. Miscellaneous:\n\n  - Expenditure on new items or costs beyond the allocated amount requires prior approval from competent authorities.\n  - Annual usage will be monitored, and excess expenditure (if any) must be split 50-50 between the Panchayat Secretary and Mukhia.\n\n\n<br>\n\n",
+          "exclusions": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "exclusions_md": "<br>\n\n<br>\n\n",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://www.jharkhand.gov.in/PDepartment/ViewDoc?id=D034DO003SD00809062023121050485"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "psss"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67a5b3f31269f7da410d3f72",
+      "en": {
+        "documentsRequired_md": "\n- Gram Panchayat Registration Certificate.\n- Active Bank Account Details.\n- Previous Utilization Certificates (if applicable).\n- Audit Reports (if applicable).\n- Resolution Copy from the Gram Panchayat approving fund utilization.\n- Proof of Expenditure for sanctioned activities.\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Gram Panchayat Registration Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Active Bank Account Details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Previous Utilization Certificates (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Audit Reports (if applicable)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Resolution Copy from the Gram Panchayat approving fund utilization."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Expenditure for sanctioned activities."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ul_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "67a5b39eda50340fc8f276f3"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T14:05:42.988115+00:00",
+  "scheme_id": "67a5b39eda50340fc8f276f3"
+}

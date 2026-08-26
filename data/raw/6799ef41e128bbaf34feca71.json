@@ -1,0 +1,272 @@
+{
+  "detail": {
+    "data": {
+      "_id": "6799ef41e128bbaf34feca71",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "text": "The interested farmer should make an appeal to the Concerned Divisional Forest Officer/Deputy Director."
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "The interested farmer should make an appeal to the Concerned Divisional Forest Officer/Deputy Director.\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Forest Department",
+            "value": 2300015
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "Kharmore Sonchidia Award Scheme",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "KSAS",
+          "schemeSubCategory": [
+            {
+              "label": "Wildlife and biodiversity",
+              "value": "Wildlife and biodiversity"
+            },
+            {
+              "label": "Financial assistance",
+              "value": "Financial assistance"
+            }
+          ],
+          "state": {
+            "label": "Madhya Pradesh",
+            "value": 23
+          },
+          "tags": [
+            "Award",
+            "Bird",
+            "Farmer",
+            "Financial Assistance"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should be a farmer or landowner."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": " The applicant should own private land."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Either Kharmor Bird or Golden Bird should have been sighted on the applicant’s land."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant should have ensured the protection of the birds, their eggs, and their habitat without causing harm."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant should be a farmer or landowner.\n1.  The applicant should own private land.\n1. Either Kharmor Bird or Golden Bird should have been sighted on the applicant’s land.\n1. The applicant should have ensured the protection of the birds, their eggs, and their habitat without causing harm.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Reward of ₹5,000/- on Sighting of Kharmor Bird"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Installment 1: ₹1,000/- if sighted in July-August"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Installment 2: ₹4,000/- if sighted in the same area in September-October"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            },
+            {
+              "children": [
+                {
+                  "bold": true,
+                  "text": "Reward of ₹10,000/- on Sighting of Golden Bird"
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "Installment 1: ₹2,000/- for the first sighting"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "Installment 2: ₹8,000/- if sighted again in the same area"
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "benefits_md": "**Reward of ₹5,000/- on Sighting of Kharmor Bird**\n\n- Installment 1: ₹1,000/- if sighted in July-August\n- Installment 2: ₹4,000/- if sighted in the same area in September-October\n\n**Reward of ₹10,000/- on Sighting of Golden Bird**\n\n- Installment 1: ₹2,000/- for the first sighting\n- Installment 2: ₹8,000/- if sighted again in the same area\n\n",
+          "briefDescription": "In the scheme \"Kharmore Sonchidia Award\" by the Forest Department, Government of Madhya Pradesh, the farmers are rewarded with ₹5,000/- if a Kharmor bird is sighted in the private land of the farmer and ₹10,000/- if a Golden bird is sighted in the private land of the farmer.",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "text": "In the scheme \"Kharmore Sonchidia Award\" by the Forest Department, Government of Madhya Pradesh, the farmers are rewarded with ₹5,000/- if a Kharmor bird is sighted in the private land of the farmer and ₹10,000/- if a Golden bird is sighted in the private land of the farmer. The farmers are rewarded provided they ensure the protection of the birds, their eggs, and their habitat on their private land."
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "detailedDescription_md": "In the scheme &quot;Kharmore Sonchidia Award&quot; by the Forest Department, Government of Madhya Pradesh, the farmers are rewarded with ₹5,000/- if a Kharmor bird is sighted in the private land of the farmer and ₹10,000/- if a Golden bird is sighted in the private land of the farmer. The farmers are rewarded provided they ensure the protection of the birds, their eggs, and their habitat on their private land.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Scheme Details",
+              "url": "https://cmhelpline.mp.gov.in/KnowYourEntitleDetail.aspx?status=ByVibhag&pointvalue=2&Schemeid=303"
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "ksas"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "6799ef89c4ea5da14d00de8c",
+      "en": {
+        "documentsRequired_md": "\n1. Identity Proof\n1. Proof of Land Ownership\n1. Photographic Evidence of Bird Sighting (if applicable)\n1. Verification Report from the Forest Department\n1. Bank Account Details\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of Land Ownership"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Photographic Evidence of Bird Sighting (if applicable)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Verification Report from the Forest Department"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "6799ef41e128bbaf34feca71"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-26T13:57:06.187889+00:00",
+  "scheme_id": "6799ef41e128bbaf34feca71"
+}

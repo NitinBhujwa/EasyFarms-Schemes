@@ -4,7 +4,7 @@ on:
   schedule:
     # Runs once a day at 03:15 UTC (~08:45 IST). Adjust as needed —
     # https://crontab.guru is useful for building the expression.
-    - cron: "15 3 * * *"
+    - cron: "45 15 * * *"
   workflow_dispatch: {}   # lets you trigger a run manually from the Actions tab
 
 permissions:
@@ -22,7 +22,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
         with:
-          fetch-depth: 1
+          fetch-depth: 0   # full history so `git pull --rebase` below can always find a common ancestor
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -52,5 +52,6 @@ jobs:
             echo "No data changes to commit."
           else
             git commit -m "chore: myScheme sync $(date -u +'%Y-%m-%dT%H:%M:%SZ')"
+            git pull --rebase origin main
             git push
           fi

@@ -1,0 +1,366 @@
+{
+  "detail": {
+    "data": {
+      "_id": "67ff6c9abd5fb5093616efba",
+      "en": {
+        "applicationProcess": [
+          {
+            "mode": "Offline",
+            "process": [
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "children": [
+                          {
+                            "text": "The bank from which the short term loan has been availed by the cattle breeder has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+                          }
+                        ],
+                        "type": "list_item"
+                      },
+                      {
+                        "children": [
+                          {
+                            "text": ""
+                          }
+                        ],
+                        "type": "paragraph"
+                      }
+                    ],
+                    "type": "ul_list"
+                  }
+                ],
+                "type": "align_justify"
+              },
+              {
+                "children": [
+                  {
+                    "text": ""
+                  }
+                ],
+                "type": "paragraph"
+              }
+            ],
+            "process_md": "\n  - The bank from which the short term loan has been availed by the cattle breeder has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar.\n\n<br>\n\n"
+          }
+        ],
+        "basicDetails": {
+          "dbtScheme": false,
+          "level": {
+            "label": "State/ UT",
+            "value": "state"
+          },
+          "nodalDepartmentName": {
+            "label": "Agriculture, Farmers Welfare and Cooperation Department",
+            "value": 2444441
+          },
+          "schemeCategory": [
+            {
+              "label": "Agriculture,Rural & Environment",
+              "value": "628ce6ead6d1a3bde4685252"
+            }
+          ],
+          "schemeFor": "Individual",
+          "schemeName": "To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card",
+          "schemeOpenDate": null,
+          "schemeShortTitle": "TPAHKCC",
+          "schemeSubCategory": [
+            {
+              "label": "Animal husbandry",
+              "value": "Animal husbandry"
+            }
+          ],
+          "state": {
+            "label": "Gujarat",
+            "value": 24
+          },
+          "tags": [
+            "Agriculture",
+            "Animal Husbandry",
+            "Cattle Breeders",
+            "Interest Subvention"
+          ],
+          "targetBeneficiaries": [
+            {
+              "label": "Individual",
+              "value": "individual"
+            }
+          ]
+        },
+        "eligibilityCriteria": {
+          "eligibilityDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must be a cattle breeder."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must have taken a short-term loan from any of the following during the financial year:"
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "Primary Agricultural Credit Cooperative Society"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "District Central Cooperative Bank"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Nationalized Bank"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Gramin Bank"
+                        }
+                      ],
+                      "type": "list_item"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "Private Bank"
+                        }
+                      ],
+                      "type": "list_item"
+                    }
+                  ],
+                  "type": "ul_list"
+                },
+                {
+                  "children": [
+                    {
+                      "text": "The applicant must have repaid the loan on time."
+                    }
+                  ],
+                  "type": "list_item"
+                }
+              ],
+              "type": "ol_list"
+            }
+          ],
+          "eligibilityDescription_md": "\n1. The applicant must be a cattle breeder.\n1. The applicant must have taken a short-term loan from any of the following during the financial year:\n\n  - Primary Agricultural Credit Cooperative Society\n  - District Central Cooperative Bank\n  - Nationalized Bank\n  - Gramin Bank\n  - Private Bank\n\n1. The applicant must have repaid the loan on time.\n\n"
+        },
+        "schemeContent": {
+          "benefitTypes": {
+            "id": 1,
+            "label": "Cash",
+            "value": "cash"
+          },
+          "benefits": [
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            },
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Name of Component\t"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Standard of Assistance\t"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "bold": true,
+                          "text": "Minimum Time Limit (in Year) for Reclaiming Benefits)"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                },
+                {
+                  "children": [
+                    {
+                      "children": [
+                        {
+                          "text": "To provide interest subvention to animal husbandry of the state at the rate of 4% to the beneficiaries Kishan Credit Card."
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "4% interest subvention on timely repayment of short-term loan taken by animal husbandry up to ₹2,00,000/-.\t"
+                        }
+                      ],
+                      "type": "table_cell"
+                    },
+                    {
+                      "children": [
+                        {
+                          "text": "only once in a financial year"
+                        }
+                      ],
+                      "type": "table_cell"
+                    }
+                  ],
+                  "type": "table_row"
+                }
+              ],
+              "type": "table"
+            },
+            {
+              "children": [
+                {
+                  "text": ""
+                }
+              ],
+              "type": "paragraph"
+            }
+          ],
+          "benefits_md": "<br>\n\n**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit (in Year) for Reclaiming Benefits)**To provide interest subvention to animal husbandry of the state at the rate of 4% to the beneficiaries Kishan Credit Card.4% interest subvention on timely repayment of short-term loan taken by animal husbandry up to ₹2,00,000/-.\tonly once in a financial year<br>\n\n",
+          "briefDescription": "The scheme aims to provide 4% interest subvention to cattle breeders in Gujarat on timely repayment of short-term loans taken through the Kisan Credit Card for animal husbandry activities.\n\n",
+          "detailedDescription": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The scheme \"To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card\" introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial assistance to animal husbandry practitioners (cattle breeders) in Gujarat who have availed short-term loans under the Kisan Credit Card. The interest subvention of 4% is granted upon timely repayment, thereby reducing the interest burden and improving the economic stability of cattle breeders."
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "align_justify"
+            }
+          ],
+          "detailedDescription_md": "The scheme &amp;quot;To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial assistance to animal husbandry practitioners (cattle breeders) in Gujarat who have availed short-term loans under the Kisan Credit Card. The interest subvention of 4% is granted upon timely repayment, thereby reducing the interest burden and improving the economic stability of cattle breeders.\n",
+          "exclusions_md": "",
+          "references": [
+            {
+              "title": "Guidelines",
+              "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=r4Jlr6OhAHYMeFC63fUVdw==&domain=v4lc2tu73R/9lWYKO76SRg=="
+            }
+          ],
+          "schemeImageUrl": ""
+        },
+        "schemeDefinitions": []
+      },
+      "slug": "tpahkcc"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "documents": {
+    "data": {
+      "_id": "67ff6cc7bd5fb5093616eff5",
+      "en": {
+        "documentsRequired_md": "\n1. Kisan Credit Card (KCC) details.\n1. Loan sanction and repayment statement.\n1. Identity Proof (Aadhaar, Voter ID, etc.).\n1. Proof of animal husbandry activity (e.g., cattle ownership documents).\n1. Bank loan account details.\n1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Kisan Credit Card (KCC) details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Loan sanction and repayment statement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof (Aadhaar, Voter ID, etc.)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of animal husbandry activity (e.g., cattle ownership documents)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank loan account details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67ff6c9abd5fb5093616efba"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-08-28T22:03:27.432807+00:00",
+  "scheme_id": "67ff6c9abd5fb5093616efba"
+}

@@ -1,0 +1,186 @@
+{
+  "active": false,
+  "application_process": [
+    {
+      "mode": "Offline",
+      "process": [
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "children": [
+                    {
+                      "text": "The bank from which the short term loan has been availed by the cattle breeder has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar."
+                    }
+                  ],
+                  "type": "list_item"
+                },
+                {
+                  "children": [
+                    {
+                      "text": ""
+                    }
+                  ],
+                  "type": "paragraph"
+                }
+              ],
+              "type": "ul_list"
+            }
+          ],
+          "type": "align_justify"
+        },
+        {
+          "children": [
+            {
+              "text": ""
+            }
+          ],
+          "type": "paragraph"
+        }
+      ],
+      "process_md": "\n  - The bank from which the short term loan has been availed by the cattle breeder has to submit the integrated interest subvention proposal of its area of operation to the Registrar, Co-operative Societies, Gujarat State, Gandhinagar.\n\n<br>\n\n"
+    }
+  ],
+  "benefit_type": {
+    "id": 1,
+    "label": "Cash",
+    "value": "cash"
+  },
+  "benefits": "<br>\n\n**Name of Component**\t**Standard of Assistance**\t**Minimum Time Limit (in Year) for Reclaiming Benefits)**To provide interest subvention to animal husbandry of the state at the rate of 4% to the beneficiaries Kishan Credit Card.4% interest subvention on timely repayment of short-term loan taken by animal husbandry up to ₹2,00,000/-.\tonly once in a financial year<br>\n\n",
+  "brief_description": null,
+  "categories": [
+    {
+      "label": "Agriculture,Rural & Environment",
+      "value": "628ce6ead6d1a3bde4685252"
+    }
+  ],
+  "content_hash": "ae33aa5748e18a76d40eb7054c0a45e8a33226bb59e75e960c87455715b92447",
+  "dbt_scheme": false,
+  "deactivated_at": "2026-08-28T22:19:22.180494+00:00",
+  "detailed_description": "The scheme &amp;quot;To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat, aims to offer financial assistance to animal husbandry practitioners (cattle breeders) in Gujarat who have availed short-term loans under the Kisan Credit Card. The interest subvention of 4% is granted upon timely repayment, thereby reducing the interest burden and improving the economic stability of cattle breeders.\n",
+  "eligibility": "\n1. The applicant must be a cattle breeder.\n1. The applicant must have taken a short-term loan from any of the following during the financial year:\n\n  - Primary Agricultural Credit Cooperative Society\n  - District Central Cooperative Bank\n  - Nationalized Bank\n  - Gramin Bank\n  - Private Bank\n\n1. The applicant must have repaid the loan on time.\n\n",
+  "exclusions": null,
+  "first_seen_at": "2026-08-28T22:03:27.432807+00:00",
+  "implementing_agency": null,
+  "last_synced_at": "2026-08-28T22:03:27.432807+00:00",
+  "level": {
+    "label": "State/ UT",
+    "value": "state"
+  },
+  "nodal_department": {
+    "label": "Agriculture, Farmers Welfare and Cooperation Department",
+    "value": 2444441
+  },
+  "references": [
+    {
+      "title": "Guidelines",
+      "url": "https://agri.gujarat.gov.in/Home/SchemesDetailsPage?Id=r4Jlr6OhAHYMeFC63fUVdw==&domain=v4lc2tu73R/9lWYKO76SRg=="
+    }
+  ],
+  "required_documents": {
+    "data": {
+      "_id": "67ff6cc7bd5fb5093616eff5",
+      "en": {
+        "documentsRequired_md": "\n1. Kisan Credit Card (KCC) details.\n1. Loan sanction and repayment statement.\n1. Identity Proof (Aadhaar, Voter ID, etc.).\n1. Proof of animal husbandry activity (e.g., cattle ownership documents).\n1. Bank loan account details.\n1. Any other documents as required.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Kisan Credit Card (KCC) details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Loan sanction and repayment statement."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Identity Proof (Aadhaar, Voter ID, etc.)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Proof of animal husbandry activity (e.g., cattle ownership documents)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank loan account details."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Any other documents as required."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "67ff6c9abd5fb5093616efba"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "schema_version": "1.0",
+  "scheme_close_date": null,
+  "scheme_for": "Individual",
+  "scheme_id": "67ff6c9abd5fb5093616efba",
+  "scheme_name": "To Provide Interest Subvention to Animal Husbandry of the State at the Rate of 4% to the Beneficiaries Kisan Credit Card",
+  "scheme_open_date": null,
+  "scheme_short_title": "TPAHKCC",
+  "slug": "tpahkcc",
+  "source": {
+    "detail_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes",
+    "documents_api": "https://api.myscheme.gov.in/schemes/v6/public/schemes/{}/documents",
+    "provider": "myScheme",
+    "search_api": "https://api.myscheme.gov.in/search/v6/schemes"
+  },
+  "state": {
+    "label": "Gujarat",
+    "value": 24
+  },
+  "subcategories": [
+    {
+      "label": "Animal husbandry",
+      "value": "Animal husbandry"
+    }
+  ],
+  "sync_source": "myScheme",
+  "tags": [
+    "Agriculture",
+    "Animal Husbandry",
+    "Cattle Breeders",
+    "Interest Subvention"
+  ],
+  "target_beneficiaries": [
+    {
+      "label": "Individual",
+      "value": "individual"
+    }
+  ]
+}

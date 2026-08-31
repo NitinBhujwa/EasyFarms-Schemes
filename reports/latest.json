@@ -1,29 +1,30 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 1292.886,
-  "failed_schemes": [],
-  "failure_count": 0,
-  "finished_at": "2026-08-30T16:13:37.159339+00:00",
-  "run_id": "6a52b316-f00c-4041-a887-05ecdeaeddfe",
+  "duration_seconds": 32.144,
+  "failure": {
+    "error": "500 Server Error: Internal Server Error for url: https://api.myscheme.gov.in/search/v6/schemes?lang=en&q=%5B%7B%22identifier%22%3A%22schemeCategory%22%2C%22value%22%3A%22Agriculture%2CRural+%26+Environment%22%7D%5D&keyword=&sort=&from=0&size=100"
+  },
+  "finished_at": "2026-08-31T15:52:25.556124+00:00",
+  "run_id": "63b77ab7-2eb1-4382-84fc-2ef728d455b7",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-08-30T15:52:04.273199+00:00",
+  "started_at": "2026-08-31T15:51:53.412237+00:00",
   "stats": {
     "added": 0,
-    "deactivated": 860,
-    "detail_attempted": 860,
+    "deactivated": 0,
+    "detail_attempted": 0,
     "detail_failed": 0,
-    "detail_success": 860,
-    "documents_attempted": 860,
+    "detail_success": 0,
+    "documents_attempted": 0,
     "documents_failed": 0,
-    "documents_success": 860,
-    "items_received": 862,
-    "reactivated": 860,
-    "search_pages": 9,
+    "documents_success": 0,
+    "items_received": 0,
+    "reactivated": 0,
+    "search_pages": 0,
     "total_failures": 0,
     "unchanged": 0,
-    "unique_schemes_found": 860,
+    "unique_schemes_found": 0,
     "updated": 0,
     "validation_failures": 0
   },
-  "status": "completed"
+  "status": "failed"
 }

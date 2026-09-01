@@ -1,13 +1,13 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 32.144,
+  "duration_seconds": 32.727,
   "failure": {
     "error": "500 Server Error: Internal Server Error for url: https://api.myscheme.gov.in/search/v6/schemes?lang=en&q=%5B%7B%22identifier%22%3A%22schemeCategory%22%2C%22value%22%3A%22Agriculture%2CRural+%26+Environment%22%7D%5D&keyword=&sort=&from=0&size=100"
   },
-  "finished_at": "2026-08-31T15:52:25.556124+00:00",
-  "run_id": "63b77ab7-2eb1-4382-84fc-2ef728d455b7",
+  "finished_at": "2026-09-01T16:29:38.729344+00:00",
+  "run_id": "309a622b-708a-46b7-89c0-bc2c2e883b31",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-08-31T15:51:53.412237+00:00",
+  "started_at": "2026-09-01T16:29:06.002562+00:00",
   "stats": {
     "added": 0,
     "deactivated": 0,

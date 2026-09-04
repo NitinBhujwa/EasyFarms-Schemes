@@ -1,12 +1,12 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 1099.71,
+  "duration_seconds": 1076.428,
   "failed_schemes": [],
   "failure_count": 0,
-  "finished_at": "2026-09-03T16:11:34.305735+00:00",
-  "run_id": "fc954dc4-70d5-4717-a84a-b6ed08439b03",
+  "finished_at": "2026-09-04T16:10:39.617271+00:00",
+  "run_id": "e5636209-34c2-43de-ae55-ac82d4dfba3c",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-09-03T15:53:14.595672+00:00",
+  "started_at": "2026-09-04T15:52:43.189014+00:00",
   "stats": {
     "added": 0,
     "deactivated": 862,

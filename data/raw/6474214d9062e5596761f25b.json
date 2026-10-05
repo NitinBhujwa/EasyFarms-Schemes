@@ -428,7 +428,86 @@
     "status": "Success",
     "statusCode": 200
   },
-  "documents": null,
-  "fetched_at": "2026-10-04T18:48:25.171715+00:00",
+  "documents": {
+    "data": {
+      "_id": "6474553b9062e55967621aac",
+      "en": {
+        "documentsRequired_md": "\n1. Identity proof i.e. Aadhaar Card, PAN Card, Voter ID Card, etc.\n1. Copy of Bank Passbook\n1. Residence proof\n1. BPL Certificate\n1. Caste/Category certificate\n\n**Note:** Files size should be less than or equal to 200 KB and must be in pdf or jpg.\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Identity proof i.e. Aadhaar Card, PAN Card, Voter ID Card, etc."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Copy of Bank Passbook"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Residence proof"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "BPL Certificate"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Caste/Category certificate"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Note:"
+              },
+              {
+                "text": " Files size should be less than or equal to 200 KB and must be in pdf or jpg."
+              }
+            ],
+            "type": "paragraph"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "6474214d9062e5596761f25b"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-10-05T22:12:04.594604+00:00",
   "scheme_id": "6474214d9062e5596761f25b"
 }

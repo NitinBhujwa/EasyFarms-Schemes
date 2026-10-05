@@ -267,7 +267,50 @@
     "status": "Success",
     "statusCode": 200
   },
-  "documents": null,
-  "fetched_at": "2026-10-03T18:55:07.814356+00:00",
+  "documents": {
+    "data": {
+      "_id": "68ca561ae5c3d708dd2944e2",
+      "en": {
+        "documentsRequired_md": "\n1. Form P-20 Entry Confirmation (recorded by the concerned Patwari)\n1. Other supporting documents as required\n\n<br>\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Form P-20 Entry Confirmation (recorded by the concerned Patwari)"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Other supporting documents as required"
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "text": ""
+              }
+            ],
+            "type": "paragraph"
+          }
+        ]
+      },
+      "schemeId": "68ca5608e5c3d708dd294445"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-10-05T22:16:46.176093+00:00",
   "scheme_id": "68ca5608e5c3d708dd294445"
 }

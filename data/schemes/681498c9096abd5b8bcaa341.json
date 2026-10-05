@@ -170,15 +170,15 @@
       "value": "628ce6ead6d1a3bde4685252"
     }
   ],
-  "content_hash": "4367ceb2a22132e9239464bc4707b5ef99880a5f904b4851c2317d5019b66ddd",
+  "content_hash": "77bfb6e2745fdc3dfd5fbef45bc169b8f57854a90ca7e04d37c907490de8899d",
   "dbt_scheme": false,
-  "deactivated_at": "2026-10-04T19:03:15.783138+00:00",
+  "deactivated_at": "2026-10-05T22:29:19.775942+00:00",
   "detailed_description": "The scheme &amp;quot;Construction of Water Storage Tanks for Drip Irrigation&amp;quot; introduced by the Agriculture, Farmers Welfare and Cooperation Department, Gujarat,  aims to offer financial assistance to farmers for setting up cemented water tanks essential for efficient drip irrigation.  It supports sustainable agriculture through water conservation, especially for horticultural practices.\n",
   "eligibility": "\n   1. The applicant must be a farmer.\n   1.  The applicant must be a resident of Gujarat.\n   1. The applicant must plan to construct a cemented water storage tank of at least 25.50 cubic meters capacity.\n\n&gt; **Note:** Cemented mature water tanks, drip set mandatory.\n\n",
   "exclusions": "<br>\n\n",
   "first_seen_at": "2026-08-26T13:58:30.639204+00:00",
   "implementing_agency": null,
-  "last_synced_at": "2026-10-04T18:50:45.378313+00:00",
+  "last_synced_at": "2026-10-05T22:16:55.143658+00:00",
   "level": {
     "label": "State/ UT",
     "value": "state"
@@ -197,7 +197,62 @@
       "url": "https://ikhedut.gujarat.gov.in/site/iKhedut%202.0%20User%20Manual%20PPT_Gujarati.pdf"
     }
   ],
-  "required_documents": null,
+  "required_documents": {
+    "data": {
+      "_id": "681499a885d2610f324ea5cd",
+      "en": {
+        "documentsRequired_md": "\n1. 7/12 Certificate.\n1. Aadhaar Card.\n1. Bank Pass Book/Cancelled Cheque.\n\n> **Note:** For reasonableness of the cost of the tank, a certificate regarding the cost of the tank from the Government Valuer/Taluka Surveyor/ MNREGA surveyor will have to be provided by the beneficiary.\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "7/12 Certificate."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Aadhaar Card."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Pass Book/Cancelled Cheque."
+                  }
+                ],
+                "type": "list_item"
+              }
+            ],
+            "type": "ol_list"
+          },
+          {
+            "children": [
+              {
+                "bold": true,
+                "text": "Note:"
+              },
+              {
+                "text": " For reasonableness of the cost of the tank, a certificate regarding the cost of the tank from the Government Valuer/Taluka Surveyor/ MNREGA surveyor will have to be provided by the beneficiary."
+              }
+            ],
+            "type": "block_quote"
+          }
+        ]
+      },
+      "schemeId": "681498c9096abd5b8bcaa341"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
   "schema_version": "1.0",
   "scheme_close_date": null,
   "scheme_for": "Individual",

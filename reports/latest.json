@@ -1,29 +1,36 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 1048.418,
-  "failed_schemes": [],
-  "failure_count": 0,
-  "finished_at": "2026-10-10T19:50:07.998400+00:00",
-  "run_id": "03a989d4-5343-492c-941d-0864b5ac8307",
+  "duration_seconds": 1215.817,
+  "failed_schemes": [
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "scheme_id": "OqFVmpkBXu-iUKXq1XoS",
+      "slug": "pmmsyeoscguj",
+      "stage": "detail"
+    }
+  ],
+  "failure_count": 1,
+  "finished_at": "2026-10-11T20:04:13.767651+00:00",
+  "run_id": "5661be95-f552-40a6-9ced-1df0bb059ba0",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-10-10T19:32:39.580502+00:00",
+  "started_at": "2026-10-11T19:43:57.950855+00:00",
   "stats": {
     "added": 0,
-    "deactivated": 861,
+    "deactivated": 860,
     "detail_attempted": 861,
-    "detail_failed": 0,
-    "detail_success": 861,
-    "documents_attempted": 861,
+    "detail_failed": 1,
+    "detail_success": 860,
+    "documents_attempted": 860,
     "documents_failed": 0,
-    "documents_success": 861,
+    "documents_success": 860,
     "items_received": 862,
-    "reactivated": 861,
+    "reactivated": 860,
     "search_pages": 9,
-    "total_failures": 0,
+    "total_failures": 1,
     "unchanged": 0,
     "unique_schemes_found": 861,
     "updated": 0,
     "validation_failures": 0
   },
-  "status": "completed"
+  "status": "completed_with_errors"
 }

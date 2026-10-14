@@ -1,29 +1,36 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 1055.06,
-  "failed_schemes": [],
-  "failure_count": 0,
-  "finished_at": "2026-10-13T21:07:09.696485+00:00",
-  "run_id": "e3077a99-8f14-46d4-a8ae-fc59d4ed3d07",
+  "duration_seconds": 1101.621,
+  "failed_schemes": [
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "scheme_id": "631ae030d11f36e136a00295",
+      "slug": "pmagy",
+      "stage": "documents"
+    }
+  ],
+  "failure_count": 1,
+  "finished_at": "2026-10-14T20:00:41.876142+00:00",
+  "run_id": "86f0097c-c01a-4ea8-a6b9-e90436233738",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-10-13T20:49:34.636331+00:00",
+  "started_at": "2026-10-14T19:42:20.254679+00:00",
   "stats": {
     "added": 0,
-    "deactivated": 861,
-    "detail_attempted": 861,
+    "deactivated": 860,
+    "detail_attempted": 860,
     "detail_failed": 0,
-    "detail_success": 861,
-    "documents_attempted": 861,
-    "documents_failed": 0,
-    "documents_success": 861,
+    "detail_success": 860,
+    "documents_attempted": 860,
+    "documents_failed": 1,
+    "documents_success": 859,
     "items_received": 862,
-    "reactivated": 861,
+    "reactivated": 859,
     "search_pages": 9,
-    "total_failures": 0,
+    "total_failures": 1,
     "unchanged": 0,
-    "unique_schemes_found": 861,
-    "updated": 0,
+    "unique_schemes_found": 860,
+    "updated": 1,
     "validation_failures": 0
   },
-  "status": "completed"
+  "status": "completed_with_errors"
 }

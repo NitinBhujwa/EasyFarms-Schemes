@@ -385,15 +385,15 @@
       "value": "628ce6ead6d1a3bde4685252"
     }
   ],
-  "content_hash": "049868acf3fbf92244c3d4c9c1d1f208f2aec7ff14944643f5855079d90556d2",
+  "content_hash": "dadce114c329e25678467302b2170a7f35a46a959a72f9767ccffac0d673bea4",
   "dbt_scheme": null,
-  "deactivated_at": "2026-10-14T20:00:41.009823+00:00",
+  "deactivated_at": "2026-10-15T19:45:42.778171+00:00",
   "detailed_description": "With a view to enabling an area-based development approach, a new scheme Pradhan Mantri Adarsh Gram Yojana (PMAGY) was launched during 2009-10. The Scheme aims at integrated development of Scheduled Castes majority villages.\nThe principal objective of PMAGY is the integrated development of SC majority Villages:\n(a) Primarily through convergent implementation of the relevant Central and State/UT Government Schemes; and\n(b) By taking up identified activities, which do not get covered under the existing Central and State Government Schemes, through ‘Gap-filling’ funds provided as Central Assistance to the extent of ₹20,00,000/- per village.\n<br>\n\nThe implementation of the Scheme was started on Pilot basis in 2009-10 and a total of 1000 villages was selected from 05 States namely Tamil Nadu (225), Rajasthan (225), Bihar (225), Himachal Pradesh (225) and Assam (100) were selected for this phase. All these 1000 villages have so far been declared as ‘Adarsh Gram’ by the respective State Governments.\n> **The vision of an ‘Adarsh Gram&#39;**\n\nAn ‘Adarsh Gram’ is one wherein people have access to various basic services so that the minimum needs of all the sections of society are fully met and disparities are reduced to a minimum. These villages would have all such infrastructure and their residents will have access to all such basic services that are necessary for a dignified living, creating thereby an environment in which everyone is enabled to utilize her/his potential to the fullest.\n",
   "eligibility": "\n1. Village must have ≥50% Scheduled Caste (SC) population, but villages with ≥40% SC population may also be included in some states.\n1. The village must be recognized in the latest Census data.\n1. Ideally villages with ≥500 total population.\n1. Villages already covered under PMAGY earlier phases may not be reselected.\n\n",
   "exclusions": "<br>\n\n",
   "first_seen_at": "2026-08-26T14:08:15.968777+00:00",
   "implementing_agency": null,
-  "last_synced_at": "2026-10-14T19:57:11.810049+00:00",
+  "last_synced_at": "2026-10-15T19:41:32.181492+00:00",
   "level": {
     "label": "Central",
     "value": "central"
@@ -420,7 +420,156 @@
       "url": "https://pmagy.gov.in/covered-villages"
     }
   ],
-  "required_documents": null,
+  "required_documents": {
+    "data": {
+      "_id": "631aea1bd11f36e136a00305",
+      "en": {
+        "documentsRequired_md": "\n1. Village Development Plan (VDP).\n1. Bank Account Details (for Implementing Agencies).\n1. Details of the Village PMAGY Convergence Committee.\n\n  - List of committee members with names, designations, contact details, and official approval by Gram Panchayat or concerned authority.\n\n1. Data on Percentage of Households Having Access to the Following Domains (as per  prescribed format):\n\n  - Drinking Water and Sanitation.\n  - Health and Nutrition.\n  - Rural Roads and Housing.\n  - Electricity and Clean Fuel.\n  - Digitization.\n  - Education.\n  - Social Security.\n  - Agricultural Practices.\n  - Financial Inclusion.\n  - Livelihood and Skill Development.\n\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Village Development Plan (VDP)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details (for Implementing Agencies)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of the Village PMAGY Convergence Committee."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "List of committee members with names, designations, contact details, and official approval by Gram Panchayat or concerned authority."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Data on Percentage of Households Having Access to the Following Domains (as per  prescribed format):"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Drinking Water and Sanitation."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Health and Nutrition."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Rural Roads and Housing."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Electricity and Clean Fuel."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Digitization."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Education."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Social Security."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Agricultural Practices."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Financial Inclusion."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Livelihood and Skill Development."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "631ae030d11f36e136a00295"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
   "schema_version": "1.0",
   "scheme_close_date": null,
   "scheme_for": "Infra",

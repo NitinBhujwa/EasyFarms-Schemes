@@ -861,7 +861,156 @@
     "status": "Success",
     "statusCode": 200
   },
-  "documents": null,
-  "fetched_at": "2026-10-14T19:57:11.810049+00:00",
+  "documents": {
+    "data": {
+      "_id": "631aea1bd11f36e136a00305",
+      "en": {
+        "documentsRequired_md": "\n1. Village Development Plan (VDP).\n1. Bank Account Details (for Implementing Agencies).\n1. Details of the Village PMAGY Convergence Committee.\n\n  - List of committee members with names, designations, contact details, and official approval by Gram Panchayat or concerned authority.\n\n1. Data on Percentage of Households Having Access to the Following Domains (as per  prescribed format):\n\n  - Drinking Water and Sanitation.\n  - Health and Nutrition.\n  - Rural Roads and Housing.\n  - Electricity and Clean Fuel.\n  - Digitization.\n  - Education.\n  - Social Security.\n  - Agricultural Practices.\n  - Financial Inclusion.\n  - Livelihood and Skill Development.\n\n\n",
+        "documents_required": [
+          {
+            "children": [
+              {
+                "children": [
+                  {
+                    "text": "Village Development Plan (VDP)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Bank Account Details (for Implementing Agencies)."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Details of the Village PMAGY Convergence Committee."
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "List of committee members with names, designations, contact details, and official approval by Gram Panchayat or concerned authority."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              },
+              {
+                "children": [
+                  {
+                    "text": "Data on Percentage of Households Having Access to the Following Domains (as per  prescribed format):"
+                  }
+                ],
+                "type": "list_item"
+              },
+              {
+                "children": [
+                  {
+                    "children": [
+                      {
+                        "text": "Drinking Water and Sanitation."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Health and Nutrition."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Rural Roads and Housing."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Electricity and Clean Fuel."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Digitization."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Education."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Social Security."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Agricultural Practices."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Financial Inclusion."
+                      }
+                    ],
+                    "type": "list_item"
+                  },
+                  {
+                    "children": [
+                      {
+                        "text": "Livelihood and Skill Development."
+                      }
+                    ],
+                    "type": "list_item"
+                  }
+                ],
+                "type": "ul_list"
+              }
+            ],
+            "type": "ol_list"
+          }
+        ]
+      },
+      "schemeId": "631ae030d11f36e136a00295"
+    },
+    "error": "{}",
+    "errorDescription": "",
+    "status": "Success",
+    "statusCode": 200
+  },
+  "fetched_at": "2026-10-15T19:41:32.181492+00:00",
   "scheme_id": "631ae030d11f36e136a00295"
 }

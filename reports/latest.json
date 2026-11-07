@@ -1,17 +1,24 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 1096.277,
-  "failed_schemes": [],
-  "failure_count": 0,
-  "finished_at": "2026-11-06T21:23:35.962710+00:00",
-  "run_id": "8dd2de27-8d4b-491d-a184-b3f28b370e8c",
+  "duration_seconds": 1068.95,
+  "failed_schemes": [
+    {
+      "error": "Expecting value: line 1 column 1 (char 0)",
+      "scheme_id": "QaFfbZoBXu-iUKXqeH0t",
+      "slug": "kk",
+      "stage": "detail"
+    }
+  ],
+  "failure_count": 1,
+  "finished_at": "2026-11-07T19:55:42.480358+00:00",
+  "run_id": "f49b01f4-cde8-46f6-a0ce-410ae805ee46",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-11-06T21:05:19.685198+00:00",
+  "started_at": "2026-11-07T19:37:53.530177+00:00",
   "stats": {
     "added": 0,
     "deactivated": 861,
-    "detail_attempted": 861,
-    "detail_failed": 0,
+    "detail_attempted": 862,
+    "detail_failed": 1,
     "detail_success": 861,
     "documents_attempted": 861,
     "documents_failed": 0,
@@ -19,11 +26,11 @@
     "items_received": 862,
     "reactivated": 861,
     "search_pages": 9,
-    "total_failures": 0,
+    "total_failures": 1,
     "unchanged": 0,
-    "unique_schemes_found": 861,
+    "unique_schemes_found": 862,
     "updated": 0,
     "validation_failures": 0
   },
-  "status": "completed"
+  "status": "completed_with_errors"
 }

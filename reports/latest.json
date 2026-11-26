@@ -1,36 +1,29 @@
 {
   "app_version": "3.0.0-actions",
-  "duration_seconds": 1093.097,
-  "failed_schemes": [
-    {
-      "error": "Expecting value: line 1 column 1 (char 0)",
-      "scheme_id": "tReBlpoB5uF80_MGMs9-",
-      "slug": "apccap",
-      "stage": "detail"
-    }
-  ],
-  "failure_count": 1,
-  "finished_at": "2026-11-25T00:26:25.395516+00:00",
-  "run_id": "955a330e-795e-48d7-8ff2-0941b5450bd6",
+  "duration_seconds": 1213.684,
+  "failed_schemes": [],
+  "failure_count": 0,
+  "finished_at": "2026-11-26T00:07:41.551228+00:00",
+  "run_id": "92dfb299-47bf-44f6-9144-4a824a69360f",
   "scheme_category": "Agriculture,Rural & Environment",
-  "started_at": "2026-11-25T00:08:12.298144+00:00",
+  "started_at": "2026-11-25T23:47:27.867461+00:00",
   "stats": {
     "added": 0,
-    "deactivated": 860,
+    "deactivated": 861,
     "detail_attempted": 861,
-    "detail_failed": 1,
-    "detail_success": 860,
-    "documents_attempted": 860,
+    "detail_failed": 0,
+    "detail_success": 861,
+    "documents_attempted": 861,
     "documents_failed": 0,
-    "documents_success": 860,
+    "documents_success": 861,
     "items_received": 862,
-    "reactivated": 860,
+    "reactivated": 861,
     "search_pages": 9,
-    "total_failures": 1,
+    "total_failures": 0,
     "unchanged": 0,
     "unique_schemes_found": 861,
     "updated": 0,
     "validation_failures": 0
   },
-  "status": "completed_with_errors"
+  "status": "completed"
 }
